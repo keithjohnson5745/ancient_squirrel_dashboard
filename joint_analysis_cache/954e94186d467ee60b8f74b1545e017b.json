@@ -1,0 +1,13 @@
+{
+  "title": "Did you come? Why she\u2019s faking it & how to tell! ft. Dr. Kelly Casperson",
+  "thumbnail_path": "thumbnails/KttAQQfp-6U_high.jpg",
+  "title_length": 72,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "This Nasal Spray Destroys ED and Makes You Rock-Hard \ud83d\udcaa",
+  "thumbnail_path": "thumbnails/EpOw1N4tXxk_max.jpg",
+  "title_length": 54,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

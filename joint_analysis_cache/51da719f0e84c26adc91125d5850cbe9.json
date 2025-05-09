@@ -1,0 +1,13 @@
+{
+  "title": "Sea Salt can be Good for You:  Trace Minerals",
+  "thumbnail_path": "thumbnails/MojMKaMwDFw_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

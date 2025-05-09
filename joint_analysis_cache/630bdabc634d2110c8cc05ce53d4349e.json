@@ -1,0 +1,13 @@
+{
+  "title": "12 Embarrassing Questions a Pregnant woman wants to ask a gynecologist| Dr. Anjali Kumar | Maitri",
+  "thumbnail_path": "thumbnails/uXpHzBSSzlA_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

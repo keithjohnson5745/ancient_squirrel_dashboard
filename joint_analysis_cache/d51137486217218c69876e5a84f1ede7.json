@@ -1,0 +1,11 @@
+{
+  "title": "Trump Hears a Whisper from a Nurse \u2013 The Next Day, She\u2019s on the News",
+  "thumbnail_path": "thumbnails/gJc2xurJ1Ms_max.jpg",
+  "title_length": 68,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

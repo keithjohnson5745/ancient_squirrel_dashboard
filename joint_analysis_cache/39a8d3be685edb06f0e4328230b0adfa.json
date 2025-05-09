@@ -1,0 +1,14 @@
+{
+  "title": "What Is The Best Lubricant To Use In A Lock? | Guardian Answers Episode #3",
+  "thumbnail_path": "thumbnails/uavGzIVbsLM_max.jpg",
+  "title_length": 74,
+  "patterns": [
+    "question",
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

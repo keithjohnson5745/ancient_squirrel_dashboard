@@ -1,0 +1,43 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/cream (curtains and background)": "40%",
+      "Dark blue/black (jacket)": "30%",
+      "Light green (sweater collar)": "10%",
+      "Skin tones": "10%",
+      "White (behind person and ceiling)": "10%"
+    },
+    "Composition type": "Close-up (portrait format, centered on a single person's face and upper torso)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral or slightly serious, mouth slightly open as if speaking",
+      "Demographics": "Appears to be an adult woman, likely South Asian, with short black hair, glasses, midway-aged"
+    },
+    "Main objects/props featured": [
+      "Glasses",
+      "Bindi (forehead mark)",
+      "Knit sweater",
+      "Patterned outer jacket"
+    ],
+    "Background environment": "Indoor room with patterned curtains and a partitioned ceiling (possibly a clinic or office)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "No visible text in the thumbnail image itself",
+    "Font characteristics": "Not applicable (no visible text)",
+    "Text placement within frame": "Not applicable (no visible text)",
+    "Use of emotional/trigger words": "Not applicable (no visible text)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, informative, possibly medical or health-focused",
+    "Visual metaphors or symbols": "None apparent; image is direct and literal, focused on the speaker",
+    "Clickbait techniques employed": [
+      "Direct personal presence to build trust",
+      "No exaggerated emotions or sensational visuals"
+    ],
+    "Brand elements present": "No obvious branding visible in the thumbnail"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail features a person who appears to be speaking directly to the camera, which visually suggests an informational or advisory video, aligning with the health/medical advice implicit in the title",
+    "Contrasts or mismatches": "The seriousness and calmness of the thumbnail may contrast with the potentially sensitive or taboo subject matter of the title ('anal sex injury'), as the thumbnail does not suggest anything explicit or sensational"
+  }
+}

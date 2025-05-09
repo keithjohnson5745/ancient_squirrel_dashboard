@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "50% (clothing, background, headphones, microphone)",
+      "Red": "20% (background lighting, microphone logo)",
+      "Skin tones": "15% (face and arms of the person)",
+      "Gray": "10% (microphone, wall panels)",
+      "Yellow": "5% (subtitle text)"
+    },
+    "Composition type": "Medium close-up (the subject is shown from the chest up, centered in the frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Focused, slightly open mouth as if explaining something",
+      "Demographics": "Appears to be an adult male, likely of South Asian descent, with a beard"
+    },
+    "Main objects/props": [
+      "Large over-ear headphones",
+      "Professional condenser microphone with pop filter",
+      "Microphone cover with red logo/text",
+      "Podcast/recording studio setup"
+    ],
+    "Background environment": "Indoor recording studio, with horizontal acoustic panels and red accent lighting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "some of the bacteria that we have in our mouths",
+    "Font characteristics": {
+      "Style": "Sans-serif, bold",
+      "Emphasis": "High (bright yellow color, all lowercase letters in the on-screen subtitle)",
+      "Color": "Bright yellow"
+    },
+    "Text placement": "Centered near the bottom of the frame",
+    "Emotional/trigger words": "bacteria, our mouths (relatable, personal, and health-related terms)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, informative, and trustworthy, with an educational vibe",
+    "Visual metaphors/symbols": "Microphone and headphones symbolize expertise and professional discussion, podcast/interview setting implies credibility",
+    "Clickbait techniques": [
+      "Direct speaking shot of an expert for authority",
+      "Subtitle teases interesting/important health information"
+    ],
+    "Brand elements": "Red microphone cover with 'Dr Karan' text/logo, hinting at a recognizable brand or expert"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail shows a professional setting with someone (likely a doctor or expert) actively explaining, which matches the 'Doctor Explains' phrasing in the video title. The subtitle on screen directly references mouth bacteria, matching the topic of oral health in the title.",
+    "Contrasts/mismatches": "There are no apparent mismatches, but the thumbnail is quite understated and does not visually depict 'healthy mouth bacteria' (e.g., no dental images, bacteria graphics, or health-related icons). The focus is entirely on the person speaking."
+  }
+}

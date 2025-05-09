@@ -1,0 +1,11 @@
+{
+  "title": "Learn Why You Need A Lubricant | Hear From A Doctor",
+  "thumbnail_path": "thumbnails/nyTyy_NFa7o_max.jpg",
+  "title_length": 51,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.3
+}

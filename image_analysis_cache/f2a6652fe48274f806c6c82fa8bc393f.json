@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "70%",
+      "Light Blue": "15%",
+      "Black": "10%",
+      "Beige (hand)": "5%"
+    },
+    "Composition type": "Medium shot; main subject (product box) centered, large hand on the right, text and graphics spaced around.",
+    "Human presence": {
+      "Number of people": 1,
+      "Visible features": "A single right hand holding a marker; no face or other body parts visible.",
+      "Demographics": "Not fully determinable; medium skin tone hand, adult"
+    },
+    "Main objects/props featured": [
+      "K-Y Jelly product box (center)",
+      "Hand holding a marker (right side)",
+      "Minimalist line icon of two hugging figures",
+      "Minimalist line icon of water droplets"
+    ],
+    "Background environment": "Plain white background\u2014clean, uncluttered, product-focused."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "K-Y Jelly Personal Lubricant",
+      "Quickly prepares you for intimacy",
+      "Protects against discomfort of vaginal dryness during sex",
+      "Recommended by gynecologists",
+      "Designed to stay where you want it",
+      "jungle.com"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif (clean, modern, easy to read)",
+      "Emphasis": "Various sizes; some text in bold and/or larger font for emphasis (especially Title); parts in sky blue for attention; some in black for contrast.",
+      "Color": "Blue (sky blue, strong brand alignment), Black",
+      "Case": "Sentence case for supporting points; Title case for product name."
+    },
+    "Text placement within frame": {
+      "Title": "Top center",
+      "Supporting points": [
+        "Top left",
+        "Middle left",
+        "Lower left",
+        "Upper right"
+      ],
+      "Brand/website": "Bottom right (small, less prominent)"
+    },
+    "Use of emotional/trigger words": [
+      "Quickly prepares",
+      "intimacy",
+      "discomfort",
+      "dryness",
+      "sex",
+      "Recommended"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, reassuring, and positive\u2014with an emphasis on comfort, trust, and expert recommendation.",
+    "Visual metaphors or symbols": [
+      "Two hugging stick figures (intimacy/couple)",
+      "Water droplets (moisture/lubrication)"
+    ],
+    "Clickbait techniques employed": [
+      "Strong product benefits called out in short, prominent text.",
+      "Expert recommendation for authority.",
+      "Emphasis on solutions to common, relatable problems."
+    ],
+    "Brand elements present": [
+      "K-Y branding/product packaging",
+      "Logo on product",
+      "Distinctive blue brand color",
+      "\u2018jungle.com\u2019 watermark"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The product box (K-Y Jelly Personal Lubricant) is the central visual focus, directly tying the thumbnail to the video title. Supporting text and icons convey product attributes and situational use, reinforcing the product\u2019s purpose described in the title.",
+    "Contrasts or mismatches": "No mismatches; thumbnail is very explicit and literal in relation to the title. All visual and text elements directly support the product/video theme."
+  }
+}

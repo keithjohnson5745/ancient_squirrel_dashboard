@@ -1,0 +1,95 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light Pink",
+        "percentage": 30
+      },
+      {
+        "color": "Beige/Off-white",
+        "percentage": 25
+      },
+      {
+        "color": "Black (text/background segment)",
+        "percentage": 20
+      },
+      {
+        "color": "Green (pillows in background)",
+        "percentage": 15
+      },
+      {
+        "color": "Red (banner, pillows, YouTube logo)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot (upper body of one person is featured prominently)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Warm, gentle smile, direct at camera",
+      "demographics": "Adult female, likely Indian, wearing a saree"
+    },
+    "Main objects/props featured": [
+      "Person in saree",
+      "Colored pillows (green, red, blue)",
+      "Text banners",
+      "Necklace"
+    ],
+    "Background environment": "Cozy, indoor setting with cushions and textured wall, neutral and inviting"
+  },
+  "2. TEXT ELEMENTS": {
+    "Visible text": [
+      "IUI \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+      "\u0921\u0949 \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915",
+      "455K+ Views"
+    ],
+    "Font characteristics": [
+      {
+        "text": "IUI \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+        "font_style": "Bold, Sans-serif, White color, placed on red rectangle for high contrast"
+      },
+      {
+        "text": "\u0921\u0949 \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915",
+        "font_style": "Regular, Serif, White color"
+      },
+      {
+        "text": "455K+ Views",
+        "font_style": "Bold, Sans-serif, Black color on white circular background"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "IUI \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+        "placement": "Upper right, inside red rectangle"
+      },
+      {
+        "text": "\u0921\u0949 \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915",
+        "placement": "Below main question, right side"
+      },
+      {
+        "text": "455K+ Views",
+        "placement": "Bottom left, inside white circle"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, reassuring, and informative",
+    "Visual metaphors or symbols": "Trusted local expert (doctor in saree), medical credibility, approachability",
+    "Clickbait techniques employed": [
+      "Use of view count badge to convey popularity/social proof",
+      "Direct question to entice curiosity and engagement",
+      "Professional portrait triggers trust"
+    ],
+    "Brand elements present": [
+      "YouTube Logo",
+      "Facebook Logo",
+      "Doctor's name (potential personal/professional brand)"
+    ]
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail features a portrait of the doctor named in the title, with the main question from the title written in a bold and direct way, visually emphasizing the topic (IUI, a medical procedure). The presence of doctor\u2019s image supports authority/credibility signaled by the title.",
+    "Contrasts or mismatches": "None significant\u2014visual and text elements directly correspond with the video\u2019s title and promise clear, expert-driven information on IUI"
+  }
+}

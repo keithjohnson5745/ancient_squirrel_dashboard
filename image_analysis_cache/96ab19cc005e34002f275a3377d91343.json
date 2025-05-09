@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "mustard yellow": "50%",
+      "skin tone": "30%",
+      "red (accent)": "5%",
+      "black (text background)": "10%",
+      "white (text)": "5%"
+    },
+    "Composition type": "Medium close-up shot (pregnant belly in focus, partially cropped human torso)",
+    "Human presence": {
+      "number_of_people": "1 (partial, only torso and hands visible)",
+      "expressions": "None visible (face not shown)",
+      "demographics": "Adult, likely female (based on pregnancy and body features), skin tone is light"
+    },
+    "Main objects/props featured": [
+      "Pregnant belly",
+      "Hands of the person gently holding the belly"
+    ],
+    "Background environment": "Left half is a solid mustard yellow color; right half is a soft, neutral gradient behind the pregnant person"
+  },
+  "TEXT ELEMENTS": {
+    "text_visible": [
+      "Lube & Pregnancy",
+      "SEX TALK",
+      "WITH DR. LIA"
+    ],
+    "font_characteristics": [
+      {
+        "text": "Lube & Pregnancy",
+        "style": "Sans-serif, bold, white",
+        "emphasis": "Main title",
+        "color": "White"
+      },
+      {
+        "text": "SEX TALK",
+        "style": "Sans-serif, bold, part red ('SEX'), part black on yellow background ('TALK')",
+        "emphasis": "Very strong, high contrast",
+        "color": "Red ('SEX'), Black ('TALK')"
+      },
+      {
+        "text": "WITH DR. LIA",
+        "style": "Sans-serif, thin, gold/yellow",
+        "emphasis": "Subtle, secondary",
+        "color": "Light gold/yellow"
+      }
+    ],
+    "text_placement": {
+      "Lube & Pregnancy": "Left/center, large size, center-aligned",
+      "SEX TALK WITH DR. LIA": "Bottom left, stacked"
+    },
+    "emotional_trigger_words": [
+      "SEX",
+      "Pregnancy"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Educational, direct, slightly provocative due to the topic and word 'SEX'",
+    "visual_metaphors_or_symbols": [
+      "Pregnant belly symbolizes pregnancy and reproductive health",
+      "Bold 'SEX TALK' branding emphasizes open discussion of sexual health"
+    ],
+    "clickbait_techniques_employed": [
+      "Direct reference to sensitive and rarely discussed topic",
+      "Large bold text for eye-catching appeal",
+      "Combination of sex-related language with pregnancy topic generates curiosity"
+    ],
+    "brand_elements_present": [
+      "'SEX TALK' repeated as series/title branding",
+      "Association with 'Dr. Lia' for credibility"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": "The thumbnail directly illustrates pregnancy (with an obvious pregnant belly) and spells out the main topic ('Lube & Pregnancy'), reinforcing the video's title 'Is Lube Safe During Pregnancy?'",
+    "contrasts_or_mismatches": "No significant contrasts; the visual and text elements both strongly align with and reinforce the video\u2019s title content without any visible mismatch."
+  }
+}

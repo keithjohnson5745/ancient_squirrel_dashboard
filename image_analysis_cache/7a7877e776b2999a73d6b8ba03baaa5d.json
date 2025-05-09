@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green (#27613A, #199144, various gradients)": "approx. 50%",
+      "Yellow (#FFE600 text)": "approx. 15%",
+      "White (lab coat, text, background highlight)": "approx. 15%",
+      "Blue (gloves, shirt)": "approx. 10%",
+      "Red (highlight box, text)": "approx. 5%",
+      "Other (banana, skin tone, shadows)": "approx. 5%"
+    },
+    "Composition type": "Medium shot of a woman on the right, close-up of hands holding a banana with a measuring tape on the left",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Surprised or shocked (wide eyes, open mouth)",
+      "Demographics": "Adult female, possibly Indian descent based on visual cues and Hindi text"
+    },
+    "Main objects/props featured": [
+      "Banana with a blue measuring tape wrapped around it",
+      "Blue medical gloves",
+      "Lab coat (worn by woman and partly visible on the left side)"
+    ],
+    "Background environment": "Solid gradient green background, possibly simulating a studio or medical context"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0932\u094b\u0939\u0947 \u091c\u0948\u0938\u093e",
+      "\u0915\u0921\u093c\u0915 \u0915\u0930\u0928\u0947 \u0915\u0940",
+      "SURGERY",
+      "+5,5 cm \u0932\u0902\u092c\u093e",
+      "+3 cm \u092e\u094b\u091f\u093e"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": [
+        "Yellow and white for important Hindi text",
+        "Red background and yellow text for 'SURGERY'",
+        "Bold, large text size"
+      ],
+      "Color": [
+        "Yellow (primary Hindi main headline)",
+        "White (secondary Hindi text)",
+        "Red on yellow background ('SURGERY' in English)",
+        "Red (+5,5 cm segment), Blue/Green (+3 cm segment)"
+      ]
+    },
+    "Text placement within frame": {
+      "Main Hindi headline": "Bottom left, stacked, dominant",
+      "SURGERY": "Directly below Hindi text, left, in red box",
+      "+5,5 cm \u0932\u0902\u092c\u093e": "Bottom center/right, white background card left side",
+      "+3 cm \u092e\u094b\u091f\u093e": "Bottom center/right, white background card right side"
+    },
+    "Use of emotional/trigger words": [
+      "\u0932\u094b\u0939\u0947 \u091c\u0948\u0938\u093e (like iron) \u2013 metaphor for strength/hardness",
+      "\u0915\u0921\u093c\u0915 (hard)",
+      "SURGERY \u2013 medical/emergency connotation",
+      "+5,5 cm",
+      "+3 cm \u2013 specific measurable, enticing figures"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sensational, slightly shocking, curiosity-provoking, with medical authority implied",
+    "Visual metaphors or symbols": [
+      "Banana with a measuring tape: metaphor for male genitalia/sexual enhancement",
+      "Medical gloves and coat: imply scientific/health legitimacy"
+    ],
+    "Clickbait techniques employed": [
+      "Shock/surprise facial expression",
+      "Bright, contrasting text for attention",
+      "Sexual innuendo (banana, measurements, wordplay)",
+      "Promises measurable improvements",
+      "Implied urgency or importance with 'SURGERY'"
+    ],
+    "Brand elements present": "No explicit branding; visual cues suggest informational/medical channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail uses explicit imagery (banana with tape, medical props, and surprised doctor) that directly links to the title '4 Techniques to Make it Hard and Long.' It leverages innuendo and visual metaphor (banana) to allude to male sexual enhancement, echoing the double-meaning, curiosity-driven title.",
+    "Any contrasts or mismatches": "The thumbnail heavily leans on medical and anatomical imagery while the title subtly uses innuendo, keeping things suggestive rather than explicit. Both are aligned in their attempt to intrigue and promise results, with no major mismatch."
+  }
+}

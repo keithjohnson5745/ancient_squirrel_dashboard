@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Brown/Beige (background, walls)": "40%",
+      "Red (shirt)": "20%",
+      "Blue (headphones, pen)": "10%",
+      "Black (text overlay, computer screen)": "10%",
+      "Skin tone": "10%",
+      "Other accent colors (office supplies)": "10%"
+    },
+    "Composition type": "Medium shot (centered on upper body and face of human subject, at a desk)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Focused and slightly smiling; appearing engaged or content",
+      "Demographics": "Apparent: Young adult, probably female"
+    },
+    "Main objects/props featured": [
+      "Laptop/computer",
+      "Headphones (blue)",
+      "Pens/office supplies (foreground, right)",
+      "Plaid shirt"
+    ],
+    "Background environment": "Indoors, home office or study setting (neutral background, wooden beams, shelves out of focus)"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "The benefits of using mind maps for",
+    "Font characteristics": {
+      "Style": "Rounded, bold sans-serif",
+      "Emphasis": "All-caps except for prepositions (\u2018of, for\u2019); bold weight for primary text; \u2018for\u2019 in yellow for emphasis",
+      "Color": "White for main text, yellow for \u2018for\u2019",
+      "Background": "Semi-transparent dark rectangle for contrast"
+    },
+    "Text placement": "Horizontal band across upper center of the frame, not obscuring the subject\u2019s face",
+    "Emotional/trigger words": [
+      "benefits",
+      "mind maps"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, approachable, and studious; suggests productivity and focus",
+    "Visual metaphors or symbols": "Mind maps not directly depicted, but tools (pens, paper, computer) evoke idea of organization and creativity",
+    "Clickbait techniques employed": [
+      "Emphasizing 'benefits' to attract viewers seeking advice or improvement",
+      "Bright colors and human expression to engage interest"
+    ],
+    "Brand elements present": "No specific branding visible (no logos or distinct color schemes tied to a particular creator/brand)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The presence of a young person actively working with a computer and colorful tools visually supports the title\u2019s focus on \u2018mastering mind maps\u2019 and research methods. The text on the thumbnail directly references mind maps, linking clearly to the subject of the video.",
+    "Contrasts or mismatches": "The thumbnail emphasizes \u2018the benefits of using mind maps for\u2019 but does not specifically reference \u2018theory\u2019 or \u2018dissertation research\u2019, which are key in the video title. The visual does not depict any actual mind map, theoretical models, or academic symbols."
+  }
+}

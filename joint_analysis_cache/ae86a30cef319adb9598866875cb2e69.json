@@ -1,0 +1,12 @@
+{
+  "title": "\u2018Petulant child\u2019: Prince Harry blasted after bombshell interview",
+  "thumbnail_path": "thumbnails/86JB-1C64f0_max.jpg",
+  "title_length": 64,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

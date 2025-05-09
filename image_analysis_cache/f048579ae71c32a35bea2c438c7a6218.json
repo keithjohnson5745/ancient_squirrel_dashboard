@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Gray/Light Gray (Background)": "40%",
+      "Black (Clothing/Microphones)": "30%",
+      "White (Text Box, Lower Banner)": "20%",
+      "Red (Text Highlight)": "5%",
+      "Yellow (Profile Image Frame)": "2%",
+      "Blue (Verified Badge/Profile BG)": "2%",
+      "Other Minor Colors (skin tones, pink lips, brown hair)": "1%"
+    },
+    "Composition type": "Medium shot (upper body and faces of both speakers visible, situated on each side of the frame)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left (woman): Confident, slight smile",
+        "Right (man): Thoughtful, finger on lips, pensive"
+      ],
+      "Demographics": [
+        "Left: Appears to be a woman of South Asian descent, likely late 20s\u2013early 30s",
+        "Right: Appears to be a man of South Asian descent, likely in 20s"
+      ]
+    },
+    "Main objects/props featured": [
+      "Two large broadcast microphones (one in front of each person)",
+      "Text box with speaker\u2019s profile image and verification check",
+      "Podcast-style setup"
+    ],
+    "Background environment": "Plain, mottled light gray background\u2014minimal distraction, studio-like appearance"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FIGURING OUT With Raj Shamani",
+      "Kanan Tandi",
+      "Earn Respect Instantly With This Trick",
+      "1M+ VIEWS"
+    ],
+    "Font characteristics": {
+      "FIGURING OUT With Raj Shamani": "All caps, sans-serif, black, small, top-center",
+      "Kanan Tandi": "Bold sans-serif, black, standard case, includes verified badge and circular profile pic",
+      "Earn Respect Instantly With This Trick": {
+        "Earn Respect": "Bold, sans-serif, red, strong emphasis",
+        "Instanly With This Trick": "Bold, sans-serif, black"
+      },
+      "1M+ VIEWS": "Bold, sans-serif, black, all-caps, lower left"
+    },
+    "Text placement within frame": {
+      "Top center": "FIGURING OUT With Raj Shamani",
+      "Upper center, right": "Kanan Tandi [profile and check], Earn Respect Instantly With This Trick (inside large white box)",
+      "Lower left": "1M+ VIEWS"
+    },
+    "Use of emotional/trigger words": [
+      "Earn Respect",
+      "Instantly",
+      "Trick",
+      "1M+ VIEWS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confident, curious, authoritative (with an undertone of mystery/insider knowledge)",
+    "Visual metaphors or symbols": [
+      "The thoughtful gesture (finger on lips): Suggests thinking or a 'secret'",
+      "Microphones: Denotes podcast/interview setup and credibility"
+    ],
+    "Clickbait techniques employed": [
+      "Promise of quick results (\u2018Instantly\u2019)",
+      "Claims a simple solution (\u2018This Trick\u2019)",
+      "Use of big, bold text and highlighting key words (\u2018Earn Respect\u2019 in red)",
+      "Profile image and verified badge for authority",
+      "\u20181M+ VIEWS\u2019 as social proof/trust"
+    ],
+    "Brand elements present": [
+      "\u2018Figuring Out With Raj Shamani\u2019 logo and title",
+      "Consistent style with show branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "The confident expressions and podcast setup support the topic of \u2018Body Language\u2019 and \u2018Commanding a room\u2019",
+      "Text \u2018Earn Respect Instantly With This Trick\u2019 mirrors the title\u2019s promise of actionable secrets for gaining confidence and respect",
+      "Featuring both host and guest emphasizes expert-driven content"
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "No major mismatches; both deliver a message about body language, respect, and confidence.",
+      "Thumbnail focuses specifically on \u2018Earn Respect Instantly With This Trick\u2019, which narrows the broader theme of \u2018Command Any Room\u2019 to one trick or tip\u2014but overall remains consistent."
+    ]
+  }
+}

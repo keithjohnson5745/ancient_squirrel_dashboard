@@ -1,0 +1,13 @@
+{
+  "title": "\u0932\u0921\u093c\u0915\u0947 \u091c\u0930\u0942\u0930 \u0926\u0947\u0916 \u0932\u094b - \u0915\u093e\u092e \u0906\u0910\u0917\u0940",
+  "thumbnail_path": "thumbnails/MGGZXIdbrSw_max.jpg",
+  "title_length": 28,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

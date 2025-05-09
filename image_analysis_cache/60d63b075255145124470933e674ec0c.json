@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "black": "Approximately 60% (background color)",
+      "white": "Approximately 20% (text and shirt)",
+      "skin tones": "Approximately 15% (faces of two individuals)",
+      "gray/blue": "Approximately 3% (suit and microphone)",
+      "red": "Approximately 2% (background for the word 'control')"
+    },
+    "Composition type": "Close-up shot (shoulders and faces of two people shown, with faces occupying both left and right sides)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Person on left: Neutral to serious, speaking mid-sentence",
+        "Person on right: Stern, focused, slightly intense"
+      ],
+      "demographics": [
+        "Left: Older adult male, light skin, gray/white hair",
+        "Right: Younger adult male, medium/dark skin, short hair, beard"
+      ]
+    },
+    "Main objects/props featured": [
+      "Microphone (in front of right person)",
+      "Business suit and tie (worn by left person)"
+    ],
+    "Background environment": "Solid black background (very minimalistic, no visual clutter, all focus on subjects and text)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DOAC",
+      "narcissist\u2019s favourite trick to control you!"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif, modern, all lowercase except 'DOAC' and first letter of lines",
+      "emphasis": [
+        "Extreme bold for main text",
+        "'control' is white bold sans-serif on a red rectangular background for extra emphasis"
+      ],
+      "color": [
+        "White (majority of text), black (used in 'DOAC' background), red (highlighting word 'control')"
+      ]
+    },
+    "Text placement within frame": [
+      "DOAC in upper left corner (white box, black text)",
+      "Main headline centered and top-to-bottom in the middle and right side, overlaid onto the black background"
+    ],
+    "Use of emotional/trigger words": [
+      "narcissist\u2019s",
+      "control",
+      "trick",
+      "you!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, slightly confrontational",
+    "Visual metaphors or symbols": [
+      "Red highlight on 'control' visually signals warning or danger",
+      "Direct eye contact from both individuals suggests confrontation and authority"
+    ],
+    "Clickbait techniques employed": [
+      "Use of psychological terms ('narcissist'),",
+      "Implied danger with call to action ('trick to control you!')",
+      "Highlight of a key emotional word ('control') in red",
+      "Exclamation mark for urgency"
+    ],
+    "Brand elements present": [
+      "DOAC logo in top left (potential series or creator brand)",
+      "Professional setup with microphone, possible association with podcast or interview"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The large, bold text in the thumbnail precisely mirrors the dramatic language in the title, focusing on the 'control' aspect and presenting it as a warning; the use of an authoritative figure (older man, formal attire) visually supports 'Former FBI Agent' from the title, lending credibility and seriousness. The right individual's stern expression mirrors the perceived danger.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment overall; no significant mismatches. The thumbnail directly visualizes the key elements referenced in the title (authority figure, element of danger, psychological manipulation). The only potential minor mismatch is that the actual former FBI agent is not labeled as such in the thumbnail, but implied through appearance."
+  }
+}

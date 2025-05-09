@@ -1,0 +1,11 @@
+{
+  "title": "What lube should you use || Dr. Ankur Sarin ||",
+  "thumbnail_path": "thumbnails/tEF1NpHnVLM_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

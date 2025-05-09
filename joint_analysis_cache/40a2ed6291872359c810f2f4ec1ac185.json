@@ -1,0 +1,12 @@
+{
+  "title": "Why does it take so long to grow up today? | Jeffrey Jensen Arnett | TEDxPSU",
+  "thumbnail_path": "thumbnails/fv8KpQY0m6o_max.jpg",
+  "title_length": 76,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.3
+}

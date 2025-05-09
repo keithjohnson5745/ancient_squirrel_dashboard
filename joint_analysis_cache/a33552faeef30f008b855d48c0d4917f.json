@@ -1,0 +1,12 @@
+{
+  "title": "CIBAFI Webinar on \"The Digital Momentum: Impact on Islamic Banks and Guidelines for Adaptability\"",
+  "thumbnail_path": "thumbnails/2u-eXl2-Ufk_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

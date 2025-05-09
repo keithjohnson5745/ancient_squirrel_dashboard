@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "light blue": "35%",
+      "green": "15%",
+      "yellow (olive oil)": "20%",
+      "black (text background)": "10%",
+      "purple (shirt)": "10%",
+      "red (organ illustrations)": "5%",
+      "skin tones": "5%"
+    },
+    "composition_type": "Medium shot with objects; collage-style layout",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slightly inviting/explanatory",
+      "demographics": "Middle-aged or older male, likely of light to medium skin tone"
+    },
+    "main_objects_props": [
+      "Glass shot filled with yellow liquid (extra-virgin olive oil)",
+      "Olive oil bottle",
+      "Man in purple medical scrubs, pointing at the shot",
+      "Medical/anatomy illustrations: heart, stomach, liver, kidney"
+    ],
+    "background_environment": "Cartoonish, flat blue and green color blocks with medical icons overlaid; top bar is solid black"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "What This Nightly Shot Does",
+    "font_characteristics": {
+      "style": "Bold sans-serif",
+      "emphasis": "All capitalized initial letters, strong thick lines",
+      "color": "White",
+      "background": "Solid black bar"
+    },
+    "text_placement": "Top center, spanning almost the entire width of the thumbnail",
+    "emotional_trigger_words": [
+      "Nightly",
+      "Shot",
+      "Does"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Intriguing, informative, slightly urgent",
+    "visual_metaphors_symbols": [
+      "Shot glass = medicine or remedy",
+      "Body organs = health impact"
+    ],
+    "clickbait_techniques_employed": [
+      "Implied health transformation/curiosity (What does this do?)",
+      "Use of authoritative figure (doctor in scrubs)",
+      "Bright, appealing visual contrast",
+      "Leaving outcome/results as a question"
+    ],
+    "brand_elements_present": [
+      "Doctor-as-trusted-adviser aesthetic (scrubs, direct address)",
+      "Familiar healthcare YouTube style"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": "The thumbnail directly shows a shot of yellow liquid (presumed olive oil) along with a doctor pointing at it, echoing 'nightly shot of extra-virgin olive oil'. The medical illustrations reinforce the phrase 'what it does for your body'.",
+    "contrasts_or_mismatches": "The text on the thumbnail is slightly more vague ('What This Nightly Shot Does') compared to the title, which specifies 'Extra-Virgin Olive Oil', but the visuals (yellow oil, bottle, doctor) fill in the context clearly."
+  }
+}

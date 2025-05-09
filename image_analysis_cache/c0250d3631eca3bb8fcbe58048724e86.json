@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "Approx. 30% (background gradient, top left)",
+      "Blue": "Approx. 15% (background gradient, bottom left and pills)",
+      "Yellow": "Approx. 20% (large bold text)",
+      "Red": "Approx. 15% (background of key words in text)",
+      "White": "Approx. 10% (doctor's coat, text)",
+      "Black/Dark gray": "Approx. 10% (spray can and text backgrounds)"
+    },
+    "Composition type": "Composite/medium shot (combination of object close-ups and cutout of a person)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to pleasant, professional demeanor (female)",
+      "Demographics": "Adult female, Indian ethnicity (inferred from name and attire)"
+    },
+    "Main objects/props featured": [
+      "Blue pills (in a hand, bottom left)",
+      "Spray can (being pressed, top right)",
+      "Portrait of a woman in lab coat (bottom right; Dr. Neha Mehta)"
+    ],
+    "Background environment": "Blurred gradient background (green to blue), with overlaid images for thematic emphasis"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Viagra \u092f\u093e Spray",
+      "Emergency \u092e\u0947\u0902 \u0915\u094d\u092f\u093e Use \u0915\u0930\u0947\u0902?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif for main text; regular sans-serif for name label",
+      "Emphasis": "High (main text in large, bold letters with varying colors and backgrounds)",
+      "Color": "Yellow (main Hindi/English text), white (within red blocks and subtitle), red (background highlights)"
+    },
+    "Text placement within frame": {
+      "Top center": "Viagra \u092f\u093e Spray (on two red background stripes)",
+      "Center": "Emergency \u092e\u0947\u0902 \u0915\u094d\u092f\u093e Use \u0915\u0930\u0947\u0902? (large, yellow font)",
+      "Bottom right": "Dr. Neha Mehta CONSULTANT PSYCHOLOGIST (boxed in gray & red)"
+    },
+    "Use of emotional/trigger words": [
+      "Emergency",
+      "Viagra",
+      "Spray",
+      "Use"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, informative, slightly provocative (due to sensitive subject and emergency framing)",
+    "Visual metaphors or symbols": [
+      "Blue pills (symbolizing Viagra/medication)",
+      "Spray can (alternative remedy or solution)",
+      "Doctor's portrait (authority/trustworthiness)"
+    ],
+    "Clickbait techniques employed": [
+      "Bright, high-contrast text and colors",
+      "Direct comparison (Viagra vs. Spray)",
+      "Use of 'Emergency' to suggest urgent/critical information",
+      "Authority figure image (doctor/psychologist with name)"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta's name and professional title",
+      "Consistent color coding (red and yellow highlights)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail visually supports the video title ('\u0926\u094b\u0928\u094b\u0902 \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0939\u0948 Best? || Dr. Neha Mehta') by showing the two options (Viagra, Spray), the question of best use (emphasized with 'Emergency \u092e\u0947\u0902 \u0915\u094d\u092f\u093e Use \u0915\u0930\u0947\u0902?'), and the authority of Dr. Neha Mehta.",
+    "Contrasts or mismatches": "No significant mismatches. However, the title's focus on 'best' is not as visually prominent in the thumbnail, which leans more towards the comparison in the context of 'emergency use.' The professional branding (doctor's image/name) also reinforces the authority implied in the title."
+  }
+}

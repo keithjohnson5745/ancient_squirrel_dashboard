@@ -1,0 +1,97 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "Muted peach/salmon background",
+        "percentage": 65
+      },
+      {
+        "color": "White (text, coat)",
+        "percentage": 15
+      },
+      {
+        "color": "Black (product packaging, text)",
+        "percentage": 10
+      },
+      {
+        "color": "Light skin tones (person)",
+        "percentage": 8
+      },
+      {
+        "color": "Soft brown (hair)",
+        "percentage": 2
+      }
+    ],
+    "composition_type": "Medium shot \u2014 Product and packaging in foreground, close-up of a woman\u2019s face and shoulders to the right.",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Soft smile, approachable and confident.",
+      "demographics": "Adult woman, likely medical professional (white coat, dark hair, fair skin)."
+    },
+    "main_objects_or_props": [
+      "Mia Vita\u2122 personal lubricant & moisturizer tube and applicators",
+      "Product packaging box",
+      "Woman in a medical coat (doctor)",
+      "Peach/salmon flat background"
+    ],
+    "background_environment": "Solid, flat peach/salmon color backdrop, conveying a clean and professional look."
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible": [
+      "Dr. Heather Hirsch Reviews",
+      "FemmePharma's Personal Lubricant & Vaginal Moisturiser",
+      "Mia Vita\u2122",
+      "personal lubricant & moisturizer",
+      "10 PRE-FILLED DISPOSABLE APPLICATORS | NET WT. 0.035 OUNCES (.1 GRAM) EACH",
+      "Intimate Skin Moisturizer",
+      "BRIGHAM AND WOMEN'S HOSPITAL"
+    ],
+    "font_characteristics": {
+      "main_text": {
+        "style": "Serif, bold, large",
+        "emphasis": "Strong emphasis on 'Dr. Heather Hirsch Reviews'",
+        "color": "White"
+      },
+      "secondary_text": {
+        "style": "Serif, regular, medium size",
+        "color": "White"
+      },
+      "product/text on packaging": {
+        "style": "Cursive/script for 'Mia Vita\u2122', sans-serif for descriptive text",
+        "color": "White and peach/orange"
+      }
+    },
+    "text_placement_within_frame": {
+      "main_title": "Top center",
+      "subtitle": "Below main title",
+      "packaging text": "On products at the bottom left",
+      "doctor's name/hospital": "On coat, bottom right"
+    },
+    "emotional_trigger_words": [
+      "Reviews",
+      "Personal Lubricant",
+      "Vaginal Moisturiser",
+      "Mia Vita\u2122"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Reassuring, professional, trustworthy, health-centered.",
+    "visual_metaphors_or_symbols": [
+      "Doctor in clinical coat = expertise and trust",
+      "Clean, clinical design = credibility and safety"
+    ],
+    "clickbait_techniques_employed": [
+      "Expert authority (doctor reviews a product)",
+      "Clear product imagery",
+      "Direct reference to a sensitive health topic (vaginal moisturizer/lubricant)"
+    ],
+    "brand_elements_present": [
+      "Mia Vita\u2122 logo",
+      "Consistent color palette (aligned with FemmePharma's branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "how_thumbnail_reinforces_title": "The thumbnail directly visualizes the video title: it shows Dr. Heather Hirsch (professional attire, clear face) alongside FemmePharma's product. The large, bold text matches/title and creates instant recognition.",
+    "contrasts_or_mismatches": "No major mismatch; the thumbnail is closely aligned with the title in theme, imagery, and messaging. Both signal a professional review of a specific women's health product."
+  }
+}

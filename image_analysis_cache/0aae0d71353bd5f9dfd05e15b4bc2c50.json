@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light blue": "30%",
+      "white/off-white": "30%",
+      "grey": "20%",
+      "skin tones": "15%",
+      "black (headphones, text outlines)": "5%"
+    },
+    "Composition type": "Split close-up (side-by-side headshots of two people)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": "Both appear smiling or friendly/neutral, open demeanor",
+      "demographics": "Both appear to be adult males, likely middle-aged, one with grey hair and glasses, one with brown hair"
+    },
+    "Main objects/props featured": [
+      "Over-ear headphones (left person)",
+      "Glasses (left person)",
+      "Books, framed photos/art in the background (right person)"
+    ],
+    "Background environment": "Home or office setting; left person in a bright, panelled room, right person with shelves, books, and framed art visible"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "THE WEEKLY SHOW with JON STEWART",
+      "JON & PETE BUTTIGIEG"
+    ],
+    "Font characteristics": {
+      "JON & PETE BUTTIGIEG": {
+        "style": "Bold, sans-serif, all caps",
+        "emphasis": "Heavy emphasis, white on a bright blue rectangle",
+        "color": "White letters with a thin black outline"
+      },
+      "THE WEEKLY SHOW with JON STEWART": {
+        "style": "Mixed case sans-serif, bold for 'THE WEEKLY SHOW', lighter for 'with JON STEWART'",
+        "emphasis": "Moderate emphasis, blue and white colors",
+        "color": "White ('THE WEEKLY SHOW'), blue ('JON STEWART'), smaller font for 'with'"
+      }
+    },
+    "Text placement within frame": {
+      "JON & PETE BUTTIGIEG": "Bottom third, bold strip spanning entire width",
+      "THE WEEKLY SHOW with JON STEWART": "Top right corner, smaller size"
+    },
+    "Use of emotional/trigger words": [
+      "None overt; names and show title only. Personality/celebrity names provide the primary draw."
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, inviting, casual but professional",
+    "Visual metaphors or symbols": "Split screen suggests interview/conversation; branding indicates continuity and authority",
+    "Clickbait techniques employed": [
+      "Prominent display of well-known personalities' names and faces",
+      "Bold, clear text highlighting celebrity guests",
+      "Professional, approachable portraits"
+    ],
+    "Brand elements present": [
+      "'THE WEEKLY SHOW with JON STEWART' logo in blue/white",
+      "Blue text bar for guest names\u2014a visual idiom for this channel/show"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces the title": "Yes, the thumbnail visually matches the title by clearly showing both Jon Stewart and Pete Buttigieg, the featured guests. The branding also reinforces 'The Weekly Show.' The friendly expressions suggest an in-depth but approachable discussion as referenced in the title.",
+    "Contrasts or mismatches": "No major contrasts or mismatches. However, the thumbnail does not visually reference the specific topics (tariffs, Trump, Democrats), which may make it less topical or thematic compared to the video's title."
+  }
+}

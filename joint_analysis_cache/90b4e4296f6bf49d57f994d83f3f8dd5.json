@@ -1,0 +1,12 @@
+{
+  "title": "99% Of People Don't Know WD40's Dark Secret",
+  "thumbnail_path": "thumbnails/__zkFEKmZdw_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.7
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Unsettling Truth about Human Consciousness | The Split Brain experiment that broke neuroscience",
+  "thumbnail_path": "thumbnails/0qa_bHMtDcc_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

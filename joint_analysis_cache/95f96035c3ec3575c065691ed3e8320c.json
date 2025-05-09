@@ -1,0 +1,14 @@
+{
+  "title": "Why Penile Implants ARE Safe and Effective | Dr. Clavell",
+  "thumbnail_path": "thumbnails/I4_X58B5qYA_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "60%",
+      "White": "25%",
+      "Teal-green (text backgrounds)": "10%",
+      "Beige/skin tones": "5%"
+    },
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, approachable, professional",
+      "Demographics": "Adult female, light skin, brown hair, wearing a lab coat (suggestive of a doctor or health professional)"
+    },
+    "Main objects/props featured": [
+      "A woman (likely the expert or host)",
+      "A bottle dispensing lubricant (gel-like substance)",
+      "Medical or fertility icon (sperm and egg illustration)"
+    ],
+    "Background environment": "Simple, clean light blue gradient background, bright and clinical, highlighting key elements"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "FERTILITY FRIENDLY LUBRICANTS",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, modern, all uppercase",
+      "Emphasis": "Strong emphasis due to boldness and all-caps",
+      "Color": "White letters on teal-green/light blue blocks"
+    },
+    "Text placement within frame": "Aligned left, occupying most of the left half in three stacked blocks\u2014'FERTILITY', 'FRIENDLY', 'LUBRICANTS' (largest at bottom)",
+    "Use of emotional/trigger words": [
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, trustworthy, scientific, and educational",
+    "Visual metaphors or symbols": [
+      "Sperm with egg icon (symbolizes fertility/reproduction)",
+      "Lab coat and sterile environment (medical expertise/trust)",
+      "Lubricant being squeezed (represents main product in question)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, direct promise of a solution (\u2018fertility friendly\u2019)",
+      "Visual of doctor/expert to boost credibility",
+      "Bright, attention-grabbing color palette"
+    ],
+    "Brand elements present": [
+      "None overt",
+      "Implied personal branding through the image of the presenter (possibly Dr. Lora Shahine)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "Yes. The bold text clearly communicates the video's topic ('Fertility Friendly Lubricants'), which is directly related to the title's question about the safety/toxicity of lubricant for fertility. The sperm/egg visual and the medical professional support the fertility/health context.",
+    "Contrasts or mismatches": "The thumbnail is more positively framed (\u2018friendly options\u2019) compared to the title\u2019s cautionary/trigger word (\u2018toxic\u2019), but they align in focus on lubricants and reproductive health."
+  }
+}

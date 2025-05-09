@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green (grass and foliage)": "30%",
+      "Brown (tree trunk, some background dirt)": "25%",
+      "White (shirt, text)": "15%",
+      "Black (bear fur, text outline)": "15%",
+      "Skin tone (face and arm)": "10%",
+      "Red (wounds, bear mouth)": "5%"
+    },
+    "Composition type": "Close-up of the man's face and upper body, with a dramatic angle highlighting action; medium view of the bear below.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Man has an anxious, fearful, stressed expression with gritted teeth and wide eyes.",
+      "Demographics": "Adult male, light skin, brown hair, facial hair."
+    },
+    "Main objects/props featured": [
+      "A man clinging to a large, rough tree trunk",
+      "A snarling, aggressive-looking bear with teeth bared",
+      "Torn, dirty white t-shirt with visible scratches/wounds"
+    ],
+    "Background environment": "View from above of a forested/woodland area with visible grass, dirt, foliage."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "DAY 37",
+    "Font characteristics": {
+      "Style": "Bold, all caps, sans-serif",
+      "Emphasis": "Heavy black outline for high contrast, filled with white",
+      "Color": "White fill, black outline"
+    },
+    "Text placement within frame": "Top left corner, large and prominent",
+    "Use of emotional/trigger words": [
+      "DAY",
+      "37"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "High tension, danger, urgency, survival",
+    "Visual metaphors or symbols": [
+      "Bear = life-threatening danger of the wilderness",
+      "Man's wounds and expression = struggle and survival",
+      "Tree trunk = desperate escape, clinging to safety"
+    ],
+    "Clickbait techniques employed": [
+      "Extreme scenario (man vs. bear)",
+      "Intense facial expression",
+      "Visible danger and injury",
+      "Large, dramatic text"
+    ],
+    "Brand elements present": [
+      "Familiar style consistent with MrBeast channel",
+      "High-energy, challenge-oriented composition"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image graphically depicts the life-threatening peril associated with long-term wilderness survival, dramatizing the hardship and risk advertised by the concept of earning $10,000 every day you survive. 'DAY 37' emphasizes the prolonged effort, while the battle with a bear visually underscores the extremity of the survival challenge.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts: both communicate heightened danger and the perseverance needed to survive. The thumbnail, however, exaggerates the immediate peril (bear attack) beyond what the title explicitly states, using a near-cinematic disaster moment to maximize viewer curiosity/shock."
+  }
+}

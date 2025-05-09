@@ -1,0 +1,14 @@
+{
+  "title": "\u0932\u0921\u093c\u0915\u093f\u092f\u094b\u0902 \u0915\u094b \u0917\u0930\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u0940 Best Tips!",
+  "thumbnail_path": "thumbnails/84LaW2B7RoI_max.jpg",
+  "title_length": 35,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

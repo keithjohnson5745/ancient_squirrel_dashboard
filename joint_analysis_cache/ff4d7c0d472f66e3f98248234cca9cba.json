@@ -1,0 +1,14 @@
+{
+  "title": "What is the best lubricant for a padlock?",
+  "thumbnail_path": "thumbnails/jbRr7enFLyY_max.jpg",
+  "title_length": 41,
+  "patterns": [
+    "question",
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "purple gradient background": "40%",
+      "brown/orange gradient": "20%",
+      "red (banner behind top text)": "15%",
+      "yellow (middle text)": "10%",
+      "white (bottom text and doctor's coat)": "10%",
+      "black (doctor\u2019s hair and text shadow)": "5%"
+    },
+    "Composition type": "Medium shot, with the person (doctor) on the right side and large, bold text on the left and center.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral/pleasant, slight smile.",
+      "demographics": "Adult woman, likely Indian, professional attire (doctor's coat)."
+    },
+    "Main objects/props featured": [
+      "Doctor/psychologist (wearing a white coat)",
+      "Textbox with the name and designation"
+    ],
+    "Background environment": "Gradient background blending from brown/orange (top left) to deep purple (bottom right), abstract and professional."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0915\u092e \u0938\u0947 \u0915\u092e",
+      "\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "\u0915\u092e \u0938\u0947 \u0915\u092e": {
+        "style": "Bold, sans-serif, uppercase",
+        "color": "White, on red background",
+        "emphasis": "High"
+      },
+      "\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930": {
+        "style": "Bold, sans-serif, uppercase",
+        "color": "Yellow",
+        "emphasis": "High"
+      },
+      "\u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?": {
+        "style": "Bold, sans-serif, uppercase",
+        "color": "White",
+        "emphasis": "High"
+      },
+      "Dr. Neha Mehta": {
+        "style": "White bold font",
+        "color": "White on grey box",
+        "emphasis": "Medium"
+      },
+      "COUSULTANT PSYCHOLOGIST": {
+        "style": "Capitalized, sans-serif",
+        "color": "Red font on red box",
+        "emphasis": "Medium"
+      }
+    },
+    "Text placement within frame": [
+      "\"\u0915\u092e \u0938\u0947 \u0915\u092e\" at the top-left in a red banner.",
+      "\"\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930\" in the middle left in large yellow.",
+      "\"\u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?\" bottom left in large white.",
+      "Doctor\u2019s nameplate at lower-right above the person's shoulder."
+    ],
+    "Use of emotional/trigger words": [
+      "\u0915\u092e \u0938\u0947 \u0915\u092e",
+      "\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930",
+      "\u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, informative and reassuring. The use of a professional (doctor in a white coat) adds credibility and calm.",
+    "Visual metaphors or symbols": [
+      "Professional attire symbolizes authority and trust.",
+      "Bold, high-contrast text with a question form increases curiosity/engagement."
+    ],
+    "Clickbait techniques employed": [
+      "Direct question in Hindi inviting a solution: triggers curiosity.",
+      "Large, bold fonts with high color contrast.",
+      "Featuring a professional to increase credibility/trust."
+    ],
+    "Brand elements present": [
+      "Doctor\u2019s name and professional title in a branded footer box."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail directly references the video\u2019s subject, both in large Hindi question text and by presenting Dr. Neha Mehta visually as a credible authority. The content of the text visually matches the \u2018Normal Time \u0915\u093f\u0924\u0928\u093e \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f\u2019 title\u2019s theme, making it clear the video addresses a question about timing/duration, likely relating to a health or psychology topic.",
+    "Contrasts or mismatches": "No significant mismatches. Only minor contrast: the thumbnail question is more directly phrased (\u2018\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?\u2019 - \u2018How long should it be done?\u2019) versus the video title\u2019s more general \u2018Normal Time \u0915\u093f\u0924\u0928\u093e \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f\u2019 (\u2018What should be the normal time?\u2019). Both are aligned in meaning, but the thumbnail\u2019s phrasing is snappier/clickbait-oriented."
+  }
+}

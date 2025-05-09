@@ -1,0 +1,14 @@
+{
+  "title": "When he's way fitter than you \ud83d\udcaa\ud83c\udffc\ud83d\ude2c Elena Gabrielle",
+  "thumbnail_path": "thumbnails/ReVMj3eHd9g_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Your cure for Vaginismus",
+  "thumbnail_path": "thumbnails/tWg-8HnZKcI_max.jpg",
+  "title_length": 24,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

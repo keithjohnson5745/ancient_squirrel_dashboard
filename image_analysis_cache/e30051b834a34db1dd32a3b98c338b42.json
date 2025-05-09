@@ -1,0 +1,45 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Aqua green/light teal (background)": "Around 65%",
+      "Light pink (text)": "10%",
+      "Black (text outline)": "10%",
+      "Skin tone (person)": "10%",
+      "Blonde/light brown (hair)": "5%"
+    },
+    "Composition type": "Medium close-up (one person, upper body and face visible, left side; text on right)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, relaxed, confident facial expression",
+      "Demographics (if apparent)": "Adult woman, likely Filipino, approximately 20s\u201330s, light makeup"
+    },
+    "Main objects/props featured": "No distinct props; focus is on the woman and large bold text.",
+    "Background environment": "Solid aqua green/light teal wall; plain, minimal, no additional elements."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "PARAAN PARA DUMULAS!",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": "Heavy boldness, thick black outline for high contrast",
+      "Color": "Light pink fill with black border"
+    },
+    "Text placement within frame": "Right side, occupying about half the thumbnail, stacked in three centered lines.",
+    "Use of emotional/trigger words": [
+      "DUMULAS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, friendly, inviting, slightly playful (possibly intriguing)",
+    "Visual metaphors or symbols": "Use of 'DUMULAS' (slippery/smooth in Tagalog) as a focal word, but no literal visual metaphor present.",
+    "Clickbait techniques employed": [
+      "Curiosity gap ('paraan para dumulas' implies secret/tips)",
+      "Direct address to viewer (large, bold promises)",
+      "Use of visual emphasis (large, eye-catching text, smiling face)"
+    ],
+    "Brand elements present": "No explicit brand or watermark present."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail text exactly matches and reinforces the video title. The smiling woman suggests confidence and personal endorsement or demonstration of the tips/ways described.",
+    "Any contrasts or mismatches between thumbnail and title": "No clear mismatch; both title and thumbnail focus on solutions/tips. The thumbnail\u2019s friendliness could be at odds with a more clinical/expert approach if expected, but it aligns with personal vlog or tips style."
+  }
+}

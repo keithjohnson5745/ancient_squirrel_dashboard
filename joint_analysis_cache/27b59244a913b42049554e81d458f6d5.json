@@ -1,0 +1,13 @@
+{
+  "title": "Why It Costs $1 Million Per Day To Run One Of The World\u2019s Biggest Cruise Ships | Big Business",
+  "thumbnail_path": "thumbnails/VYN7LR2gwso_max.jpg",
+  "title_length": 93,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

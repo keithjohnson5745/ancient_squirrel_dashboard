@@ -1,0 +1,12 @@
+{
+  "title": "Say More - Esther Perel on fantasy with Gillian Anderson | Where Should We Begin? With Esther Perel",
+  "thumbnail_path": "thumbnails/35rucdsK5zY_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

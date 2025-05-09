@@ -1,0 +1,13 @@
+{
+  "title": "Would You Risk Drowning for $500,000?",
+  "thumbnail_path": "thumbnails/uyiG6uw-6pA_max.jpg",
+  "title_length": 37,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approx. 35% (background left, 'LOCK' banner, WD-40 can)",
+      "Black": "Approx. 20% (bottom bar, text, some can labels)",
+      "Green": "Approx. 20% (Graphite Extreme can, parts of background)",
+      "Yellow": "Approx. 10% (WD-40 and Lock Saver labels)",
+      "Red": "Approx. 5% (Lock Saver text and tube)",
+      "White": "Approx. 10% (text, can labels)"
+    },
+    "Composition type": "Medium shot (three cans in clear focus, cropped at base and top, occupying central frame)",
+    "Human presence": {
+      "Count": 0,
+      "Expressions": null,
+      "Demographics": null
+    },
+    "Main objects/props featured": [
+      "WD-40 lubricant can",
+      "Lock Saver lubricant can",
+      "Graphite Extreme lubricant can"
+    ],
+    "Background environment": "Blurred outdoor, green foliage with soft daylight, indistinct surfaces (possibly a tabletop)."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "LOCK",
+      "WD-40",
+      "EXTREME DANGER DANGER EXTR\u00caME",
+      "LOCK SAVER",
+      "Synthetic Lubricant",
+      "GRAPHITE EXTREME",
+      "LUBRICATION"
+    ],
+    "Font characteristics": {
+      "LOCK": "Bold, sans-serif, all-caps, white (on blue background), slightly italicized",
+      "LUBRICATION": "Very large, bold, sans-serif, white, all-caps, spaced out, on black background",
+      "Product labels": "Mixture of sans-serif fonts, mostly bold, with color highlights (yellow, white, green, red as appropriate to can designs)"
+    },
+    "Text placement": {
+      "LOCK": "Top left, diagonal blue banner",
+      "LUBRICATION": "Bottom bar, full width, centered and dominant",
+      "Product labels": "On each lubricant can, vertically centered"
+    },
+    "Use of emotional/trigger words": [
+      "EXTREME DANGER",
+      "DANGER",
+      "EXTREME"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Practical, instructional, slightly urgent (due to 'danger' wording); straightforward and technical",
+    "Visual metaphors or symbols": [
+      "Multiple lubricant cans symbolizing choice and guidance",
+      "'Danger' icons/symbols on cans emphasizing safety and seriousness"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold, high-contrast text",
+      "Emphasis on 'LOCK' and 'LUBRICATION', directly appealing to need/right audience",
+      "Clean, professional look to signal authority and tutorial value"
+    ],
+    "Brand elements present": [
+      "WD-40 logo and branding",
+      "Jug-A-Loo (Graphite Extreme) branding",
+      "Hi-Sheam (Lock Saver) branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly reinforces the title by showing popular lubricants directly associated with lock maintenance, with both 'LOCK' and 'LUBRICATION' in bold, clear text. Visual focus on products mentioned in typical beginner guides.",
+    "Contrasts or mismatches": "No apparent mismatches; the thumbnail clearly conveys the topic and intent of the video as described by the title. It does not show locks themselves, but focuses on the lubricants, which are the tools for lubrication."
+  }
+}

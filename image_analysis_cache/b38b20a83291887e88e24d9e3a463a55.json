@@ -1,0 +1,93 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 50% (background and product packaging)",
+      "Light blue": "Approximately 20% (Pre-seed box)",
+      "Pink": "Approximately 20% (Conceive Plus packaging and tube)",
+      "Yellow": "Approximately 5% (flower centers and label highlight)",
+      "Gray": "Approximately 5% (shadows and text accents)"
+    },
+    "Composition type": "Medium shot (all products are fully visible, filling the frame but not close-up on any)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "A smiling baby (photo on Conceive Plus box)",
+      "Demographics": "Infant, ambiguous gender"
+    },
+    "Main objects/props featured": [
+      "Pre-seed personal lubricant box",
+      "Conceive Plus fertility lubricant box",
+      "Conceive Plus tube"
+    ],
+    "Background environment": "Plain white surface, neutral with no distinctive features"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": {
+      "Pre-seed box": [
+        "babystart",
+        "pre~seed",
+        "personal lubricant",
+        "\"fertility-friendly\"",
+        "Safe for use when trying to conceive and doesn't harm sperm or embryos*",
+        "Internal application mimics natural secretions",
+        "Patented antioxidant formula",
+        "Seriously fun baby-making.\"",
+        "40g tube"
+      ],
+      "Conceive Plus box": [
+        "sasmar",
+        "Conceive Plus",
+        "Formulated for positive results",
+        "Fertility Lubricant",
+        "Clinically tested sperm-friendly lubricant with calcium & magnesium ions",
+        "MULTI-USE TUBE",
+        "75ml",
+        "2.5fl.oz"
+      ],
+      "Conceive Plus tube": [
+        "Conceive Plus",
+        "Fertility Lubricant",
+        "30 ml e / 1.1 fl.oz.",
+        "Made in France"
+      ]
+    },
+    "Font characteristics": [
+      "Mixture of serif and sans-serif",
+      "Prominent use of bold/contrasting fonts for brand names and key terms ('Conceive', 'pre-seed')",
+      "Pink and blue color text correlating with product color coding",
+      "Mostly highly legible, with some italic/script for emphasis ('fertility-friendly')"
+    ],
+    "Text placement within frame": [
+      "Each product has main branded text centered or upper-middle on the packaging",
+      "Smaller descriptive/benefit text located below product names",
+      "No standalone overlay text; all text is part of product packaging"
+    ],
+    "Use of emotional/trigger words": [
+      "\"Seriously fun baby-making\"",
+      "\"fertility-friendly\"",
+      "\"Formulated for positive results\"",
+      "\"Clinically tested\"",
+      "\"Fertility Lubricant\""
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, reassuring, and hopeful with a focus on fertility and conception",
+    "Visual metaphors or symbols": [
+      "Baby image as symbol of successful conception",
+      "Flowers (suggesting nature, health, and nurture)",
+      "Blue and pink color coding (associating with gender/parenting themes)"
+    ],
+    "Clickbait techniques employed": [
+      "Side-by-side product comparison visually promising a direct answer to 'which is better?'",
+      "Baby photo elicits emotional response tied to product outcome",
+      "Keywords like 'fertility-friendly', 'clinically tested', 'positive results' raise viewer's hopes and curiosity"
+    ],
+    "Brand elements present": [
+      "\"babystart\" logo",
+      "\"sasmar\" logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows the two products mentioned in the title ('Pre-seed versus Conceive Plus'), displaying them side by side for visual comparison. The brand names and packaging are clearly visible, making it immediately clear that the video will discuss or compare these very items.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment with the title: both products are shown clearly and equally, matching the versus (\u201cvs.\u201d) theme. No additional symbols or misleading elements are present; the thumbnail is literal and straightforward."
+  }
+}

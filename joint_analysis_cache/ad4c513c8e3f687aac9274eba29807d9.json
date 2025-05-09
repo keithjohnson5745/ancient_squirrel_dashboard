@@ -1,0 +1,13 @@
+{
+  "title": "Khan Sir Podcast: India vs China, Pakistan, Bihar\u2019s Reality & Geopolitics | FO343 Raj Shamani",
+  "thumbnail_path": "thumbnails/E3oG313_kps_max.jpg",
+  "title_length": 93,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

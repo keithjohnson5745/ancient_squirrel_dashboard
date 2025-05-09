@@ -1,0 +1,13 @@
+{
+  "title": "CoQ10: Can It Help Sperm and Egg Quality? Can It Help Fertility?",
+  "thumbnail_path": "thumbnails/AycPoyJrf8E_max.jpg",
+  "title_length": 64,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

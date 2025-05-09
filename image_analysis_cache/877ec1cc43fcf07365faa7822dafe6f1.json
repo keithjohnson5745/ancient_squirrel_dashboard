@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light blue/teal (sign background)",
+        "percentage": 30
+      },
+      {
+        "color": "Purple/violet (shirt, flowers)",
+        "percentage": 25
+      },
+      {
+        "color": "Brown/tan (skin tones, background)",
+        "percentage": 25
+      },
+      {
+        "color": "Green (plant leaves)",
+        "percentage": 10
+      },
+      {
+        "color": "Red (sofa/seat)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Confident, friendly, slightly playful (one finger raised for emphasis)",
+      "demographics": "Adult female, medium to dark skin tone, curly hair"
+    },
+    "Main objects/props featured": [
+      "Decorative sign with text",
+      "Purple shirt",
+      "Houseplants in background"
+    ],
+    "Background environment": "Indoor space with potted plants and soft colored furniture. Warm, inviting/relaxed domestic setting."
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible": "FIVE REASONS WHY YOU SHOULD USE LUBE!",
+    "font_characteristics": {
+      "style": "All caps, bold sans-serif",
+      "emphasis": "Large size, centered, uses a bright contrasting color (magenta/pink) on a pale blue background",
+      "color": "Magenta/pink text on light blue sign",
+      "decoration": "Text placed on a stylized, stitched-edge sign or label"
+    },
+    "text_placement_within_frame": "On the left half of the thumbnail, inside a decorative sign occupying roughly half the frame",
+    "emotional_trigger_words": [
+      "REASONS",
+      "SHOULD",
+      "USE",
+      "LUBE!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Friendly, inviting, slightly playful, educational/informative",
+    "visual_metaphors_or_symbols": [
+      "Signboard/label metaphorically suggests information or a list",
+      "Presenter's gesture signals a secret, tip, or important point"
+    ],
+    "clickbait_techniques_employed": [
+      "Numbered list ('FIVE REASONS')",
+      "Curiosity (inviting viewer to learn something they might not know)",
+      "Direct address ('YOU')",
+      "Bright, inviting colors"
+    ],
+    "brand_elements_present": "No specific branded logo, but colors and style may be consistent with the creator's channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": "Thumbnail directly echoes the title by stating 'FIVE REASONS WHY YOU SHOULD USE LUBE!' in large text, while the presenter's expression and gesture add a personal, inviting touch that aligns with the educational and slightly intimate tone of the video subject.",
+    "contrasts_or_mismatches": "The title says '5+ Reasons to Use Lube During Sex!' while the thumbnail only references 'FIVE REASONS' and doesn't explicitly mention 'sex'\u2014the thumbnail softens and generalizes the topic to make it more friendly and less explicit, which may appeal to a broader audience."
+  }
+}

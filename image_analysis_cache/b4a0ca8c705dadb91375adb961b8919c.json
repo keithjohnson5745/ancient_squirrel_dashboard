@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray (background tiles)": "40%",
+      "Orange (head wrap & bear decoration)": "25%",
+      "Pink (clothing)": "15%",
+      "Skin tones": "15%",
+      "White (bear details, room lighting)": "5%"
+    },
+    "Composition type": "Medium close-up (shows head, shoulders, and hands of the person in frame, filling most of the vertical space)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Neutral to mildly focused or attentive, eyes wide, lips relaxed",
+      "Demographics": "Appears to be an adult woman of East Asian descent"
+    },
+    "Main objects/props featured": [
+      "Orange head covering with a plush cartoon bear on top",
+      "Person's hand outstretched holding a clear liquid (presumably cleansing oil)"
+    ],
+    "Background environment": "Bathroom setting with gray tiled walls and a door; neutral and clean, slightly clinical lighting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "If your face is big, one more!",
+    "Font characteristics": {
+      "Style": "Sans-serif, clean and modern",
+      "Emphasis": "No extra emphasis (no bold/italic/underline)",
+      "Color": "Black",
+      "Case": "Sentence case"
+    },
+    "Text placement within frame": "Centrally placed near the bottom third of the image, directly over the person's chest and hands",
+    "Use of emotional/trigger words": [
+      "big",
+      "one more!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Neutral to slightly playful (due to the plush bear decoration and gentle humor in the text); non-threatening, approachable, practical",
+    "Visual metaphors or symbols": [
+      "Bear plush on head: Symbolizes cuteness and approachability, linking to K-beauty/culture",
+      "Liquid in hands: Direct visual representation of the cleansing oil referenced in the title"
+    ],
+    "Clickbait techniques employed": [
+      "Direct address through text, relatable humor ('If your face is big, one more!'), draws personal connection",
+      "Bright, attention-grabbing props (orange bear headwrap)"
+    ],
+    "Brand elements present": [
+      "K-beauty cultural references (plush bear, cute aesthetics)",
+      "Distinctive orange head wrap (potentially recognizable to followers)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail visually demonstrates the application of a cleansing oil, directly supporting the 'how to use' aspect of the title.",
+      "The presence of the cleansing oil in the hand, and the person's poised, direct look, aligns with instructional content.",
+      "The playful headwear and approachable vibe visually echo the gentle, Korean beauty (K-beauty) angle."
+    ],
+    "Contrasts or mismatches": [
+      "No significant contrast or mismatch. Both thumbnail and title reinforce a focus on technique and prevention of skin problems (not breaking out). The humor and cute aesthetic add appeal but do not detract from the instructional purpose."
+    ]
+  }
+}

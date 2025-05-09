@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (background/various shades)": "60%",
+      "White (text, hair, lab coat, background elements)": "20%",
+      "Skin tones (illustration)": "10%",
+      "Black (hair, shirt, facial features)": "5%",
+      "Yellow (accent lightning bolt and swirl)": "5%"
+    },
+    "Composition type": "Medium shot (doctor), illustration insert (medium close-up of couple in bed)",
+    "Human presence": {
+      "Number of people": "1 real person, 2 illustrated people",
+      "Expressions": {
+        "Real person": "Smiling, friendly, approachable",
+        "Illustrated couple": "Smiling, affectionate"
+      },
+      "Demographics": {
+        "Real person": "Adult woman, likely in her 30s",
+        "Illustrated couple": "Older adults, gray/white hair suggesting age 50+; one male-presenting, one possibly female-presenting"
+      }
+    },
+    "Main objects/props featured": [
+      "Real doctor/expert in white lab coat",
+      "Illustration of older couple in bed",
+      "Lightning bolt and decorative swirls"
+    ],
+    "Background environment": "Abstract, flat blue graphic design with circular and geometric shapes; real person is cut out and placed over this background"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "SEX OVER 50!",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": "Heavy emphasis (large size, all caps, exclamation mark, white color on dark blue background)",
+      "Color": "White font with dark blue background bar"
+    },
+    "Text placement within frame": "Top left quadrant, spans nearly full width horizontally",
+    "Use of emotional/trigger words": [
+      "SEX",
+      "OVER 50!",
+      "Exclamation mark adds urgency/attention"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, reassuring, informative, open-minded",
+    "Visual metaphors or symbols": [
+      "Lightning bolt (symbolizing excitement, vitality)",
+      "Older couple in bed (direct reference to the topic)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold/attention-grabbing text (SEX OVER 50!)",
+      "Use of large font and high contrast colors",
+      "Emotional intrigue (sex + age = taboo or seldom discussed topic)",
+      "Expert presence (implies authority/trust)"
+    ],
+    "Brand elements present": [
+      "Doctor/expert in lab coat (implies channel is health/medical related)",
+      "Professional appearance (suggests credibility, possibly a recurring figure on the channel)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail repeats the primary theme of the title by featuring the phrase 'SEX OVER 50!' in bold, which both directly references the video's topic and matches the phrasing of the title. The illustration of an older couple in bed directly visualizes the 'sex over 50' concept, while the expert/doctor figure adds authority and a sense of trustworthy advice. Lightning bolt symbolizes energy and vitality, reinforcing a positive spin.",
+    "Contrasts or mismatches": "There are no overt contrasts or mismatches; both the title and thumbnail are closely aligned in theme and message. The thumbnail is a bit more clinical and positive, potentially toning down any taboo aspect the title might evoke, focusing on information and support."
+  }
+}

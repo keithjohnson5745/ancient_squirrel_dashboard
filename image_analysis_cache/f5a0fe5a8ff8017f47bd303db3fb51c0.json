@@ -1,0 +1,48 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "Approximately 40% (text)",
+      "Black": "Approximately 25% (outline of text and background areas)",
+      "White": "Approximately 10% (highlighted text)",
+      "Skin tones": "Approximately 15% (faces of the two older adults)",
+      "Gray/Silver": "Approximately 5% (hair of the older adults)",
+      "Muted blue/gray background": "Approximately 5% (background gradient)"
+    },
+    "Composition type": "Medium close-up split layout",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Neutral or serious facial expressions",
+      "Demographics": "Appears to be older Asian adults, one male on the left, one female on the right"
+    },
+    "Main objects/props featured": "Two older adult faces, no additional objects or props",
+    "Background environment": "Out-of-focus gradient that fades from dark blue at the top to lighter hues at the bottom, possibly sunset or subtle digital background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "7 Prutas na Mapanganib sa Kalusugan ng mga Senior. Iwasan!",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High contrast; yellow and white text outlined in black for maximum legibility",
+      "Color": "Yellow (keywords: '7 Prutas', 'Mapanganib', 'Kalusugan'), White (connecting/shorter words)"
+    },
+    "Text placement within frame": "Text is centrally and prominently placed, occupying a majority of the thumbnail; covers over the faces but avoids obscuring them entirely",
+    "Use of emotional/trigger words": [
+      "Mapanganib",
+      "Iwasan",
+      "Kalusugan"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, alerting, and cautionary",
+    "Visual metaphors or symbols": "The use of senior faces directly reinforces the target audience and health-related topic",
+    "Clickbait techniques employed": [
+      "Large, bold, colorful text to attract attention",
+      "Use of 'mapanganib' (dangerous) and 'iwasan' (avoid) to instill urgency/fear",
+      "List format ('7 Prutas') that implies specific and actionable advice"
+    ],
+    "Brand elements present": "No explicit brand logos or marks, but the text style is consistent with health advisory thumbnails"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail clearly references the video topic. It features two elderly people (directly representing 'seniors') and boldly states a warning message about '7 dangerous fruits' and the need for caution, matching the video's warning in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major mismatches. However, the thumbnail only visually emphasizes the caution/danger and target audience; it does not depict any actual fruits or visual representation of what should be avoided."
+  }
+}

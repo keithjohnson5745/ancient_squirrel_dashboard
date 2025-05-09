@@ -1,0 +1,12 @@
+{
+  "title": "Learning how to learn | Barbara Oakley | TEDxOaklandUniversity",
+  "thumbnail_path": "thumbnails/O96fE1E-rf8_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

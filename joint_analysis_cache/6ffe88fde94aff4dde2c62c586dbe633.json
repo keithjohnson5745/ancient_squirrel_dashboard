@@ -1,0 +1,13 @@
+{
+  "title": "My Neighbor\u2019s Unexpected Kindness Took Me by Surprise \u2013 You Won\u2019t Believe What Happened!",
+  "thumbnail_path": "thumbnails/g0kwk0LpSxs_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Why people have SEX on camera! | Come Curious",
+  "thumbnail_path": "thumbnails/sdFmS82gp9Q_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

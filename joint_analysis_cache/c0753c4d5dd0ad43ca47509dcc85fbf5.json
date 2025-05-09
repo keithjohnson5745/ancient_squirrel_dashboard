@@ -1,0 +1,13 @@
+{
+  "title": "Manforce stay long gel kaise use Kare",
+  "thumbnail_path": "thumbnails/8iA66ErzCkI_max.jpg",
+  "title_length": 37,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

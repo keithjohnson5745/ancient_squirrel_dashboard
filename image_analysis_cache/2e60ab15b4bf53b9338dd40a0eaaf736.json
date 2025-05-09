@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark green (background)": "40%",
+      "White (clothing, text)": "15%",
+      "Red (text, chat bubble)": "15%",
+      "Yellow (text highlights, banners)": "15%",
+      "Black/Grey (suits, text backgrounds)": "10%",
+      "Skin tones (faces/hands)": "5%"
+    },
+    "Composition type": "Medium shot, both individuals from mid-torso up with faces clearly visible, symmetrical framing.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both smiling softly, neutral and professional.",
+      "Demographics": "One female, one male; both appear to be adults of South Asian origin."
+    },
+    "Main objects/props featured": [
+      "Doctor's white coat (left)",
+      "Business suit (right)",
+      "Text banners and chat bubble graphic"
+    ],
+    "Background environment": "Solid dark green, likely digital/virtual background. No environment/scene details visible. Professional and clean."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0936\u0940\u0918\u094d\u0930\u092a\u0924\u0928 \u0915\u093e BEST \u0907\u0932\u093e\u091c",
+      "Dr Neha Mehta",
+      "Psychologist & Sex Counsellor",
+      "Dr Ashish Mittal",
+      "MD Psychiatry (AIIMS)",
+      "EXPERT TALK",
+      "1.5 MILLION VIEWS"
+    ],
+    "Font characteristics": [
+      "Bold and sans-serif fonts for all main text",
+      "\u2018BEST\u2019 and \u20181.5 MILLION VIEWS\u2019 in all-caps, yellow, bold",
+      "\u2018EXPERT TALK\u2019 in all-caps, white, bold with thick black outline inside a chat bubble",
+      "Main Hindi heading in bold red with white/black outline",
+      "Name/credentials in smaller fonts, red or yellow boxes"
+    ],
+    "Text placement within frame": [
+      "Main Hindi heading occupies upper-central portion",
+      "1.5 MILLION VIEWS in top right corner (black/yellow banner)",
+      "Dr Neha Mehta label bottom left",
+      "Dr Ashish Mittal label bottom right",
+      "EXPERT TALK in lower center overlapping both sides"
+    ],
+    "Use of emotional/trigger words": [
+      "BEST",
+      "EXPERT",
+      "1.5 MILLION VIEWS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, reassuring, and trustworthy. The smiling experts and clean design reinforce credibility and expertise.",
+    "Visual metaphors or symbols": [
+      "Chat bubble graphic for 'EXPERT TALK' implies dialogue/discussion.",
+      "White coat and suit symbolize medical professionalism."
+    ],
+    "Clickbait techniques employed": [
+      "Emphasis on 'BEST' treatment in bold, colored text.",
+      "Highlighting large view count to show popularity/social proof.",
+      "\u2018EXPERT TALK\u2019 label for authority/trust."
+    ],
+    "Brand elements present": [
+      "Specific doctor names and credentials for authority.",
+      "Color scheme and fonts consistent with informational/medical content."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforcement of title": "The thumbnail directly mirrors the title, displaying '\u0936\u0940\u0918\u094d\u0930\u092a\u0924\u0928 \u0915\u093e BEST \u0907\u0932\u093e\u091c' (Premature Ejaculation Best Treatment) in large text, plus both doctors' names and credentials. 'EXPERT TALK' label and the experts\u2019 photos visually communicate the reference to authoritative medical advice promised in the title.",
+    "Contrasts or mismatches": "There are no notable contrasts or mismatches; the visuals and text in the thumbnail closely align with the video title\u2019s promise, supporting clarity and trust. Use of both Hindi and English increases accessibility."
+  }
+}

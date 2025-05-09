@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "40% (main text and accents)",
+      "Purple": "25% (background, left side gradient)",
+      "Red": "20% (background, right side, text box)",
+      "Black": "10% (text boxes and font outline)",
+      "White": "5% (secondary text and clothing highlights)"
+    },
+    "Composition type": "Medium shot (bust/waist up of a woman on right side, large text covering left and center)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to mildly serious/explanatory. The woman is making direct eye contact and is pointing towards the text with both hands.",
+      "Demographics": "Appears to be an adult woman of South Asian descent, dark long hair, fair skin."
+    },
+    "Main objects/props featured": [
+      "Woman (doctor/expert)",
+      "Bold, block text",
+      "Text boxes with bright colors and gradients",
+      "Badge indicating '1 MILLION +VIEWS'",
+      "Nameplate: 'Dr. Neha Mehta COUSULTANT PSYCHOLOGIST'"
+    ],
+    "Background environment": "Solid color gradient (purple blending into red), no physical background environment. The woman is cut out/isolated from any background."
+  },
+  "TEXT ELEMENTS": {
+    "Visible thumbnail text (exact transcription)": [
+      "\u0921\u093e\u0932\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u0940 \u0922\u0940\u0932\u093e \u092a\u0921\u093c \u091c\u093e\u0924\u093e \u0939\u0948!",
+      "1 MILLION +VIEWS",
+      "Dr. Neha Mehta COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, blocky font",
+      "Emphasis": "Heavy use of capitals, large size, drop shadows, bright yellow for primary phrase, black & white outlines for contrast, parts of the text in boxes (yellow on black, yellow on red). '1 MILLION +VIEWS' is stylized with metallic gradient and shadow. Nameplate has a clean white-on-blue sans-serif style.",
+      "Color": "Yellow with black outline (main message), White with black outline, White on dark blue background (name), Gold/metallic over black (views badge)"
+    },
+    "Text placement": {
+      "Main message": "Centrally placed, occupying most of the upper and middle left",
+      "Badge": "Bottom left",
+      "Nameplate": "Lower right beside the woman"
+    },
+    "Use of emotional/trigger words": [
+      "\u0922\u0940\u0932\u093e \u092a\u0921\u093c \u091c\u093e\u0924\u093e \u0939\u0948!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct, urgent, empathetic and inviting expertise. Implies a sensitive or embarrassing personal issue but uses straightforward language to assure help or discussion.",
+    "Visual metaphors or symbols": [
+      "Pointing gesture (indicating authority, attention to message)",
+      "Badge for '1 MILLION +VIEWS' (implying popularity, trustworthiness)"
+    ],
+    "Clickbait techniques employed": [
+      "Bright, contrasting colors for high visibility",
+      "Large, bold, direct question about a sensitive/embarrassing issue",
+      "Highlighting a large view count for social proof/fomo",
+      "Professional nameplate suggests expertise and credibility"
+    ],
+    "Brand elements present": [
+      "Name/logo of Dr. Neha Mehta",
+      "Consistent use of color patterns and font styles common to educational/health advice channels"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly repeats the question posed in the title (about a premature loss of erection), using the same sensitive and direct language in Hindi. The presence of a professional (psychologist) and an explicit gesture from her toward the text reinforce that this is a medical/advice video. The bold, urgent style matches the urgency and embarrassment implied by the title.",
+    "Contrasts or mismatches": "There is a close alignment with no notable contrasts; both title and thumbnail are direct, use similar language, and focus on the same issue. The thumbnail does not use euphemisms, directly mirroring the explicit subject raised in the title, which may be seen as potentially clickbait or provocative. Both work together to create curiosity and a sense of urgency for viewers facing the issue."
+  }
+}

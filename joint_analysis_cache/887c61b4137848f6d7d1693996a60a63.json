@@ -1,0 +1,13 @@
+{
+  "title": "Michelle Obama: This Is A Scam! People Were Running From Us Because We Were Black!",
+  "thumbnail_path": "thumbnails/D67eWcX2XYQ_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

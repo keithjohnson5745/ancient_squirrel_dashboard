@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "light blue": "30%",
+      "skin tones": "25%",
+      "white": "20%",
+      "red": "10%",
+      "yellow": "10%",
+      "black": "5%"
+    },
+    "composition_type": "Composite split\u2014left half is a close-up of a woman speaking (likely the urologist), right half is a medium shot of a woman reclining on a bed.",
+    "human_presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: Woman with open-mouthed, slightly surprised or explaining expression.",
+        "Right: Woman lying with eyes closed, mouth parted, and hands on her head\u2014suggests pleasure or ecstasy."
+      ],
+      "demographics": [
+        "Both appear to be adult women. Apparent ethnic background is ambiguous."
+      ]
+    },
+    "main_objects_props_featured": [
+      "Woman in red shirt (possibly a medical professional)",
+      "Woman lying on bed in white lingerie"
+    ],
+    "background_environment": [
+      "Left: Plain blue background",
+      "Right: White bedding, soft focus bedroom setting"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "Your body on: ORGASM",
+    "font_characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "ORGASM is especially emphasized with uppercase letters and a highlighted yellow box.",
+      "color": "Bright yellow with black for main text"
+    },
+    "text_placement": "Top right quadrant of the thumbnail; 'ORGASM' is in a separate yellow background box beneath the rest of the phrase.",
+    "emotional_trigger_words": [
+      "ORGASM"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Curious, educational with undertones of intrigue and sensuality",
+    "visual_metaphors_or_symbols": [
+      "Reclining woman in pleasure symbolizes the orgasmic experience.",
+      "'Your body on:' phrasing suggests a scientific or medical explanation, matching the presence of a professional."
+    ],
+    "clickbait_techniques_employed": [
+      "Bold, bright text with the word 'ORGASM'",
+      "Use of a suggestive image (woman in apparent ecstasy)",
+      "Phrasing that promises insider/expert knowledge ('Your body on:')"
+    ],
+    "brand_elements_present": [
+      "None explicitly visible (no logos or channel name), but the use of a professional in red attire hints at a medical/educational brand."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": [
+      "The thumbnail visually reinforces the title by illustrating both a knowledgeable authority (urologist) and the physical aspect of female orgasm (reclining woman).",
+      "Text in the thumbnail ('Your body on: ORGASM') closely ties into the video's title and subject."
+    ],
+    "contrasts_or_mismatches": [
+      "The thumbnail contains sexualized imagery, which may be seen as more provocative than the scientific and educational framing of the title.",
+      "However, the inclusion of an expert figure helps reinforce the educational purpose and balances the visual tone."
+    ]
+  }
+}

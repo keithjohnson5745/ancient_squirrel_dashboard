@@ -1,0 +1,12 @@
+{
+  "title": "\u09b8\u09b9\u09ac\u09be\u09b8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc \u09af\u09cc\u09a8\u09be\u0999\u09cd\u0997\u09c7 \u099c\u09cd\u09ac\u09be\u09b2\u09be\u09aa\u09cb\u09a1\u09bc\u09be \u09ac\u09be \u09ac\u09cd\u09af\u09a5\u09be \u0995\u09c7\u09a8 \u09b9\u09af\u09bc? Dyspareunia (Painful Intercourse)",
+  "thumbnail_path": "thumbnails/hCAs3tz-R9g_max.jpg",
+  "title_length": 85,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

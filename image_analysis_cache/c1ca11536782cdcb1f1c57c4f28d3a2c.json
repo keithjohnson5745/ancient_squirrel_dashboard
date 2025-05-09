@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Muted pink background": "70%",
+      "Dark brown (text)": "15%",
+      "Yellow (text, key, and dress accents)": "7%",
+      "Black (dress)": "6%",
+      "Red and blue (heart lock)": "2%"
+    },
+    "Composition type": "Medium shot (upper torso and face of a single person, with text and graphics occupying the remaining space)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight curiosity/skepticism (eyebrows slightly raised, lips parted)",
+      "Demographics (apparent)": "Young adult woman, medium skin tone, straight long hair"
+    },
+    "Main objects/props featured": [
+      "Key icon",
+      "Heart-shaped lock with a star",
+      "Bold, graphic text"
+    ],
+    "Background environment": "Solid, muted pink color with no visible environment features"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "\"SEAL TODNA\" AUR \"VIRGINITY\" 3 MILLION + VIEWS",
+    "Font characteristics": {
+      "Main title text": {
+        "Font style": "Bold, all-caps, sans-serif",
+        "Color": "Dark brown",
+        "Size": "Large (occupies significant portion of frame)"
+      },
+      "\"AUR\" text": {
+        "Font style": "Bold, all-caps sans-serif, slightly stylized",
+        "Color": "White with gold key icon as 'A'",
+        "Size": "Medium"
+      },
+      "3 MILLION + VIEWS": {
+        "Font style": "Bold, all-caps sans-serif, shadow effect",
+        "Color": "Bright yellow",
+        "Size": "Medium-large"
+      }
+    },
+    "Text placement within frame": {
+      "\"SEAL TODNA\"": "Top left",
+      "\"AUR\"": "Centered, below 'SEAL TODNA', key icon left of 'A'",
+      "\"VIRGINITY\"": "Left center, below 'AUR'",
+      "\"3 MILLION + VIEWS\"": "Bottom left to lower center, overlapping lock-heart graphic"
+    },
+    "Emotional/trigger words": [
+      "\"SEAL TODNA\" (suggests taboo, curiosity)",
+      "\"VIRGINITY\" (controversial, emotionally charged, social/cultural interest)",
+      "\"3 MILLION + VIEWS\" (triggers curiosity/social proof)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, challenging social taboos, informative; slight playfulness via icons",
+    "Visual metaphors or symbols": [
+      "Key and lock (metaphor for virginity, secrecy, cultural concept of 'unlocking' or 'breaking')",
+      "Heart-shaped lock (emphasizes emotional/social context)"
+    ],
+    "Clickbait techniques employed": [
+      "Quotations and bold terms to spark curiosity",
+      "Icons (key and lock) to create visual intrigue",
+      "\u20183 Million + Views\u2019 as social proof to entice more clicks"
+    ],
+    "Brand elements present": "Consistent use of bold, easy-to-read fonts and a solid colored background; use of presenter's face, which may be a recognizable element on the channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title directly by repeating its text in large, prominent type. The use of a key and lock (especially the heart-shaped lock) directly reflects metaphors around 'seal todna' (breaking a seal) and 'virginity', which are key themes in the video title and content.",
+    "Contrasts or mismatches": "No notable contrasts; the thumbnail and title are closely aligned. Both use direct, attention-catching language and metaphor, and the image of the speaker (with a quizzical/neutral expression) signals discussion or demystification, matching the likely content."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Precautions while using Delay Spray in Hindi || Dr. Neha Mehta",
+  "thumbnail_path": "thumbnails/dSDt7HU7W2c_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

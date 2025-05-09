@@ -1,0 +1,14 @@
+{
+  "title": "5 Foods to Avoid to Help Your Body Clear HPV with Dr. Doni Wilson",
+  "thumbnail_path": "thumbnails/IAM0spjzCfA_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

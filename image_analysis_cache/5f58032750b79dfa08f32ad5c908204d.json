@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/tan (background walls)": "40%",
+      "White (lab coats, text box)": "30%",
+      "Black/dark brown (hair, glasses, microphone, outlines)": "15%",
+      "Grey (bookshelf, shelves, background items)": "10%",
+      "Pink/red (shirt and lips, book)": "3%",
+      "Blue (text box bar)": "2%"
+    },
+    "Composition type": "Medium shot (split-screen interview format showing two individuals from the chest up)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: smiling, engaged, friendly",
+        "Right: neutral/serious, attentive"
+      ],
+      "demographics": "Both appear to be adult women, one with darker skin and long hair (left), the other with lighter skin and lighter hair (right). Medical professionals, as suggested by attire and setting."
+    },
+    "Main objects/props featured": [
+      "Shure microphone (left foreground)",
+      "Eyeglasses (both individuals)",
+      "White medical lab coats",
+      "Books and framed certificates/decor in the background"
+    ],
+    "Background environment": "Professional/clinical office or home office settings, with bookshelves, diplomas or certifications, lab coat on hanger, subdued and tidy."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "How to Build Pelvic Floor Strength",
+      "Healthier You with Permanente Doctors"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, clean, modern",
+      "Emphasis": "Title is bold, subtitle is regular weight",
+      "Color": "Title is black, subtitle is white on a teal background",
+      "All caps": "No"
+    },
+    "Text placement within frame": "Bottom center in a rectangular overlay box spanning most of the lower third of the image; each line of text is horizontally centered.",
+    "Use of emotional/trigger words": [
+      "Build",
+      "Strength",
+      "Healthier"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, reassuring, informative, and positive. Establishes trust and authority.",
+    "Visual metaphors or symbols": [
+      "Lab coats and medical office indicate expertise and clinical authority.",
+      "Microphone conveys professional communication/interview."
+    ],
+    "Clickbait techniques employed": [
+      "Direct, how-to instructional approach in both text and visual setup.",
+      "Use of doctors for implied authority/trust."
+    ],
+    "Brand elements present": [
+      "Permanente Doctors (subtitle)",
+      "Implied healthcare branding in professional setting and attire."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail shows two doctors, which aligns with the educational and medical subject matter of building pelvic floor strength. Their presence and professional setting increase credibility, matching the instructional health focus of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no obvious mismatch\u2014the professional and clinical imagery supports the title content. However, there is no visual representation of pelvic floor exercises or anatomy, which might make the specific topic less visually apparent to some viewers."
+  }
+}

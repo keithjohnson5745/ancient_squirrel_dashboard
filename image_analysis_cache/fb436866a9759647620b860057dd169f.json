@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "50% (text, clothing, hair, beard)",
+      "White": "45% (background)",
+      "Gray": "4% (shading, facial features, beard highlights)",
+      "Blue": "1% (accent box around 'HUBERMAN LAB CLIPS' text)"
+    },
+    "Composition type": "Close-up (left-side medium close-up of a man's face and upper torso, with substantial negative space to the right)",
+    "Human presence": {
+      "Number": 1,
+      "Expressions": "Neutral, slight smile, direct gaze",
+      "Demographics": "Adult male with short dark hair and beard"
+    },
+    "Main objects/props featured": "Human face, black shirt (no other props visible)",
+    "Background environment": "Solid white, uncluttered"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "MARIJUANA & YOUR BRAIN",
+      "HUBERMAN LAB CLIPS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold uppercase sans-serif for main title, cap-width geometric sans-serif for lower text",
+      "Emphasis": "Main title (black, large, bold, uppercase); subtitle (blue outline, all caps, smaller, boxed)",
+      "Color": "Black (primary text), Blue (accent box and subtitle text)"
+    },
+    "Text placement within frame": {
+      "Main title": "Right two-thirds, centered, vertically stacked over three lines",
+      "Subtitle/Brand": "Directly beneath the main title, centered, with a blue rectangular border"
+    },
+    "Use of emotional/trigger words": [
+      "MARIJUANA",
+      "BRAIN"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, educational, trustworthy, scientific",
+    "Visual metaphors or symbols": "Juxtaposes human face (expertise/authority) with bold, direct text (information/impact)",
+    "Clickbait techniques employed": [
+      "Bold, provocative keywords ('MARIJUANA', 'BRAIN')",
+      "Contrast: authoritative face + scientific branding"
+    ],
+    "Brand elements present": "HUBERMAN LAB CLIPS box in blue (consistent brand mark for Huberman Lab content)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail focuses heavily on the words 'MARIJUANA & YOUR BRAIN'\u2014mirroring the core of the title, making clear the subject (marijuana) and area of focus (the brain). The inclusion of a professional-looking individual reinforces scientific authority, matching the title's reference to Dr. Andrew Huberman.",
+    "Contrasts or mismatches": "The thumbnail omits explicit imagery of marijuana or the body, focusing strictly on the brain/authority aspect. This makes the message more neutral and scientific, rather than sensational or recreational."
+  }
+}

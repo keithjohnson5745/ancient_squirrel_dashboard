@@ -1,0 +1,13 @@
+{
+  "title": "\"I feel like I've lost all rights to my privacy\": Mia Khalifa | The Conversation | BBC News India",
+  "thumbnail_path": "thumbnails/s_PR8kBn73o_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

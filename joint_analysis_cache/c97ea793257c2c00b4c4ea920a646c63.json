@@ -1,0 +1,12 @@
+{
+  "title": "You don't need to spend a single dollar! This tool is the solution you need.",
+  "thumbnail_path": "thumbnails/phFEIQw7MeY_max.jpg",
+  "title_length": 76,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

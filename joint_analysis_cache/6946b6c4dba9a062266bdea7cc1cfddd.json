@@ -1,0 +1,12 @@
+{
+  "title": "Karoline Faced Ellen\u2019s Insults \u2014 And Made Her Regret It Live",
+  "thumbnail_path": "thumbnails/WXhZpmM0-GY_high.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

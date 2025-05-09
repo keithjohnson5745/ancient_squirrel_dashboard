@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "purple": "50% (varied purple gradient background)",
+      "yellow": "20% (bold yellow text block for 'IVF')",
+      "white": "10% (text and shirt)",
+      "black": "10% (text and dark left-side fade)",
+      "blue": "5% (man's jacket, accents in text boxes)",
+      "skin tones": "5% (man's face and hand illustrations)"
+    },
+    "Composition type": "Medium shot (person from chest up, facing forward, right side of frame)",
+    "Human presence": {
+      "number": 1,
+      "expression": "Smiling, direct gaze suggesting confidence and friendliness",
+      "demographics": "Adult male, light skin, dark curly hair"
+    },
+    "Main objects/props featured": [
+      "Text blocks with bold phrases",
+      "Person, possibly presenter/host",
+      "Subtle background illustration (hands cradling, could be metaphorical for care/nurture)",
+      "Three yellow sparkle/star icons (suggesting something special or important)"
+    ],
+    "Background environment": "Purple gradient with subtle outlined illustrations (hands, possible baby), clean and minimal with accent icons"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "STOP DOING",
+      "IVF",
+      "YOU NEED TO SEE THIS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All caps, large size, high contrast",
+      "Color": "White for most text, black for 'IVF', on purple and yellow backgrounds"
+    },
+    "Text placement": "Central/left overlaid in horizontal bars, visually layered in three stacked banners",
+    "Emotional/trigger words": [
+      "STOP DOING",
+      "YOU NEED TO SEE THIS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, attention-grabbing, promising help or solution (excitement/hopeful due to smile and sparkle effect)",
+    "Visual metaphors or symbols": "Hands cradling in background may symbolize protection, care, or pregnancy; sparkles connote something special or revelatory",
+    "Clickbait techniques": [
+      "Capitalized, urgent command ('STOP DOING')",
+      "Highlighting controversy/anxiety ('IVF')",
+      "'YOU NEED TO SEE THIS' appeals to curiosity and necessity"
+    ],
+    "Brand elements present": "No clear brand logos, but consistent style suggests creator identity (possibly recurring presenter/host)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail text and visuals explicitly challenge IVF (a conventional approach to conception), aligning with the video\u2019s title about getting pregnant naturally/quickly. The smiling figure and nurturing hands support positive, natural result messaging.",
+    "Contrasts or mismatches": "The thumbnail says to 'STOP DOING IVF,' which is a more provocative, negative frame than the positive promise of 'Getting pregnant fast naturally!' The focus is on an alternative, not the natural methods themselves. There is no explicit visual reference to 'natural' pregnancy in the thumbnail, only the implied alternative to IVF."
+  }
+}

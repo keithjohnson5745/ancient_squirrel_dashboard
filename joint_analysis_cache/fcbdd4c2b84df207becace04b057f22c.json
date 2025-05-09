@@ -1,0 +1,13 @@
+{
+  "title": "Airport Staff Kicked Jasmine Crockett, But Regretted Everything When Her Husband Arrived",
+  "thumbnail_path": "thumbnails/R8iKNfTyJns_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

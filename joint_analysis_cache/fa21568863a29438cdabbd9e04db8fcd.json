@@ -1,0 +1,13 @@
+{
+  "title": "Things AMAZON Made Me Buy! (500lbs of Lube EXTENDED VERSION!)",
+  "thumbnail_path": "thumbnails/3YhcMLHLmzY_high.jpg",
+  "title_length": 61,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Esther Perel on What the Other Woman Knows",
+  "thumbnail_path": "thumbnails/JV0W8Jz0d5E_high.jpg",
+  "title_length": 42,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

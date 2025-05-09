@@ -1,0 +1,11 @@
+{
+  "title": "Feels like the FIRST TIME (playlist)",
+  "thumbnail_path": "thumbnails/TDL1h_KWX20_max.jpg",
+  "title_length": 36,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

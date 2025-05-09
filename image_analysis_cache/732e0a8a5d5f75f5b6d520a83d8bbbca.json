@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple": "approximately 40%",
+      "Blue": "approximately 25%",
+      "Pink": "approximately 20%",
+      "White": "approximately 10%",
+      "Skin tones/hair": "approximately 5%"
+    },
+    "Composition type": "Medium shot split: left side features an illustration, right side features a close-up/medium shot of a woman.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to slightly inquisitive or serious, direct eye contact with the camera.",
+      "demographics_if_apparent": "Adult woman, fair skin, light brown or auburn hair, wearing a burgundy/maroon top, gold earrings."
+    },
+    "Main objects/props featured": [
+      "Gloved (blue medical glove) illustrated hand holding a vial with small orange dots (possibly symbolizing eggs or cells).",
+      "Large illustrated vial/cryotube with snowflake iconography indicating freezing.",
+      "Text box with 'EGG FREEZING' "
+    ],
+    "Background environment": "Gradient abstract background featuring a blend of purple, pink, and blue hues indicating a scientific/clinical or educational context."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "EGG FREEZING",
+    "Font characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "All caps, white text on a dark purple rectangular background for high contrast",
+      "color": "White on dark purple/black background"
+    },
+    "Text placement within frame": "Top left quadrant, occupying a rectangular box covering almost the full width of that region.",
+    "Use of emotional/trigger words": [
+      "FREEZING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, scientific, trustworthy, and slightly cautious or contemplative.",
+    "Visual metaphors or symbols": [
+      "Gloved hand and vial: symbolizes medical procedure and professionalism.",
+      "Snowflakes and 'cold' blue tones: symbolizing freezing/preservation technology.",
+      "Orbs/dots in vial: symbolic of eggs or reproductive cells."
+    ],
+    "Clickbait techniques employed": [
+      "Direct reference to a specific medical procedure of growing public interest (egg freezing).",
+      "Confident, left-aligned bold text instantly explaining the topic.",
+      "Human face with an engaged and slightly concerned expression, evoking empathy and curiosity."
+    ],
+    "Brand elements present": "None overtly present (no channel logos or distinctive brand marks)."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail visually matches the title directly\u2014\u2018EGG FREEZING\u2019 is both the main visible text and is visually depicted with a medical hand holding a vial, reinforced by snowflake and cold imagery illustrating freezing. The human face on the right adds approachability and expertise, aligning with the video\u2019s promise of answering common questions.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no mismatches. The thumbnail and title are highly aligned in both visuals and messaging. The only potential minor gap is the thumbnail only mentions 'Egg Freezing' and not the '10 Most Common Questions Answered,' which is promised in the video title."
+  }
+}

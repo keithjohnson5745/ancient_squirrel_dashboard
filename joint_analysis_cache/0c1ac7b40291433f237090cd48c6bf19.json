@@ -1,0 +1,13 @@
+{
+  "title": "Improve your Fertility with these Easy Steps | Dr. Hansaji Yogendra",
+  "thumbnail_path": "thumbnails/8EWF14Ld_rA_max.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

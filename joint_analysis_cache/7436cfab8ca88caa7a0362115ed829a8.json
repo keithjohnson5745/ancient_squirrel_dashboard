@@ -1,0 +1,13 @@
+{
+  "title": "Everyone Named in P. Diddy\u2019s Sex Abuse Lawsuits \u2014 Full List",
+  "thumbnail_path": "thumbnails/nJ_YPxGCXcg_max.jpg",
+  "title_length": 59,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

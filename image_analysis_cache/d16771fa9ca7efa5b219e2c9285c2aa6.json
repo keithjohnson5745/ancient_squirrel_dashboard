@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "dark_brown/black": "50% (background, shirt of the performer)",
+      "warm_skin_tones": "20% (performer's face and hand)",
+      "red": "15% (bold text)",
+      "white": "10% (outline/secondary text color)",
+      "grey/stone": "5% (wall background)"
+    },
+    "composition_type": "Medium close-up (framing focuses on a single person from the chest up)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, confident, engaged (mid-speech with a microphone)",
+      "demographics": {
+        "gender_appearance": "Male",
+        "age_range": "Adult",
+        "ethnicity": "Not explicitly stated/uncertain"
+      }
+    },
+    "main_objects_props_featured": [
+      "Microphone (held by performer)",
+      "Brick/stone wall (comedic club-style background)"
+    ],
+    "background_environment": "Indoor setting, typical of a stand-up comedy club with a textured wall backdrop"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "ARE WOMEN BECOMING MEN?",
+      "COMEDY SPECIAL | KAVIRAJ SINGH"
+    ],
+    "font_characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Strong, outlined in white for readability; primary question in a larger font than the subtitle",
+      "color": "Red text with white outline"
+    },
+    "text_placement_within_frame": [
+      "Top left (ARE WOMEN BECOMING MEN?)",
+      "Bottom left (COMEDY SPECIAL | KAVIRAJ SINGH)"
+    ],
+    "emotional_trigger_words": [
+      "ARE WOMEN BECOMING MEN?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Playful, provocative, humorous",
+    "visual_metaphors_or_symbols": "Stand-up comedy cues (microphone, stage setting) symbolize performance, conversation, or social commentary",
+    "clickbait_techniques_employed": [
+      "Question format (provokes curiosity)",
+      "Bold claim/topic (gender roles, social change)",
+      "High contrast text to grab attention"
+    ],
+    "brand_elements_present": [
+      "Performer\u2019s name: KAVIRAJ SINGH (branding the comedy act/special)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": "The main text on the thumbnail exactly matches the first part of the video title, using the same provocative question. The visual of a comedian mid-performance directly reinforces the 'comedy special' part of the title.",
+    "contrasts_or_mismatches": "There are no significant mismatches; the visual and textual elements both focus on comedy and the controversial question, aligning well with the full video title."
+  }
+}

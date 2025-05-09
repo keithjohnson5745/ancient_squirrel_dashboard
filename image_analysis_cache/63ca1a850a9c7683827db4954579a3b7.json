@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40% (background, hair, men's attire, microphones)",
+      "White": "20% (text, highlight, parts of clothing)",
+      "Red": "15% (text 'A RISK?', bottom vignette effect)",
+      "Beige/skin tones": "10% (faces, hands)",
+      "Blue": "10% (women's saree)",
+      "Gray": "5% (background grid, shadows)"
+    },
+    "Composition type": "Close-up/medium shot, split between two people facing each other with microphones, focusing on facial expressions.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Woman (left) is smiling and appears to be explaining or conversing; Man (right) looks serious and inquisitive, as if questioning or listening.",
+      "Demographics": "Both adults, likely South Asian. The woman is wearing a blue saree, the man is in a dark suit."
+    },
+    "Main objects/props featured": [
+      "Microphones (suggesting an interview or podcast)",
+      "Eyeglasses (worn by the man)",
+      "Clothing (blue saree, dark blazer/shirt)"
+    ],
+    "Background environment": "Dark, vignetted background with a subtle grid pattern; there is a red gradient along the bottom, creating a dramatic effect."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "WHEN IS NORMAL DELIVERY A RISK?",
+      "500K+ VIEWS"
+    ],
+    "Font characteristics": {
+      "Main text": {
+        "Style": "Bold, uppercase, sans-serif",
+        "Emphasis": "White for 'WHEN IS NORMAL DELIVERY', bright red for 'A RISK?' to highlight urgency",
+        "Outline/Shadow": "Black outline/shadow for extra emphasis and readability"
+      },
+      "Views text": {
+        "Style": "Bold, black sans-serif on a white background bubble",
+        "Emphasis": "Contrasting for quick recognition"
+      }
+    },
+    "Text placement within frame": {
+      "Main headline": "Centered, occupies top-middle area",
+      "\u2018A RISK?\u2019": "Center-bottom, stands out due to color and size",
+      "500K+ VIEWS": "Bottom center, across the lower edge of the red vignette"
+    },
+    "Use of emotional/trigger words": [
+      "RISK"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, cautionary with a hint of curiosity or intrigue.",
+    "Visual metaphors or symbols": [
+      "Red color and large font for 'A RISK?' signals danger or urgency.",
+      "Microphones suggest authority or expert discussion.",
+      "Serious expressions reinforce a sense of important, possibly alarming information."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold shocking question (\u2018WHEN IS NORMAL DELIVERY A RISK?\u2019)",
+      "Highlighting risk in pregnancy, a high-interest, sensitive topic",
+      "Including view count for social proof",
+      "Sharp color contrasts to grab attention, especially the red text and vignette"
+    ],
+    "Brand elements present": [
+      "Professional attire, podcast microphones (suggesting a branded or quality production)",
+      "No explicit channel logo but visual identity implies a recurring series"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually supports the title by directly referencing a surprising or lesser-known risk (\u2018WHEN IS NORMAL DELIVERY A RISK?\u2019). The included text suggests expert discussion (with the presence of two people and podcast-style setup), implying important information viewers 'don\u2019t know.' The use of emotional and urgent design choices draws attention to the seriousness of the topic.",
+    "Contrasts/mismatches": "The title suggests new or unknown pregnancy information (\u201899% of Women Don\u2019t Know This About Pregnancy!\u2019), while the thumbnail narrows the focus specifically to risks associated with normal delivery, rather than pregnancy in general. The thumbnail\u2019s tone is more urgent/danger-focused versus the title\u2019s implication of discovery or knowledge gap."
+  }
+}

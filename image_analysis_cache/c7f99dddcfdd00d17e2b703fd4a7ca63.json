@@ -1,0 +1,91 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "beige/light cream",
+        "percentage": 60
+      },
+      {
+        "color": "dark navy blue",
+        "percentage": 25
+      },
+      {
+        "color": "black",
+        "percentage": 10
+      },
+      {
+        "color": "white",
+        "percentage": 3
+      },
+      {
+        "color": "maroon/red (name box)",
+        "percentage": 2
+      }
+    ],
+    "Composition type": "Medium shot (upper body of a person with significant headroom and background space)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Slight smile, confident demeanor, gentle and engaging eye contact",
+      "demographics": "Adult male, likely Indian, wearing glasses and formal dark blue attire"
+    },
+    "Main objects/props featured": [
+      "Man holding a pen or marker",
+      "Name placard/box in foreground"
+    ],
+    "Background environment": "Plain light beige or cream background with a dotted texture behind the person, uncluttered and neutral"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u092f\u0947 4 \u0938\u091a\u094d\u091a\u0940 \u0915\u0939\u093e\u0928\u0940 \u0906\u092a\u0915\u0940 \u0938\u094b\u091a \u092c\u0926\u0932 \u0926\u0947\u0917\u0940",
+      "\u0921\u0949. \u0935\u093f\u0915\u093e\u0938 \u0926\u093f\u0935\u094d\u092f\u0915\u0940\u0930\u094d\u0924\u093f"
+    ],
+    "Font characteristics": [
+      {
+        "section": "Main headline",
+        "style": "Bold, sans-serif, all-caps (in Devanagari script for Hindi), black color",
+        "emphasis": "High"
+      },
+      {
+        "section": "Name placard",
+        "style": "White font on a maroon/red rectangular box background, clean sans-serif, lower emphasis but still bold"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "\u092f\u0947 4 \u0938\u091a\u094d\u091a\u0940 \u0915\u0939\u093e\u0928\u0940 \u0906\u092a\u0915\u0940 \u0938\u094b\u091a \u092c\u0926\u0932 \u0926\u0947\u0917\u0940",
+        "placement": "Right 2/3 of the frame, large and centrally stacked"
+      },
+      {
+        "text": "\u0921\u0949. \u0935\u093f\u0915\u093e\u0938 \u0926\u093f\u0935\u094d\u092f\u0915\u0940\u0930\u094d\u0924\u093f",
+        "placement": "Bottom left of the frame, overlaying the subject\u2019s torso"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "\u0938\u091a\u094d\u091a\u0940",
+      "\u0938\u094b\u091a \u092c\u0926\u0932 \u0926\u0947\u0917\u0940",
+      "4",
+      "\u0915\u0939\u093e\u0928\u0940"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, authoritative, inviting, and trustworthy",
+    "Visual metaphors or symbols": [
+      "Man holding pen/marker suggests authority, explanation, or teaching",
+      "Large headline text implies importance/urgency"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('4 \u0938\u091a\u094d\u091a\u0940 \u0915\u0939\u093e\u0928\u0940')",
+      "Promise of change ('\u0906\u092a\u0915\u0940 \u0938\u094b\u091a \u092c\u0926\u0932 \u0926\u0947\u0917\u0940')",
+      "Large, bold, clear text for instant comprehension",
+      "Authoritative/personality branding by featuring the speaker's face and name"
+    ],
+    "Brand elements present": [
+      "Dr. Vikas Divyakirti\u2019s name prominently displayed, establishing credibility",
+      "Consistent muted color palette lending professional/serious mood"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail repeats the main title text verbatim, ensuring instant recognition and reinforcing the promise of motivational change. The presence of the speaker (Dr. Vikas Divyakirti) positions the video as a credible, expertise-driven offering, matching the expectation set by title keywords like 'motivational speech'.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; both elements are cohesive. The visual matches the topic, language, and motivational emphasis. The only minor aspect is that the thumbnail does not visually hint at multiple stories, but this is implied via the text ('4 \u0938\u091a\u094d\u091a\u0940 \u0915\u0939\u093e\u0928\u0940')."
+  }
+}

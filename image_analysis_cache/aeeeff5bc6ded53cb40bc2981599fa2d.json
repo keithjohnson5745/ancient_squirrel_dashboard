@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "Approximately 48% (left half background behind Panthers logo)",
+      "Navy blue": "Approximately 48% (right half background behind Maple Leafs logo)",
+      "White": "Approximately 3% (text, separator bar, highlights, central dividing line, background below)",
+      "Black": "Approximately 1% (details in logos and small text)"
+    },
+    "Composition type": "Wide shot, with symmetrical split between two team logos (no close-up of people or action)",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A (No actual human figures present, only team mascots/logos)"
+    },
+    "Main objects/props featured": [
+      "Florida Panthers logo (left side)",
+      "Toronto Maple Leafs logo (right side)",
+      "White vertical separator with \u2018VS\u2019 in center",
+      "Date and network branding ('SPORTSNET') at the bottom"
+    ],
+    "Background environment": "Solid color backgrounds split vertically in half (red and navy blue), plain and graphic-focused with no photographic or realistic environmental features."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "NHL GAME 1",
+      "HIGHLIGHTS",
+      "FLORIDA",
+      "TORONTO MAPLE LEAFS",
+      "VS",
+      "MAY 5, 2025",
+      "SPORTSNET"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase for headlines. Team logos use stylized custom fonts.",
+      "Emphasis": "Heavy use of bold, capitalized text for high visibility and impact.",
+      "Color": "Primarily dark blue for main heading ('HIGHLIGHTS'), white for VS and date. Team logo text uses their respective color palettes."
+    },
+    "Text placement within frame": {
+      "Top center": "NHL GAME 1",
+      "Below top center": "HIGHLIGHTS",
+      "Left and right center": "Team names within logos",
+      "Center vertically": "VS",
+      "Bottom center": "MAY 5, 2025",
+      "Bottom center, below date": "SPORTSNET"
+    },
+    "Use of emotional/trigger words": [
+      "HIGHLIGHTS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Competitive, energetic, and professional \u2013 designed to build excitement for a major sports event.",
+    "Visual metaphors or symbols": [
+      "Team logos as identity symbols",
+      "Bold 'VS' as direct competition cue",
+      "Split-color background to emphasize rivalry/clash"
+    ],
+    "Clickbait techniques employed": [
+      "Emphasis on 'GAME 1' to convey exclusivity/new beginning",
+      "Large bold 'HIGHLIGHTS' to suggest must-see moments",
+      "Prominent date to convey recency and topicality"
+    ],
+    "Brand elements present": [
+      "SPORTSNET network logo and unique mark",
+      "Official team logos and color schemes"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly mirrors the video title by visually highlighting both participating teams (Panthers vs. Leafs), the context ('Game 1'), and the content type ('Highlights'). The date matches the title. Both logos and the 'VS' make clear it\u2019s about a head-to-head hockey matchup, aligning with viewer expectations.",
+    "Contrasts or mismatches": "There are no significant mismatches\u2014thumbnail is highly consistent and literal with the title. Both convey the same information, though the thumbnail is stylized graphically instead of using in-game action photography."
+  }
+}

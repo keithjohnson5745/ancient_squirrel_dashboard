@@ -1,0 +1,13 @@
+{
+  "title": "Top 40 Rock Songs of the 90s \ud83c\udfb8 Best of 90s Rock Music",
+  "thumbnail_path": "thumbnails/MsRzUfV8KXY_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

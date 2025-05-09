@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "tan/beige (walls/floor/background)": "40%",
+      "dark gray/black (treadmill and gym equipment)": "30%",
+      "brown (skin tone)": "20%",
+      "red/burgundy (shorts)": "8%",
+      "other accent colors (white reflections, gym lights)": "2%"
+    },
+    "Composition type": "Medium shot (torso to head visible, central framing)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expression": "Focused/neutral, maintaining concentration during exercise",
+      "demographics": "Young adult male, muscular/athletic, short hair"
+    },
+    "Main objects/props featured": [
+      "Treadmill (prominently visible in foreground)",
+      "Gym equipment (background, out of focus)"
+    ],
+    "Background environment": "Indoor gym/fitness room with various equipment, out-of-focus and uncluttered, suggesting a clean and professional training environment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "None (there is no visible text in the image itself)",
+    "Font characteristics": "N/A",
+    "Text placement within frame": "N/A",
+    "Use of emotional/trigger words": "N/A"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Determined, motivational, focused on physical fitness and self-improvement",
+    "Visual metaphors or symbols": [
+      "Running on treadmill = Cardio activity",
+      "Visible physique = Results of effective fitness/cardio based on body fat percentage"
+    ],
+    "Clickbait techniques employed": [
+      "Showcasing a highly muscular and lean physique to elicit aspiration",
+      "Action context (mid-exercise) to create a sense of urgency/motivation"
+    ],
+    "Brand elements present": "No clear branding (logos, watermarks, or distinctive brand colors) visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "The thumbnail directly depicts a muscular, low-body-fat individual performing cardio (on treadmill), aligning with the video's focus on 'Cardio You Should Be Doing (Based On Body Fat Percentage)'.",
+      "Emphasizes outcome of proper cardio (visible abs, muscle definition), reinforcing the promise in the title."
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "No explicit contrast, but the thumbnail only shows one person (one body type/appearance), while the title implies advice for a range of body fat percentages and potentially different approaches.",
+      "The lack of text or additional visual cues may leave the relationship between body fat percentage and cardio less explicit to the casual viewer."
+    ]
+  }
+}

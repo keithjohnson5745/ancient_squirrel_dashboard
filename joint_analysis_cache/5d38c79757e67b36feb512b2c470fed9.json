@@ -1,0 +1,13 @@
+{
+  "title": "It took me 50 years to realise what I\u2019ll tell you in 30 minutes...",
+  "thumbnail_path": "thumbnails/ozwB1aStpUs_max.jpg",
+  "title_length": 66,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

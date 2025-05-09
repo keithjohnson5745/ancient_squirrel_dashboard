@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink (background)": "50%",
+      "Green (ground, trees)": "25%",
+      "Yellow/Tan (giraffes)": "15%",
+      "Purple (text shadow, hexagons, banner)": "8%",
+      "Red (hearts)": "2%"
+    },
+    "Composition type": "Medium shot (side view of two cartoon giraffes, both full bodies visible)",
+    "Human presence": "None (only cartoon animals depicted)",
+    "Main objects/props featured": [
+      "Two cartoon giraffes, overlapping each other (implying intimacy or mating)",
+      "Red heart symbols near the giraffes' heads",
+      "Cartoon trees and stylized landscape in the background",
+      "Purple hexagons scattered across the background"
+    ],
+    "Background environment": "Stylized savannah/grassland with trees, rolling hills, pink sky, and geometric hexagon elements"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CC BIOLOGY",
+      "ANIMAL SEX"
+    ],
+    "Font characteristics": {
+      "CC BIOLOGY": "Sans-serif, all capitals, 'CC' in white with an orange background, 'BIOLOGY' in white/purple on a purple banner, bold",
+      "ANIMAL SEX": "Sans-serif, bold, all capitals; white with a purple drop shadow"
+    },
+    "Text placement within frame": {
+      "'CC BIOLOGY'": "Top left within a purple rounded rectangle/banner",
+      "'ANIMAL SEX'": "Bottom left, large text, filling most of the left side"
+    },
+    "Use of emotional/trigger words": [
+      "SEX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Humorous, playful, slightly provocative but designed for educational/informational appeal",
+    "Visual metaphors or symbols": [
+      "Hearts as a symbol of love/intimacy",
+      "Giraffes positioned closely together to non-explicitly suggest mating"
+    ],
+    "Clickbait techniques employed": [
+      "Use of the word 'SEX' in large font",
+      "Bright, attention-grabbing colors",
+      "Anthropomorphic animal behavior to pique curiosity",
+      "Hearts to hint at romance/love"
+    ],
+    "Brand elements present": [
+      "CC (Crash Course) logo in the top left corner on a purple banner"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly references the subject of sexual reproduction in animals by showing two giraffes in a suggestive posture with the bold text 'ANIMAL SEX', matching the provocative/educational tone of the video title ('Sexual & Asexual Reproduction: How Animals Do It'). The use of cartoon imagery and hearts keeps the tone light and suitable for an educational audience.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail focuses only on sexual reproduction and does not reference asexual reproduction, which is also included in the video title. The somewhat playful, cartoonish design contrasts with the full scientific scope implied by the title but does not create direct misunderstanding."
+  }
+}

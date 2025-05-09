@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "35%",
+      "Red": "15%",
+      "Black": "20%",
+      "Yellow": "10%",
+      "Light Purple/Lavender (sweater)": "10%",
+      "Green/Brownish (background capsules)": "10%"
+    },
+    "Composition type": "Medium shot (upper torso and face of a person on the right side)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Neutral/serious, direct eye contact",
+      "Demographics": "Adult male, light skin, gray hair, glasses"
+    },
+    "Main objects/props featured": [
+      "A white speech-bubble style box with bold text",
+      "A supplement bottle (with label blurred/blank)",
+      "Microphone headset on the man"
+    ],
+    "Background environment": "Blurry, green/brown colored capsules or pills; background is abstract and out of focus"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "DON'T TAKE THIS SUPPLEMENTS IF YOU'RE TTC",
+    "Font characteristics": {
+      "DON'T TAKE THIS": "Bold, all caps, sans-serif, black",
+      "SUPPLEMENTS": "Bold, all caps, sans-serif, red (very prominent, large font)",
+      "IF YOU'RE TTC": "Bold, all caps, sans-serif, yellow with black background"
+    },
+    "Text placement": "Top left/middle inside a white rectangular/speech-bubble box covering almost half the image; left side features a red arrow pointing down at a supplement bottle image",
+    "Emotional/trigger words": [
+      "DON'T TAKE THIS"
+    ],
+    "Emphasis": [
+      "SUPPLEMENTS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, cautionary, trustworthy (leaning towards warning)",
+    "Visual metaphors or symbols": [
+      "Red arrow to bottle (danger/warning/avoid)",
+      "Bright yellow and red text (attention-grabbing, caution/danger)"
+    ],
+    "Clickbait techniques employed": [
+      "Strong, directive language ('DON'T TAKE THIS')",
+      "Highlighted word ('SUPPLEMENTS')",
+      "Anonymous/blurred supplement bottle (curiosity)",
+      "Acronym 'TTC' (targeting those 'trying to conceive')"
+    ],
+    "Brand elements present": "None distinctly apparent (no logo visible, though presenter himself could function as a visual brand if he's a recurring figure)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail directly visualizes the title by highlighting supplements to avoid, explicitly stating 'DON'T TAKE THIS SUPPLEMENTS IF YOU'RE TTC,' matching the video's warning theme about fertility supplements. The inclusion of a supplement bottle and the emphasis on 'SUPPLEMENTS' further cements the topic.",
+    "Contrasts or mismatches": "The thumbnail text is direct and matches the urgency and topic of the video title. There is no notable mismatch; 'TTC' is slightly more jargon-heavy versus the more explicit 'get pregnant fast' phrasing in the title, but both target the same audience."
+  }
+}

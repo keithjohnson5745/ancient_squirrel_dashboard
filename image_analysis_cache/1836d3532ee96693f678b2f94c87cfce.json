@@ -1,0 +1,45 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Olive Green": "60% (main color of the B-17 bomber)",
+      "Sky Blue/Grey": "30% (background sky and clouds)",
+      "White": "5% (US Air Force star insignia, tail markings, clouds highlights)",
+      "Yellow": "3% (tail markings and insignia)",
+      "Black": "2% (shadows, small details on bomber, markings)"
+    },
+    "Composition type": "Medium-wide shot. The image shows the full aircraft in flight from an above and side angle, emphasizing damage to the tail section.",
+    "Human presence": "0 visible people. No faces or human figures can be seen in the image (the story refers to a gunner, but they are not depicted visually).",
+    "Main objects/props featured": "A damaged B-17 Flying Fortress bomber with a section of its tail almost detached, displaying visible structural damage.",
+    "Background environment": "Cloud-filled sky, viewed from above, giving a sense of altitude and isolation."
+  },
+  "2. TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "C",
+      "2303859",
+      "D",
+      "DJ",
+      "U.S. Air Force insignia (star with bars)"
+    ],
+    "Font characteristics": {
+      "Style": "Military block lettering, all uppercase, stenciled/painted directly on the aircraft.",
+      "Emphasis": "High contrast and functional rather than decorative, intended for identification.",
+      "Color": "Yellow (serial numbers and tail code), white (unit code, insignia)."
+    },
+    "Text placement within frame": "All text is integrated as part of the aircraft livery: tail section, fuselage, and wing.",
+    "Use of emotional/trigger words": "None in the thumbnail; all text is technical or identification-based."
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic and tense. The visual focus on the severely damaged bomber in flight creates a sense of danger and suspense.",
+    "Visual metaphors or symbols": "The damaged tail acts as a powerful visual metaphor for both vulnerability and survival against the odds.",
+    "Clickbait techniques employed": [
+      "Sensational focus on disaster/damage creating urgency and curiosity",
+      "Implied human peril (from the title, not the image itself)",
+      "Historical military imagery appeals to viewers' curiosity and emotion"
+    ],
+    "Brand elements present": "US Air Force insignia and military markings, suggesting authenticity and historical context."
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image shows a B-17 with a catastrophically damaged tail, directly supporting the video's title about a B-17 tail section falling with a gunner inside, making the visual context immediately clear.",
+    "Any contrasts or mismatches between thumbnail and title": "No visible human or gunner is shown in the image, so the personal/emotional element implied in the title is not directly depicted; only the machinery and the dramatic danger are visualized."
+  }
+}

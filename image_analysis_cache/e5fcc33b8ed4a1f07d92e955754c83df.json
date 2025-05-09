@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal/Aqua": "35%",
+      "Dark Green": "15%",
+      "Skin tones": "15%",
+      "Royal Blue": "10%",
+      "Black": "15%",
+      "White": "5%",
+      "Gold": "5%"
+    },
+    "Composition type": "Medium shot (from waist up)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, calm, approachable",
+      "demographics": "Older woman of South Asian descent (apparent from attire and skin tone)"
+    },
+    "Main objects/props featured": [
+      "Woman wearing a blue and green sari with gold jewelry",
+      "Decorative brooch (swan shape)",
+      "Ornamental chair",
+      "Text elements"
+    ],
+    "Background environment": "Outdoor garden or veranda with foliage, blurred to emphasize subject"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "\"1 MILLION + VIEWS\", \"HEALING POWER of COCONUT OIL\"",
+    "Font characteristics": {
+      "Font style": "Bold, sans-serif for main text; italic/slanted for 'of'; clear and modern look",
+      "Emphasis": "HEALING POWER and COCONUT OIL in all caps and large font size; 'of' in lowercase/script and smaller size",
+      "Color": "Texts in teal, white, and black backgrounds; '1 MILLION + VIEWS' in white-teal block"
+    },
+    "Text placement within frame": {
+      "Top left": "\"1 MILLION + VIEWS\"",
+      "Centered left": "\"HEALING POWER of COCONUT OIL\" (stacked text, dominating left half of the image)"
+    },
+    "Use of emotional/trigger words": [
+      "HEALING",
+      "POWER",
+      "COCONUT OIL",
+      "1 MILLION + VIEWS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, positive, trustworthy, authoritative",
+    "Visual metaphors or symbols": [
+      "Lotus symbol embroidered on sari (connected with purity/health/yoga)",
+      "Gold swan brooch (possibly symbolizing grace or wisdom)"
+    ],
+    "Clickbait techniques employed": [
+      "\"1 MILLION + VIEWS\" serves as social proof to indicate popularity/credibility",
+      "Strong emphasis on health benefits ('HEALING POWER')",
+      "Clear and bold text for immediate readability"
+    ],
+    "Brand elements present": [
+      "Lotus motif (matching logo in upper right and sari embroidery)",
+      "Consistent color branding (teal/green/blue themes)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The image of a trusted, older female health expert in traditional attire visually supports the theme of healthy and useful benefits discussed in the video title. The large, bold text explicitly highlights 'Coconut Oil' and 'Healing Power,' in line with the title. The social proof ('1 Million + Views') adds authority and entices viewers.",
+    "Contrasts or mismatches": "There is no glaring mismatch: the thumbnail complements the title well, with the only minor note being that the specific name 'Dr. Hansaji Yogendra' is not mentioned on the thumbnail itself, though her presence likely signals her authority to the intended audience."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Shaolin Warrior Master: Hidden Epidemic Nobody Talks About! This Modern Habit Is Killing Millions!",
+  "thumbnail_path": "thumbnails/atejm2w2jWY_max.jpg",
+  "title_length": 98,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

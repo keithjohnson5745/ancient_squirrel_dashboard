@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "dark_brown": "Approximately 60% - background color",
+      "yellow": "Approximately 20% - text and highlight bars",
+      "white": "Approximately 10% - text",
+      "red": "Approximately 5% - text and border",
+      "blue": "Approximately 3% - label background",
+      "skin_tone/hair_black": "Approximately 2% - human presence"
+    },
+    "composition_type": "Medium shot (person from waist up, filling right side of frame)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to mildly assertive/confident expression",
+      "demographics": "Adult Indian female, long dark hair, henna on hands, professional attire"
+    },
+    "main_objects_props_featured": [
+      "A woman pointing upwards with both hands (gesture draws attention to text)",
+      "Text blocks",
+      "Name label ('Dr. Neha Mehta')"
+    ],
+    "background_environment": "Solid, dark maroon/brown colored background, no visible scene/environment context"
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible": [
+      "\u092a\u0940\u091b\u0947 \u0938\u0947 \u0915\u0930\u0928\u093e \u092a\u0938\u0902\u0926 \u0939\u0948?",
+      "\u0924\u094b \u092f\u0947 6 \u0917\u0932\u0924\u0940 \u0915\u092d\u0940 \u0928 \u0915\u0930\u0947\u0902!",
+      "Dr. Neha Mehta COUSULTANT PSYCHOLOGIST"
+    ],
+    "font_characteristics": {
+      "style": "Bold, sans-serif, block-style fonts",
+      "emphasis": "High-contrast colors, large size for main message",
+      "color": [
+        "Yellow (main headline)",
+        "White (secondary text headline)",
+        "Red (highlighted warning text)",
+        "White on blue background (credit tag)"
+      ]
+    },
+    "text_placement_within_frame": [
+      "Main headline ('\u092a\u0940\u091b\u0947 \u0938\u0947 \u0915\u0930\u0928\u093e \u092a\u0938\u0902\u0926 \u0939\u0948?') occupies top left 2/3 of the thumbnail",
+      "Warning/secondary message ('\u0924\u094b \u092f\u0947 6 \u0917\u0932\u0924\u0940 \u0915\u092d\u0940 \u0928 \u0915\u0930\u0947\u0902!') in a yellow band across the bottom third",
+      "Name credit in a small blue box, lower right corner, above the yellow band"
+    ],
+    "use_of_emotional_trigger_words": [
+      "\u092a\u0938\u0902\u0926 \u0939\u0948? (Do you like?)",
+      "\u0917\u0932\u0924\u0940 (Mistake)",
+      "\u0915\u092d\u0940 \u0928 \u0915\u0930\u0947\u0902! (Never do!)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Curiosity-inducing, slightly provocative, informative/advisory",
+    "visual_metaphors_or_symbols": [
+      "The pointing gesture directs viewer attention to the headline, symbolizing authority or a key tip."
+    ],
+    "clickbait_techniques_employed": [
+      "Deliberately ambiguous/teasing headline",
+      "Bold warning (avoid 6 mistakes)",
+      "Promise of pleasure/no pain (related to the video title)",
+      "Large expressive text and color contrasts"
+    ],
+    "brand_elements_present": [
+      "Name and professional title ('Dr. Neha Mehta COUSULTANT PSYCHOLOGIST') as a brand/authority cue",
+      "Consistent color palette and layout style indicating a regular content series"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": "The thumbnail mirrors the ambiguous and provocative language of the title. Both focus on a teasing question about a controversial or sensitive topic and offer 'tips' or 'warnings' (avoid mistakes, gain pleasure). The pointing person and strong text draw attention immediately to the bold questions and promises.",
+    "contrasts_or_mismatches": "There is alignment in tone and suggestion, but the thumbnail uses a question, while the title ('\u0926\u0930\u094d\u0926 \u0928\u0939\u0940\u0902 \u0938\u093f\u0930\u094d\u092b \u092e\u091c\u093c\u093e \u092e\u093f\u0932\u0947\u0917\u093e!') makes a bolder promise about positive outcomes. The thumbnail is slightly less explicit but maintains the intrigue."
+  }
+}

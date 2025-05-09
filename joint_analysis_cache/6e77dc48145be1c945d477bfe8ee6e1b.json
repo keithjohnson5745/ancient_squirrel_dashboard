@@ -1,0 +1,12 @@
+{
+  "title": "Ovulation: Are You Ovulating? What Are The Signs You Are Not Ovulating?",
+  "thumbnail_path": "thumbnails/LuFFnnWH6aM_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

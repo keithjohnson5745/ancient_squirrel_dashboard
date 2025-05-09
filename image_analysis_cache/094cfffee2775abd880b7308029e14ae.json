@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue gradient (background)": "40%",
+      "Yellow (text)": "20%",
+      "Red (top border and text background)": "10%",
+      "White (bed, doctor's coat, some text highlight)": "20%",
+      "Skin tones (people)": "10%"
+    },
+    "Composition type": "Medium shot with a close-up crop for the couple; full-body crop of a standing woman (doctor) on the right.",
+    "Human presence": {
+      "Number of people": 3,
+      "Description": [
+        {
+          "Count": 2,
+          "Position": "Left side, lying on a bed",
+          "Interaction": "Smiling, gazing at each other intimately",
+          "Demographics": "A man and a woman, likely of European descent, adult age"
+        },
+        {
+          "Count": 1,
+          "Position": "Bottom right",
+          "Interaction": "Standing, direct eye contact, neutral to slightly positive expression",
+          "Demographics": "Adult woman, South Asian descent, wearing a doctor's white coat"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Bed (with white bedding)",
+      "Doctor's white coat worn by the woman on the right"
+    ],
+    "Background environment": "Blue-to-purple gradient color fill; no discernible detailed environment behind the people aside from the bed image on the left."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Bed \u092a\u0930 \u092e\u0939\u093f\u0932\u093e \u0915\u094b",
+      "\u0938\u0902\u0924\u0941\u0937\u094d\u091f",
+      "\u0915\u0930\u0928\u0947 \u0915\u093e \u0930\u093e\u095b",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": [
+      {
+        "Section": "Main Hindi/English text",
+        "Style": "Bold, sans-serif, high-contrast",
+        "Emphasis": "Main word ('\u0938\u0902\u0924\u0941\u0937\u094d\u091f') much larger; yellow color with bold black outline",
+        "Other": "White or yellow text with black outline for high readability"
+      },
+      {
+        "Section": "Name and title (lower right)",
+        "Style": "Simple sans-serif, all caps for name/title",
+        "Emphasis": "White on red background for name/title",
+        "Other": "Smaller font; some minor typographical error ('COUSULTANT')"
+      }
+    ],
+    "Text placement": [
+      "Top center ('Bed \u092a\u0930 \u092e\u0939\u093f\u0932\u093e \u0915\u094b')",
+      "Very large mid-center ('\u0938\u0902\u0924\u0941\u0937\u094d\u091f')",
+      "Below mid-center ('\u0915\u0930\u0928\u0947 \u0915\u093e \u0930\u093e\u095b')",
+      "Lower right corner ('Dr. Neha Mehta', 'COUSULTANT PSYCHOLOGIST')"
+    ],
+    "Use of emotional/trigger words": [
+      "\u0938\u0902\u0924\u0941\u0937\u094d\u091f (Satisfied)",
+      "\u0930\u093e\u095b (Secret)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intimate, encouraging, and informative. Emphasizes relationship satisfaction and expert advice.",
+    "Visual metaphors or symbols": [
+      "Happy couple on a bed symbolizes romantic/sexual satisfaction.",
+      "Doctor image represents expert, professional advice."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold words emphasizing 'Secret' and 'Satisfaction'",
+      "Intimate image of a couple to attract viewers interested in relationship/sexual topics",
+      "Authority figure (doctor) to increase credibility and curiosity"
+    ],
+    "Brand elements present": [
+      "'Dr. Neha Mehta' name and photo",
+      "Professional title (Consultant Psychologist)",
+      "Red-white brand color block for the expert\u2019s name/title section"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The visual of a happy couple in bed directly reinforces the video's title about pleasing a wife in bed. The doctor\u2019s image and credentials suggest expert advice, which matches the \u2018Dr. Neha Mehta\u2019 in the title.",
+    "Contrasts or mismatches": "While the couple featured are Western/European in appearance, the text and intended audience are Hindi-speaking (Indian), which is a slight demographic mismatch but common in Indian YouTube thumbnails. The inclusion of the word '\u0930\u093e\u091c\u093c' (secret) in the thumbnail text aligns with the \u2018\u0930\u093e\u091c\u0940\u2019 (willing/pleased) concept in the title, keeping the thematic link strong."
+  }
+}

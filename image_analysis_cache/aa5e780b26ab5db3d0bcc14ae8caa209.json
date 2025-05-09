@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Light Cream": "approx. 30%",
+      "Black/Dark Gray": "approx. 20%",
+      "White": "approx. 15%",
+      "Yellow": "approx. 15%",
+      "Brown (Skin tones and hair)": "approx. 10%",
+      "Pink/Red": "approx. 10%"
+    },
+    "Composition type": "Medium close-ups of three people, arranged side-by-side with faces visible and prominent.",
+    "Human presence": {
+      "Number": 3,
+      "Expressions": [
+        "Person on left: speaking, concerned or defensive expression",
+        "Person in center: neutral/serious",
+        "Person on right: visibly upset/angry, mouth slightly open, intense gaze"
+      ],
+      "Demographics": [
+        "Left: Adult male-presenting, Filipino, colorful shirt.",
+        "Center: Young adult male-presenting, Filipino, dark denim shirt.",
+        "Right: Adult female-presenting, Filipino, white top, tied-back hair."
+      ]
+    },
+    "Main objects/props featured": "No explicit props, mainly the three individuals.",
+    "Background environment": "Neutral indoor setting with blurred wall and furniture elements, keeping focus on subjects."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\"BAKIT MO TINITIRA SI DANIEL?\"",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "Strong, all-caps, yellow for emphasis ('BAKIT MO TINITIRA'), white for 'SI DANIEL?'",
+      "Color": "Yellow (top line), White (bottom line) with black drop shadow",
+      "Additional": "Quotation marks indicate direct quote"
+    },
+    "Text placement within frame": "Bottom third of image, centered and spanning almost the entire width.",
+    "Use of emotional/trigger words": [
+      "\"BAKIT MO TINITIRA\" (Why are you attacking/targeting)",
+      "\"SI DANIEL?\" (the actual name included for emotional specificity)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confrontational, tense, dramatic \u2014 implies conflict and strong emotion.",
+    "Visual metaphors or symbols": "Direct facial expressions and body language; quotation marks suggest a major confrontation or accusation.",
+    "Clickbait techniques employed": [
+      "Text uses a direct question/accusation ('Why are you targeting Daniel?')",
+      "Dramatic facial expressions for emotional impact",
+      "Highlighting a popular name 'Daniel' to pique curiosity"
+    ],
+    "Brand elements present": "No explicit logos, but strong familiarity via the prominent people and title referencing Ogie Diaz."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail shows three individuals with visibly emotional facial expressions, which visually supports the title\u2019s suggestion of conflict or anger (\"Karla Estrada, nagalit nga ba sa amin? | Ogie Diaz\"). The large, direct quote in the thumbnail text (\u2018Why are you targeting Daniel?\u2019) connects explicitly to the video's narrative of accusation or anger.",
+    "Contrasts or mismatches": "There is little contrast or mismatch; both the thumbnail and title focus on alleged anger or confrontation involving Karla Estrada, and both reference a conflict around someone named Daniel. The thumbnail\u2019s direct, in-your-face text amplifies the curiosity prompted by the slightly more reserved title."
+  }
+}

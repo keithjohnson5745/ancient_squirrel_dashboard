@@ -1,0 +1,13 @@
+{
+  "title": "Solve Better, Think Faster: Riddles to Boost Your IQ",
+  "thumbnail_path": "thumbnails/SIeMPQSNNn0_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

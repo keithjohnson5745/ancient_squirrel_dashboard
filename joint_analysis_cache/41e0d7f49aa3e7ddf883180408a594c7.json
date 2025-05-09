@@ -1,0 +1,14 @@
+{
+  "title": "When Abandoned Mines Collapse",
+  "thumbnail_path": "thumbnails/RZg1zOKm5wk_max.jpg",
+  "title_length": 29,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

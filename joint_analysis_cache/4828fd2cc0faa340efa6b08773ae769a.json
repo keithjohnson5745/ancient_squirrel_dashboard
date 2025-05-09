@@ -1,0 +1,13 @@
+{
+  "title": "\u0906\u091c \u0938\u0940\u0916 \u0932\u094b\u0902 !",
+  "thumbnail_path": "thumbnails/fiD16vOori0_max.jpg",
+  "title_length": 12,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

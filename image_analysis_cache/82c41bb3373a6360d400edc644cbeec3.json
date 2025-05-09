@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Magenta/Pink gradient (background)": "40%",
+      "White (calendar, text background, frame)": "20%",
+      "Red (calendar top, checkmark)": "10%",
+      "Navy blue/purple (calendar squares, text band)": "15%",
+      "Light blue/turquoise (left background, shirt)": "10%",
+      "Skin and brown tones (person and cartoon)": "5%"
+    },
+    "Composition type": "Medium shot (side-by-side combination of two segments: animated art and human portrait)",
+    "Human presence": {
+      "Number": 1,
+      "Expression": "Open-mouthed smile, wide eyes, enthusiastic and inviting",
+      "Demographics": "Adult woman, light skin, straight brown hair (cartoon on left is a pregnant woman with darker skin/hair, not detailed/real)"
+    },
+    "Main objects/props featured": [
+      "Cartoon graphic of a pregnant woman holding her belly (left side)",
+      "Large calendar icon with a red checkmark",
+      "A smiling woman (right side), pointing or gesturing toward calendar"
+    ],
+    "Background environment": "Bright pink-to-purple gradient; minimal and abstract, no concrete setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "GET PREGNANT ON THESE DAYS",
+    "Font characteristics": {
+      "Style": "Bold, all uppercase, sans-serif",
+      "Emphasis": "Very thick, high-contrast white font on dark backgrounds; 'ON THESE DAYS' highlighted with a hot pink background bar",
+      "Color": "White text, with magenta/purple and black background bars"
+    },
+    "Text placement within frame": "Lower third of the thumbnail, spanning edge to edge; split into two horizontal bars",
+    "Use of emotional/trigger words": [
+      "GET PREGNANT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Optimistic, encouraging, urgent, friendly, trustworthy",
+    "Visual metaphors or symbols": [
+      "Calendar - symbolizes planning, timing, scheduling",
+      "Red checkmark - suggests correct timing or a key date",
+      "Pregnant woman - directly references pregnancy/goal"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claim ('GET PREGNANT ON THESE DAYS')",
+      "Direct instruction/guarantee wording",
+      "Bright, contrasting colors for attention-grabbing effect",
+      "Happy, approachable human face for trust/relatability"
+    ],
+    "Brand elements present": "No clear channel logo or watermark, but there is a consistent color palette and style that may be brand-associated"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The calendar and checkmark directly echo the 'Best Time to Conceive & Ovulation Tips' subject in the title. The large, bold 'GET PREGNANT ON THESE DAYS' text aligns with the video's promise of actionable advice. The inclusion of both a real person (presumed expert/host) and an expectant mother graphic visually represents the target audience and outcome.",
+    "Contrasts or mismatches between thumbnail and title": "No major mismatches. The thumbnail simplifies the content to 'GET PREGNANT ON THESE DAYS' which is broader/more sensational than the more nuanced 'Best Time to Conceive & Ovulation Tips' in the title, but this enhances click appeal. There are no explicit references to ovulation in the thumbnail imagery or text."
+  }
+}

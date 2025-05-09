@@ -1,0 +1,14 @@
+{
+  "title": "Coldplay | Top Songs 2025 Playlist | Yellow, My Universe, Viva La Vida, Something Just Like This ...",
+  "thumbnail_path": "thumbnails/c25llsHvoDs_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

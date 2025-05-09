@@ -1,0 +1,12 @@
+{
+  "title": "Unplugged FT. Dr. Gauri Agarwal | IVF Treatment | Test Tube Baby | Pregnancy | Sperm Count",
+  "thumbnail_path": "thumbnails/zRVvsNxcmhQ_max.jpg",
+  "title_length": 90,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

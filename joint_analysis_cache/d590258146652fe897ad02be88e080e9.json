@@ -1,0 +1,12 @@
+{
+  "title": "Mutant Capitalist: Lube 101- \"What kinds of lubricants can cause condom breakage?\"",
+  "thumbnail_path": "thumbnails/O-HhgXY_v2E_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

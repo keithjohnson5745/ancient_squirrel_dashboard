@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "teal/blue-green (background gradient)": "30%",
+      "black (background)": "40%",
+      "white (shirt, text)": "15%",
+      "light blue (text)": "10%",
+      "skin tones": "5%"
+    },
+    "Composition type": "Medium close-up (main face clearly visible, torso and part of the body included, background image faded)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, confident (direct gaze at viewer)",
+      "demographics": "Adult male, light skin, brown/blond hair"
+    },
+    "Main objects/props featured": [
+      "Face of a man (Matthew Hussey\u2014public figure, but not identified in output as instructed)",
+      "Second faded image of the same man in background"
+    ],
+    "Background environment": "Dark gradient background with a teal/blue-green vignette effect. Faded duplicate image of the same man (possibly speaking into a microphone or in mid-gesture) layered beneath."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (exact transcription)": [
+      "When He Breaks Your Heart Break His Ego",
+      "MATTHEW HUSSEY"
+    ],
+    "Font characteristics": {
+      "main text": {
+        "Style": "Bold sans-serif",
+        "Emphasis": "High, with blue and white color breaks for selective emphasis",
+        "Color": "White (\u201cBreaks Your Heart\u201d, \u201cEgo\u201d), Light blue/cyan (\u201cWhen He\u201d, \u201cBreak His\u201d)",
+        "Size": "Large, dominates upper left to center"
+      },
+      "author name": {
+        "Style": "Serif",
+        "Emphasis": "Medium",
+        "Color": "White",
+        "Size": "Small, bottom left corner"
+      }
+    },
+    "Text placement within frame": {
+      "Main title": "Center-left, vertical stacking, almost covers left half",
+      "Author name": "Bottom left corner, much smaller"
+    },
+    "Use of emotional/trigger words": [
+      "Breaks your heart",
+      "Break his ego"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Assertive, empowering, slightly confrontational but positive/uplifting due to the smiling face",
+    "Visual metaphors or symbols": "Textual metaphor (\u2018Break His Ego\u2019) visualized with bold fonts and color emphasis; the strong confident portrait contrasts with the vulnerability implied by \u2018heartbreak\u2019.",
+    "Clickbait techniques employed": [
+      "Direct emotional appeal (heartbreak, ego)",
+      "Promise of retribution or empowerment after being wronged",
+      "Use of \u2018you\u2019 and \u2018he\u2019 for personal relevance"
+    ],
+    "Brand elements present": [
+      "Prominent name \u2018MATTHEW HUSSEY\u2019 (bottom left, potential brand identity)",
+      "Consistent color scheme with coaching/self-help genre"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces the title": "The assertive, confident facial expression of the man juxtaposed with the bold text (\u2018Break His Ego\u2019) visually underscores the empowerment/revenge theme of the title. The strong portrait suggests authority and advice.",
+    "Contrasts or mismatches": "There is a slight contrast between the confrontational text (suggesting action or payback) and the warm, approachable smile, which may soften the aggressive nature of the advice."
+  }
+}

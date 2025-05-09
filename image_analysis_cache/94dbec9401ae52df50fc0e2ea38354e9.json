@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/off-white (background)": "40%",
+      "White (text and bed)": "25%",
+      "Skin tones": "10%",
+      "Dark brown (hair)": "10%",
+      "Gray/black (shirt, shadows)": "10%",
+      "Brown/tan (cushions)": "5%"
+    },
+    "Composition type": "Medium close-up shot, focused on a single person from the chest up, slightly right-aligned.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Engaged, mouth open mid-speech, direct eye contact. Her expression suggests she is making an important point.",
+      "Demographics": "Young to middle-aged adult woman, light to medium skin tone, long dark brown hair"
+    },
+    "Main objects/props featured": [
+      "Woman in foreground",
+      "Bed with brown and gray pillows in the background"
+    ],
+    "Background environment": "Domestic setting, well-lit bedroom or living room, neutral and tidy with a visible window, lamp, and light walls."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "WOMEN WILL ALWAYS TEST YOU (IF THEY SEE VALUE IN YOU)",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All uppercase, high-impact, designed for quick readability",
+      "Color": "Solid white with a faint drop shadow for contrast"
+    },
+    "Text placement within frame": "Text covers the entire left half and extends along the bottom, clearly layered over the image but leaving the face unobstructed.",
+    "Use of emotional/trigger words": [
+      "ALWAYS",
+      "TEST YOU",
+      "VALUE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct, assertive, and slightly urgent or cautionary. The tone implies valuable insider information about dating.",
+    "Visual metaphors or symbols": "The woman's assertive, open-mouthed pose suggests she's letting the viewer in on a crucial secret or truth.",
+    "Clickbait techniques employed": [
+      "Big, bold 'insider' statement",
+      "Promise of secret/controversial knowledge",
+      "Emotionally charged phrasing ('ALWAYS', 'TEST YOU')"
+    ],
+    "Brand elements present": "No explicit brand logos, but the presence of a woman who may be a recurring host or personality could suggest personal branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail depicts a confident woman directly addressing the viewer, visually communicating the 'Wing Girl Tells All' aspect from the title. The bold text over her underscores the video's promise of real, no-nonsense advice, matching the 'No BS' language in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no obvious visual mismatch; both focus on women giving advice to men. The text on the thumbnail makes a provocative, specific statement, while the title promises a broader summary ('21 Years of No BS Dating Advice'). The thumbnail narrows in on a single potent point, hinting at the type of advice to expect."
+  }
+}

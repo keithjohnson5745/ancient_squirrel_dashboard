@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal blue": "40% (sky, ocean, background tone)",
+      "Orange-red": "20% (raincoat of the older man)",
+      "Dark gray/black": "15% (details on harpoon, birds, shadows)",
+      "Bright green": "10% (text highlight)",
+      "Skin tones": "10% (right subject\u2019s face)",
+      "Other (white/gray highlights, foam)": "5%"
+    },
+    "Composition type": "Composite shot (split into two halves): left side is a dramatic medium shot, right side is a close-up portrait",
+    "Human presence": {
+      "Number of people": 2,
+      "Details": [
+        {
+          "Side": "Left",
+          "Demographics": "Older man, white, grey beard, glasses",
+          "Expression": "Serious/concerned",
+          "Clothing": "Bright orange-red raincoat with hood"
+        },
+        {
+          "Side": "Right",
+          "Demographics": "Younger man, appears South Asian",
+          "Expression": "Neutral/focused",
+          "Clothing": "Red t-shirt"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Harpoon (prominently held by the older man)",
+      "Large whale (center background, leaping from water)",
+      "Ocean waves",
+      "Birds/flying seabirds"
+    ],
+    "Background environment": "Cold, rough ocean with a stormy teal-blue sky, conveying tension and danger"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "THE WAR FOR WHALES",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High (capitalization, strong color contrast)",
+      "Color": "\u2018THE WAR FOR\u2019 is solid white; \u2018WHALES\u2019 is in bright neon green with glow effect"
+    },
+    "Text placement within frame": "'THE WAR FOR' is placed bottom left, stacked above \u2018WHALES\u2019 which is the largest and most prominent, overlapping the lower part of the left side image",
+    "Use of emotional/trigger words": "WAR (implies conflict, urgency, danger), WHALES (triggers empathy/interest in wildlife protection)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "High-stakes, dramatic, urgent, tense",
+    "Visual metaphors or symbols": [
+      "Harpoon symbolizes danger/threat to whales",
+      "Whale rising from water could symbolize majesty or struggle",
+      "Split composition (torn effect) hints at conflict or contrasting perspectives"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic and emotionally charged language ('THE WAR FOR WHALES')",
+      "Contrasting human faces for relatability/conflict",
+      "Strong visual cues of conflict (weapon, intense weather)",
+      "Use of animal subject (whale) provoking emotional response"
+    ],
+    "Brand elements present": [
+      "Presence of the familiar host (Dhruv Rathee\u2019s face as a recognizable brand for his videos)",
+      "Bold, consistent font style typical to the channel\u2019s visual identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail graphically represents a \u2018war\u2019 for whales by showing a threatening harpoon held by a stern figure opposite a prominent whale, echoing the title's promise of revealing underlying conflict. The inclusion of the presenter reinforces the 'inside'/expos\u00e9 angle.",
+    "Any contrasts or mismatches between thumbnail and title": "No overt mismatch; both communicate tension and conflict over whales. The thumbnail dramatizes the implied \u2018war,\u2019 which may be slightly exaggerated visually (with the weapon and mood) compared to a possibly more nuanced real-world conflict, but aligns strongly overall with the title\u2019s intent."
+  }
+}

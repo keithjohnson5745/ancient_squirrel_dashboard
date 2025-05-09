@@ -1,0 +1,13 @@
+{
+  "title": "WATCH: 'America at a Crossroads' \u2014 Judy Woodruff on political divisions | 2025 Reframe Festival",
+  "thumbnail_path": "thumbnails/zS5LLuX2F8o_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

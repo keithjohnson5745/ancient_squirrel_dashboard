@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Bright blue gradient (background)",
+        "percentage": 60
+      },
+      {
+        "color": "White (text)",
+        "percentage": 15
+      },
+      {
+        "color": "Red (sweater)",
+        "percentage": 18
+      },
+      {
+        "color": "Skin tones (face/hand)",
+        "percentage": 7
+      }
+    ],
+    "Composition type": "Medium close-up (shoulders and head of one person prominently shown on right side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Friendly, slight smile, slightly raised brows, neutral to positive",
+      "demographics": "Adult, light-skinned female, medium brown hair pulled back"
+    },
+    "Main objects/props featured": [
+      "Person wearing a red sweater with decorative buttons",
+      "Person pointing to their facial skin (cheek area)"
+    ],
+    "Background environment": "Plain blue gradient background (smooth transition from deeper to lighter blue)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "WHY YOU LOOK OILY",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, clean and modern",
+      "emphasis": "Very high on 'OILY' (extra large, block letters); rest of text slightly smaller but also bold",
+      "color": "White with subtle drop shadow on 'OILY' for emphasis"
+    },
+    "Text placement within frame": "Upper left (WHY YOU LOOK) and center-left (OILY), occupying over half the thumbnail",
+    "Use of emotional/trigger words": [
+      "OILY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inquisitive, slightly concerned but friendly/professional (due to expression, pointing gesture, and text phrasing)",
+    "Visual metaphors or symbols": "Pointing to skin symbolizes personal demonstration or focus on the issue; large bold word \u2018OILY\u2019 highlights the main concern",
+    "Clickbait techniques employed": [
+      "Direct question/accusation-style ('WHY YOU LOOK OILY') prompts curiosity/insecurity",
+      "Large, highlighted trigger word ('OILY')",
+      "Facial gesture/pointing to imply 'this is important'"
+    ],
+    "Brand elements present": "No explicit logo or watermark, but possible indirect branding by recognizable person and style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly mirrors the video title's central topic (oily skin) by stating 'WHY YOU LOOK OILY' and having the person point at their face, emphasizing skin appearance. The inquisitive emoji in the title (\ud83e\udd14) aligns with the questioning style of the thumbnail.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail says 'WHY YOU LOOK OILY' while the title says 'WHY YOU HAVE OILY SKIN'; the meaning is very similar but the thumbnail's wording focuses on visible appearance rather than underlying causes. The thumbnail omits 'DERMATOLOGIST @DrDrayzday,' but the presence of a knowledgeable-looking individual in a clean, clinical visual style implies expertise."
+  }
+}

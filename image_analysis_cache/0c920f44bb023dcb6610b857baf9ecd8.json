@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Neon Green": "Approximately 50% (background)",
+      "Yellow": "Approximately 15% (in text and background gradient)",
+      "Black": "Approximately 10% (text box and clothing details)",
+      "Purple/Magenta": "Approximately 15% (shirt of the woman on the right)",
+      "Skin tones": "Approximately 5% (exposed skin left and right)",
+      "Papaya Orange": "Approximately 5% (fruit held in center/left)"
+    },
+    "Composition type": "Split composition with left side showing a close-up of a female torso and right side featuring a medium shot of a woman.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: No facial expression shown (torso only).",
+        "Right: Woman with wide eyes and open mouth (suggesting surprise, excitement, or emphasis)."
+      ],
+      "Demographics": [
+        "Left: Female body (midsection visible).",
+        "Right: Female-presenting adult, possibly South Asian or Middle Eastern."
+      ]
+    },
+    "Main objects/props featured": [
+      "Half papaya fruit held at crotch area",
+      "Jeans and black underwear visible (left)",
+      "Woman in magenta scrub top (right)"
+    ],
+    "Background environment": "Solid neon green to yellow gradient providing a bold, attention-grabbing contrast."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "WHY WOMEN MASTURBATE",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase",
+      "Emphasis": "High emphasis, with 'MASTURBATE' in yellow and 'WHY WOMEN' in white on black",
+      "Color": "'WHY WOMEN' is white on a black background, 'MASTURBATE' is yellow on a black background"
+    },
+    "Text placement within frame": "Upper center, spanning across both main subjects.",
+    "Use of emotional/trigger words": [
+      "MASTURBATE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct, provocative, and educational with an undertone of humor or light-heartedness.",
+    "Visual metaphors or symbols": [
+      "Papaya fruit at crotch is a visual euphemism for female anatomy and masturbation."
+    ],
+    "Clickbait techniques employed": [
+      "Bold/controversial topic in text",
+      "Bright, contrasting colors",
+      "Suggestive visual metaphor",
+      "Facial expression of surprise"
+    ],
+    "Brand elements present": "No explicit brand logos. Possible personal branding through the presence of the recognizable host (if known to the channel audience)."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Thumbnail uses the papaya as a symbolic euphemism to address female masturbation, directly referencing the topic in the title ('masturbation myths' and 'Will her toy replace me?!').",
+      "The surprised expression matches the idea of confronting myths or taboos."
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "Thumbnail text is more general ('Why Women Masturbate') compared to the specific, myth-busting focus and personal question in the video title.",
+      "Thumbnail implies educational intent but uses a playful, provocative style rather than a seriously myth-debunking tone."
+    ]
+  }
+}

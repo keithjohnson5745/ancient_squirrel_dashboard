@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "pastel teal/light aqua": "approximately 40%",
+      "off-white/cream": "approximately 40%",
+      "white (objects, text backgrounds)": "approximately 15%",
+      "teal (text and accents)": "approximately 5%"
+    },
+    "Composition type": "Medium shot (products clearly framed in the foreground, no human subjects)",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": null,
+      "demographics": null
+    },
+    "Main objects/props featured": [
+      "Vivianaturals Organic Extra-Virgin Coconut Oil jar",
+      "Large bottle of \"Slippery Stuff\" Personal Lubricant Gel",
+      "Packet labeled '\u00fcberlube'"
+    ],
+    "Background environment": "Flat, two-tone background (left side pastel teal, right side off-white/cream) with clean separation; circular logo at the upper center."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Choosing a lube for postpartum pain with sex",
+      "Lady Bird Physical Therapy",
+      "LB",
+      "LadyBirdPT.com",
+      "vivianaturals ORGANIC extra-virgin COCONUT OIL",
+      "Slippery Stuff",
+      "Personal Lubricant GEL",
+      "\u00fcberlube"
+    ],
+    "Font characteristics": {
+      "main headline": {
+        "style": "Serif, professional, easy-to-read",
+        "emphasis": "Bold, large",
+        "color": "Teal"
+      },
+      "sub-brand and website": {
+        "style": "Simple sans-serif",
+        "emphasis": "Normal",
+        "color": "White"
+      },
+      "product labels": "Standard product fonts, mixed serif and sans-serif"
+    },
+    "Text placement within frame": {
+      "headline": "Centered in a white box, slightly right-of-center",
+      "brand logo/text": "Top center (logo), bottom center (website)",
+      "product labels": "On product images (left bottom corner for coconut oil, center for lubricant)"
+    },
+    "Emotional/trigger words": [
+      "pain",
+      "postpartum",
+      "sex"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, clinical, informative. Designed to feel safe, professional, and approachable.",
+    "Visual metaphors or symbols": "Health and wellness products as symbols of self-care and relief. The two-toned background subtly divides the clinical (left) and warm/comforting (right) aspects.",
+    "Clickbait techniques employed": [
+      "Direct mention of sensitive topics (postpartum, sex, pain)",
+      "Large, clear headline targeting a common concern"
+    ],
+    "Brand elements present": [
+      "Logo ('Lady Bird Physical Therapy' with initials 'LB')",
+      "Website address (LadyBirdPT.com)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly shows various lubricants, matching the video's topic on choosing a lube. The clinical yet inviting color palette and clear labeling align with offering expert advice on postpartum comfort.",
+    "Contrasts or mismatches": "None apparent. No misleading or off-topic imagery; the thumbnail and title both focus on providing helpful, specific information about lube selection for postpartum pain during sex."
+  }
+}

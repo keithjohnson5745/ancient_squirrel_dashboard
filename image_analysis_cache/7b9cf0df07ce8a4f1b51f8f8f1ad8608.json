@@ -1,0 +1,99 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "dark green",
+        "percentage": 60
+      },
+      {
+        "color": "yellow",
+        "percentage": 20
+      },
+      {
+        "color": "white",
+        "percentage": 12
+      },
+      {
+        "color": "red",
+        "percentage": 6
+      },
+      {
+        "color": "blue (small text box)",
+        "percentage": 2
+      }
+    ],
+    "composition_type": "Medium shot (single person shown from mid-torso up, with significant text filling the left and upper portion of the frame)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slight smile, slightly assertive with finger-pointing gesture",
+      "demographics": "Adult woman, likely of South Asian descent (based on context)"
+    },
+    "main_objects_props_featured": [
+      "Person (woman)",
+      "Text elements",
+      "Small nameplate with 'Dr. Neha Mehta' on it"
+    ],
+    "background_environment": "Solid dark green gradient, no visible real-world background, keeping focus on text and human subject"
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible": "\u092c\u0940\u0935\u0940 \u0915\u094b \u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?\n- \u0938\u093f\u0930\u094d\u092b \u092a\u0941\u0930\u0941\u0937 \u0939\u0940 \u0926\u0947\u0916\u0947\u0902\nDr. Neha Mehta\nCONSULTANT PSYCHOLOGIST",
+    "font_characteristics": [
+      {
+        "text": "\u092c\u0940\u0935\u0940 \u0915\u094b \u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?",
+        "style": "Bold, sans-serif, uppercase, high contrast",
+        "emphasis": "Strong emphasis, with '\u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?' in yellow",
+        "color": "'\u092c\u0940\u0935\u0940 \u0915\u094b' is white, '\u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?' is yellow"
+      },
+      {
+        "text": "- \u0938\u093f\u0930\u094d\u092b \u092a\u0941\u0930\u0941\u0937 \u0939\u0940 \u0926\u0947\u0916\u0947\u0902",
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "Highlighted by white text on a solid red bar",
+        "color": "White on red background"
+      },
+      {
+        "text": "Dr. Neha Mehta\nCONSULTANT PSYCHOLOGIST",
+        "style": "Sans-serif, all uppercase for the subtitle",
+        "emphasis": "Professional, less bold",
+        "color": "White on dark blue with magenta subtitle"
+      }
+    ],
+    "text_placement_within_frame": [
+      {
+        "text": "\u092c\u0940\u0935\u0940 \u0915\u094b \u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?",
+        "placement": "Centered, dominating upper and middle 2/3 of the frame"
+      },
+      {
+        "text": "- \u0938\u093f\u0930\u094d\u092b \u092a\u0941\u0930\u0941\u0937 \u0939\u0940 \u0926\u0947\u0916\u0947\u0902",
+        "placement": "Bottom left, on a red bar"
+      },
+      {
+        "text": "Dr. Neha Mehta",
+        "placement": "Bottom right (within the blue nameplate, near the person)"
+      }
+    ],
+    "use_of_emotional_trigger_words": [
+      "'\u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?' (What does [she] want?) \u2014 creates curiosity and emotional engagement",
+      "'\u0938\u093f\u0930\u094d\u092b \u092a\u0941\u0930\u0941\u0937 \u0939\u0940 \u0926\u0947\u0916\u0947\u0902' (Only men should watch) \u2014 direct, exclusionary, creates intrigue and urgency"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Direct, informative, slightly provocative (focused on piquing male curiosity about what women want in relationships). Professional due to the presence of a named psychologist.",
+    "visual_metaphors_or_symbols": [
+      "Finger-pointing gesture towards viewer \u2014 used to address and engage male viewers personally"
+    ],
+    "clickbait_techniques_employed": [
+      "Big, bold text with a question ('What does wife want?')",
+      "Exclusionary statement ('Only men should watch')",
+      "Promise of secrets or insight",
+      "Professional branding ('Dr. Neha Mehta') to add authority"
+    ],
+    "brand_elements_present": [
+      "Nameplate/logo of 'Dr. Neha Mehta'",
+      "Use of white lab coat to suggest professionalism"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "how_thumbnail_reinforces_title": "The thumbnail uses large, bold text to ask '\u092c\u0940\u0935\u0940 \u0915\u094b \u0915\u094d\u092f\u093e \u091a\u093e\u0939\u093f\u090f?' ('What does the wife want?'), echoing the video's promise to provide insights into women's desires\u2014matching the title's 'Top 5 Tips to Turn-On Women'. The red banner 'Only men should watch' narrows the target audience, aligning with the title's male-oriented advice. The presence of a female psychologist lends both credibility and relevance to the subject.",
+    "contrasts_or_mismatches": "There is a slight mismatch: the thumbnail's wording focuses on the broader question of 'what does a wife want?'\u2014which can be interpreted as either emotional, psychological, or sexual needs\u2014whereas the title is specifically about sexual attraction/turn-ons. The thumbnail is more family-friendly and ambiguous, while the title is more explicit about sexual content."
+  }
+}

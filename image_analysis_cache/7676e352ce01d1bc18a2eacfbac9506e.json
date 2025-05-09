@@ -1,0 +1,105 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Soft pink (cherry blossoms)",
+        "percentage": "25%"
+      },
+      {
+        "color": "Warm wood brown (deck, furniture, cabin)",
+        "percentage": "30%"
+      },
+      {
+        "color": "Green (trees, foliage)",
+        "percentage": "20%"
+      },
+      {
+        "color": "Turquoise/teal (lake water)",
+        "percentage": "15%"
+      },
+      {
+        "color": "Cream/Beige (pillows, blankets)",
+        "percentage": "5%"
+      },
+      {
+        "color": "Dark accents (metal stove, text shadow)",
+        "percentage": "5%"
+      }
+    ],
+    "Composition type": "Wide shot (full porch area, landscape, and environment in view)",
+    "Human presence": {
+      "number": 0,
+      "expressions": "N/A (No people visible)",
+      "demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Cozy outdoor sofa with pillows",
+      "Wooden coffee table with breakfast/tea set and flowers",
+      "Fireplace/wood stove",
+      "Wooden picnic table set with cups, fruit, candles, books",
+      "Cabin/coffee bar with books and pastries",
+      "Hanging pendant lights"
+    ],
+    "Background environment": "Lush forest with evergreen trees, blooming cherry blossom trees, tranquil lake with forested hills in distance, wooden porch/deck area"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "RELAXING SPRING JAZZ",
+      "Coffee Shop Ambience"
+    ],
+    "Font characteristics": [
+      {
+        "text": "RELAXING SPRING JAZZ",
+        "style": "Bold, condensed sans-serif, all caps, white with subtle black shadow",
+        "emphasis": "Very high (large and centrally placed)"
+      },
+      {
+        "text": "Coffee Shop Ambience",
+        "style": "Decorative handwritten/script font, cursive, white with faint shadow",
+        "emphasis": "Medium (smaller, placed below main text)"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "RELAXING SPRING JAZZ": "Centered horizontally, upper-middle of the image"
+      },
+      {
+        "Coffee Shop Ambience": "Centered, directly below main heading"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "Relaxing",
+      "Spring",
+      "Jazz",
+      "Ambience",
+      "Coffee Shop"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, inviting, peaceful, cozy, uplifting",
+    "Visual metaphors or symbols": [
+      "Cherry blossoms for spring renewal and beauty",
+      "Warm lighting and fire for coziness/comfort",
+      "Food/coffee setup for social atmosphere and relaxation"
+    ],
+    "Clickbait techniques employed": [
+      "Visually rich and idealized setting",
+      "Use of tranquil colors and relaxing imagery",
+      "Overt text promise of 'relaxing' and 'ambience'",
+      "Combination of popular themes (jazz, coffee shop, spring)"
+    ],
+    "Brand elements present": [
+      "No explicit branding/logo, but the style is on-brand for cozy/jazz/ambience YouTube channels"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail directly supports the title by showing a spring setting (cherry blossoms), coziness (comfortable outdoor furniture, blankets, warm fire), and jazz/coffee shop atmosphere (coffee cups, pastries, books, soft lighting).",
+      "The ambience and color palette evoke a sense of peace, matching the use of 'relaxing' and 'ambience' in the title."
+    ],
+    "Contrasts or mismatches": [
+      "No explicit mention or symbol of jazz music (musical instruments or notes), but the cozy coffee shop setting implies it.",
+      "Porch is implied by the deck, but it's a broader 'outdoor coffee shop' rather than a residential porch."
+    ]
+  }
+}

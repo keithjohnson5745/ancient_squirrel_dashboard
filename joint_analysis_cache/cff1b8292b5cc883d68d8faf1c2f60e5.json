@@ -1,0 +1,13 @@
+{
+  "title": "How The US' Biggest Garlic Producer Survived The Fall Of American Garlic | Big Business",
+  "thumbnail_path": "thumbnails/V9YfnLGoJL8_max.jpg",
+  "title_length": 87,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

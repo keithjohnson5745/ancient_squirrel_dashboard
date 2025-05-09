@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "40% (mainly the bottle label and liquid)",
+      "Blue": "20% (sleep mask and starry background)",
+      "Black/Dark Blue": "30% (background stars/space)",
+      "Skin tones": "10% (face and hands)"
+    },
+    "Composition type": "Medium close-up (one person\u2019s head, hand, and a large foreground object/bottle filling most of the frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, possibly a slight smile, direct gaze at viewer",
+      "Demographics": "Adult, light skin tone, bald male"
+    },
+    "Main objects/props featured": [
+      "Large bottle of Bragg Organic Apple Cider Vinegar",
+      "Blue sleep mask (being lifted off one eye by person\u2019s hand)"
+    ],
+    "Background environment": "Starry night sky/space, giving a sleep or nighttime context"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "BRAGG",
+      "ORGANIC",
+      "RAW \u2022 UNFILTERED",
+      "APPLE CIDER VINEGAR",
+      "With The 'Mother'",
+      "DOCTOR EKBERG"
+    ],
+    "Font characteristics": {
+      "Main bottle label (BRAGG and subtext)": "Bold, sans-serif, red and yellow background, high emphasis due to bright colors and large sizes",
+      "'DOCTOR EKBERG'": "Bold, all-caps, white text on black background (bottom right), sans-serif"
+    },
+    "Text placement within frame": {
+      "Bottle label": "Left half, vertically stacked on bottle facing viewer",
+      "'DOCTOR EKBERG'": "Bottom right corner"
+    },
+    "Use of emotional/trigger words": [
+      "ORGANIC",
+      "RAW",
+      "UNFILTERED",
+      "'MOTHER'",
+      "VINEGAR"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, informational, slightly reassuring with a hint of intrigue (emphasized by sleep mask and person\u2019s direct gaze)",
+    "Visual metaphors or symbols": [
+      "Apple cider vinegar bottle = subject of experiment or health tip",
+      "Sleep mask = night/sleep = bedtime theme"
+    ],
+    "Clickbait techniques employed": [
+      "Large, recognizable brand/product in foreground",
+      "Direct gaze from person (establishes connection/trust)",
+      "Visual cue (sleep mask) quickly communicates context (bedtime)",
+      "Bright colors and clear high-contrast text for attention"
+    ],
+    "Brand elements present": [
+      "Bragg product (clearly visible)",
+      "Doctor Ekberg branding/logo bottom right"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail features a large, prominent bottle of apple cider vinegar (the video\u2019s subject), and a person preparing for sleep by partially lifting a sleep mask, which directly relates to the 'before bedtime' element in the title. The space/night background further emphasizes the bedtime context.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts or mismatches. Both the visual and textual elements clearly align with the video's topic about drinking apple cider vinegar before bed, creating a cohesive and instantly understandable message."
+  }
+}

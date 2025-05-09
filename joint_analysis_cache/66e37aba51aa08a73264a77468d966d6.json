@@ -1,0 +1,11 @@
+{
+  "title": "Death Valley Days",
+  "thumbnail_path": "thumbnails/4zj3k6jtjU0_max.jpg",
+  "title_length": 17,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

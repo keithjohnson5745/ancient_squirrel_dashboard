@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow (background/text bar)": "25%",
+      "Green (left woman's dress)": "15%",
+      "Purple/Lavender (right woman's top)": "10%",
+      "Pale skin tones": "20%",
+      "Blue (sky, sea, jeans)": "20%",
+      "Red (wine, lips, lifebuoy)": "5%",
+      "Other earth tones": "5%"
+    },
+    "Composition type": "Split-screen medium shot (side-by-side comparison)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: confident, unsmiling, slightly aloof",
+        "Right: friendly, smiling, approachable"
+      ],
+      "Demographics": [
+        "Left: Female-presenting, light skin, blonde hair, young adult",
+        "Right: Female-presenting, light skin, brown hair, young adult"
+      ]
+    },
+    "Main objects/props featured": [
+      "Wine glass (left person)",
+      "Bright green dress (left person)",
+      "Background cruise ship elements (left side, lifebuoy)",
+      "Eiffel Tower, cityscape, and purple top (right person)"
+    ],
+    "Background environment": [
+      "Left: Outdoor cruise ship deck with ocean, life ring, birds, sky",
+      "Right: Urban cityscape with the Eiffel Tower and classic architecture"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "WHO'S FAKE RICH?",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all-caps",
+      "Emphasis": "Strong emphasis (heavy weight, black color)",
+      "Color": "Black text on a bright yellow background",
+      "Outline/shadow": "No visible outline/shadow"
+    },
+    "Text placement": "Top center, spanning nearly the full width of the thumbnail",
+    "Use of emotional/trigger words": [
+      "FAKE",
+      "RICH",
+      "WHO'S"
+    ],
+    "Notes": "Text size is very large for high visibility and immediate impact."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, intriguing, slightly challenging/competitive (invites viewer to solve a puzzle or spot a difference)",
+    "Visual metaphors or symbols": [
+      "Contrasting settings and outfits symbolize wealth/luxury (cruise, wine glass, famous city, fashion choices)",
+      "Split screen as a direct comparison or 'spot the difference' challenge"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question in text",
+      "Capitalization for emphasis",
+      "Appealing to curiosity ('fake rich' mystery)",
+      "Bright, saturated colors to grab attention",
+      "Contrasting characters/scenarios"
+    ],
+    "Brand elements present": [
+      "Bright yellow-black header (common in brain-riddle/quiz channels)",
+      "Cartoon/illustrated style (often associated with channels that post brain teasers)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail features a clear visual puzzle (asking viewers to determine who is 'fake rich' between the two illustrated characters), which directly mirrors the intellectual challenge implied in the title 'Solve Better, Think Faster: Riddles to Boost Your IQ.'",
+    "Contrasts or mismatches": "No significant mismatches: both thumbnail and title promise an engaging riddle/brain teaser experience. The only slight difference is the thumbnail targets one specific riddle, while the title refers to multiple riddles/IQ improvement overall."
+  }
+}

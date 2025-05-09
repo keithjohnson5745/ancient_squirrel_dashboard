@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40%",
+      "Bright blue": "10%",
+      "Black": "15%",
+      "Bright yellow": "8%",
+      "Magenta (hot pink)": "15%",
+      "Beige/skin tone": "10%",
+      "Light grayish background": "2%"
+    },
+    "Composition type": "Medium close-up, with the person's face prominently occupying the right side and text filling the left side.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral-concerned expression, direct eye contact, closed mouth.",
+      "demographics": "Adult woman, fair skin, blonde hair."
+    },
+    "Main objects/props featured": [
+      "Large yellow question mark",
+      "Text blocks"
+    ],
+    "Background environment": "Out-of-focus, plain light background (possibly indoors), no distinct details."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "WHAT NEXT",
+      "next period?",
+      "are you fertile?",
+      "can you try?",
+      "what to expect?",
+      "MISCARRIAGE"
+    ],
+    "Font characteristics": {
+      "WHAT NEXT": "Bold, sans-serif, uppercase, large, blue.",
+      "next period? are you fertile? can you try? what to expect?": "Bold, sans-serif, lowercase, black.",
+      "MISCARRIAGE": "Very bold, sans-serif, uppercase, white over a magenta/hot pink background."
+    },
+    "Text placement": {
+      "WHAT NEXT": "Top left",
+      "next period?...what to expect?": "Below 'WHAT NEXT' on the left side, vertically stacked",
+      "MISCARRIAGE": "Large banner across entire bottom"
+    },
+    "Emotional/trigger words": [
+      "MISCARRIAGE",
+      "WHAT NEXT",
+      "what to expect",
+      "can you try?",
+      "are you fertile?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, empathetic, and informative, with a hint of urgency and support.",
+    "Visual metaphors or symbols": [
+      "Large yellow question mark symbolizes uncertainty and questions after miscarriage."
+    ],
+    "Clickbait techniques employed": [
+      "Big, bold and emotionally charged keyword ('MISCARRIAGE')",
+      "Questions that provoke curiosity and personal relevance (next period?, are you fertile?, can you try?)",
+      "Directly addressing viewers' anxieties"
+    ],
+    "Brand elements present": "No overt branding or logos visible."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail explicitly mirrors the video's title by using related key phrases ('WHAT NEXT', 'MISCARRIAGE', questions about period/fertility) and visual symbols (question mark) to convey confusion and the search for answers after a miscarriage.",
+    "Contrasts/mismatches": "None apparent. The thumbnail accurately and sensitively reflects the video\u2019s promised subject matter."
+  }
+}

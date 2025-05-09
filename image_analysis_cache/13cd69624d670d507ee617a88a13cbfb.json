@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/light brown": "40%",
+      "White": "25%",
+      "Black": "15%",
+      "Purple": "10%",
+      "Red/Accent colors": "10%"
+    },
+    "Composition type": "Medium shot (half-body, subject prominently framed centrally)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Focused/serious, looking down at wristwatch (indicating contemplation or assessment)",
+      "Demographics": "Adult woman, glasses, light skin tone, brown hair"
+    },
+    "Main objects/props featured": [
+      "Large wall clock (showing close to noon/midnight, indicating time as a concept)",
+      "Wristwatch (being checked by the woman)"
+    ],
+    "Background environment": "Blurred indoor/home environment, warm lighting, neutral tones, possible wooden furniture (dresser, lamp in the background)"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "WHAT FSH & AMH",
+      "actually mean"
+    ],
+    "Font characteristics": {
+      "WHAT FSH & AMH": {
+        "Style": "Bold, sans-serif, all capitals",
+        "Emphasis": "Strong, blocky appearance, high contrast against background",
+        "Color": "White"
+      },
+      "actually mean": {
+        "Style": "Cursive/script, lowercase",
+        "Emphasis": "Informal, softer feeling, appears handwritten",
+        "Color": "White"
+      }
+    },
+    "Text placement within frame": {
+      "WHAT FSH & AMH": "Top left quadrant",
+      "actually mean": "Upper right quadrant"
+    },
+    "Use of emotional/trigger words": [
+      "actually"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, informative, slightly urgent (due to 'time' theme and subject's expression)",
+    "Visual metaphors or symbols": [
+      "Clock and checking wristwatch symbolize 'biological clock' or time sensitivity",
+      "Scientific abbreviations (FSH & AMH) visually reinforce medical/technical topic"
+    ],
+    "Clickbait techniques employed": [
+      "Direct questions about misunderstood/complex topics",
+      "Use of 'actually' to suggest hidden truths or clarifications",
+      "Time symbolism to trigger urgency"
+    ],
+    "Brand elements present": []
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail reinforces the video\u2019s focus on egg quality and reproductive health by visually emphasizing time (biological clock), and scientific terms directly mentioned in the context of fertility.",
+    "Contrasts or mismatches": "No major mismatch; the thumbnail accurately supports the title's promises. However, the thumbnail text highlights FSH and AMH specifically, while the title focuses on 'egg quality' and 'bad eggs' more generally."
+  }
+}

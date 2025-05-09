@@ -1,0 +1,13 @@
+{
+  "title": "\u0938\u0930\u0938\u094b\u0902 \u092f\u093e \u0928\u093e\u0930\u093f\u092f\u0932 \u0915\u094c\u0928\u0938\u093e Oil \u0939\u0948 Best?",
+  "thumbnail_path": "thumbnails/COh4IetNduE_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

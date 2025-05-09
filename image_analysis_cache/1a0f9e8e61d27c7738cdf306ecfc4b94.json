@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light Beige/Off-white": "60% (background and shirt)",
+      "Dark Purple/Maroon": "20% (banner behind 'Intercourse')",
+      "Blue": "10% (pregnancy test tip, lower text box)",
+      "Black": "5% (text)",
+      "Other colors": "5% (skin tone, logo colors, nails)"
+    },
+    "Composition type": "Medium shot (human subject from the chest up, prominently showing an object in hand)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling (mouth visible, positive expression)",
+      "Demographics": "Young adult female (exact age or ethnicity not specified)"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test (held in foreground, clearly visible, blue and white)",
+      "Text banners",
+      "Circular portrait inset (doctor's headshot)"
+    ],
+    "Background environment": "Plain, soft-focus, neutral/light-colored background. No distinct environmental context, which brings focus to the foreground elements."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Intercourse \u0915\u0947 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 \u092c\u093e\u0926 \u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 ?",
+      "Dr. Jay Mehta",
+      "Advanced IVF Specialist Shree IVF Clinic, Mumbai",
+      "SHREE IVF CLINIC"
+    ],
+    "Font characteristics": {
+      "'Intercourse'": "Bold, sans-serif, white text on dark maroon/purple background (high emphasis, attention-grabbing)",
+      "Hindi text": "Bold, sans-serif, black, prominent, easy to read",
+      "Doctor name and credentials": "White, sans-serif, standard weight on dark blue background (professional, secondary emphasis)",
+      "Logo text": "Modern sans-serif, thinner lines, black/grey, smaller"
+    },
+    "Text placement within frame": {
+      "Top left": "Clinic logo and name",
+      "Center-left": "'Intercourse \u0915\u0947 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 \u092c\u093e\u0926 \u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 ?' (main question)",
+      "Bottom left": "Portrait of Dr. Jay Mehta, name, and credentials in a blue box"
+    },
+    "Use of emotional/trigger words": [
+      "Intercourse"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, hopeful, informative (smiling face, pregnancy test held up with pride/excitement)",
+    "Visual metaphors or symbols": [
+      "Pregnancy test (clear symbol for conception/pregnancy topic)",
+      "Doctor's portrait (authority, trustworthiness)",
+      "Medical clinic logo (legitimacy)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question ('\u0915\u0947 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 \u092c\u093e\u0926 \u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 ?'), promises clear and useful medical information",
+      "Use of sensitive/curiosity-inducing keywords ('Intercourse', 'pregnant')",
+      "Smiling face with relatable object (pregnancy test)"
+    ],
+    "Brand elements present": [
+      "SHREE IVF CLINIC logo",
+      "Portrait and credentials of Dr. Jay Mehta"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows a smiling woman holding a pregnancy test, visually representing the subject of pregnancy after intercourse mentioned in the video title. The presence of a medical professional's portrait and the IVF clinic branding further reinforce the informative, expert-driven theme suggested by the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The thumbnail, text, visual elements, and emotional tone are all consistent with the video\u2019s title and intended topic (timing of pregnancy after intercourse/medical expertise)."
+  }
+}

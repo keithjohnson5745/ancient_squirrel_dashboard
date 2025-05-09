@@ -1,0 +1,11 @@
+{
+  "title": "ABC World News Tonight with David Muir Full Broadcast - May 5, 2025",
+  "thumbnail_path": "thumbnails/hT7eS0HOtA4_max.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

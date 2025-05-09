@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "30%",
+      "Light Beige/Tan": "25%",
+      "Black": "20%",
+      "Purple": "10%",
+      "Green (Plant)": "5%",
+      "Other (Gray from shadows, skin tones, pinkish lipstick, etc)": "10%"
+    },
+    "Composition type": "Medium shot (shows the upper half of a woman seated on a couch; full face and some of the background visible)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Female, middle-aged, slight or gentle smile, direct eye contact with camera, appears friendly and professional",
+      "demographics": "Adult woman, Asian descent, wearing glasses, short black hair, simple jewelry"
+    },
+    "Main objects/props featured": [
+      "Woman in glasses",
+      "Couch with a striped pillow",
+      "Indoor plant in background",
+      "Piano (far left, partially visible)"
+    ],
+    "Background environment": "Home or office interior, neutral and clean; beige walls, window blinds with diffused light, a plant, piano, and modern furniture"
+  },
+  "TEXT ELEMENTS": {
+    "All visible text": [
+      "MENOPAUSE NA",
+      "DRY",
+      "MASAKIT",
+      "WALANG GANA"
+    ],
+    "Font characteristics": {
+      "Font style": "Bold, Sans-serif",
+      "Emphasis": "High contrast, uppercase, prominent drop shadow/outlines for visibility",
+      "Color": {
+        "MENOPAUSE NA": "Purple text, bold with white background",
+        "DRY MASAKIT WALANG GANA": "White text on purple boxes"
+      }
+    },
+    "Text placement within frame": "Text is left-aligned, taking up the upper left quadrant of the thumbnail in stacked boxes; main phrase ('MENOPAUSE NA') at the top, followed by three smaller purple rectangles stacked vertically below.",
+    "Use of emotional/trigger words": [
+      "MENOPAUSE",
+      "DRY",
+      "MASAKIT",
+      "WALANG GANA"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, empathetic, slightly clinical but approachable; addressing sensitive health topics in a reassuring manner.",
+    "Visual metaphors or symbols": "Text boxes and clarity evoke medical/educational professionalism; purple may hint at health/awareness themes.",
+    "Clickbait techniques employed": [
+      "Emotionally loaded keywords (masakit, walang gana, menopause)",
+      "Directly addressing common menopausal struggles (DRY, MASAKIT, WALANG GANA)",
+      "Clear implication of direct advice from an expert (visual of professional woman)"
+    ],
+    "Brand elements present": "Possible personal brand presence (doctor or professional woman), vlog number and OBGYN reference in title but not visually branded in the thumbnail"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually echoes the title almost word-for-word, with all key terms from the title ('MENOPAUSE NA', 'DRY', 'MASAKIT', 'WALANG GANA') displayed prominently. The presence of a woman who appears to be a doctor or health expert strengthens the OBGYN/medical vlog context.",
+    "Contrasts or mismatches": "There is high alignment between the thumbnail and the title. The only notable difference is the absence of explicit OBGYN or vlog numbering within the thumbnail \u2013 such context is only given in the video title, not in the image."
+  }
+}

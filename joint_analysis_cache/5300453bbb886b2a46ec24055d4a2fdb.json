@@ -1,0 +1,13 @@
+{
+  "title": "Pichhe \u0938\u0947 \u0910\u0938\u0947 \u0926\u0930\u094d\u0926 \u0928\u0939\u0940 \u0939\u094b\u0917\u093e @healthbabycare",
+  "thumbnail_path": "thumbnails/Ogvy2eU4N-s_high.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

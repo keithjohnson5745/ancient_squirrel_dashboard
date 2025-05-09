@@ -1,0 +1,83 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/black": "30% (background, left segment)",
+      "White/cream": "20% (middle - pope robe, text)",
+      "Tan/light skin tones": "20% (faces, arms)",
+      "Gold/yellow": "10% (pope accessories, chair, cross)",
+      "Red/orange": "10% (lightsaber, flags, skin highlights)",
+      "Muted green/brown": "5% (backgrounds on right and middle)",
+      "American flag colors": "5% (right background)"
+    },
+    "Composition type": "Close-up/medium shot collage (three vertically split segments)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: neutral/smiling, friendly (TV host)",
+        "Middle: serious, stern (dressed as pope)",
+        "Right: stern/angry (muscular, Jedi-like)"
+      ],
+      "Demographics": [
+        "Apparent male, adult, light skin, varied attire/roles (TV host, political figure)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Television host in suit (left segment)",
+      "Person dressed as pope (middle segment)",
+      "Person in muscular, fantasy/Jedi attire with a red lightsaber (right segment)",
+      "Golden throne, papal regalia (middle)",
+      "American flag, bald eagles (right)"
+    ],
+    "Background environment": [
+      "Left: Night cityscape, studio lights (TV studio vibe)",
+      "Middle: Ornate gold throne, regal setting",
+      "Right: Dramatic backdrop with bald eagles, US flags, painterly style"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "JIMMY Kimmel LIVE!",
+      "ORANGE IS THE NEW POPE"
+    ],
+    "Font characteristics": {
+      "JIMMY Kimmel LIVE!": "Bold sans-serif for 'JIMMY' and 'LIVE!', script for 'Kimmel', white color, modern/clean",
+      "ORANGE IS THE NEW POPE": "Bold, all-caps sans-serif, white letters, high contrast, placed on blue transparent overlay"
+    },
+    "Text placement within frame": [
+      "'JIMMY Kimmel LIVE!': Bottom left corner",
+      "'ORANGE IS THE NEW POPE': Lower third, centered across the width"
+    ],
+    "Use of emotional/trigger words": [
+      "ORANGE IS THE NEW POPE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Humorous, satirical, absurd; hints of mockery and pop culture references",
+    "Visual metaphors or symbols": [
+      "Pope attire: Religious authority",
+      "Lightsaber & Jedi attire: Star Wars parody, pop culture hero/villain",
+      "Bald eagles, US flags: Patriotism/exaggerated American imagery",
+      "Muscular physique: Exaggeration, hyperbole"
+    ],
+    "Clickbait techniques employed": [
+      "Absurd/fantastical depictions (Trump as pope, as Jedi)",
+      "Juxtaposition of real and fictional personas",
+      "Bold/emotional headline text",
+      "Parody of well-known shows/themes"
+    ],
+    "Brand elements present": [
+      "Jimmy Kimmel Live! logo/style in corner"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Title references 'Trump Wants to be the Next Pope'\u2014thumbnail shows him as pope.",
+      "Title mentions Star Wars Day\u2014thumbnail depicts Trump as a Jedi with a lightsaber.",
+      "The title\u2019s comedy and topical references are echoed in the exaggerated, parodic imagery."
+    ],
+    "Contrasts/mismatches": [
+      "Title references Hollywood tariffs; thumbnail focuses entirely on religious and Star Wars imagery (not Hollywood/industry icons).",
+      "Humor and satire align well, but the thumbnail omits visual reference to the tariff/Hollywood aspect of the title."
+    ]
+  }
+}

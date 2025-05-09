@@ -1,0 +1,84 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "60%",
+      "Yellow": "10%",
+      "White": "10%",
+      "Beige/Cream (speech bubbles)": "10%",
+      "Black (text)": "5%",
+      "Skin tone/hair": "5%"
+    },
+    "Composition type": "Medium close-up",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Discomfort, frustration, or concern (grimacing/teeth bared)",
+      "Demographics": "Adult female, light skin, curly brown hair, wearing a white medical coat"
+    },
+    "Main objects/props featured": [
+      "Doctor (center)",
+      "Speech bubbles with questions",
+      "Microscopic image of yeast",
+      "Medical prescription tube/ointment (upper left)"
+    ],
+    "Background environment": "Solid light blue background with a semi-translucent illustration of yeast cells"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "YEAST INFECTIONS",
+      "WHAT IF IT COMES BACK?!",
+      "HOW DO I TREAT IT?",
+      "HELP!!",
+      "@DRJENNIFERLINCOLN (bottom left, small)",
+      "Jennifer Lincoln, MD OB Hospitalist (on lab coat, partially visible)"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif for main text",
+      "Emphasis": "All caps, very bold for 'YEAST INFECTIONS' and speech bubbles; subtle shadow/outline effects for visibility",
+      "Color": "'YEAST INFECTIONS' is black on a yellow banner; speech bubbles are black text on beige/cream; social handle is plain black; name badge is standard medical embroidery"
+    },
+    "Text placement": {
+      "'YEAST INFECTIONS'": "Top center, within a yellow rectangular banner",
+      "Speech bubbles": [
+        "Top left (WHAT IF IT COMES BACK?!)",
+        "Bottom left (HOW DO I TREAT IT?)",
+        "Bottom right (HELP!!)"
+      ],
+      "@DRJENNIFERLINCOLN": "Bottom left corner, subtle",
+      "Name badge": "On person's white coat, lower right, small"
+    },
+    "Emotional/trigger words": [
+      "HELP!!",
+      "WHAT IF IT COMES BACK?!",
+      "HOW DO I TREAT IT?",
+      "INFECTIONS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sense of urgency, concern, and need for answers/help",
+    "Visual metaphors or symbols": [
+      "Yeast cells as a visual metaphor for the infection",
+      "Speech bubbles to symbolize common/exasperated questions",
+      "Medical coat and ointment tube to reinforce expert credibility and treatment theme"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, emotional/urgent questions",
+      "Large, bold text and bright colors for visibility",
+      "Distressed facial expression to convey seriousness",
+      "Speech bubbles to mimic user questions"
+    ],
+    "Brand elements present": [
+      "Dr. Jennifer Lincoln's name and social handle",
+      "Professional medical attire",
+      "Consistent color scheme and design"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title by": [
+      "Showing the medical expert (Dr. Lincoln) whose name is in the title",
+      "Displaying visual yeast cells to directly reference the infection",
+      "Highlighting common urgent questions from viewers that are referenced in the video title",
+      "Use of the word 'HELP!!' to match the title's focus on solutions"
+    ],
+    "Contrasts or mismatches": "No significant mismatch. The thumbnail is visually aligned with the title's explicit education/explanation intent and urgency; both use clear, direct language and medical imagery."
+  }
+}

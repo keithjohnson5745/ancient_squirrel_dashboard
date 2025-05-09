@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Hot pink": "25%",
+      "White": "20%",
+      "Black": "30%",
+      "Blue (scrubs)": "15%",
+      "Skin tones": "5%",
+      "Gray (background image)": "5%"
+    },
+    "Composition type": "Medium shot featuring a single person prominently on the right, with a blurred grayscale background image behind.",
+    "Human presence": {
+      "Number of people": "1 clearly visible person in the foreground (adult male, wearing glasses and blue medical scrubs)",
+      "Expressions": "Neutral, serious, slightly engaged",
+      "Demographics": "Male, light skin, gray/white hair, appears middle-aged; background figures are blurred and not distinct."
+    },
+    "Main objects/props featured": [
+      "Person in blue scrubs with microphone attached",
+      "Eyeglasses",
+      "Prominent text overlay"
+    ],
+    "Background environment": "Heavily blurred grayscale image, appears to show additional people (possibly a couple) in a home or medical context, but indistinct and secondary."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "5 NATURAL FERTILITY HACKS",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase",
+      "Emphasis": "Strong emphasis via size and color contrast; words 'FERTILITY HACKS' are largest",
+      "Color": "Hot pink with a white outline on a black or white background for extra contrast"
+    },
+    "Text placement within frame": "Left side and center of the image, staggered vertically on three lines. First line ('5 NATURAL') in a white box, second ('FERTILITY') in a larger white box, third ('HACKS') below.",
+    "Use of emotional/trigger words": [
+      "NATURAL",
+      "FERTILITY",
+      "HACKS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, authoritative (due to clinical attire, direct eye contact), slightly energetic due to vibrant colors.",
+    "Visual metaphors or symbols": "Clinical attire and microphone reinforce expertise; grayscale background may symbolize seriousness or a 'problem to be solved.' Use of 'hacks' implies simple and practical solutions.",
+    "Clickbait techniques employed": [
+      "Use of a list format ('5 NATURAL...')",
+      "Bold promise of 'hacks' or easy solutions",
+      "High contrast colors and attention-grabbing font",
+      "Expert figure in medical attire gives authority and trust"
+    ],
+    "Brand elements present": "No explicit corporate branding, but medical attire and professional presentation add to perceived authority."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text in the thumbnail closely mirrors the video title\u2019s key theme (natural fertility solutions). The presence of a medical expert visually supports the legitimacy of the advice. The list/numbered format ('5'), focus on 'natural', and mention of 'fertility' directly tie to the search intent.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail uses 'HACKS' while the title uses 'Proven Ways That Work', with 'hacks' being more casual and trendy. Both imply actionable tips. No significant mismatches; the tone of quick solutions is more pronounced in the thumbnail."
+  }
+}

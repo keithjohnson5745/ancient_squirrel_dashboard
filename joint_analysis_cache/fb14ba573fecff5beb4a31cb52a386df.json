@@ -1,0 +1,12 @@
+{
+  "title": "Forensics Expert Explains How to Lift Fingerprints | WIRED",
+  "thumbnail_path": "thumbnails/OONfQcGd-uE_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

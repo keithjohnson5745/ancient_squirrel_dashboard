@@ -1,0 +1,13 @@
+{
+  "title": "Oprah and a Doctor Explore What Near Death Experiences Reveal About Life and Beyond",
+  "thumbnail_path": "thumbnails/DLw5Y0tA4xg_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

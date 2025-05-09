@@ -1,0 +1,13 @@
+{
+  "title": "Amazing Foods Women Should Eat To Naturally Balance Hormones | Dr. William Li",
+  "thumbnail_path": "thumbnails/4drXacgVuow_max.jpg",
+  "title_length": 77,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

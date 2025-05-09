@@ -1,0 +1,13 @@
+{
+  "title": "Which lubricant is SAFE on RUBBER?",
+  "thumbnail_path": "thumbnails/0_Ab3MyVxiE_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

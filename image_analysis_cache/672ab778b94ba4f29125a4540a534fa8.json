@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "red": "about 55% (background, main overlay)",
+      "yellow": "about 15% (text, accent lines, check/cross symbols)",
+      "white": "about 15% (text, doctor's coat, background shapes)",
+      "blue": "about 7% (lower bar, logo area, jeans of people on couch)",
+      "black": "about 5% (hair of doctor, some text accents)",
+      "other": "about 3% (skin tones, beige background of couch scene)"
+    },
+    "Composition type": "Composite: split between a wide/medium shot on the left (two people on a couch) and a medium close-up on the right (doctor portrait with plain background); dominant text overlays the image.",
+    "Human presence": {
+      "number of people": 3,
+      "expressions": [
+        "Left: Male (confused/worried/uncertain expression, looking forward, arm extended); Female (upset, somewhat turned away from male, folded arms, neutral or disapproving look)",
+        "Right: Female (confident, neutral, slightly smiling \u2013 presenting/authoritative pose)"
+      ],
+      "demographics": [
+        "Young adult male, young adult female (left, possibly siblings or couple); adult female (right, presented as professional, consultant)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Sofa",
+      "Two yellow circles \u2013 one with a cross (\u2717), one with a tick (\u2713)",
+      "Doctor's coat (professional identity)",
+      "Name badge/logo (Dr. Neha Mehta)"
+    ],
+    "Background environment": "Left: indoor, home-like (sofa, neutral decor, blurred/faded to focus on text); Right: plain red background (clean and graphic look)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u092c\u0939\u0928 \u0938\u0947 \u0915\u0930\u0928\u0947 \u0915\u093e \u092e\u0928 \u0939\u094b\u0924\u093e \u0939\u0948?",
+      "\u0917\u0932\u0924 \u092f\u093e \u0938\u0939\u0940",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase for (wrong/right), mixed case for name, rounded edges",
+      "emphasis": "High (strong contrast of text/background, yellow/white/red/green for attention)",
+      "color": "Yellow (primary headline), white (body/questions), red (\u0917\u0932\u0924), green (\u0938\u0939\u0940), blue/white (doctor's name badge)"
+    },
+    "Text placement within frame": {
+      "headline": "Top center, occupies the upper half",
+      "wrong/right": "Lower left quadrant, over white rectangle, embedded with symbol",
+      "name badge": "Lower right, beneath doctor's portrait"
+    },
+    "Use of emotional/trigger words": [
+      "\u0917\u0932\u0924 (wrong/incorrect)",
+      "\u0938\u0939\u0940 (right/correct)",
+      "\u092e\u0928 \u0939\u094b\u0924\u093e \u0939\u0948? (Do you feel like...?)",
+      "Question format and direct address"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Provocative, slightly taboo, questioning but also reassuring with expert presence. Intends to intrigue and normalize talking about sensitive topics.",
+    "Visual metaphors or symbols": [
+      "Yellow Tick and Cross: symbolizing right/wrong, approval/disapproval",
+      "Couch scene: emotional discomfort, typical advice-session scenario",
+      "Doctor figure: authority, safe space for discussion"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, direct question challenging social norms",
+      "Bright, contrasting text",
+      "Expert/doctor inclusion for credibility",
+      "Right vs. Wrong framing with clear symbols",
+      "Use of emotional words (triggering curiosity and possibly controversy)"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta logo/name",
+      "Consistent color theme (red/yellow/blue) for recall"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly echoes the title by posing the same question ('\u092c\u0939\u0928 \u0938\u0947 \u0915\u0930\u0928\u0947 \u0915\u093e \u092e\u0928 \u0939\u094b\u0924\u093e \u0939\u0948?') and visually highlighting the issue of 'right vs wrong' (\u0917\u0932\u0924 \u092f\u093e \u0938\u0939\u0940, with symbols), visually teasing the audience into the subject matter suggested by the title. The presence of a professional further suggests the issue will be addressed from a psychological perspective, giving weight to the promised discussion in the full video as mentioned in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a strong alignment; no major mismatches. Both use direct language and the right/wrong dichotomy. The explicitness and psychological tone are consistent, although the thumbnail uses strong visual emphasis to provoke more instantly."
+  }
+}

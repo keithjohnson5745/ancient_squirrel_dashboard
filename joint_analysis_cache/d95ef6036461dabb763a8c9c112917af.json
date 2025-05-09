@@ -1,0 +1,13 @@
+{
+  "title": "Joint pain, menopause and fibromyalgia with Professor Hasan Tahir",
+  "thumbnail_path": "thumbnails/uzPbiALFO5w_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

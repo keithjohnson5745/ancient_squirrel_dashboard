@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "beige/tan (background)": "approx. 35%",
+      "light peach/pink (clothing)": "approx. 20%",
+      "white (text and text circle)": "approx. 20%",
+      "purple (text banner)": "approx. 10%",
+      "skin tone": "approx. 10%",
+      "accents (green, books in background)": "approx. 5%"
+    },
+    "Composition type": "Medium shot (shows one person from the chest upwards, centered on the right side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, positive",
+      "demographics": "Adult female, light skin, glasses, brunette hair"
+    },
+    "Main objects/props featured": [
+      "Person (smiling woman, wearing glasses and pink top)",
+      "Text elements",
+      "Microphone clipped to shirt",
+      "Necklace with cross pendant",
+      "Circular white graphic for '90 DAYS'"
+    ],
+    "Background environment": "Indoors, soft-focus, hint of shelves/books and possibly a lamp, neutral and homey"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BOOSTING MALE FERTILITY",
+      "90 DAYS"
+    ],
+    "Font characteristics": {
+      "BOOSTING": "Bold, uppercase sans-serif, white, large",
+      "MALE FERTILITY": "Bold, uppercase sans-serif, white, slightly larger, on a purple brushstroke background",
+      "90 DAYS": "Bold, uppercase sans-serif, white, inside a white circular graphic"
+    },
+    "Text placement within frame": {
+      "BOOSTING MALE FERTILITY": "Top left, occupying upper half of frame, left justified",
+      "90 DAYS": "Bottom left, inside a white hand-drawn style circle"
+    },
+    "Use of emotional/trigger words": [
+      "BOOSTING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, positive, reassuring, educational",
+    "Visual metaphors or symbols": [
+      "The circular '90 DAYS' may symbolize a clock or countdown, stressing timeframe",
+      "Confident, smiling educator figure as symbol of trust and knowledge"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, clear promise of improvement within a specific timeframe ('90 DAYS')",
+      "Trigger/benefit-focused words ('BOOSTING')",
+      "Direct addressing of a sensitive issue (male fertility)"
+    ],
+    "Brand elements present": "No overt brand logos; casual-professional style and clean layout may be personal branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail text ('BOOSTING MALE FERTILITY' + '90 DAYS') directly echoes and visualizes the core promise of the title ('How to improve sperm quality naturally in 90 days'). The presence of a friendly, knowledgeable-looking woman points to educational content, aligning with a 'how to' video.",
+    "Contrasts or mismatches": "While the title specifies 'sperm quality', the thumbnail features a woman and uses broader terms ('male fertility'). Some may expect to see male subjects due to the topic. The overall tone (female educator, nurturing colors) suggests a supportive, informative approach, possibly appealing to couples or partners rather than strictly men."
+  }
+}

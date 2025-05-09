@@ -1,0 +1,43 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/black (background)": "\u224860%",
+      "Light blue (shirt)": "\u224825%",
+      "Beige/grey (pants)": "\u224810%",
+      "Skin tones": "\u22485%"
+    },
+    "Composition type": "Medium shot (centered on a single person, showing upper body and some lower body)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Serious, attentive, possibly mid-speech",
+      "Demographics": "Older male, medium to dark complexion, glasses, bald with grey hair on sides"
+    },
+    "Main objects/props featured": [
+      "Lanyard with badge (TEDxGlobalAcademy branding)",
+      "Collared shirt",
+      "Belt",
+      "Microphone headset"
+    ],
+    "Background environment": "Solid dark blue or black curtain, typical of stage or auditorium settings. No distinct environmental features visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TEDxGlobalAcademy"
+    ],
+    "Font characteristics": {
+      "TEDxGlobalAcademy (on lanyard and badge)": "Sans-serif, bold, white text on black background with red x, signature TEDx style branding"
+    },
+    "Text placement within frame": "Text appears on the lanyard worn around the person's neck and on the event badge. No prominent overlay text or headline in the thumbnail image itself.",
+    "Use of emotional/trigger words": "None visible in the thumbnail text itself."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, thoughtful, intellectual; conveys focus and authority.",
+    "Visual metaphors or symbols": "TEDx badge and stage environment symbolize knowledge-sharing, expertise, and public speaking. The solitary speaker suggests personal experience or wisdom.",
+    "Clickbait techniques employed": "None overt; relies instead on the credibility of the branding (TEDx) and the speaker's presence to attract interest.",
+    "Brand elements present": "TEDx branding on lanyard and badge, stage/auditorium setting typical for TEDx talks."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually anchors the viewer in the familiar context of a TEDx talk, with a focus on an authoritative speaker, in line with the promise of expert insight or life-changing ideas implied in the title, 'Change is life | Dr. B M HEGDE | TEDxGlobalAcademy'.",
+    "Contrasts or mismatches": "There is no direct visual reference to 'change' or transformation in the image\u2014the symbolism is subtle, relying on the TEDx context and the authoritative presence of the speaker. A more literal reference to 'change' (such as a visual metaphor or energetic pose) is absent, making the connection somewhat abstract."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "45% (top banner, lower third, background curtains)",
+      "Yellow": "15% (text, bride's attire accents)",
+      "White": "20% (text, speech bubble, decorative elements)",
+      "Green": "10% (left background, grass wall)",
+      "Skin tones": "10% (faces, hands)"
+    },
+    "Composition type": "Composite with two main sections: left (medium shot interview) and right (wedding portrait, medium shot)",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": "Left: man, neutral/serious expression. Right: man (same as left) with slight smile, woman with neutral/serious expression.",
+      "Demographics (if apparent)": "All adults. Man appears South Asian, woman (bride) also South Asian."
+    },
+    "Main objects/props featured": [
+      "Microphones (news-style, left side interview)",
+      "Traditional bridal attire and jewelry (right side)",
+      "Speech bubble element"
+    ],
+    "Background environment": "Left: artificial green grass wall with white lattice structure. Right: Curtain drape with party/wedding lighting."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "CRPF \u091c\u0935\u093e\u0928 \u0928\u0947 \u092a\u093e\u0915 \u092e\u0939\u093f\u0932\u093e \u0938\u0947 \u0936\u093e\u0926\u0940 \u0915\u0940 \u092c\u0924\u093e\u0908 \u092a\u0942\u0930\u0940 \u0915\u0939\u093e\u0928\u0940",
+      "\u092e\u0947\u0930\u0947 \u092e\u093e\u092e\u0942 \u0915\u0940 \u092c\u0947\u091f\u0940..",
+      "\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0924\u0928\u093e\u0935",
+      "\u091c\u093e\u0917\u0930\u0923"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif (with some emphasis using outline and fill).",
+      "Emphasis": "Main headline in yellow (high contrast), subtext in white and black, '\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0924\u0928\u093e\u0935' (Pakistan tension) in white with a red paint-stroke background.",
+      "Color": "Yellow, white, red, and black."
+    },
+    "Text placement within frame": {
+      "Main headline": "Top section, taking up 30% of thumbnail",
+      "Speech bubble": "Above man's shoulder (left segment)",
+      "Subheadline '\u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0924\u0928\u093e\u0935'": "Lower center, bridging both segments",
+      "Brand logo ('\u091c\u093e\u0917\u0930\u0923')": "Bottom left corner"
+    },
+    "Emotional/trigger words": [
+      "\u0924\u0928\u093e\u0935",
+      "\u092a\u093e\u0915 \u092e\u0939\u093f\u0932\u093e",
+      "\u092a\u0942\u0930\u0940 \u0915\u0939\u093e\u0928\u0940"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, dramatic, conveying controversy and intrigue.",
+    "Visual metaphors or symbols": [
+      "Speech bubble for direct statement/testimony.",
+      "Red paint-stroke behind 'Pakistan tension' for urgency and conflict."
+    ],
+    "Clickbait techniques employed": [
+      "Bold and provocative headline.",
+      "Highlighted words like 'Pak woman', 'tension', 'whole story'.",
+      "Emotive facial expressions.",
+      "Before/after pairing (interview + wedding photo)."
+    ],
+    "Brand elements present": [
+      "\u091c\u093e\u0917\u0930\u0923 logo",
+      "News microphones"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail features the CRPF jawan at the heart of the story (both in wedding attire with the 'Pak woman' and during an interview), directly linking visuals to the title's mention of sacking, Pakistani connection, and personal account.",
+    "Contrasts/mismatches": "There are no major mismatches; both text and images focus tightly on the core controversy. The 'attack' component mentioned in the title ('pahalgam attack') is not visually referenced in the thumbnail, which centers instead on the marriage and its political implications."
+  }
+}

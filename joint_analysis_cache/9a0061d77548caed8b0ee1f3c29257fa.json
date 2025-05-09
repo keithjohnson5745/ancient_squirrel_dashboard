@@ -1,0 +1,13 @@
+{
+  "title": "Having anal sex? Here\u2019s what you need to know to be safe.",
+  "thumbnail_path": "thumbnails/THKagF53JCI_max.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

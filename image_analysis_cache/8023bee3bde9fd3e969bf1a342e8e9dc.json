@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Gold/Bronze": "35% (seen in the lock and door plate)",
+      "Light Grey/Off-white": "35% (background wall, door edge)",
+      "Black": "15% (text, some shirt and key components)",
+      "Skin tones": "10% (person\u2019s face and hand)",
+      "Other": "5% (Yale logo in yellow, some red/metallic details on the lock, t-shirt graphic)"
+    },
+    "Composition type": "Medium shot (person's upper body and face visible on right; close-up detail of euro cylinder door lock on left).",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Person appears skeptical or concerned (raised eyebrow, tight-lipped expression, slight frown).",
+      "demographics": "Adult male, short brown hair, fair skin, visible tattoos, casual clothing."
+    },
+    "Main objects/props featured": [
+      "Euro cylinder door lock (with key partially inserted, showing the Yale brand)",
+      "Key (Yale branded)",
+      "Person (pointing gesture, tattooed arm)"
+    ],
+    "Background environment": "Plain interior wall, likely a room in a house. The setting gives context of a home improvement or DIY environment."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "How to Change Euro Cylinder Door Locks",
+      "AND WHY YOU SHOULD!"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif for the main line, serif capitals for the subheading",
+      "Emphasis": "Strong contrast, all caps for subheading, large font size, shadow/outline for text separation",
+      "Color": "Black with possibly white or light outline for separation from background"
+    },
+    "Text placement within frame": {
+      "Title/main text": "Top-center and center-left",
+      "Subheading": "Below the main title, centered, above the person\u2019s hand"
+    },
+    "Use of emotional/trigger words": [
+      "WHY YOU SHOULD!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Concerned yet helpful; slight urgency about the importance of the topic.",
+    "Visual metaphors or symbols": [
+      "A lock and key as symbols of security and DIY expertise",
+      "Person pointing at the lock to draw direct viewer attention"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large typography directly stating the instructional value",
+      "Inclusive language (\u201cWHY YOU SHOULD!\u201d) triggering curiosity and concern",
+      "Facial expression and pointing gesture imply this issue is personally important and needs your attention"
+    ],
+    "Brand elements present": [
+      "Yale lock (well-known security brand, shown clearly on the key and cylinder)",
+      "DIYGuy branded t-shirt worn by the person (possible personal or channel brand)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly shows a euro cylinder lock being changed, which exactly matches the instructional promise in the title. The added text 'AND WHY YOU SHOULD!' matches the caution/explanatory approach of the full YouTube title.",
+    "Contrasts or mismatches": "No major mismatches. The title refers to \u2018lock snapping\u2019 but the thumbnail itself does not visually depict snapping or forced entry, only the process of changing a lock. However, the person\u2019s concerned expression and the direct call to \u2018WHY YOU SHOULD!\u2019 imply an important underlying reason, indirectly reinforcing the security threat addressed in the video title."
+  }
+}

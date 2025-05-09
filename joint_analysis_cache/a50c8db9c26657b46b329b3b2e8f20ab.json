@@ -1,0 +1,11 @@
+{
+  "title": "Making Marriage Work | Dr. John Gottman",
+  "thumbnail_path": "thumbnails/AKTyPgwfPgg_high.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

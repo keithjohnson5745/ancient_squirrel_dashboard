@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple gradient background": "approx. 40%",
+      "Yellow (main text)": "approx. 20%",
+      "Black (text outline and some text)": "approx. 20%",
+      "White (coat and part of text)": "approx. 12%",
+      "Red (small label)": "approx. 3%",
+      "Blue (small label)": "approx. 3%",
+      "Skin tones and brown hair (human figure)": "approx. 2%"
+    },
+    "Composition type": "Medium shot (shows upper torso and face of a single person, text prominently displayed to the left).",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Calm, slight smile",
+      "Demographics": "Adult woman, South Asian appearance, professional attire (white medical coat), likely a doctor."
+    },
+    "Main objects/props featured": "A woman in a doctor's coat; name tag/label at the bottom right.",
+    "Background environment": "Solid gradient (purple to maroon) background, no other visible environmental details. Plain, digital studio-style."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0925\u0942\u0915 \u0932\u0917\u093e \u0915\u0930 \u0915\u0930\u0928\u093e",
+      "- \u0938\u0939\u0940 \u092f\u093e \u0917\u0932\u0924?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Main Hindi text": "Bold sans-serif, yellow with thick black outline, very large for emphasis.",
+      "Supporting Hindi text (below)": "Bold sans-serif, white with black outline.",
+      "Name label": "White sans-serif on blue, with red sub-label, clear, neat.",
+      "Sub-label (consultant psychologist)": "Uppercase, small, sans-serif, italicized, orange/red background."
+    },
+    "Text placement within frame": {
+      "Main headline": "Left and center, occupying most vertical space.",
+      "Supporting question": "Below main headline, just left of center.",
+      "Name label": "Bottom right over the doctor's figure."
+    },
+    "Use of emotional/trigger words": [
+      "\u0938\u0939\u0940 \u092f\u093e \u0917\u0932\u0924? (Right or wrong?)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional but slightly provocative/questioning (due to the 'right or wrong' phrasing and prominent use of the word '\u0925\u0942\u0915'/saliva, which may be seen as controversial or curiosity-inducing).",
+    "Visual metaphors or symbols": "White coat symbolizes medical authority and trustworthiness.",
+    "Clickbait techniques employed": [
+      "Bold, high-contrast text grabs attention.",
+      "'Right or wrong' question provokes curiosity and internal debate.",
+      "Use of a common but taboo/controversial topic ('saliva usage').",
+      "Direct address by showing a medical expert increases authority and credibility."
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta's name and professional title, which aligns with the channel's branding and suggests expert content."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail's main question ('\u0925\u0942\u0915 \u0932\u0917\u093e \u0915\u0930 \u0915\u0930\u0928\u093e - \u0938\u0939\u0940 \u092f\u093e \u0917\u0932\u0924?') closely aligns with the video title's promise to discuss what is best to apply/use. The visual of a professional (doctor) suggests authority in addressing such questions.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrast\u2014the thumbnail is highly consistent with the video title in terms of theme, language (Hindi), and context. Both promise a professional, insightful discussion about a controversial or curious 'what to use/apply' topic."
+  }
+}

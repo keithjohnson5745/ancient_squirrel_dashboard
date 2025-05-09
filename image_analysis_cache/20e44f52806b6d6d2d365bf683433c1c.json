@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "About 60% (main background, deep gradient)",
+      "Yellow": "About 20% (large bold text)",
+      "White": "About 15% (text, lab coat)",
+      "Blue": "About 3% (Vaseline label, Dr. Neha Mehta name box)",
+      "Beige/Light Cream": "About 2% (Vaseline jar, face/skin tones)"
+    },
+    "Composition type": "Medium shot (composite: product and human subject, both visible from waist/chest upwards)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral with slight confident smile",
+      "Demographics": "Adult woman, likely of South Asian descent, wearing a white medical lab coat (doctor/psychologist)"
+    },
+    "Main objects/props featured": [
+      "Vaseline jar (original, product image with label visible)",
+      "Dr. Neha Mehta (person in lab coat, stethoscope not visible, visually presented as an expert or doctor)"
+    ],
+    "Background environment": "Simple, stylized gradient background in red tones. No realistic or natural background; emphasis is on clarity and contrast for text/objects. Bottom right includes branded nameplate."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0915\u094d\u092f\u093e \u0915\u0930\u0924\u0947 \u0938\u092e\u092f VASELINE \u0932\u0917\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Main headline font": "Bold, sans-serif, capitalized for English (VASELINE), blocky Devanagari Hindi for main question. White and yellow color for strong emphasis.",
+      "Subtext font": "Professional, sans-serif, white for name, red for 'COUSULTANT PSYCHOLOGIST'. White on blue and red background for high contrast."
+    },
+    "Text placement within frame": {
+      "Top": "Hindi text (\u0915\u094d\u092f\u093e \u0915\u0930\u0924\u0947 \u0938\u092e\u092f)",
+      "Center": "VASELINE (large, yellow, English, centered)",
+      "Bottom": "\u0932\u0917\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902? (Hindi, white)",
+      "Bottom right": "Dr. Neha Mehta nameplate overlaid, white/red on blue"
+    },
+    "Use of emotional/trigger words": [
+      "\u0915\u094d\u092f\u093e (What/Can?)",
+      "VASELINE (product name emphasized)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, informative, trustworthy. Bright colors (yellow, red) signal urgency or importance, balanced by a calm, expert figure for reassurance.",
+    "Visual metaphors or symbols": [
+      "Doctor in white coat signals authority/expertise.",
+      "Product (Vaseline jar) symbolizes the focus of the content."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold question format in text (implies secret/important knowledge).",
+      "Direct address to potential concerns or curiosity about Vaseline usage.",
+      "Expert figure (visual trust cue for health/medical authority)."
+    ],
+    "Brand elements present": [
+      "Vaseline product/jar (brand visual identity clear).",
+      "Personal name branding: 'Dr. Neha Mehta' and designation in a nameplate style."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both explicitly focus on the topic of Vaseline usage and its appropriateness ('\u0915\u094d\u092f\u093e Vaseline \u0932\u0917\u093e\u0928\u093e \u0938\u0939\u0940 \u0939\u094b\u0917\u093e'), with the keyword 'Vaseline' highlighted in large yellow letters. The presence of the doctor supports the 'Dr. Neha Mehta' authority presented in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "Minor detail: The full question in the thumbnail varies slightly in phrasing ('\u0915\u094d\u092f\u093e \u0915\u0930\u0924\u0947 \u0938\u092e\u092f Vaseline \u0932\u0917\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?' vs. '\u0915\u094d\u092f\u093e Vaseline \u0932\u0917\u093e\u0928\u093e \u0938\u0939\u0940 \u0939\u094b\u0917\u093e'), but overall the relationship is strong and directly aligned thematically and visually."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "The Shocking Story Of Aziza Kibibi",
+  "thumbnail_path": "thumbnails/OkQ1a20EiJU_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.8,
+  "clickbait_score": 0.8
+}

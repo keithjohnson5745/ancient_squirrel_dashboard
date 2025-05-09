@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "20% (used in the text banner at the top)",
+      "Black": "35% (background, clothing)",
+      "Red": "10% (text banner around 'P. DIDDY')",
+      "White": "10% (text and highlights)",
+      "Various skin tones": "15%",
+      "Purple/Blue/Pink hues": "10% (explained by lighting and some background blur)"
+    },
+    "Composition type": "Medium shot, with four distinct people shown from the chest up, cut out and arranged in a row.",
+    "Human presence": {
+      "Number of people": 4,
+      "Expressions": [
+        "Person on left: shocked/surprised, mouth open, large glasses.",
+        "Second from left: neutral/serious expression.",
+        "Second from right (center): smiling (teeth showing), positive/friendly.",
+        "Far right: neutral expression."
+      ],
+      "Demographics": [
+        "Person on left: appears to be a young adult woman (light skin, glasses).",
+        "Second from left: appears to be a young or middle-aged man.",
+        "Second from right (center): appears to be a middle-aged man.",
+        "Far right: appears to be a middle-aged man."
+      ]
+    },
+    "Main objects/props featured": "No significant props beyond people's clothing and accessories (e.g., glasses, jewelry). The central focus is the people themselves.",
+    "Background environment": "Blurred, dark/indistinct background with some colored lights, possibly suggesting a dramatic or 'crime scene' atmosphere."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "L-A UCIS PE MICHAEL JACKSON?",
+      "P. DIDDY"
+    ],
+    "Font characteristics": {
+      "Yellow banner text": {
+        "Style": "Bold, sans-serif, all caps",
+        "Emphasis": "High",
+        "Color": "Black on yellow background"
+      },
+      "Red banner text": {
+        "Style": "Bold, sans-serif, all caps",
+        "Emphasis": "Very high (contrasting red background)",
+        "Color": "White on red background"
+      }
+    },
+    "Text placement within frame": {
+      "Yellow text": "At the very top of the image, spanning edge-to-edge",
+      "Red text": "Bottom center, in front of the central person"
+    },
+    "Use of emotional/trigger words": [
+      "UCIS",
+      "(killed)",
+      "MICHAEL JACKSON",
+      "P. DIDDY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic, sensational, and conspiratorial. The shocked expression, bold accusatory question, and high-contrast colors evoke urgency.",
+    "Visual metaphors or symbols": [
+      "Police/crime scene-like blurring in the background hints at controversy or crime.",
+      "Central placement and highlighting of P. Diddy with a red label suggests accusation or central role."
+    ],
+    "Clickbait techniques employed": [
+      "Bold, accusatory question involving a famous figure's death.",
+      "High-contrast color scheme and large text.",
+      "Use of shock and surprise (facial expression, words).",
+      "Grouping multiple celebrities draws cross-fandom attention."
+    ],
+    "Brand elements present": "No specific channel logo or branding is visible in the thumbnail."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly references both P. Diddy and Michael Jackson, echoing the video's discussion of 'shocking theories' and controversies involving P. Diddy. The shocking question ('L-A UCIS PE MICHAEL JACKSON?') grabs attention and suggests a connection with the video's claim about P. Diddy as a 'monster' in the music industry. The lineup of well-known music industry figures (likely including the narrator/host, Eminem, and Michael Jackson) visually represents the sphere and controversy alluded to in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is slightly more direct/sensational than the title, directly posing a murder accusation, while the title uses broader language ('monster', 'shocking theories'). The thumbnail narrows focus to a dramatic question, while the title hints at an expos\u00e9 or documentary angle."
+  }
+}

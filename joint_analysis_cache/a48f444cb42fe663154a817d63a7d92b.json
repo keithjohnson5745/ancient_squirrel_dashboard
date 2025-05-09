@@ -1,0 +1,13 @@
+{
+  "title": "Astroglide & Farmacia Fischel Webinar: Adi\u00f3s al \"Dolor de Cabeza\"",
+  "thumbnail_path": "thumbnails/KAney_CIBJM_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

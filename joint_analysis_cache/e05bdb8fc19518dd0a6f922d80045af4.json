@@ -1,0 +1,11 @@
+{
+  "title": "Patient No Longer: What cancer taught me about numbers",
+  "thumbnail_path": "thumbnails/Y0VcWvc5BZg_max.jpg",
+  "title_length": 54,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.3
+}

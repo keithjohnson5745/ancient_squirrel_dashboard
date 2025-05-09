@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "40%",
+      "White": "25%",
+      "Beige/tan": "15%",
+      "Blue": "10%",
+      "Black": "5%",
+      "Purple": "5%"
+    },
+    "Composition type": "Close-up, split composition (person on the right, illustrated elements on the left)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight smile, direct eye contact with viewer",
+      "Demographics": "Adult woman, light skin, blonde hair, blue eyes"
+    },
+    "Main objects/props featured": [
+      "Illustrated medication bottle (pink, filled with pills or supplements)",
+      "Cartoon-style sperm cell approaching an egg",
+      "Bold text blocks"
+    ],
+    "Background environment": "Soft, neutral gradient blur behind the person; left side background filled with solid color/graphics"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "CoQ10",
+      "Can it help fertility??"
+    ],
+    "Font characteristics": {
+      "CoQ10": "Bold, sans-serif, all caps, white letters on bright pink rectangle (very prominent, large font)",
+      "Can it help fertility??": "Bold, sans-serif, black text on solid white background, lower-case except for 'C', large"
+    },
+    "Text placement within frame": {
+      "CoQ10": "Top left quadrant, on large pink background block",
+      "Can it help fertility??": "Bottom center, across most of width"
+    },
+    "Use of emotional/trigger words": [
+      "help",
+      "fertility??"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, hopeful, slightly clinical (the neutral facial expression and direct gaze convey trust and sincerity)",
+    "Visual metaphors or symbols": [
+      "Sperm and egg illustration \u2014 direct reference to fertility and reproduction",
+      "Pill bottle \u2014 symbolizes supplement or medicine, visually linked to health improvement"
+    ],
+    "Clickbait techniques employed": [
+      "Question format ('Can it help fertility??')",
+      "Bright, high-contrast text",
+      "Visual focus on keyword ('CoQ10')"
+    ],
+    "Brand elements present": "No explicit brand logo; style suggests health/medical/educational content"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visuals (supplement bottle, sperm and egg diagram) directly reference CoQ10's potential impact on fertility, matching the video's title. 'CoQ10' is visually emphasized and paired with reproductive symbols, which strongly relates to the title's main questions.",
+    "Contrasts or mismatches": "No significant mismatch; the thumbnail reinforces the video title clearly and effectively, visually summarizing the subject matter for viewers."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Ovulation testing with Clear Blue and Pre Mom",
+  "thumbnail_path": "thumbnails/qOsFpxmEB9c_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

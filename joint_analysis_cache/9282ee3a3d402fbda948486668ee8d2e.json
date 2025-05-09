@@ -1,0 +1,12 @@
+{
+  "title": "LIVE TRIAL Analysis | Karen Read Retrial Day 10 - Cross resumes with Lt. Gallagher",
+  "thumbnail_path": "thumbnails/r2vEF0vxG2w_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

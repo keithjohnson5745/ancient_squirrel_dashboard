@@ -1,0 +1,12 @@
+{
+  "title": "Brooks and Capehart on what voters think about Trump's first 100 days",
+  "thumbnail_path": "thumbnails/Rg999svEckE_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

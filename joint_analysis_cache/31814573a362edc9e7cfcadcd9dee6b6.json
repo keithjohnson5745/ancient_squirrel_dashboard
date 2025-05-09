@@ -1,0 +1,13 @@
+{
+  "title": "How and When to take Cialis (Tadalafil) | What Patients Need to Know",
+  "thumbnail_path": "thumbnails/6QYO3EMb-ho_max.jpg",
+  "title_length": 68,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

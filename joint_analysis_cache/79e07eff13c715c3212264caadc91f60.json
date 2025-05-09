@@ -1,0 +1,12 @@
+{
+  "title": "Karla Estrada, nagalit nga ba sa amin? | Ogie Diaz",
+  "thumbnail_path": "thumbnails/HgQ2Cm1dxvA_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

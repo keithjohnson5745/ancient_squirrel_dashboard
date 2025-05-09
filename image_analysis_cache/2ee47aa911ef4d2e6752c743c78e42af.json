@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/cream background": "50%",
+      "Navy blue (shirt, jeans)": "20%",
+      "Red accents (scarf, lipstick, text)": "15%",
+      "Multi-color (head scarf: red, green, blue)": "7%",
+      "Brown (bag, shoes, belt)": "5%",
+      "Other (shadows, skin tones)": "3%"
+    },
+    "Composition type": "Combination of a medium full-body shot (left) and a close-up portrait (right)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Friendly, smiling, approachable",
+      "Demographics (if apparent)": "Adult woman, light skin, brown hair",
+      "Main objects/props featured": [
+        "Head scarf (multicolored, silk)",
+        "Leather bag (large, brown decorative patch)",
+        "Blue jeans",
+        "Navy blouse",
+        "Belt",
+        "Sandals"
+      ],
+      "Background environment": "Flat light beige/cream curtain or wall with subtle, elegant floral corner designs"
+    },
+    "TEXT ELEMENTS": {
+      "Visible text (exact transcription)": [
+        "how to tie a",
+        "French Girl head scarf",
+        "FRENCH GIRL STYLE AMERICAN WOMEN"
+      ],
+      "Font characteristics": {
+        "French Girl head scarf": "Large, bold, cursive serif, dark red",
+        "how to tie a": "Small, sans-serif, blue",
+        "FRENCH GIRL STYLE AMERICAN WOMEN": "Small, serif, white (French Girl Style), red (American Women)"
+      },
+      "Text placement within frame": {
+        "how to tie a": "Upper mid-left",
+        "French Girl head scarf": "Dominant and centered in the middle/right third",
+        "FRENCH GIRL STYLE AMERICAN WOMEN": "Centered below main phrase"
+      },
+      "Use of emotional/trigger words": [
+        "French Girl"
+      ]
+    },
+    "THEMATIC ELEMENTS": {
+      "Overall emotional tone": "Chic, friendly, stylish, inviting, accessible",
+      "Visual metaphors or symbols": [
+        "Headscarf as symbol of 'French Girl' style/culture",
+        "French and American flags suggest cross-cultural fashion/style advice"
+      ],
+      "Clickbait techniques employed": [
+        "Large, easy-to-read text promising a how-to tutorial",
+        "Direct visual demonstration (before/after: full body look and close-up of finished scarf style)",
+        "'French Girl' as an aspirational/emotional phrase appealing to a certain lifestyle/aesthetic"
+      ],
+      "Brand elements present": [
+        "French and American flags",
+        "'FRENCH GIRL STYLE AMERICAN WOMEN' tagline"
+      ]
+    },
+    "THUMBNAIL-TITLE RELATIONSHIP": {
+      "Visual reinforcement": [
+        "Shows person wearing the exact hairstyle/scarf style promised in the title",
+        "Both full body and detailed close-up demonstrate results and process",
+        "Text on thumbnail directly references title"
+      ],
+      "Contrasts or mismatches": [
+        "Title says 'hair turban', thumbnail text says 'head scarf'\u2014but both refer to the same style",
+        "Title mentions 'make it stay put', but this aspect is not visually demonstrated (no action shots showing tying process)"
+      ]
+    }
+  }
+}

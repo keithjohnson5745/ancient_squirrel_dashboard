@@ -1,0 +1,14 @@
+{
+  "title": "Best of Old School 90's 2000's Rnb Music Hits \ud83c\udfb5Usher, Akon, Rihanna, Nelly, Ne-Yo",
+  "thumbnail_path": "thumbnails/NFq0BQvLOpc_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

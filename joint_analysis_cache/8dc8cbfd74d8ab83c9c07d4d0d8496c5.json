@@ -1,0 +1,12 @@
+{
+  "title": "TRIP TO CAPIZ | IVANA ALAWI",
+  "thumbnail_path": "thumbnails/ih9OOZIdqBc_max.jpg",
+  "title_length": 27,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

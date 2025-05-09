@@ -1,0 +1,100 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Teal/Blue-Green (bed sheets, pillows)",
+        "percentage": 60
+      },
+      {
+        "color": "Light Pink & White (pajama bottoms)",
+        "percentage": 15
+      },
+      {
+        "color": "Light Gray (shirt)",
+        "percentage": 5
+      },
+      {
+        "color": "Skin tone",
+        "percentage": 10
+      },
+      {
+        "color": "Dark Brown (hair)",
+        "percentage": 5
+      },
+      {
+        "color": "Black & White (text elements)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (top-down view of person lying on a bed, full body visible within frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "apparent_expression": "Neutral/peaceful, eyes closed, appears to be sleeping",
+      "demographics": "Adult female, approximate age 20s-30s, light skin tone, long dark brown hair"
+    },
+    "Main objects/props featured": [
+      "Person in pajamas",
+      "Bed with teal-blue sheets and pillow"
+    ],
+    "Background environment": "Soft, home-like bedroom setting with neatly arranged solid-colored bed linens"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "SLEEPING POSITIONS MATTER",
+      "SCIENCE INSIDER",
+      "DEBUNKED"
+    ],
+    "Font characteristics": [
+      {
+        "text": "SLEEPING POSITIONS MATTER",
+        "style": "Bold, uppercase sans-serif; white text on black rectangle; high emphasis"
+      },
+      {
+        "text": "SCIENCE INSIDER",
+        "style": "Sans-serif, uppercase, white text; smaller size, bottom left corner"
+      },
+      {
+        "text": "DEBUNKED",
+        "style": "Heavy bold sans-serif, all-caps white, very large; bottom center"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "SLEEPING POSITIONS MATTER",
+        "placement": "Top left, occupying ~30% of width"
+      },
+      {
+        "text": "SCIENCE INSIDER",
+        "placement": "Bottom left corner"
+      },
+      {
+        "text": "DEBUNKED",
+        "placement": "Bottom left, next to 'Science Insider', larger and draws attention"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "'MATTER'",
+      "'DEBUNKED'"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, informative, slightly urgent (suggests importance of sleep positions and a myth-busting angle)",
+    "Visual metaphors or symbols": [
+      "Person sleeping symbolizes the subject of sleep",
+      "'Debunked' text signals myth-busting or fact-checking"
+    ],
+    "Clickbait techniques employed": [
+      "Direct callout of a common issue ('Sleeping Positions Matter')",
+      "Bold text and strong contrasts",
+      "'Debunked' suggests new or surprising information"
+    ],
+    "Brand elements present": [
+      "SCIENCE INSIDER logo",
+      "Consistent with Insider's 'Debunked' video branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image of a person sleeping in a specific position directly relates to sleep myths and the idea that 'sleeping positions matter,' as stated in both the thumbnail and title. The 'Debunked' label aligns with the 'debunking myths' aspect of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; the visual and textual elements strongly reinforce the video's theme and promise."
+  }
+}

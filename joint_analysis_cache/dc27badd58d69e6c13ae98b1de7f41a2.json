@@ -1,0 +1,12 @@
+{
+  "title": "I Had Malaria 5 Times And Ate Ants To Survive | Minutes With",
+  "thumbnail_path": "thumbnails/4cnVSRda1WA_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "50% (background of cans)",
+      "Yellow": "30% (WD-40 labels)",
+      "Red": "10% (caps and straws, arrow)",
+      "White": "8% (text box background)",
+      "Black": "2% (details, text accents)"
+    },
+    "Composition type": "Medium shot (frontal perspective of a row of WD-40 cans filling the entire background/horizontal frame)",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": null,
+      "Demographics": null
+    },
+    "Main objects/props featured": [
+      "Multiple WD-40 cans (about 8 visible, aligned in a retail display)",
+      "Red spray straws attached to some cans",
+      "Large white text box overlay",
+      "Red curved arrow pointing at cans"
+    ],
+    "Background environment": "Retail shelf or store display fully packed with WD-40 cans; brightly lit, tightly cropped so only the product is visible"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "99%",
+      "DON'T",
+      "KNOW!",
+      "WD-40",
+      "MULTI-USE"
+    ],
+    "Font characteristics": {
+      "Overlay Text (99% DON'T KNOW!)": {
+        "Style": "Bold, sans-serif, modern",
+        "Emphasis": "Heavy bolding for impact; uses uppercase letters",
+        "Color": "Dark blue/black",
+        "Background": "Solid white box for high contrast"
+      },
+      "On WD-40 cans": {
+        "Style": "Corporate, condensed sans-serif",
+        "Emphasis": "Bold, uppercase",
+        "Color": "Yellow (background) with blue lettering"
+      }
+    },
+    "Text placement": {
+      "99% DON'T KNOW!": "Prominently left side, centered vertically, inside a white rectangle overlaying products",
+      "WD-40 label": "On cans, upper third, dominant and easy to read"
+    },
+    "Emotional/trigger words": [
+      "DON'T KNOW!",
+      "99%"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, urgent, slightly conspiratorial (suggesting a hidden fact or secret)",
+    "Visual metaphors or symbols": [
+      "Red arrow indicating urgency or focus on product",
+      "Large percentage suggests exclusivity or rare knowledge"
+    ],
+    "Clickbait techniques employed": [
+      "Exclusivity/secret knowledge: '99% DON\u2019T KNOW!'",
+      "Visual focus arrow: draws the eye to product implying there\u2019s more than meets the eye",
+      "Bold/contrasting typography to demand attention"
+    ],
+    "Brand elements present": [
+      "WD-40 logo",
+      "Corporate color palette (blue/yellow/red)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail visually amplifies the video's title ('99% Of People Don't Know WD40's Dark Secret') by directly displaying both: the percentage claim and heavy focus on the WD-40 product, implying mysteriousness/secrecy with a bold, attention-grabbing design.",
+    "Contrasts or mismatches": "No overt visual contradiction \u2013 both the thumbnail and title play on an appeal to curiosity and secret knowledge; however, while the title uses 'Dark Secret' for extra intrigue, the thumbnail itself does not use the word 'secret' or any visually dark elements, relying instead on the implication created by the arrow and percentage."
+  }
+}

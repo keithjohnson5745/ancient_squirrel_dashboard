@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black (background)": "60%",
+      "Yellow (text and accent bars)": "20%",
+      "White (text, doctor coat)": "10%",
+      "Red (upper accent bar, subtitle background)": "5%",
+      "Dark blue (doctor's inner clothing, text box)": "3%",
+      "Skin tones (person)": "2%"
+    },
+    "Composition type": "Medium shot (torso and head of one person, right side), split composition with large text on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Mild smile, composed and approachable expression.",
+      "Demographics if apparent": "Adult female, possibly Indian."
+    },
+    "Main objects/props featured": [
+      "Woman in white medical/doctor coat",
+      "Text block in Hindi",
+      "Nameplate/branding for 'Dr. Neha Mehta'"
+    ],
+    "Background environment": "Plain, gradient black/grey background with no discernible environment."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in the thumbnail": [
+      "\u0906\u0917\u0947 \u0938\u0947 \u092f\u093e \u092a\u0940\u091b\u0947 \u0938\u0947 \u0915\u093f\u0938\u092e\u0947 \u0939\u0948 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u091c\u093e ?",
+      "Dr. Neha Mehta",
+      "CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, easy-to-read",
+      "Emphasis": "Heavy emphasis with all caps for English, large size for Hindi",
+      "Color": "Hindi text is yellow and white, 'Dr. Neha Mehta' is white on blue background, 'CONSULTANT PSYCHOLOGIST' is yellow on red background"
+    },
+    "Text placement within frame": {
+      "Hindi text": "Left and center occupying about 2/3rd of the thumbnail",
+      "Nameplate (Dr. Neha Mehta)": "Lower center, small box"
+    },
+    "Use of emotional/trigger words": [
+      "\u091c\u094d\u092f\u093e\u0926\u093e \u092e\u091c\u093e"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, provocative, somewhat playful but also delivered with professional undertone.",
+    "Visual metaphors or symbols": "Doctor's coat represents authority and professionalism. Bold yellow text implies importance/urgency.",
+    "Clickbait techniques employed": [
+      "Asking a provocative/double entendre question",
+      "Promise of insight into pleasure or happiness (\u092e\u091c\u093e, \u091a\u0930\u092e\u0938\u0941\u0916)",
+      "Visual professional authority (doctor featured prominently)"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta nameplate/logo",
+      "Consistent color scheme (yellow, black, red, blue)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail uses a provocative, curiosity-inducing question in large, attention-grabbing text, directly referencing pleasure and comparison, matching the theme of the video title focused on '\u091a\u0930\u092e\u0938\u0941\u0916 \u0915\u093e \u0930\u093e\u0938\u094d\u0924\u093e \u0915\u094c\u0928-\u0938\u093e \u0939\u0948' (Which path leads to ultimate pleasure/excitement?). The presence of Dr. Neha Mehta signals expert advice, reinforcing the title's authoritative aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch. Both thumbnail and title use curiosity and directness to hook the audience. Thumbnail is a bit more playful/provocative than the relatively neutral/educational video title."
+  }
+}

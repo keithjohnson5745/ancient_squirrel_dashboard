@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/brown": "40% (background, desk, shelves)",
+      "Light skin tones": "20% (faces, hands)",
+      "Black": "15% (computer screen, sweater, text)",
+      "White": "15% (mask, wall art, papers, text border)",
+      "Blue": "7% (man's hoodie, small elephant icon)",
+      "Green": "3% (plants)"
+    },
+    "Composition type": "Medium shot (two people visible from waist/chest up, staged within a room setting)",
+    "Human presence": {
+      "Number of people": 2,
+      "Descriptions": [
+        {
+          "Gender": "Female-presenting",
+          "Expression": "Neutral, partially hidden by white mask",
+          "Demographics": "Young adult, long blonde hair"
+        },
+        {
+          "Gender": "Male-presenting",
+          "Expression": "Smiling, friendly, pointing gesture",
+          "Demographics": "Adult, light skin, glasses, brown hair"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "White theatrical mask (held by woman, covering half her face)",
+      "Computer (desktop monitor on back desk)",
+      "Glasses (worn by man)"
+    ],
+    "Background environment": "Modern home office/study room: wooden shelves, desk with computer, plants, minimalist decor, organized and warm atmosphere"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "HIGH-MASKING AUTISTIC WOMEN",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "HIGH-MASKING is in uppercase, orange with black drop-shadow; AUTISTIC WOMEN is in uppercase, white with black drop-shadow",
+      "Color": "\"HIGH-MASKING\" in orange, \"AUTISTIC WOMEN\" in white",
+      "Size": "Large, dominates upper half of thumbnail"
+    },
+    "Text placement within frame": "Top left/center, spanning across from left to about two-thirds across the frame, above the heads of both people",
+    "Use of emotional/trigger words": [
+      "HIGH-MASKING",
+      "AUTISTIC WOMEN"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious yet approachable and supportive; the mask suggests secrecy or hidden identity, while the man's open gesture signals friendliness/invitation",
+    "Visual metaphors or symbols": [
+      "White mask: symbolizes hiding/\u2018masking\u2019 oneself, aligning with the theme of concealed traits/behaviors",
+      "Pointing gesture: drawing attention, suggesting guidance or explanation"
+    ],
+    "Clickbait techniques employed": [
+      "Use of bold and emotionally charged words ('HIGH-MASKING')",
+      "Directly addressing a specific audience ('AUTISTIC WOMEN')",
+      "Use of mysterious object (mask) to provoke curiosity",
+      "Presenter's gesture invites the viewer in (pointing at title/subject)"
+    ],
+    "Brand elements present": [
+      "Small blue elephant icon in the upper right (potential channel logo/branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The mask visually embodies the concept of 'masking' (hiding traits), directly aligning with the video's focus on 'high-masking' in women. The presence of a woman half-hidden by a mask literally represents the idea of autism being concealed. The clear, direct text explicitly introduces the target group (\u201cAUTISTIC WOMEN\u201d), matching the title\u2019s intent.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no evident mismatches; the design is very cohesive. The only minor difference is that the title refers to both 'women and girls,' while only an adult woman is shown (no younger girls), and the male-presenting individual is featured as a kind of 'guide' or presenter rather than as part of the target group."
+  }
+}

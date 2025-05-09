@@ -1,0 +1,14 @@
+{
+  "title": "Why it\u2019s hard to go again... | The science of the Sexual Refractory Period",
+  "thumbnail_path": "thumbnails/A_tl8fRr8Zo_high.jpg",
+  "title_length": 74,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

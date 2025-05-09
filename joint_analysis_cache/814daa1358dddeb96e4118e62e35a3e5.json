@@ -1,0 +1,12 @@
+{
+  "title": "Ovarian Cysts: Everything You Need to Know by Dr. Lora Shahine",
+  "thumbnail_path": "thumbnails/t1cw2ZvkCv8_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

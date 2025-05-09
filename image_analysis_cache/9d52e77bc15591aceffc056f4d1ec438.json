@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "50% (background, text block areas)",
+      "Blue": "30% (large text, vignette gradient background)",
+      "White": "15% (smaller text, highlights)",
+      "Skin tones": "5% (face and ears of the person)"
+    },
+    "Composition type": "Close-up (shows the head and shoulders of one person, prominently on right side, with text taking up most of the left side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slight smile, calm and composed",
+      "demographics": "Adult woman, likely Black/African-American"
+    },
+    "Main objects/props featured": [
+      "Portrait of a woman (presumably Dr. Maya Angelou)",
+      "Light bulb icon (bottom left)"
+    ],
+    "Background environment": "Simple, gradient blue-black background with no discernible setting, ensuring focus remains on the face and text"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (exact transcription)": [
+      "DR. MAYA ANGELOU",
+      "PROOF YOU ARE NARCISSIST'S BIGGEST KARMA",
+      "POWERFULL FFAITING WISDOMS"
+    ],
+    "Font characteristics": {
+      "Main text": "Bold, all-caps sans-serif, distressed/grunge texture on main phrase (blue and white)",
+      "Subtext": "Smaller, italicized/caps sans-serif, white (cleaner than main font)",
+      "Bottom text": "Italicized/slanted block sans-serif, white"
+    },
+    "Text placement within frame": {
+      "Top left": "DR. MAYA ANGELOU",
+      "Center-left, dominates middle of frame": "PROOF YOU ARE NARCISSIST'S BIGGEST KARMA",
+      "Bottom left corner": "POWERFULL FFAITING WISDOMS"
+    },
+    "Use of emotional/trigger words": [
+      "PROOF",
+      "BIGGEST KARMA",
+      "POWERFULL"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confrontational, empowering, dramatic with a sense of justice and motivation",
+    "Visual metaphors or symbols": [
+      "Light bulb (represents wisdom, ideas, enlightenment)"
+    ],
+    "Clickbait techniques employed": [
+      "Use of urgent/emotional language ('PROOF', 'BIGGEST KARMA')",
+      "Prominent celebrity/personality image",
+      "Large, bold, high-contrast text",
+      "Promise of revelation or truth"
+    ],
+    "Brand elements present": [
+      "Portrait of Dr. Maya Angelou",
+      "'POWERFULL FFAITING WISDOMS' (signature/series branding at bottom left)",
+      "Distinctive visual style (grunge text, blue/black color palette)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The image of Dr. Maya Angelou\u2014an iconic figure associated with wisdom and empowerment\u2014alongside bold, assertive text directly references the video's title, suggesting authoritative proof and motivational content related to the theme of 'karma' and narcissism.",
+    "Contrasts or mismatches": "There is a small mismatch in the bottom left text, which appears to have misspellings ('FFAITING' likely meant to be 'FATTENING' or maybe another word, 'POWERFULL' should be 'POWERFUL'), slightly reducing professionalism. Overall, the visual strongly supports the motivational and revelatory promise in the title."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40% (background and text elements)",
+      "White": "25% (text and skin tones)",
+      "Skin tones": "20% (faces of the two people)",
+      "Red": "10% (highlighted text background for '2+ children')",
+      "Other": "5% (hair colors, minor accents)"
+    },
+    "Composition type": "Medium close-up, two people shown from shoulders upward, facing viewer but at slight angles.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Woman on left: neutral to engaged, slightly open mouth (possibly speaking, direct eye contact)",
+        "Man on right: neutral to mild smile, calm expression (direct eye contact)"
+      ],
+      "Demographics (apparent)": [
+        "Woman: Appears to be white, blonde hair, young adult",
+        "Man: Appears to have medium-to-dark skin tone, short dark hair, trimmed beard, young adult"
+      ]
+    },
+    "Main objects/props featured": [
+      "Microphones (in front of both people, indicating a podcast or interview-setting)"
+    ],
+    "Background environment": "Solid black background, no visible location context, minimalistic and focused."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\"if you want 2+ children you need to know this!\"",
+      "DOAC"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold",
+      "Emphasis": [
+        "\"2+ children\" is highlighted with a red box, white text for this phrase",
+        "All other text is white, keeping contrast high against the black background"
+      ],
+      "Color": [
+        "White (majority of text)",
+        "Red (background for emphasized phrase '2+ children')",
+        "Black/white contrast (DOAC logo in top left)"
+      ]
+    },
+    "Text placement within frame": {
+      "Main quote": "Centered, taking up majority of central space, split across three lines",
+      "\"2+ children\"": "Middle line, within a red rectangle, draws attention",
+      "DOAC logo": "Top left, smaller size"
+    },
+    "Use of emotional/trigger words": [
+      "\"if you want 2+ children\" (targeting family planning concern)",
+      "\"you need to know this!\" (creates urgency and exclusivity)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, informative, direct. Strong emphasis on needing important information regarding family planning.",
+    "Visual metaphors or symbols": [
+      "Red highlight for '2+ children' signals urgency or a critical point",
+      "Use of microphones suggests credibility, discussion, expertise"
+    ],
+    "Clickbait techniques employed": [
+      "Direct call-to-action ('you need to know this!')",
+      "Highlighting a socially relevant concern (having multiple children)",
+      "Use of numbers and urgency"
+    ],
+    "Brand elements present": [
+      "DOAC logo in top left, possibly the channel/series brand"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s urgent message (\u201cif you want 2+ children you need to know this!\u201d) echoes the title\u2019s concern about fertility timelines and specific advice. The presence of a woman and a man with microphones enhances the sense of expert, authoritative discussion which aligns with the \u2018Pregnancy Doctor\u2019 reference in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The title is more explicit and data-driven about pregnancy declining after age 32, which is not directly referenced in the thumbnail. The thumbnail focuses on headline-style urgency but doesn\u2019t visually include pregnancy-specific images (like babies, medical charts, etc.), relying instead on dialogue and authority implied via the interview setup."
+  }
+}

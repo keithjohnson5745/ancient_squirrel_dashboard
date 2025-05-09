@@ -1,0 +1,87 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "orange (background, left panel)": "20%",
+      "black (shirt, text, masks, flag)": "25%",
+      "green (forest background, camouflage uniforms)": "30%",
+      "flesh tones (man's face/hands)": "10%",
+      "white (text, highlights)": "10%",
+      "gray (shirt, part of flag, uniforms)": "5%"
+    },
+    "Composition type": "Split-screen; left half is a medium close-up of a man, right half is a wide shot of four armed/masked men in the woods.",
+    "Human presence": {
+      "number of people": 5,
+      "expressions": [
+        "Left: serious, intense, gesturing as if explaining",
+        "Right: faces obscured, body postures mostly guarded or assertive"
+      ],
+      "demographics": {
+        "Left: Adult male, light-skinned, beard, tattoo visible, large build. Approximate age: middle-aged. Expressions suggest authority/interview subject.": true,
+        "Right: Four individuals, fully masked/obscured, presumed male due to build and context; wearing camouflage and tactical gear.": true
+      }
+    },
+    "Main objects/props featured": [
+      "Left: Man (likely interview subject), signet ring, tattoo, open shirt collar",
+      "Right: Military/tactical gear (helmets, rifles), black flag with white markings, wooded area"
+    ],
+    "Background environment": {
+      "Left": "Solid orange gradient background, studio-lit",
+      "Right": "Outdoor forested/wooded area, natural greenery"
+    }
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BUSINESS INSIDER",
+      "AUTHORIZED ACCOUNT",
+      "POSING AS A NEO-NAZI"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All caps, strong visual weight",
+      "Color": {
+        "BUSINESS INSIDER": "White",
+        "AUTHORIZED ACCOUNT": "White",
+        "POSING AS A NEO-NAZI": "White, black background for increased emphasis"
+      }
+    },
+    "Text placement": {
+      "BUSINESS INSIDER": "Bottom left corner, white on solid black overlay",
+      "AUTHORIZED ACCOUNT": "Bottom center/left, large bold white\u2014prominent",
+      "POSING AS A NEO-NAZI": "Top right, overlaid on photo with black rectangle background for increased visibility",
+      "Arrow graphic": "Points to masked figure, emphasizing text context"
+    },
+    "Emotional/trigger words": [
+      "POSING AS A NEO-NAZI",
+      "AUTHORIZED",
+      "Nazi"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, dramatic, investigative\u2014suggesting danger, secrecy, and undercover operations.",
+    "Visual metaphors/symbols": [
+      "Masked/armed figures = secrecy, danger, undercover ops",
+      "Man in studio = expert/insider perspective",
+      "Flag with cryptic markings = extremist group affiliation"
+    ],
+    "Clickbait techniques": [
+      "Sensational phrase ('POSING AS A NEO-NAZI') with arrow for curiosity",
+      "Juxtaposition of real person (authority) and dangerous scenario (militant group)",
+      "Bold, high-contrast text overlays"
+    ],
+    "Brand elements": [
+      "BUSINESS INSIDER logo, distinct typography",
+      "Series branding: 'AUTHORIZED ACCOUNT'",
+      "Consistent Insider channel visual style"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail shows both an authoritative source (interviewee, possibly an agent or expert) and the undercover scenario (posing as part of a dangerous extremist group), which literally embodies the video's title.",
+      "Text 'POSING AS A NEO-NAZI' and masked armed group visually and contextually match 'FBI Undercover Agents Actually Work.'"
+    ],
+    "Contrasts/mismatches": [
+      "No significant mismatch; the thumbnail visually and textually amplifies the intrigue and subject matter described in the title.",
+      "The explicit reference to neo-Nazis is more sensational than the neutral-sounding title, which may signal an exaggerated focus for clickbait."
+    ]
+  }
+}

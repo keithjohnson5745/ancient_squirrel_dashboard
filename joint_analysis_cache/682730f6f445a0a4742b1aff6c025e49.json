@@ -1,0 +1,12 @@
+{
+  "title": "#4 NUGGETS at #1 THUNDER | FULL GAME 1 HIGHLIGHTS | May 5, 2025",
+  "thumbnail_path": "thumbnails/BgtYzJw1cBg_max.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

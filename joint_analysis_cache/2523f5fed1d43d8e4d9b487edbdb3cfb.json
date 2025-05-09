@@ -1,0 +1,13 @@
+{
+  "title": "So I washed my face with BABY SOAP for one week...",
+  "thumbnail_path": "thumbnails/zGz3vdG_o3s_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

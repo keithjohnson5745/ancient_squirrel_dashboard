@@ -1,0 +1,87 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "40% (background of tablet box and much of the overall image)",
+      "White": "25% (text, applicator, parts of background)",
+      "Red": "15% (accents on box, Glenmark branding, some text)",
+      "Black": "10% (text, frame background)",
+      "Yellow": "5% (some text highlights)",
+      "Pink/Purple": "5% (highlighted text 'Candid', '2025')"
+    },
+    "Composition type": "Combination of close-up (hand holding applicator and box) and overhead product shot (box and applicator laid out clearly)",
+    "Human presence": {
+      "Number of people": 1,
+      "Visible body parts": "One hand (adult, likely female based on nails, skin tone)",
+      "Expressions": "Not applicable (hand only, no face shown)",
+      "Demographics": "Adult, likely female (manicured nails)"
+    },
+    "Main objects/props featured": [
+      "Candid V6 tablet box",
+      "White plastic applicator"
+    ],
+    "Background environment": "Dark wooden or laminate surface, indoor setting suggested, plain and uncluttered for emphasis on product"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Candid V6 Tablet Use \u0915\u0930\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e",
+      "\u0915\u092c \u0914\u0930 \u0915\u0948\u0938\u0947 \u0915\u093f\u0924\u0928\u0947 \u0926\u093f\u0928 Use \u0915\u0930\u0947\u0902 \u092a\u0942\u0930\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940",
+      "clotrimazole vaginal mucoadhesive extended release tablets 100 mg",
+      "New improved Candid-V6",
+      "Broad Spectrum Antifungal",
+      "Antifungal with Novel Mucoadhesive Vaginal Delivery System (NMVDS)",
+      "GLENMARK",
+      "2025"
+    ],
+    "Font characteristics": {
+      "Styles": [
+        "Bold sans-serif (for headline, product name)",
+        "Serif (on some packaging text)",
+        "Handwritten/script style for 'Candid-V6' on package"
+      ],
+      "Emphasis": [
+        "Color differentiation (pink, green, black, red, yellow to highlight key points)",
+        "Mix of bold and regular weights",
+        "Upper and lower case usage",
+        "Shadowed/outlined (for '2025')"
+      ],
+      "Color": [
+        "Pink (Candid in top headline, '2025')",
+        "Green (V6, background of box)",
+        "Black (main descriptive text)",
+        "Red (Use, brand, accents)",
+        "Yellow (Hindi description)"
+      ]
+    },
+    "Text placement within frame": [
+      "Top headline spans full width (multi-colored, multi-line)",
+      "Main product packaging text is centrally aligned on the box, clearly visible",
+      "'2025' is overlaid in bold on the right near the hand, drawing attention"
+    ],
+    "Use of emotional/trigger words": [
+      "\u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e (correct way)",
+      "\u092a\u0942\u0930\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 (complete information)",
+      "New improved",
+      "Broad Spectrum Antifungal"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, reassuring, clinical/medical, and trustworthy",
+    "Visual metaphors or symbols": [
+      "Product and applicator clearly shown, indicating practical 'how to use' demonstration",
+      "Hand with product connotes real-life demonstration/instruction"
+    ],
+    "Clickbait techniques employed": [
+      "Bold colors and highlighted words to attract attention",
+      "Direct call-outs like '\u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e', '\u092a\u0942\u0930\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940' implying viewers will get complete and correct guidance",
+      "Year '2025' possibly meant to convey up-to-date information"
+    ],
+    "Brand elements present": [
+      "Glenmark logo",
+      "Candid V6 product/packaging"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail directly supports the video title by visually showing the Candid V6 tablet box and applicator, literally illustrating 'How To Use Candid V6 Tablet'. The hand demonstrates readiness for use, reinforcing the instructional nature. Text on the thumbnail echoes the key points of the title (usage instructions, duration, and information in Hindi).",
+    "Contrasts or mismatches": "No noticeable mismatches; the visuals are aligned closely with the video\u2019s stated purpose and target audience (Hindi speakers seeking product guidance)."
+  }
+}

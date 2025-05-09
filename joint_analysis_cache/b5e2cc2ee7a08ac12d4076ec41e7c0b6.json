@@ -1,0 +1,13 @@
+{
+  "title": "S3X \u0915\u0948\u0938\u0947 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 ? | Dr. Neha Mehta | Real Hit Podcast",
+  "thumbnail_path": "thumbnails/c2eSJFVKEh0_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

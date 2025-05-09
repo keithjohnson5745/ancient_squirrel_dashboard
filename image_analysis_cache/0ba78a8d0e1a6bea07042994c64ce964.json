@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "60%",
+      "Black": "30%",
+      "Red": "8%",
+      "Grey": "2%"
+    },
+    "Composition type": "Screen capture; cropped medium to wide showing software interface",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "ImageJ/Fiji software window",
+      "Binary SEM image of particles (white blobs on black background)",
+      "Another software window with many outlined and numbered particles (black outline, red numbers)",
+      "Computer desktop elements (slightly visible at the borders)"
+    ],
+    "Background environment": "Partial view of a desktop wallpaper (blurry forest/trees at the bottom), and faint desktop icons on the right side"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Drawing of Screenshot 2020-12-08 at 1.52.55 PM.png (75%)",
+      "8.88 x 6.24 \u03bcm (1252 x 880); 8-bit, 1.1 MB",
+      "8.88 x 6.24 \u03bcm (1252 x 880); 8-bit, 1.1 MB",
+      "RECORDED WITH SCREENCAST O MATIC",
+      "RStudio-1.3.1073"
+    ],
+    "Font characteristics": {
+      "Style": "System default sans-serif font, small size",
+      "Emphasis": "Most of the overlay numbers on the particles are bold and red for visibility",
+      "Color": [
+        "Red (particle numbers)",
+        "Black (software window text)",
+        "White (background panels)"
+      ]
+    },
+    "Text placement within frame": [
+      "Red numbers are densely distributed throughout the central image, labeling each particle",
+      "System interface text at the top of window frames",
+      "Watermark text ('RECORDED WITH SCREENCAST O MATIC') in the bottom-left corner"
+    ],
+    "Use of emotional/trigger words": "None. All language is functional, technical, and descriptive."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Objective, scientific, and educational. There is no strong emotional or dramatic content; the tone is analytical and instructional.",
+    "Visual metaphors or symbols": [
+      "Numbered particles symbolize measurement and quantitative analysis.",
+      "High contrast binary images visually reference scientific imaging (SEM and image processing)."
+    ],
+    "Clickbait techniques employed": [
+      "None apparent. No exaggerated text, faces, or emotional cues."
+    ],
+    "Brand elements present": [
+      "'SCREENCAST O MATIC' logo at the bottom left, denoting the screen capture software."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows a screen capture from the ImageJ (Fiji) software with segmented and numbered particles on an SEM image, clearly illustrating the process promised in the title: 'Using ImageJ (FiJi) to measure particles on SEM images.' The visual matches the technical focus of the video.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no significant contrast or mismatch. Both thumbnail and title are consistent, informative, and focused on demonstrating the software workflow for particle measurement in SEM imagery."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Light Gray (background)": "30%",
+      "Skin tones (faces, hands)": "25%",
+      "Brown (hair)": "20%",
+      "Blue (shirt)": "15%",
+      "Red (text boxes and circles)": "8%",
+      "White (text)": "2%"
+    },
+    "Composition type": "Medium close-up, split composition featuring a man on the left and a woman on the right, each occupying about half of the frame.",
+    "Human presence": {
+      "Number of people": 2,
+      "Demographics (if apparent)": "One adult male (left), one adult female (right)",
+      "Expressions": {
+        "Male": "Neutral, slightly concerned or skeptical, pointing towards the text/circles",
+        "Female": "Distressed or unhappy, frowning, hair appears disheveled"
+      }
+    },
+    "Main objects/props featured": [
+      "Man in blue shirt (left)",
+      "Woman with messy hair (right)",
+      "Close-up images of hair: oily roots, dry ends (in red-outlined circles)"
+    ],
+    "Background environment": "Neutral, light gray/white background, no discernible setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "OILY ROOTS",
+      "DRY ENDS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, all-uppercase, sans-serif",
+      "Emphasis": "High (bold weight, full-caps, large size)",
+      "Color": "White text on red background (text boxes)"
+    },
+    "Text placement within frame": {
+      "OILY ROOTS": "Top center-right, next to the hair roots of the woman",
+      "DRY ENDS": "Middle-right, near the woman's hair ends"
+    },
+    "Use of emotional/trigger words": [
+      "OILY",
+      "DRY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, concerning, slightly negative (focus on hair problems and dissatisfaction)",
+    "Visual metaphors or symbols": [
+      "Magnified hair issues (circles highlighting specific problems)",
+      "Finger pointing (drawing viewer\u2019s attention to key issues)"
+    ],
+    "Clickbait techniques employed": [
+      "Highlighting common but distressing hair issues",
+      "Close-up of negative results (oily roots, dry ends)",
+      "Red, bold text signaling warning or danger",
+      "Contrasting facial expressions (neutral/expert and distressed/problem)"
+    ],
+    "Brand elements present": "No explicit brand logos, but possible personal branding with presenter\u2019s face"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly visualizes two specific negative outcomes\u2014'oily roots' and 'dry ends'\u2014that result from bad hair washing habits, matching the warning tone of \u20188 Hair Washing Habits That Will Ruin Your Hair\u2019. It makes the hair damage immediately visible, resonating with the idea of 'ruin'. The distressed expression and emphasized hair issues underline the negative consequences suggested in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts; however, the thumbnail only depicts two hair issues, while the title mentions eight habits. This leaves room for curiosity about the remaining six habits, which can increase click-through rate."
+  }
+}

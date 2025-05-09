@@ -1,0 +1,13 @@
+{
+  "title": "Ovulation Tests | ARE YOU READING THEM RIGHT?",
+  "thumbnail_path": "thumbnails/4CWWXjfekvU_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

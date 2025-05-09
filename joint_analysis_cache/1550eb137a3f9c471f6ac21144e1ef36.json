@@ -1,0 +1,13 @@
+{
+  "title": "Does size really matter ?  Wife \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0902 | Dr. Imran khan",
+  "thumbnail_path": "thumbnails/AuUtTFmuJoE_max.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Introduction to Suture",
+  "thumbnail_path": "thumbnails/cfZz9D9yKWA_max.jpg",
+  "title_length": 22,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.25
+}

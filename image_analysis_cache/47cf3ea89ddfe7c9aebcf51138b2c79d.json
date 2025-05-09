@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "teal/blue-green": "approx. 60% (background, woman's clothing)",
+      "white": "approx. 15% (outlined person, sperm illustration, text box background)",
+      "purple": "approx. 15% (text background bar)",
+      "peach/skin tone": "approx. 8% (face and hand)",
+      "yellow/orange": "approx. 2% (emoji)"
+    },
+    "Composition type": "Medium shot (waist-up framing of a single person prominently on the right side)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Polite, slight smile, direct eye contact, lightly raised eyebrows (inviting, educational, trustworthy)",
+      "demographics": "Adult woman, light skin, long brown hair, wearing medical scrubs"
+    },
+    "Main objects/props featured": [
+      "Sperm cell illustrations (indicating fertility/IVF theme)",
+      "Emoji (surprised/shocked face)",
+      "Text boxes"
+    ],
+    "Background environment": "Stylized, digitally created, teal gradient with faded representations of sperm cells and egg (conceptual, not a physical location)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Learn These Tips",
+      "BEFORE IVF"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "Strong emphasis on 'BEFORE IVF' with larger, all-uppercase letters and contrasting color bar",
+      "color": "Dark purple/black for most text, set on white or purple backgrounds"
+    },
+    "Text placement within frame": {
+      "Learn These Tips": "Upper left, in a white rounded rectangle",
+      "BEFORE IVF": "Below the first text, centered and horizontally spanning almost the entire mid-left region in a purple bar"
+    },
+    "Use of emotional/trigger words": [
+      "BEFORE IVF"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Instructive, urgent, supportive, and slightly cautionary (emphasized with the emoji and the phrase 'BEFORE IVF')",
+    "Visual metaphors or symbols": [
+      "Sperm cells heading toward an egg (clear IVF/fertility symbol)",
+      "Surprised emoji face indicates 'shocking' or critical info"
+    ],
+    "Clickbait techniques employed": [
+      "Use of all-caps and strong contrast for key words",
+      "Surprise emoji to trigger curiosity",
+      "Promise of secrets/tips not to miss ('Learn These Tips')",
+      "Urgency with 'BEFORE IVF' implies the viewer might regret not learning this in time"
+    ],
+    "Brand elements present": "No explicit channel branding or logos visible; possible personal branding via recognizable presenter"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail and title both caution viewers about making mistakes or being uninformed before undergoing IVF. The thumbnail's large 'BEFORE IVF' text emphasizes timing, mirroring the title\u2019s urgency. The use of sperm/egg visuals directly ties into the IVF topic, and the instructor-figure suggests medical authority and personal experience, reinforcing the 'What I Wish I Knew' aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches; both communicate a warning and an opportunity to learn tips ahead of IVF, with visual and textual urgency. The title uses the doctor's name, but the thumbnail doesn't\u2014this may reduce instant personal brand recognition for returning viewers."
+  }
+}

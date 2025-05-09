@@ -1,0 +1,12 @@
+{
+  "title": "Sade - Ultimate",
+  "thumbnail_path": "thumbnails/bOE7E-DOdMQ_max.jpg",
+  "title_length": 15,
+  "patterns": [
+    "superlative",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.45
+}

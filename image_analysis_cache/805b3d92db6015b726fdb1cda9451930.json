@@ -1,0 +1,60 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "15% (shirts, text)",
+      "White": "25% (shirts, background, petroleum jelly)",
+      "Blue": "20% (shirt graphic, backgrounds)",
+      "Skin tones": "15% (arms/faces of people, partly obscured)",
+      "Brown": "10% (shorts, background greenery)",
+      "Gray/Black": "10% (shirts, mask, sunglasses)",
+      "Green": "5% (background foliage)"
+    },
+    "Composition type": "Split composition \u2013 left side features a medium shot of three people standing outdoors, right side is a close-up shot of a spoon holding petroleum jelly over a candle flame.",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": "Faces are intentionally blurred for privacy, so expressions are not discernible.",
+      "Demographics": "All apparent as adult males, Filipino ethnicity suggested by context."
+    },
+    "Main objects/props featured": [
+      "Three men (faces blurred for privacy)",
+      "Spoon with white petroleum jelly",
+      "Small candle with flame",
+      "Outdoor clothing (shirts, shorts, mask)"
+    ],
+    "Background environment": {
+      "Left": "Outdoor setting with trees and possibly street or park context.",
+      "Right": "Indeterminate indoor setting (background blurred/focused on spoon and candle)."
+    }
+  },
+  "2. TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "KAPUSO MO, JESSICA SOHO",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all capital letters, modern look",
+      "Emphasis": "Heavy weight, high visibility",
+      "Color": "Bright yellow, high contrast with background"
+    },
+    "Text placement within frame": "Bottom-left corner, occupying ~10% of the overall frame",
+    "Use of emotional/trigger words": [
+      "None explicit in the thumbnail itself. The show's title carries implicit authority/reliability."
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, investigative, possibly cautionary. The mood is heightened by privacy of subjects and the focus on petroleum jelly in a medical/DIY context.",
+    "Visual metaphors or symbols": [
+      "Spoon heating over flame (suggests improvised or underground medical procedures)",
+      "Blurred faces (suggests secrecy, stigma, or sensitive topic)"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic split composition (juxtaposing people with a mysterious substance/preparation)",
+      "Blurring faces (suggests controversial or personal story)",
+      "Visual of foreign substance (petroleum jelly) being heated, arouses curiosity and concern"
+    ],
+    "Brand elements present": [
+      "Show title in bold yellow (KAPUSO MO, JESSICA SOHO) - strong branding, recognizable GMA program"
+    ]
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Left side shows the group of men, alluding to 'mga mister' mentioned in the title. The right side features a close-up of petroleum jelly prepared over a flame, directly referencing the act of injecting it ('nagpaturok ng petroleum jelly sa kanilang ari'). The show's branding reassures viewers this will be handled by a reputable investigative team.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches; the visual directly supports the subject matter in the title. The only indirect aspect is that the act of injection is not shown (for propriety), but the implication is very clear and strongly themed."
+  }
+}

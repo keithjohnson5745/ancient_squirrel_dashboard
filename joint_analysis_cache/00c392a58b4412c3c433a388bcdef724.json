@@ -1,0 +1,13 @@
+{
+  "title": "Prostate Massage",
+  "thumbnail_path": "thumbnails/kDFou5rOUDQ_max.jpg",
+  "title_length": 16,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

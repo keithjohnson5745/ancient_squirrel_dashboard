@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "Approximately 60% - Main background is a soft pink gradient",
+      "Black": "Approximately 25% - Text backgrounds and woman's sari",
+      "Yellow": "Approximately 5% - Header text",
+      "Magenta/Fuchsia": "Approximately 5% - Accents on sari",
+      "White": "Approximately 5% - Text and background fade"
+    },
+    "Composition type": "Medium shot (upper body of a single woman, facing forward with gesturing hands)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slightly positive; direct eye contact with camera, engaging audience",
+      "Demographics": "Adult woman, Indian, wearing traditional attire (sari)"
+    },
+    "Main objects/props featured": [
+      "Woman in a printed black and magenta sari",
+      "Text elements (large Hindi lettering)"
+    ],
+    "Background environment": "Flat, pastel pink background; slightly cloud-like or gradient appearance, non-distracting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0915\u0948\u0938\u0940- \u0915\u0948\u0938\u0940 \u0939\u094b\u0924\u0940 \u0939\u0948?",
+      "\u092f\u094b*\u0928\u093f",
+      "\u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u0915\u094c\u0928 \u0938\u0940 \u0939\u094b\u0924\u0940 \u0939\u0948?"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold for focus words; clean lines",
+      "Emphasis": "Very large for '\u092f\u094b*\u0928\u093f', high contrast; colored and bold for impact",
+      "Color": [
+        "Yellow (header on black)",
+        "Black (main word and lower question on pink background)",
+        "White (subtle bordering and spacing)"
+      ]
+    },
+    "Text placement within frame": {
+      "Header": "Top left within black bar",
+      "Main word": "Center, extremely large",
+      "Lower subtitle": "Bottom left, smaller but clear"
+    },
+    "Use of emotional/trigger words": [
+      "'\u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u0940' (best/most good)",
+      "'\u0915\u0948\u0938\u0940- \u0915\u0948\u0938\u0940' (which kinds/types)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, open, slightly provocative but educational; approachable, not aggressive",
+    "Visual metaphors or symbols": "Use of an asterisk (*) to partially censor a sensitive word (sexual health/biology context), indicating slight taboo or sensitive discussion",
+    "Clickbait techniques employed": [
+      "Use of censored/partial word to evoke curiosity",
+      "Direct question about 'which is best,' inviting comparison/discovery",
+      "Large, bold fonts and contrast colors to grab attention",
+      "Friendly female presenter to reduce taboo/uncomfortable feelings"
+    ],
+    "Brand elements present": [
+      "Presenter is repeated across videos (personal branding style)",
+      "Traditional Indian dress to relate to target audience"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually mirrors the title by displaying the central question (in large text: 'Which is the best?') and using a censored key word relating to the topic, piquing interest exactly as the title does. The presence of the presenter and her pointing gesture also suggests direct explanation or answers are given, matching the informative style promised in the title.",
+    "Contrasts or mismatches": "No clear mismatches; both title and thumbnail are explicit about the topic while treading the line of being family-friendly with partial censorship. The thumbnail is designed to lead directly into the title's promise of comparison and answer."
+  }
+}

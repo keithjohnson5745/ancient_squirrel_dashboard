@@ -1,0 +1,13 @@
+{
+  "title": "SURFS UP! BACK IN ELYU BABY! | Small Laude",
+  "thumbnail_path": "thumbnails/F1W6qkZflk0_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,91 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "lavender/purple": "40%",
+      "pink": "30%",
+      "white": "15%",
+      "red": "10%",
+      "black": "5%"
+    },
+    "composition_type": "Medium shot (from waist up) of a single woman on the right side; text and graphics fill the left.",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, confident, welcoming.",
+      "demographics": "Adult woman, medium skin tone, black hair, wearing red and beige traditional clothing."
+    },
+    "main_objects/props_featured": [
+      "Infographic-style circular 'FERTILE PERIOD' badge",
+      "Circular logo with pregnant woman icon and text ('MASTER CLASSES ON PREGNANCY')"
+    ],
+    "background_environment": "Flat, two-tone gradient background with shades of pink and lavender; clean and clinical with no distracting elements."
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "BEST DAYS TO GET PREGNANT",
+      "FERTILE PERIOD",
+      "3M+ VIEWS",
+      "MASTER CLASSES ON PREGNANCY",
+      "MAITRI"
+    ],
+    "font_characteristics": [
+      {
+        "text": "BEST DAYS TO GET PREGNANT",
+        "style": "Bold, all caps, sans-serif, black font with white block background.",
+        "emphasis": "Heavy (high-contrast, large font size)"
+      },
+      {
+        "text": "FERTILE PERIOD",
+        "style": "Bold, all caps, sans-serif, red font on white background within a circular calendar motif.",
+        "emphasis": "High"
+      },
+      {
+        "text": "3M+ VIEWS",
+        "style": "Bold, all caps, sans-serif, red font with black outline.",
+        "emphasis": "Very high"
+      },
+      {
+        "text": "MASTER CLASSES ON PREGNANCY / MAITRI",
+        "style": "All caps, white font, curved around a maroon emblem.",
+        "emphasis": "Medium-High"
+      }
+    ],
+    "text_placement_within_frame": {
+      "BEST DAYS TO GET PREGNANT": "Left side, stacked vertically occupying the majority of the left half.",
+      "FERTILE PERIOD": "Top center, to the right of main text.",
+      "3M+ VIEWS": "Bottom left, inside a white bubble.",
+      "MASTER CLASSES ON PREGNANCY / MAITRI": "Bottom right, wrapped around a round logo."
+    },
+    "emotional_trigger_words": [
+      "BEST",
+      "FERTILE PERIOD",
+      "3M+ VIEWS",
+      "MASTER CLASSES"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Calm, informative, welcoming, trustworthy.",
+    "visual_metaphors_or_symbols": [
+      "Circular badge with days and highlight mimicking an ovulation tracker/calendar",
+      "Pregnant woman silhouette representing pregnancy/health"
+    ],
+    "clickbait_techniques_employed": [
+      "Large, bold text promising 'best days' (exclusive tips)",
+      "Highlight of '3M+ VIEWS' for social proof",
+      "Professional appearance of woman implies expertise"
+    ],
+    "brand_elements_present": [
+      "Maitri logo/branding",
+      "Consistent color scheme (lavender/pink)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": [
+      "Both thumbnail and title reference 'Best Days To Get Pregnant'",
+      "'FERTILE PERIOD' visually connects to the 'best days' claim in the title",
+      "Presence of a professional (doctor) matches the title's use of 'Dr Anjali Kumar'"
+    ],
+    "contrasts_or_mismatches": [
+      "No significant contrasts or mismatches. Both are cohesive and directly related."
+    ]
+  }
+}

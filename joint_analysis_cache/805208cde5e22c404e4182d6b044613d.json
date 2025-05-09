@@ -1,0 +1,13 @@
+{
+  "title": "OurDoctor - How To Make Semen Taste Better",
+  "thumbnail_path": "thumbnails/WtwFzf377ww_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

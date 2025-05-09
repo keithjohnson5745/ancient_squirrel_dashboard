@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal/Aqua gradient background": "60%",
+      "White (text and shirt)": "15%",
+      "Yellow (text)": "10%",
+      "Beige/light olive (shirt)": "10%",
+      "Brown (hair)": "5%"
+    },
+    "Composition type": "Medium close-up",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Somber, reflective, slightly sad or serious",
+      "Demographics": "Adult male, light skin, long brown hair, mid-20s to late 30s"
+    },
+    "Main objects/props featured": "Single person is the main subject, with no other objects or significant props visible",
+    "Background environment": "Solid, smooth teal/aqua gradient, no discernible setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "KETAMINE RUINED MY LIFE",
+      "DEEP"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all capitals",
+      "Emphasis": "The word 'RUINED' is in yellow and larger, while the rest is in white; 'DEEP' (in the circle at the top right) is smaller and also sans-serif in a muted blue tone",
+      "Color": "'RUINED' is bright yellow, other words are white, 'DEEP' is a muted blue on a light grayish circle"
+    },
+    "Text placement within frame": {
+      "Main text": "Left two-thirds of the image in a vertically stacked layout",
+      "Logo": "Top right corner in a circular badge"
+    },
+    "Use of emotional/trigger words": [
+      "RUINED",
+      "MY LIFE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, distressed, cautionary, conveying warning and regret",
+    "Visual metaphors or symbols": "Strong emphasis on a single word ('RUINED') visually highlights the destruction caused; the plain background and serious facial expression focus on the person\u2019s story",
+    "Clickbait techniques employed": [
+      "Strong emotional language ('RUINED MY LIFE')",
+      "High contrast, bold text",
+      "Direct eye contact from subject",
+      "Clear implication of a dramatic personal story"
+    ],
+    "Brand elements present": "Circular 'DEEP' logo in top right, which identifies the series or channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text echoes the video's central topic by stating 'KETAMINE RUINED MY LIFE', strongly reinforcing the video's title, which suggests a personal battle with ketamine addiction. The somber appearance of the person further underscores the idea of negative consequences, aligning with the theme of addiction and regret worn on his face.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major mismatches; both focus on the negative impact of ketamine addiction. The thumbnail provides a very direct visual and emotional shorthand for what is described in the title."
+  }
+}

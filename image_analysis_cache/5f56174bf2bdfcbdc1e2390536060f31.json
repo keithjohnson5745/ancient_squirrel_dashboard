@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Light tan (walls and desk)": "45%",
+      "Light blue (scrubs)": "25%",
+      "Skin tones": "15%",
+      "Black (monitor, glasses, accents)": "10%",
+      "Red (text, accents)": "5%"
+    },
+    "Composition type": "Medium shot \u2013 One person in the foreground, clearly visible from the chest up.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Speaking, moderately serious but approachable, hands raised as if explaining.",
+      "Demographics": "Adult Asian male, glasses, medical scrubs."
+    },
+    "Main objects/props featured": [
+      "Person in blue medical scrubs",
+      "Glasses",
+      "Microphone attached to scrubs",
+      "Office/clinic background including a monitor, framed photos, a potted plant, and counter workspace"
+    ],
+    "Background environment": "Medical or clinic office. Features a stone/quartz countertop, framed photo, purple potted plant, wall art, computer monitor, folders, and general office paraphernalia."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in the thumbnail": [
+      "I have Anal Fistula. Do I need Surgery?",
+      "Dr. Chung answers Your questions!"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "I have Anal Fistula. Do I need Surgery?",
+        "Style": "Bold, sans-serif",
+        "Emphasis": "High (large, capitalized in parts, red color)",
+        "Color": "Bright Red"
+      },
+      {
+        "Text": "Dr. Chung answers Your questions!",
+        "Style": "Sans-serif",
+        "Emphasis": "Medium (white color, outlined for visibility)",
+        "Color": "White"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "Text": "I have Anal Fistula. Do I need Surgery?",
+        "Placement": "Upper right and center, taking up much of the right side, vertically stacked"
+      },
+      {
+        "Text": "Dr. Chung answers Your questions!",
+        "Placement": "Lower center/left, overlaying the chest area of the person"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "Anal Fistula",
+      "Surgery",
+      "Questions"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious but reassuring; addresses medical concerns with a calm, knowledgeable presence.",
+    "Visual metaphors or symbols": [
+      "Doctor in scrubs signals medical authority/expertise.",
+      "Raised hands may indicate an explanatory or open-dialogue approach."
+    ],
+    "Clickbait techniques employed": [
+      "Direct question in bold text ('Do I need Surgery?') creates urgency and curiosity.",
+      "Use of a stigmatized/serious medical term.",
+      "Promise of expert advice ('Dr. Chung answers Your questions!')"
+    ],
+    "Brand elements present": [
+      "Consistent use of doctor's name (Dr. Chung)",
+      "Doctor's professional appearance (scrubs, microphone, office setting)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail directly echoes the video title by visually displaying the question that matches the title, and featuring Dr. Chung himself as the expert, making it immediately clear the video will address viewer concerns about anal fistula and possible surgery.",
+    "Contrasts or mismatches": "There are no notable mismatches; the thumbnail and title are highly consistent and mutually reinforcing."
+  }
+}

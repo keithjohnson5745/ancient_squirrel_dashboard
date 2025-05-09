@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "approximately 40% (background and light effects)",
+      "Purple": "about 20% (banner behind title text)",
+      "Black": "around 20% (hair and shirt of person)",
+      "Skin tone": "about 15% (face and chest of person)",
+      "Green": "about 5% (plant leaves)"
+    },
+    "Composition type": "Medium shot (upper body of a person, centered on left half of the image)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to positive; slight smile, direct or confidently optimistic expression",
+      "Demographics if apparent": "Adult female, dark hair, possibly in her 20s-30s"
+    },
+    "Main objects/props featured": [
+      "Person (presumed presenter or expert)",
+      "Text banners (title, guide, name)"
+    ],
+    "Background environment": "Bright, clean, softly lit interior with white curtains and some green potted plants (minimalist and professional aesthetic)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "LUBE 101",
+      "A Guide to How to Use Lube",
+      "Dr. Jess",
+      "ASTROGLIDE"
+    ],
+    "Font characteristics": {
+      "LUBE 101": "Bold, sans-serif, all uppercase letters, white color on purple background for high contrast and emphasis",
+      "A Guide to How to Use Lube": "Regular, sans-serif, white color, sentence case, smaller than title\u2014it is easy to read and sits right below the title",
+      "Dr. Jess": "Cursive/script-style font, elegant and friendly, white color, lower right of the image",
+      "ASTROGLIDE": "Simple sans-serif, italicized, white color, logo at lower left"
+    },
+    "Text placement within frame": {
+      "LUBE 101": "Top right, occupies prominent horizontal banner",
+      "A Guide to How to Use Lube": "Directly below main title, slightly smaller font, still inside purple banner",
+      "Dr. Jess": "Bottom right, slightly overlapping the person and background",
+      "ASTROGLIDE": "Bottom left, small-sized logo"
+    },
+    "Use of emotional/trigger words": [
+      "101"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, approachable, friendly, and professional. The use of bright lighting and soft background aims for a non-intimidating, inviting mood.",
+    "Visual metaphors or symbols": "Use of the number '101' signals an introductory or beginner's guide (education motif). The overall clean, soft design suggests comfort and trustworthiness.",
+    "Clickbait techniques employed": [
+      "Big, bold title draws instant attention",
+      "'101' signals that viewers will learn foundational knowledge (appeals to those seeking clarity and information)",
+      "Smiling expert figure enhances credibility and approachability",
+      "Instructional subtitle clarifies video content to attract those seeking useful advice"
+    ],
+    "Brand elements present": [
+      "ASTROGLIDE logo (bottom left corner, indicates brand sponsorship or partnership)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail prominently displays the same title 'LUBE 101: A Guide to How to Use Lube' as the video title, directly reinforcing the content and topic. The presence of an expert (Dr. Jess) adds authority and suggests tutorial/explainer content, aligning with the guide aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts/mismatches; both clearly convey an educational, approachable guide to using lube, supported by professional branding."
+  }
+}

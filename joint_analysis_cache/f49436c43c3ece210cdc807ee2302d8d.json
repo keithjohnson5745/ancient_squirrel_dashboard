@@ -1,0 +1,12 @@
+{
+  "title": "Urologists answer your questions about testosterone replacement therapy | TRT",
+  "thumbnail_path": "thumbnails/n-TFdxK6QjY_max.jpg",
+  "title_length": 77,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark Blue/Purple Gradient": "\u224845%",
+      "White": "\u224830%",
+      "Yellow (text and emoji)": "\u224810%",
+      "Skin tones": "\u224810%",
+      "Black (text)": "\u22485%"
+    },
+    "Composition type": "Collage-style, featuring close-up and medium shots merged together.",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Left: Woman looking thoughtfully at camera (neutral or slightly amused expression)",
+        "Center: Woman lying down, hand on forehead, looks frustrated or exasperated",
+        "Right: Man lying down, eyes closed, looks tired or exhausted"
+      ],
+      "Demographics (if apparent)": [
+        "Left: Adult female, appears to have medium skin and dark hair",
+        "Center: Adult female, light skin, blonde hair",
+        "Right: Adult male, light skin, brown hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Large emoji (yellow, neutral face) with text 'I wish!'",
+      "Sign-like graphic with the word 'ROUND', crossed out '2' (suggests no second round) and peeled banana (symbolic)",
+      "Large bold text ('MULTIPLE', 'ORGASMS?')"
+    ],
+    "Background environment": "Abstract, gradient dark blue/purple background with circles and halftone dot patterns. Minimal real-world detail, mostly digital graphics."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "MULTIPLE",
+      "I wish!",
+      "ROUND",
+      "ORGASMS?"
+    ],
+    "Font characteristics": {
+      "MULTIPLE": {
+        "Style": "Bold, sans-serif, white with black shadow",
+        "Emphasis": "Very high"
+      },
+      "ORGASMS?": {
+        "Style": "Extra bold, sans-serif, black on bright yellow background",
+        "Emphasis": "Extremely high"
+      },
+      "I wish!": {
+        "Style": "Casual, sans-serif, white",
+        "Emphasis": "Medium"
+      },
+      "ROUND": {
+        "Style": "Bold, sans-serif, black on white (like a road sign), with red cross symbol through the number 2",
+        "Emphasis": "High"
+      }
+    },
+    "Text placement within frame": {
+      "MULTIPLE": "Top left, overlay above head of leftmost person",
+      "I wish!": "Middle, above central figure\u2019s head beside emoji",
+      "ORGASMS?": "Bottom left, large yellow bar crossing the frame",
+      "ROUND 2 (crossed out)": "Upper right quadrant, embedded in sign graphic"
+    },
+    "Emotional/trigger words": [
+      "MULTIPLE",
+      "ORGASMS?",
+      "I wish!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, cheeky, mildly frustrated, humorous",
+    "Visual metaphors or symbols": [
+      "Banana (signifying sexual context and 'second round')",
+      "Crossed out 'ROUND 2' (symbolizes difficulty of sexual 'go again')",
+      "Emoji (conveys emotion of mild disappointment)",
+      "Hand-on-forehead/lying down expressions (frustration/tiredness)"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold question ('ORGASMS?')",
+      "Highlighting a tantalizing sexual topic ('MULTIPLE', 'ORGASMS')",
+      "Humorous visual puns (banana, emoji, signs)",
+      "Exaggerated facial expressions"
+    ],
+    "Brand elements present": "No explicit brand logo, but consistent use of bold fonts, yellow/black color blocks\u2014possible channel style."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail explicitly visualizes the topic of the refractory period by showing two tired-looking people in bed, a woman expressing frustration, and a sign indicating 'no second round.' The text 'MULTIPLE ORGASMS?' and the crossed out 'ROUND 2' sign directly invoke the subject of why it's difficult to 'go again,' strongly reinforcing the video\u2019s title.",
+    "Contrasts or mismatches": "No significant mismatch; the playful tone of the thumbnail matches the pop-science and cheeky phrasing of the title. Both convey the struggle of achieving multiple orgasms and tie directly to the physiological explanation hinted at in the title."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Research-Backed 3-in-1 Move that's BETTER than Kegels! \ud83d\udca5",
+  "thumbnail_path": "thumbnails/Yyf83aGy0sg_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

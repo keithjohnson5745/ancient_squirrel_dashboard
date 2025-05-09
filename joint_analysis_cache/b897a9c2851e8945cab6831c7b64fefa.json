@@ -1,0 +1,12 @@
+{
+  "title": "Understand STIs/STDs | STD Awareness | Valentine's Week Special- Dr. Swapnita",
+  "thumbnail_path": "thumbnails/3Ju19ql7lhE_max.jpg",
+  "title_length": 77,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

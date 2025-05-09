@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (background, lab coat, whiteboard)",
+      "Yellow/Gold": "20% (borders, text, outlines)",
+      "Blue": "10% (shirt, diagram highlights)",
+      "Purple": "10% (diagram lines)",
+      "Skin tones": "10% (person's face and hands)",
+      "Black/Grey": "10% (text, borders, hair, stethoscope, background lines)"
+    },
+    "Composition type": "Medium shot (shows a person from the chest up alongside a large whiteboard, with background diagrams visible)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expression": "Smiling, inviting, approachable",
+      "demographics": "Adult male, dark hair, medium skin tone, professional attire (lab coat)"
+    },
+    "Main objects/props featured": [
+      "Whiteboard with large text",
+      "Background educational diagram (scientific/medical, likely of reproductive system)",
+      "Cartoon ninja mascot peeking over whiteboard",
+      "Person in lab coat"
+    ],
+    "Background environment": "Illustrative/scientific diagram in bright colors, suggestive of a classroom or educational atmosphere"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "NINJA NERD",
+      "OVULATION",
+      "Professor | Zach Murphy",
+      "(some scientific diagram text that is mostly illegible or too small to read, e.g., 'Estrogen', 'FSH', 'Cocum Raotta')"
+    ],
+    "Font characteristics": {
+      "NINJA NERD": "Comic/cartoon style; 'NINJA' in blue/teal, 'NERD' in black/gray, with bold sans-serif, playful and friendly",
+      "OVULATION": "Large, bold, uppercase, sans-serif, yellow/gold with gray outline and slight drop shadow for emphasis",
+      "Professor | Zach Murphy": "White sans-serif, medium weight, clear, placed on a semi-transparent dark gray box"
+    },
+    "Text placement within frame": {
+      "NINJA NERD": "Top right corner",
+      "OVULATION": "Center right (very large, fills most of the whiteboard)",
+      "Professor | Zach Murphy": "Bottom left (overlay box at chest level of person)"
+    },
+    "Use of emotional/trigger words": [
+      "OVULATION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, educational, confident, engaging",
+    "Visual metaphors or symbols": [
+      "Cartoon ninja (symbolizing 'Ninja Nerd' and fun, skilled teaching)",
+      "Whiteboard (symbolizing teaching and clear explanation)",
+      "Lab coat (symbolizing expertise/credibility)"
+    ],
+    "Clickbait techniques employed": [
+      "Large central keyword ('OVULATION')",
+      "Approachable expert image",
+      "Bright, eye-catching colors",
+      "Prominent logo/branding"
+    ],
+    "Brand elements present": [
+      "Ninja Nerd (logo, cartoon ninja character, signature font and color scheme)",
+      "Professional attire and named expert for trust"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title by featuring the keyword 'OVULATION' in very large text, a scientific diagram in the background, and a professional (professor) who appears knowledgeable, immediately conveying the subject matter (female reproductive cycle/ovulation) and educational focus.",
+    "Contrasts or mismatches": "There are no noticeable contrasts or mismatches; the thumbnail accurately and clearly relates to the title. The visual emphasis on science and explanation matches the video's educational intent."
+  }
+}

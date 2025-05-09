@@ -1,0 +1,12 @@
+{
+  "title": "Testosterone for Women: testing, dosing, & symptoms of low testosterone | Felice Gersh, MD",
+  "thumbnail_path": "thumbnails/iLXRN2cDPUE_max.jpg",
+  "title_length": 90,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

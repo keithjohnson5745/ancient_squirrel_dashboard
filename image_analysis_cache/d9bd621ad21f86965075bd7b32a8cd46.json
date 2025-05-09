@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (toilet bowl, some tiles)",
+      "Yellow": "25% (stains in toilet, color on WD-40 can)",
+      "Blue": "12% (WD-40 can label background)",
+      "Red": "10% (WD-40 spray attachment, text)",
+      "Beige/Tan": "13% (background tiles, hand)"
+    },
+    "Composition type": "Close-up shot \u2014 Focuses closely on the hand holding a can of WD-40, pointed at the inside of a stained toilet.",
+    "Human presence": {
+      "Number of people": 1,
+      "Description": "Visible left hand holding the spray can; rest of the person out of frame."
+    },
+    "Main objects/props featured": [
+      "WD-40 spray can with red straw attachment",
+      "White toilet bowl with vivid yellow staining",
+      "Tiled bathroom floor/walls"
+    ],
+    "Background environment": "Bathroom; tiled floor and walls, with a visible toilet bowl as the central setting."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "+40 ml GRATIS +40 ml",
+      "WD-40",
+      "PRODOTTO MULTIFUNZIONE",
+      "290 ml"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": [
+        "Strong, high-contrast colors (yellow text on blue/red, blue text on yellow, white text on blue)",
+        "Branding uses large, blocky font for 'WD-40'; '+40 ml GRATIS' is also bold for visibility"
+      ],
+      "Color": [
+        "Yellow (on blue/red background)",
+        "Red (on yellow background)",
+        "Blue (on yellow background)",
+        "White (on blue background)"
+      ]
+    },
+    "Text placement within frame": "All visible text is on the WD-40 can, which is in the left foreground and angled towards the camera for maximum legibility.",
+    "Use of emotional/trigger words": "The word 'GRATIS' (free) is used, grabbing attention; the WD-40 branding is strong and familiar."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Surprise/gross-out mixed with curiosity and a promise of a solution. The dirty toilet invokes disgust while the hand with WD-40 suggests an intriguing hack.",
+    "Visual metaphors or symbols": "WD-40 can as a 'fix-all' or household problem-solver; unappealing toilet stains as a symbol of stubborn problems.",
+    "Clickbait techniques employed": [
+      "Contrast between the unexpected (WD-40 + toilet)",
+      "Visual of an unpleasant problem (dirty bathroom)",
+      "Strong color contrast and product placement",
+      "Implied promise of 'life hack' or surprising use"
+    ],
+    "Brand elements present": [
+      "WD-40 logo and brand colors prominently displayed on the can"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually demonstrates one of the '16 uses' referred to in the title, teasing an unconventional use (cleaning a stained toilet) and directly tying in the WD-40 product.",
+    "Contrasts or mismatches": "There is no obvious mismatch; however, the specific use shown (toilet cleaning) is surprising and potentially controversial, which heightens clickbait appeal but could confuse those who only associate WD-40 with mechanical/lubricant uses."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple": "65%",
+      "Light Pink": "20%",
+      "White": "10%",
+      "Skin tone": "5%"
+    },
+    "Composition type": "Split composition: Left half is a graphic/text panel; right half is a medium shot of a person.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slight smile, approachable and professional demeanor",
+      "demographics": "Adult female, light skin tone, dark hair pulled back, wearing professional attire (likely healthcare uniform)."
+    },
+    "Main objects/props featured": [
+      "Text panel",
+      "Person in scrub top (suggesting a nurse or healthcare provider)",
+      "Clip-on microphone (suggesting instructional/lecture format)"
+    ],
+    "Background environment": "Solid color background on the left; plain, clinical, or nondescript background on the right (supporting an educational/medical setting)."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "FOLEY CATHETER INSERTION FEMALE",
+    "Font characteristics": {
+      "style": "Bold sans-serif, uppercase, clean, modern look",
+      "emphasis": "High contrast between text and background, especially 'INSERTION' (darker purple text on a light pink background)",
+      "color": [
+        "White (for 'FOLEY CATHETER' and 'FEMALE')",
+        "Dark purple (for 'INSERTION')"
+      ]
+    },
+    "Text placement within frame": "Centered on the left half of the thumbnail, spanning three distinct stripes (top, middle, bottom). 'INSERTION' is highlighted on a contrasting background in the middle band.",
+    "Use of emotional/trigger words": [
+      "INSERTION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, instructional, approachable",
+    "Visual metaphors or symbols": [
+      "Medical uniform and microphone (authority/education in healthcare)"
+    ],
+    "Clickbait techniques employed": [
+      "Highlighting a sensitive medical procedure to attract viewers with an educational or training need",
+      "Use of bold text and color contrast for high visibility"
+    ],
+    "Brand elements present": "No explicit brand logo or watermark, but the color coordination and professional styling suggest a recurring visual brand identity."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly mirrors the title by listing the key terms 'FOLEY CATHETER INSERTION FEMALE'. The professional image of a nurse supports the educational, clinical focus described in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts; both are highly aligned. The thumbnail is straightforward and matches the instructional intent of the video title. However, the thumbnail does not show a catheter or procedure, relying solely on text and instructor image."
+  }
+}

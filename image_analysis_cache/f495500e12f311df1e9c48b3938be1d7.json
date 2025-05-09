@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light pink/tan (walls, text background)": "30%",
+      "Black (furniture, one person's outfit)": "25%",
+      "White (chairs, decor elements)": "15%",
+      "Red/pink (floral dress, decorations)": "15%",
+      "Wood brown (floor, table top)": "10%",
+      "Lavender/purple (text bar, pillows, flowers)": "5%"
+    },
+    "Composition type": "Medium shot \u2013 two people seated on chairs facing each other across a coffee table in a studio-like setting.",
+    "Human presence": {
+      "number": 2,
+      "expressions": "Both appear engaged, making eye contact, slight smiles.",
+      "demographics": "Two adult females, likely of different racial backgrounds."
+    },
+    "Main objects/props featured": [
+      "Round coffee table with books and a decorative item",
+      "Two white chairs",
+      "Decor items (vase, flowers, books)",
+      "Bold-patterned dress and formal black outfit"
+    ],
+    "Background environment": "Indoor, styled as a cozy modern studio or living room with dark cabinets, art frames, soft lighting, and floral accents."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "Cityline  GERIATRIC PREGNANCY",
+    "Font characteristics": {
+      "Cityline": "Bold, sans-serif, purple; strong emphasis",
+      "GERIATRIC PREGNANCY": "All caps, bold serif font, purple"
+    },
+    "Text placement": "Lower-third banner, spanning the bottom width of the thumbnail. 'Cityline' is left-aligned, 'GERIATRIC PREGNANCY' is right-aligned.",
+    "Emotional/trigger words": [
+      "GERIATRIC",
+      "PREGNANCY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious yet supportive and conversational; non-sensational.",
+    "Visual metaphors or symbols": "The studio setting and two women in discussion symbolize a talk show or educational interview, underlining open dialogue about the topic.",
+    "Clickbait techniques employed": "Use of the medical term 'GERIATRIC PREGNANCY' as a trigger/attention word; professional, clean design to imply authority.",
+    "Brand elements present": "'Cityline' logo/title prominently displayed."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The presence of two adult women in discussion on a professional set visually supports the medical/informative angle of the video title about pregnancy after 35.",
+    "Contrasts or mismatches": "The thumbnail uses the stronger, somewhat jarring medical term 'GERIATRIC PREGNANCY' which can feel more negative or clinical than the balanced 'disadvantages and benefits' in the video title."
+  }
+}

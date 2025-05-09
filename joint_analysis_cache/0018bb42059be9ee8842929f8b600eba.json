@@ -1,0 +1,12 @@
+{
+  "title": "China is \u2018not well,\u2019 expert warns over their failing economy",
+  "thumbnail_path": "thumbnails/mdZIa3xw7as_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

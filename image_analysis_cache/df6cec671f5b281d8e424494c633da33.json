@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light blue": "40%",
+      "dark blue/gray": "20%",
+      "skin tones": "20%",
+      "white (outlines, text border, background highlights)": "10%",
+      "yellow (text border/background)": "7%",
+      "red (name labels)": "3%"
+    },
+    "Composition type": "Close-up/Medium shot (split-screen with head-and-shoulders of both speakers)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: thoughtful/pondering, hand on chin",
+        "Right: engaged/conversational, slight smile"
+      ],
+      "demographics": "Both are adult white males, appearing to be in their 20s-30s"
+    },
+    "Main objects/props featured": [
+      "Microphone (left person)",
+      "Watch (left person)",
+      "No visible props for right person"
+    ],
+    "Background environment": "Solid color split background (left: light blue, right: dark blue/gray), with subtle rectangular outlines; minimalistic, no visible scenery"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "TOO SEXUAL TOO SOON?",
+      "MATTHEW HUSSEY",
+      "STEPHEN HUSSEY",
+      "mh Matthew Hussey"
+    ],
+    "Font characteristics": {
+      "TOO SEXUAL TOO SOON?": {
+        "style": "Bold, sans-serif, all caps",
+        "emphasis": "Heavy drop shadow, yellow fill with black outline, high contrast",
+        "color": "Yellow text with black outline"
+      },
+      "Name bars": {
+        "style": "All caps, sans-serif, less bold",
+        "emphasis": "White text on red background, angled rectangular label",
+        "color": "White on red"
+      },
+      "mh Matthew Hussey (logo)": {
+        "style": "Lowercase and title case, minimalist logo",
+        "color": "White on light blue"
+      }
+    },
+    "Text placement within frame": {
+      "TOO SEXUAL TOO SOON?": "Centered, dominating most of the middle-third of the thumbnail, across both faces",
+      "MATTHEW HUSSEY": "Bottom left, over the left person's image",
+      "STEPHEN HUSSEY": "Bottom right, over the right person's image",
+      "mh Matthew Hussey": "Top center, small, above headline text"
+    },
+    "Use of emotional/trigger words": [
+      "TOO SEXUAL",
+      "TOO SOON?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly provocative, engaging, seeking to spark debate or interest",
+    "Visual metaphors or symbols": "Split-screen suggests discussion or debate; hand-on-chin pose suggests contemplation; bold colors invoke urgency or importance",
+    "Clickbait techniques employed": [
+      "All-caps, emotionally charged questions",
+      "Unresolved question ('Too soon?')",
+      "Provocative language ('Too Sexual')",
+      "Close-up faces showing emotion/engagement"
+    ],
+    "Brand elements present": [
+      "Matthew Hussey logo (top center)",
+      "Consistent color scheme & name cards for identification"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail text directly echoes the video's theme of sexual timing in relationships by using the phrase 'TOO SEXUAL TOO SOON?'. The thoughtful expressions and split-screen debate format suggest a discussion or exploration of this sensitive topic, matching the phrasing in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major mismatches; the thumbnail is closely aligned with the title. The only slight difference is that the thumbnail uses shorthand ('TOO SEXUAL TOO SOON?'), which is slightly more provocative than the more general question posed by the title, but the meaning remains highly consistent."
+  }
+}

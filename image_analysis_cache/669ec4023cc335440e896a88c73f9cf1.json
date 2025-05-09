@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Gray": "40% (person\u2019s shirt, midground)",
+      "Brown": "15% (background walls, top text bar)",
+      "Yellow": "8% (highlight text background at bottom)",
+      "Black": "20% (hair, shadows, borders)",
+      "Skin tones": "10%",
+      "White": "7% (ceiling, text, product label)",
+      "Blue": "Light blue accent (Durex logo on product)"
+    },
+    "Composition type": "Medium close-up shot (chest upwards, subject centered, product prominently held toward camera)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral or focused, looking at the camera",
+      "Demographics": "Young adult male, medium-brown skin tone, South Asian appearance"
+    },
+    "Main objects/props featured": [
+      "Durex-branded tube of lubricant (held in the center foreground, label facing camera)",
+      "Product is slightly blurred, but identifiable"
+    ],
+    "Background environment": "Indoor, likely a rustic or unfinished room (exposed brick/stone walls, hanging lightbulb, dark with some white ceiling and fluorescent lighting visible)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CALL-7566835551",
+      "YOUTUBE.COM/PATANJALIKACOLLEGE"
+    ],
+    "Font characteristics": {
+      "CALL-7566835551": {
+        "Style": "Bold, sans-serif, all uppercase",
+        "Emphasis": "Strong (black text on solid white background with brown border)",
+        "Color": "Black (text), white background, brown border"
+      },
+      "YOUTUBE.COM/PATANJALIKACOLLEGE": {
+        "Style": "Bold, sans-serif, all uppercase",
+        "Emphasis": "Very strong (black text on bright yellow background, highlighted)",
+        "Color": "Black text, yellow highlight"
+      }
+    },
+    "Text placement within frame": {
+      "CALL-7566835551": "Top-center of frame in a banner",
+      "YOUTUBE.COM/PATANJALIKACOLLEGE": "Bottom-center of frame in a highlighted box"
+    },
+    "Use of emotional/trigger words": [
+      "CALL"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, straightforward, a bit transactional (due to the prominent phone number and YouTube channel plug)",
+    "Visual metaphors or symbols": "None significant; product itself is the focus \u2014 highly literal presentation",
+    "Clickbait techniques employed": [
+      "Large, readable text for contact and channel",
+      "Direct call to action (CALL, channel link)"
+    ],
+    "Brand elements present": [
+      "Durex product branding",
+      "Strong channel branding at the bottom (YOUTUBE.COM/PATANJALIKACOLLEGE)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The subject holds a Durex-branded lubricant product directly toward the camera, visually confirming the product focus mentioned in the title. The straightforward display reinforces the review/unboxing aspect, aligning with the keywords ('review', 'Durex', 'lubricant', 'gel') in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The title refers to specific uses such as 'delay gel', 'massage lube', and 'for anal sex', but the thumbnail itself is neutral: it does not allude directly to any sexual context or use, nor does it visually highlight the distinctions between Durex product types beyond a generic lubricant tube. The inclusion of phone number and unrelated YouTube handle might distract from the video's main topic."
+  }
+}

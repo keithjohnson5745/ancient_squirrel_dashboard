@@ -1,0 +1,14 @@
+{
+  "title": "The Best Lubes What Works Best",
+  "thumbnail_path": "thumbnails/Jn2bLVQIEjk_max.jpg",
+  "title_length": 30,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.7
+}

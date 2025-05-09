@@ -1,0 +1,13 @@
+{
+  "title": "7 Things the Cardinals Do Before Entering the Conclave.",
+  "thumbnail_path": "thumbnails/-ozBWeQmigE_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

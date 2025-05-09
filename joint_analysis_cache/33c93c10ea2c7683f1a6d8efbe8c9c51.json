@@ -1,0 +1,12 @@
+{
+  "title": "If You're Not Doing This with WD-40 You're Stupid",
+  "thumbnail_path": "thumbnails/nR-umN0h4D8_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

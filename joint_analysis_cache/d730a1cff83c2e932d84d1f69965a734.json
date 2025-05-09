@@ -1,0 +1,13 @@
+{
+  "title": "\"I'm so EMBARRASED!\" How to deal with Intimacy and Hemorrhoids.",
+  "thumbnail_path": "thumbnails/92AI_b76yLE_max.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

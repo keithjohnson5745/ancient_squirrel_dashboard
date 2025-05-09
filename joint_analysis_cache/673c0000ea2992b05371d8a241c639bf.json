@@ -1,0 +1,12 @@
+{
+  "title": "Body Language Expert Explains How to Show Confidence | WIRED",
+  "thumbnail_path": "thumbnails/VRJzvJ5XPQI_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The surprising science of happiness | Dan Gilbert",
+  "thumbnail_path": "thumbnails/4q1dgn_C0AU_high.jpg",
+  "title_length": 49,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.8,
+  "clickbait_score": 0.7
+}

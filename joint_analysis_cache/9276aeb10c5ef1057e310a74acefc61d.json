@@ -1,0 +1,12 @@
+{
+  "title": "Open Sentry Safe in less than 5 seconds! | Mr. Locksmith\u2122",
+  "thumbnail_path": "thumbnails/ApJQ2wcYjBo_max.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

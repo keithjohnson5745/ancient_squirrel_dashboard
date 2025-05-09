@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "35%",
+      "Black (background, microphones, text)": "30%",
+      "White (text boxes, text areas)": "20%",
+      "Blue/Purple (hoodie, shirt)": "10%",
+      "Red (one word in text)": "5%"
+    },
+    "Composition type": "Medium close-up, split-screen style featuring two people",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        {
+          "Person 1 (left)": "Speaking/passionate, slightly open mouth, direct gaze"
+        },
+        {
+          "Person 2 (right)": "Skeptical/pondering, slightly raised brow, neutral closed lips"
+        }
+      ],
+      "Demographics": "Both adult males, possibly South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Two large visible microphones (foreground)",
+      "Eyeglasses (person on left)"
+    ],
+    "Background environment": "Dark, slightly textured neutral background with a studio vibe. No explicit setting details but evokes a podcast/interview environment."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FIGURING OUT With Raj Shamani",
+      "Dr. Vijayant Gupta",
+      "MASTURBATION IS DAMAGING YOUR SEX LIFE",
+      "600K+ VIEWS"
+    ],
+    "Font characteristics": [
+      {
+        "Style": "Modern, bold sans-serif",
+        "Emphasis": "High contrast\u2014one keyword (MASTURBATION) in bold red, others in bold black",
+        "Color": "White background, primary text in black, 'MASTURBATION' in red"
+      }
+    ],
+    "Text placement within frame": [
+      "Show logo top center",
+      "Quote box with main text in center",
+      "Dr. Vijayant Gupta's name/photo above main quote",
+      "'600K+ VIEWS' banner in the bottom left"
+    ],
+    "Use of emotional/trigger words": [
+      "MASTURBATION",
+      "DAMAGING",
+      "SEX LIFE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, cautionary, and provocative\u2014emphasizing potential risk/shock value",
+    "Visual metaphors or symbols": [
+      "Microphones symbolize a podcast/interview setting",
+      "Bold red text as a warning/alert"
+    ],
+    "Clickbait techniques employed": [
+      "Controversial/shock statement in large font (alarming sexual health claim)",
+      "Contrast between skeptical and intense facial expressions",
+      "Large view count badge"
+    ],
+    "Brand elements present": [
+      "\u2018FIGURING OUT With Raj Shamani\u2019 podcast logo and consistent style",
+      "Host and guest visually identified"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly pulls the most provocative aspect (masturbation damaging sex life), matching prominent words in the title (masturbation, sexual health). The presence of Dr. Vijayant Gupta reinforces the authority, while Raj Shamani as interviewer matches the show reference in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail focuses almost exclusively on 'masturbation' and its negative impact, whereas the title covers broader topics (infertility, porn, andropause). This is a narrowing for clickbait/engagement purposes; other title subjects are not visually referenced."
+  }
+}

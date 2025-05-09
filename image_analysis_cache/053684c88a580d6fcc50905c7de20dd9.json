@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "DominantColors": {
+      "Bright Pink (center woman's shirt)": "25%",
+      "Light Grey/White (background)": "20%",
+      "Skin tones": "30%",
+      "Yellow (text and arrow)": "10%",
+      "Black (hair, glasses, outlines)": "10%",
+      "Red (lipstick on left woman)": "5%"
+    },
+    "CompositionType": "Collage-style composite, medium shots, centered on one person with two others on either side",
+    "HumanPresence": {
+      "NumberOfPeople": 3,
+      "Expressions": {
+        "Center": "Surprised/shocked, eyes wide, mouth open",
+        "Left": "Excited/happy, mouth open as if about to eat",
+        "Right": "Neutral, drinking from mug"
+      },
+      "Demographics": "All appear to be adult women, varied hair colors, one visibly pregnant (right)"
+    },
+    "MainObjectsPropsFeatured": [
+      "Sandwich (left, being bitten)",
+      "Mug (right, being drunk from)"
+    ],
+    "BackgroundEnvironment": "Plain, blurred or neutral background, focus on the subjects"
+  },
+  "TEXT ELEMENTS": {
+    "VisibleText": "DONT EAT THAT!?",
+    "FontCharacteristics": {
+      "Style": "Bold, sans-serif, all caps",
+      "Emphasis": "Heavy weight, strong drop shadow",
+      "Color": "Yellow with black outline"
+    },
+    "TextPlacementWithinFrame": "Bottom left corner",
+    "EmotionalTriggerWords": [
+      "DONT",
+      "EAT",
+      "THAT",
+      "!?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "OverallEmotionalTone": "Urgency, concern, and surprise; informative with a hint of alarm",
+    "VisualMetaphorsOrSymbols": [
+      "Arrow pointing from surprised woman to person eating, symbolizing warning",
+      "Sandwich and mug as symbols for dietary choices"
+    ],
+    "ClickbaitTechniquesEmployed": [
+      "Use of shocked expression",
+      "Bold, provocative text with question/exclamation marks",
+      "Highlighting forbidden action",
+      "Bright graphic arrow for visual emphasis"
+    ],
+    "BrandElementsPresent": "No explicit branding present"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "VisualReinforcement": "The thumbnail visually emphasizes dietary rules and forbidden foods with a large warning ('DONT EAT THAT!?'), the presence of a pregnant woman, and an expert/authority figure in the center reacting with alarm/surprise\u2014directly supporting the video's title about pregnancy rules from doctors.",
+    "ContrastsOrMismatches": "No major mismatch; the imagery of food and a pregnant woman, plus the central expert, tightly aligns with the informational warning implied in the title."
+  }
+}

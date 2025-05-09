@@ -1,0 +1,11 @@
+{
+  "title": "Live at Met Gala 2025 With Vogue",
+  "thumbnail_path": "thumbnails/NW2oiPiqByk_max.jpg",
+  "title_length": 32,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

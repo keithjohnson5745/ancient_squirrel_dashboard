@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black (hair)",
+        "percentage": 50
+      },
+      {
+        "color": "Light pink (clothing)",
+        "percentage": 25
+      },
+      {
+        "color": "Light gray (background wall)",
+        "percentage": 20
+      },
+      {
+        "color": "Brown (skin tone)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up, split/double shot (two instances of the same woman, likely before and after or two angles)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": [
+        "Left: Neutral, slightly smiling, looking off-camera",
+        "Right: Smiling, looking at camera"
+      ],
+      "demographics": "Appears to be a young Black woman, mid-20s"
+    },
+    "Main objects/props featured": [
+      "Curly, voluminous black hair (possibly a weave/extension)",
+      "Pink zip-up top",
+      "Necklace and earrings (gold)",
+      "No additional obvious props"
+    ],
+    "Background environment": "Textured, concrete-like gray wall; plain, non-distracting backdrop"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "",
+    "Font characteristics": {
+      "style": "N/A",
+      "emphasis": "N/A",
+      "color": "N/A"
+    },
+    "Text placement within frame": "N/A",
+    "Use of emotional/trigger words": "N/A"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, confident, beauty-focused. The subject appears happy and self-assured.",
+    "Visual metaphors or symbols": [
+      "Before and after, or dual-view: possibly meant to show results of the hair process.",
+      "Natural beauty & transformation: The styling and texture of the hair draw attention to change and enhancement."
+    ],
+    "Clickbait techniques employed": [
+      "Beauty transformation (showing process/result split)",
+      "Big smile and eye contact",
+      "Clear focus on hair texture and length variances"
+    ],
+    "Brand elements present": [
+      "No overt branding in the thumbnail itself, but the hairstyle might imply a specific hair brand (supported by the title referencing 'Eayon Hair')."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title by": [
+      "Showing off the result of a 'flip over quickweave' style (the full, voluminous curls are the main focal point).",
+      "Split/effectively double image suggests a 'before and after' or multiple views, hinting at transformation and/or install process.",
+      "Close attention to the natural leave out/hairline, matching the title's mention of blending natural leave out."
+    ],
+    "Contrasts or mismatches": [
+      "No major mismatches. However, there is no explicit indication of the process (foundation/installation steps) in the thumbnail \u2013 only the result is shown.",
+      "No visible text or product/brand logos in the thumbnail; all brand context comes from the title."
+    ]
+  }
+}

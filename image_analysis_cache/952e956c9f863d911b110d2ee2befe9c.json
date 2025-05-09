@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red (Background)": "60%",
+      "Beige/Tan (Main subject\u2019s skin tone, top)": "15%",
+      "Brown (Hair, coconuts)": "10%",
+      "White (Text, coconut flesh)": "10%",
+      "Yellow (Oil bottle)": "5%"
+    },
+    "Composition type": "Close-up (main subject in foreground, face and upper torso, with cutout/object overlays); overlayed with a faded background image (medium shot of hair massage).",
+    "Human presence": {
+      "Number of people": "1 prominent person in the foreground, partial/secondary presence of hands and scalp in background image.",
+      "Expressions": "Foremost person appears surprised, concerned or questioning (wide eyes, mouth slightly open, hands on cheeks).",
+      "Demographics": "Adult female, South Asian descent (approximate)."
+    },
+    "Main objects/props featured": [
+      "Cutout arm-pose of main subject",
+      "Cartoon/drawn coconuts (whole and half) at the bottom corners",
+      "Transparent yellow oil bottle (center-bottom)",
+      "Background image of hands pouring/putting oil on a head"
+    ],
+    "Background environment": "Solid red (possibly overlaid or filtered), with a faded photo of hair oil application in the background."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "Is Coconut oil bad for hair?",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High, thick font, all capitalized words except 'for'",
+      "Color": "White",
+      "Shadow/Outline": "No visible shadow but stands out clearly due to background color"
+    },
+    "Text placement within frame": "Top right quadrant, overlaid on the background; takes up approximately one fourth of the thumbnail.",
+    "Use of emotional/trigger words": [
+      "bad"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, concerned, and slightly shocking; creates intrigue and urgency.",
+    "Visual metaphors or symbols": [
+      "Coconuts and oil bottle = strong association with coconut oil",
+      "Surprised face = suggesting unexpected information or myth-busting"
+    ],
+    "Clickbait techniques employed": [
+      "Provocative question",
+      "Surprised or urgent facial expression",
+      "Contradictory or counterintuitive suggestion about a 'common' practice"
+    ],
+    "Brand elements present": "No distinctive logo or brand color scheme is apparent, but the professional photo and doctor topic may signal an expert or health-professional channel."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail visually supports the title by focusing on coconut oil (drawn coconuts, oil bottle), hair (background), and questioning its effects (text + facial expression).",
+      "\u2018Dermatologist explains\u2019 in the title is reflected in the professional look of the presenter."
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail openly asks \u2018Is Coconut oil bad for hair?\u2019, which is a more provocative and negative phrasing compared to the neutral or instructional tone of the title ('Coconut oil for hair', 'Kaise use kare', 'Dermatologist explains').",
+      "Title promises an explanation and how-to, thumbnail focuses more on creating doubt/problem."
+    ]
+  }
+}

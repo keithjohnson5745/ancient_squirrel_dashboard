@@ -1,0 +1,58 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "brown": "60% (background)",
+      "beige/tan": "20% (text, skin tones of subjects)",
+      "black": "10% (clothing, hair)",
+      "turquoise/teal": "5% (sports bra)",
+      "orange": "5% (shorts pattern)"
+    },
+    "Composition type": "Medium shot, side-by-side comparison",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: smiling, confident, facing camera",
+        "Right: neutral, side profile, facing left"
+      ],
+      "demographics": "Both appear to be adult women"
+    },
+    "Main objects/props featured": "Two women (one wearing a black bikini and patterned shorts, the other wearing a turquoise bra and patterned shorts), no additional props",
+    "Background environment": "Solid brown background, objects and people are cut out and placed over this background"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HEAL diastasis recti",
+      "years later",
+      "5 exercises"
+    ],
+    "Font characteristics": {
+      "HEAL diastasis recti": "Modern sans-serif, white, medium weight, no italics, upper/lowercase mix",
+      "years later": "Very large, bold, rounded sans-serif font, light tan/cream color, lowercase",
+      "5 exercises": "Script/cursive font, white, smaller, elegant and feminine"
+    },
+    "Text placement within frame": {
+      "HEAL diastasis recti": "Top center",
+      "years later": "Central, largest text, dominates middle of thumbnail",
+      "5 exercises": "Below 'years later', centered"
+    },
+    "Emotional/trigger words": [
+      "HEAL",
+      "years",
+      "later"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Hopeful, transformational, supportive",
+    "Visual metaphors or symbols": "Before-and-after transformation (fit/healthy vs. postpartum appearance), implies achievable results over time",
+    "Clickbait techniques employed": [
+      "Prominent transformation imagery (before/after)",
+      "Big, bold text emphasizing a long timeframe ('years later')",
+      "Listing a specific number of actionable steps ('5 exercises')"
+    ],
+    "Brand elements present": "No overt branding (logos, watermarks), but consistent use of color and font style may suggest channel identity"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually demonstrates the video's topic with a clear 'before' and 'after' comparison, showing improvement in abdominal appearance after years post-pregnancy, echoing the promise of '5 exercises to fix diastasis recti years later'.",
+    "Contrasts or mismatches": "No significant mismatch. The thumbnail is directly aligned with the title, both emphasizing healing/repair after a significant amount of time has passed."
+  }
+}

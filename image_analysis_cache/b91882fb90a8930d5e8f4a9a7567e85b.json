@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/off-white": "35%",
+      "Black (clothing, hair, background shadows)": "30%",
+      "Medium skin tone": "15%",
+      "Dark brown (desk, furniture)": "10%",
+      "White (paper, text)": "10%"
+    },
+    "Composition type": "Medium shot (shows upper body and face of subject, seated at a desk)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Pensive, thoughtful (resting chin on hand holding a pen, looking away from camera)",
+      "Demographics (if apparent)": "Adult woman, medium skin tone, dark hair"
+    },
+    "Main objects/props featured": [
+      "Pen (held near mouth)",
+      "Notebook or paper (on desk in foreground)"
+    ],
+    "Background environment": "Indoor, modern home/office setting with neutral walls, some picture frames, and glass doors visible in the background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "The 1% rule",
+    "Font characteristics": {
+      "Style": "Bold, geometric sans-serif font",
+      "Emphasis": "Strong and modern, using white color for maximum contrast",
+      "Color": "White",
+      "Text placement within frame": "Left side of frame, vertically aligned and taking up a significant portion of the horizontal space"
+    },
+    "Use of emotional/trigger words": [
+      "1% rule"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reflective, aspirational, and thoughtful (encouraging viewers to contemplate small habits and incremental improvement)",
+    "Visual metaphors or symbols": [
+      "Pen to mouth and open notebook symbolize planning, note-taking, or reflection (links to habits and improvement)"
+    ],
+    "Clickbait techniques employed": [
+      "Refers to a specific strategy or secret ('1% rule') that suggests actionable advice",
+      "Bold text highlights key phrase to create intrigue",
+      "Pensive expression creates curiosity about what the person is thinking"
+    ],
+    "Brand elements present": "No explicit logo or channel branding, but tone, style, and image quality may be part of a consistent personal brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s text ('The 1% rule') directly connects to the idea of forming 'Tiny Habits' as mentioned in the video title, implying that small, consistent actions (the 1% rule) can lead to significant results, reinforcing the concept of habits that create wealth.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail text does not reference '17 Tiny Habits' or wealth/success directly, focusing instead on a specific principle ('The 1% rule') rather than the broader topic of multiple habits or explicit financial gain. However, the thoughtful, professional look of the subject does subtly reinforce themes of productivity and self-improvement."
+  }
+}

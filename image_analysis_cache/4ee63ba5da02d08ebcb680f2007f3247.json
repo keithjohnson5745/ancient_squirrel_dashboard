@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark purple/black (background)": "50%",
+      "Pink/magenta (text and lighting)": "20%",
+      "Yellow (text)": "10%",
+      "Skin tones (of person)": "10%",
+      "Maroon/burgundy (sari)": "10%"
+    },
+    "Composition type": "Medium close-up shot (person shown from waist up, centered in the frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to slightly serious, attentive and direct gaze at the camera",
+      "Demographics": "Adult, female-presenting, brown skin, wearing glasses and traditional attire (sari)"
+    },
+    "Main objects/props featured": [
+      "Person sitting at desk",
+      "Microphone attached to clothing",
+      "Background objects like lamps, bookshelves, and other decor"
+    ],
+    "Background environment": "Indoor office or studio setting with dim lighting, modern decor, and elements like shelves, lamp, and framed artwork. The background is blurred, keeping focus on the person."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "STD",
+      "Sexually Transmitted Disease"
+    ],
+    "Font characteristics": {
+      "STD": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "Very pronounced, large size, vibrant pink glow",
+        "Color": "Bright pink/magenta"
+      },
+      "Sexually Transmitted Disease": {
+        "Style": "Bold, sans-serif",
+        "Emphasis": "Medium size, slightly glowing effect",
+        "Color": "Bright yellow",
+        "Text placement": {
+          "STD": "Centered at top, behind subject's head",
+          "Sexually Transmitted Disease": "Centered in lower third, above subject's hands"
+        },
+        "Emotional/trigger words": [
+          "STD",
+          "Sexually Transmitted Disease"
+        ]
+      }
+    },
+    "THEMATIC ELEMENTS": {
+      "Overall emotional tone": "Serious, informative, and direct; professional atmosphere balanced with an accessible, friendly demeanor",
+      "Visual metaphors or symbols": "Large, glowing \u2018STD\u2019 acts as a visual spotlight and immediately communicates the topic; use of bright colors for emphasis",
+      "Clickbait techniques employed": [
+        "Bold, eye-catching colors",
+        "Large uppercase keyword ('STD')",
+        "Direct subject gaze for a personal connection"
+      ],
+      "Brand elements present": "No overt logo, but professional lighting, attire, and desk setup suggest a medical or expert authority context"
+    },
+    "THUMBNAIL-TITLE RELATIONSHIP": {
+      "Visual reinforcement of title": "The thumbnail clearly displays the main topic with the large, bolded 'STD' text and full phrase 'Sexually Transmitted Disease' to immediately communicate the video content. The presence of a professional expert further reinforces the educational focus.",
+      "Contrasts or mismatches": "No significant mismatches. The thumbnail aligns with the title by emphasizing awareness and expertise regarding STIs/STDs, though it does not visually reference Valentine's Week, which is part of the title's theme."
+    }
+  }
+}

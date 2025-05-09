@@ -1,0 +1,14 @@
+{
+  "title": "HOW TO SELECT GENDER",
+  "thumbnail_path": "thumbnails/vjSORfmrcR0_max.jpg",
+  "title_length": 20,
+  "patterns": [
+    "how_to",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

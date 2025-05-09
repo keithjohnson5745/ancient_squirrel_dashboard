@@ -1,0 +1,13 @@
+{
+  "title": "App predicted ovulation but no egg white cervical mucus",
+  "thumbnail_path": "thumbnails/jD6YJVuUVj8_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

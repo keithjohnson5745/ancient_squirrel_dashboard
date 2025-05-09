@@ -1,0 +1,14 @@
+{
+  "title": "Dermatologist's Best Baby Skincare Products: Tips for Cradle Cap, Diaper Rash, Bathing, & More!",
+  "thumbnail_path": "thumbnails/nM934bf_MII_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

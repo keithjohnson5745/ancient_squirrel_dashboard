@@ -1,0 +1,13 @@
+{
+  "title": "You Can Shrink Your Prostate With Massage! Here's How To Do It!",
+  "thumbnail_path": "thumbnails/gOW4gbi6Vtk_max.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "What Is Chiavaye?",
+  "thumbnail_path": "thumbnails/ZWqEYzWQG-0_max.jpg",
+  "title_length": 17,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

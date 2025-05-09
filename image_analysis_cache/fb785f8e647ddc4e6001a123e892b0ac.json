@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink (hex #EC008C)": "25%",
+      "White": "35%",
+      "Light gray": "15%",
+      "Blue (icons)": "10%",
+      "Skin tone/blonde": "10%",
+      "Black (text and accents)": "5%"
+    },
+    "Composition type": "Medium shot (centered on a single person from shoulders up, with prominent graphics and text elements to the left and bottom)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Slight smile, direct eye contact, approachable and confident",
+      "demographics": "Apparent adult woman, fair skin, blonde hair, blue eyes"
+    },
+    "Main objects/props featured": [
+      "Calendar icon",
+      "Clock icon",
+      "Sperm meeting egg illustration"
+    ],
+    "Background environment": "Blurred, neutral indoor environment with soft lighting; subject stands out clearly from background"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "TTC",
+      "When to have sex??"
+    ],
+    "Font characteristics": {
+      "TTC": "Bold, sans-serif, all-uppercase, white color with strong drop shadows, placed in a magenta-pink box for emphasis",
+      "When to have sex??": "Bold, sans-serif, primarily black with a large font size, two question marks for emphasis"
+    },
+    "Text placement within frame": {
+      "TTC": "Top left, inside a bright pink rectangle",
+      "When to have sex??": "Bottom center, spanning most of the width"
+    },
+    "Use of emotional/trigger words": [
+      "sex",
+      "When",
+      "??"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, slightly playful, inviting and gently authoritative",
+    "Visual metaphors or symbols": [
+      "Calendar and clock to indicate timing/scheduling",
+      "Sperm and egg to symbolize conception/fertility"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, direct question in text (\u201cWhen to have sex??\u201d)",
+      "Use of bright, high-contrast colors (pink, white, black)",
+      "Double question marks to heighten curiosity",
+      "Relevant but suggestive trigger word ('sex')"
+    ],
+    "Brand elements present": [
+      "'TTC' acronym (Trying To Conceive) as a common fertility community term, signifying the target audience"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The calendar, clock, and sperm/egg imagery graphically illustrate the concept of timing intercourse to get pregnant, directly correlating with the video title. The text on the thumbnail echoes the video's title question.",
+    "Contrasts or mismatches": "No notable mismatches. Visual and textual elements both clearly align with the title\u2019s subject matter, making it instantly clear what the video is about. The tone (informative yet approachable) matches the educational intent of the title."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "White",
+        "percentage": "~70%"
+      },
+      {
+        "color": "Blue",
+        "percentage": "~20%"
+      },
+      {
+        "color": "Gray",
+        "percentage": "~5%"
+      },
+      {
+        "color": "Black",
+        "percentage": "~5%"
+      }
+    ],
+    "Composition type": "Medium shot (object-focused, product isolated in frame)",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": null,
+      "demographics": null
+    },
+    "Main objects/props featured": [
+      "Tube of KY Jelly lubricant (product prominently displayed, angled left to right)",
+      "Medisave logo (company branding top right)"
+    ],
+    "Background environment": "Clean white background, minimalistic, no visible context or setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "KY Jelly 82G",
+      "SKU: KYJELLY82G",
+      "Medisave",
+      "www.medisave.co.uk",
+      "01305 784447"
+    ],
+    "Font characteristics": {
+      "KY Jelly 82G": {
+        "style": "Sans-serif",
+        "emphasis": "Regular",
+        "color": "Black"
+      },
+      "SKU: KYJELLY82G": {
+        "style": "Sans-serif",
+        "emphasis": "Regular",
+        "color": "Grey-Black"
+      },
+      "Medisave block (top right)": {
+        "style": "Sans-serif, bold for brand",
+        "color": "Black"
+      },
+      "Website / phone": {
+        "style": "Sans-serif",
+        "color": "Black",
+        "size": "Small"
+      }
+    },
+    "Text placement within frame": {
+      "KY Jelly 82G": "Centered right, mid-level",
+      "SKU: KYJELLY82G": "Below main title, right side",
+      "Medisave + info": "Top right corner"
+    },
+    "Use of emotional/trigger words": "None; all text is direct, product-focused, informational"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Neutral, clinical, professional, straightforward",
+    "Visual metaphors or symbols": "None; literal product depiction, no symbolic elements",
+    "Clickbait techniques employed": "None; no hyperbolic language or sensational visuals",
+    "Brand elements present": [
+      "Medisave branding + website and contact",
+      "Clear product shot"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows a tube of KY Jelly (82g size), which explicitly matches the title 'KY Jelly 82G.' The SKU in the text further reinforces the specific product referred to in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no contrasts or mismatches. The thumbnail is an exact visual representation of what the title describes\u2014clear, literal, and closely aligned. No ambiguity."
+  }
+}

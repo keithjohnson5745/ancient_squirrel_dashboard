@@ -1,0 +1,13 @@
+{
+  "title": "David Spade | This Past Weekend w/ Theo Von #580",
+  "thumbnail_path": "thumbnails/zs1X92HVRO0_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

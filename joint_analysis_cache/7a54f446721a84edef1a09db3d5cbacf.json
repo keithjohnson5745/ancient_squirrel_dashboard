@@ -1,0 +1,13 @@
+{
+  "title": "Ep -3 | Yoga for Stress Relief & Flexibility with Expert Manmohan Yogi @Jairamyoga",
+  "thumbnail_path": "thumbnails/1T6e-zI0fu0_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

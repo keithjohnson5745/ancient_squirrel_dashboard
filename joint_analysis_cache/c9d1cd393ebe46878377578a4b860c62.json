@@ -1,0 +1,12 @@
+{
+  "title": "Everything Found in P. Diddy\u2019s Mansion Raids: '1000 Bottles of Baby Oil'",
+  "thumbnail_path": "thumbnails/fdOeYHlbFDo_max.jpg",
+  "title_length": 72,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

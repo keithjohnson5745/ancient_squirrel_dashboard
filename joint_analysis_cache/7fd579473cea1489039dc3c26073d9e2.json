@@ -1,0 +1,13 @@
+{
+  "title": "At 78, Linda Ronstadt Names The Seven Musicians She Hated",
+  "thumbnail_path": "thumbnails/BrVIcvgj5CA_max.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

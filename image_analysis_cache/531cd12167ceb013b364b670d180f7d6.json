@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "pink": "20%",
+      "yellow": "20%",
+      "black": "30%",
+      "brown/tan": "20%",
+      "burgundy (shirt)": "10%"
+    },
+    "Composition type": "Medium shot (single person from upper torso up on the right side, props and text on the left)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slight smile",
+      "demographics": "Adult woman, appears to be Black, long braided hair"
+    },
+    "Main objects/props featured": [
+      "Human subject (possibly a doctor or health expert based on attire)",
+      "Silhouette of a pregnant woman",
+      "Silhouette of a judge's scale (metaphor for imbalance)"
+    ],
+    "Background environment": "Solid brown/tan background, no visible setting, clean and simple"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "GET PREGNANT WITH HORMONAL IMBALANCE",
+    "font_characteristics": {
+      "style": "Bold, sans-serif, and all-caps",
+      "emphasis": "High, due to bold text and color-block backgrounds",
+      "color": "White on pink (GET PREGNANT), white on black (WITH), black on yellow (HORMONAL IMBALANCE)"
+    },
+    "text_placement_within_frame": "Top left (GET PREGNANT in pink bar), beneath that (WITH in black bar), below (HORMONAL IMBALANCE in yellow box)",
+    "emotional_trigger_words": [
+      "GET PREGNANT",
+      "HORMONAL IMBALANCE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Supportive, encouraging, informative, somewhat urgent and hopeful",
+    "visual_metaphors_or_symbols": [
+      "Pregnant woman silhouette\u2014directly referencing pregnancy",
+      "Scales\u2014represent the concept of 'imbalance' in a visual, metaphorical manner"
+    ],
+    "clickbait_techniques_employed": [
+      "Bold, emotional language in all caps",
+      "Bright colors to attract attention (pink, yellow)",
+      "Promise of a solution to a sensitive, urgent problem ('how to get pregnant')"
+    ],
+    "brand_elements_present": "No clear logo, but professional attire and confident image hints at authoritative/medical branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "reinforcement": "The thumbnail visually repeats the main keywords from the title in large, eye-catching text and uses symbolic imagery (pregnant woman, scale) to directly illustrate both 'pregnant' and 'hormonal imbalance'. The individual in the thumbnail adds credibility (potential expert/doctor).",
+    "contrasts_or_mismatches": "There is tight alignment; all major text from the title is visually represented. No apparent mismatch."
+  }
+}

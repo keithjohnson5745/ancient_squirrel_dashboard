@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "approx. 40% (background, woman's blouse pattern, coconut flesh, milk, parts of medical illustration)",
+      "Red": "approx. 25% (text, bindi, sari, uterus illustration)",
+      "Purple/Blue": "approx. 15% (text, Ziva logo block, parts of pH scale)",
+      "Brown": "approx. 10% (coconut shell, hair, parts of medical diagram)",
+      "Green": "approx. 5% (background foliage, pH scale)",
+      "Yellow": "approx. 5% (medical diagram, coconut oil)"
+    },
+    "Composition type": "Medium shot (person, objects, infographics presented in a three-panel horizontal layout)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, approachable, confident",
+      "Demographics": "Adult, likely of South Asian descent, female-presenting, short curly hair, bindi on forehead"
+    },
+    "Main objects/props featured": [
+      "Medical illustration of female reproductive system",
+      "Open coconut with oil vial, coconut milk",
+      "Spoon with coconut flesh",
+      "Portrait of a woman (presumably Dr. Chekuri Suvarchala)"
+    ],
+    "Background environment": "Clean, white gradient with product and medical illustration as insets; professional and clinical ambiance"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BENEFITS OF COCONUT FOR FERTILITY",
+      "ZIVA FERTILITY",
+      "Dr. Chekuri Suvarchala",
+      "Scientific Director",
+      "BOOK AN APPOINTMENT : 78424 00104 / 93928 34024",
+      "www.zivafertility.com"
+    ],
+    "Font characteristics": {
+      "BENEFITS OF COCONUT": "Bold, all-caps, red, sans-serif, large size for emphasis",
+      "FOR FERTILITY": "Bold, all-caps, dark navy blue, sans-serif, slightly smaller",
+      "Other text": "White, bold/caps for name and director title; standard sans-serif in lower text bar"
+    },
+    "Text placement within frame": {
+      "BENEFITS OF COCONUT": "Top, center",
+      "FOR FERTILITY": "Directly below main title, center",
+      "Doctor's name/title": "Bottom right, overlaying portrait",
+      "ZIVA FERTILITY logo": "Bottom right overlay",
+      "Contact info": "Bottom, spanning full width",
+      "Website": "Bottom right within banner"
+    },
+    "Emotional/trigger words": [
+      "BENEFITS",
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, positive, knowledgeable, hopeful (via smile, bright colors, tidy layout)",
+    "Visual metaphors or symbols": [
+      "Coconut representing natural remedy",
+      "Medical illustration for scientific authority",
+      "pH scale and healthy internal diagram for wellness/health"
+    ],
+    "Clickbait techniques employed": [
+      "Direct health promises ('Benefits')",
+      "Contrasting visuals (science + nature)",
+      "Professional branding for trust",
+      "Inclusion of expert's image/titles"
+    ],
+    "Brand elements present": [
+      "ZIVA FERTILITY logo",
+      "Website URL",
+      "Phone numbers for appointments",
+      "Prominent expert's name and title"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually supports the title by combining images of coconut (the natural element) with explicit references to fertility (medical diagram, woman's portrait in a professional setting). The use of 'benefits' is mirrored by healthy, inviting imagery and a smiling doctor, making it clear the video will discuss health-positive effects.",
+    "Contrasts or mismatches": "There is a clear, direct alignment between thumbnail and title; no substantial mismatch. All key elements (coconut, fertility, a medical expert) are visually present and relevant to the video's stated topic."
+  }
+}

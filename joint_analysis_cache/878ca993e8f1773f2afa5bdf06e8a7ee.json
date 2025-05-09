@@ -1,0 +1,12 @@
+{
+  "title": "Two Week Wait Symptoms: DPO 1 to DPO 12",
+  "thumbnail_path": "thumbnails/pNpENbCBRu4_max.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

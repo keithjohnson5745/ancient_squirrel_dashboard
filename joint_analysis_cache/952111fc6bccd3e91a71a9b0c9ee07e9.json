@@ -1,0 +1,13 @@
+{
+  "title": "Exercises In Pregnancy | Dr Anjali Kumar | Maitri",
+  "thumbnail_path": "thumbnails/aCx0Pgb8X0Q_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

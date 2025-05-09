@@ -1,0 +1,13 @@
+{
+  "title": "Update from Ukraine | Wow! Ukraine Strikes Kursk Again | Ruzzian Defense Cracked",
+  "thumbnail_path": "thumbnails/NO1DM4p0W2Q_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

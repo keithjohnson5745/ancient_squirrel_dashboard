@@ -1,0 +1,48 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black/dark gray (background)": "60%",
+      "Yellow (fat graphic, word 'KILLS')": "15%",
+      "White (text, circles)": "15%",
+      "Skin tones (person)": "8%",
+      "Gray (shirt)": "2%"
+    },
+    "Composition type": "Medium shot (person shown from thigh/waist up, graphics and text take up large portion of frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Confident, slightly smiling",
+      "Demographics (apparent)": "Young adult male, muscular, light/medium skin, short black hair, visible body tattoo"
+    },
+    "Main objects/props featured": [
+      "Person flexing and revealing muscular abdomen",
+      "Two fat depictions (before/after transformation) inside white circles",
+      "Large rightward arrow between fat depictions"
+    ],
+    "Background environment": "Minimalist, flat dark gradient (no environmental context)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "THIS KILLS BODY FAT",
+    "Font characteristics": {
+      "Style": "Bold, all uppercase, sans-serif",
+      "Emphasis": "Word 'KILLS' in yellow for extra emphasis; rest of text in white",
+      "Color": "'KILLS' is yellow, rest is white"
+    },
+    "Text placement within frame": "Occupies left half (stacked: 'THIS' on top, 'KILLS' second, 'BODY FAT' below)",
+    "Use of emotional/trigger words": "'KILLS' (very strong, action-oriented), 'BODY FAT' (target audience pain point)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, transformative, urgent",
+    "Visual metaphors or symbols": "Large fat mass transforming into a slim strip represents fat loss/weight loss",
+    "Clickbait techniques employed": [
+      "Bold promise ('KILLS BODY FAT')",
+      "Before/after visualization",
+      "'Secret' or 'special technique' implication with 'THIS KILLS...'",
+      "Muscular physique as visual proof/result"
+    ],
+    "Brand elements present": "No overt branding (e.g., logos), but the person could be recognized as the creator"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual shows a dramatic reduction in body fat (before/after) directly referencing the core theme of 'getting lean' from the title. The muscular individual next to the fat loss graphic is a strong visual argument for the video's premise.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail promises a rapid/decisive solution ('KILLS'), while the title is phrased more as an explanation ('Why 90% of People Never Get Lean') with an added call to action ('Do This Instead'). The thumbnail is more aggressive/direct than the informative/curious tone of the title, but both share the promise of fat loss."
+  }
+}

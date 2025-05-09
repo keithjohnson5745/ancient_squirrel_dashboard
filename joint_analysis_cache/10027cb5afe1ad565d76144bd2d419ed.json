@@ -1,0 +1,13 @@
+{
+  "title": "Signs Of Low Estrogen In Women: What Your Skin And Hair Are Trying To Tell You",
+  "thumbnail_path": "thumbnails/v4b5KA_v9d4_max.jpg",
+  "title_length": 78,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

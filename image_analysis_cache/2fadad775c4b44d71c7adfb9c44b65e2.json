@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "70%",
+      "Red": "20%",
+      "Black": "7%",
+      "Green (Dr. Wolff Group logo)": "2%",
+      "Other colors (skin tones, blue in photo background)": "1%"
+    },
+    "Composition type": "Medium shot of informational layout; no dynamic camera angle or scene.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both individuals are shown with neutral/professional facial expressions (headshot style).",
+      "Demographics": "One older man, one middle-aged woman (exact ages/ethnicities unclear from images)."
+    },
+    "Main objects/props featured": "Two headshot photographs inside red-bordered circles; logos; text blocks.",
+    "Background environment": "Flat light-grey background with thick red borders at top and bottom. No real-life environment depicted."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "WEBINAR",
+      "Hormone-free therapy for vaginal dryness. Is that possible? Clinical evidence",
+      "May 14 2021 16:00 (CEST)",
+      "SPONSORED BY DR.WOLFF.GROUP",
+      "Camil Castelo-Branco",
+      "Petra Stute",
+      "ISGE"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, clean and modern.",
+      "Emphasis": "Main headline in bold; supporting details in regular weight.",
+      "Color": "Primarily black, with some text in grey (sponsor)."
+    },
+    "Text placement within frame": {
+      "Main title and details": "Left-aligned, occupying majority of the left 2/3rds of the image.",
+      "Speaker names and photos": "Stacked vertically along the right edge.",
+      "Sponsor logo": "Bottom-left.",
+      "ISGE logo": "Bottom center in the red band."
+    },
+    "Use of emotional/trigger words": [
+      "Hormone-free",
+      "vaginal dryness",
+      "possible",
+      "Clinical evidence"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, informative, neutral; no sensational or casual language.",
+    "Visual metaphors or symbols": "Headshots symbolize expertise/personal authority; ISGE logo represents credibility in gynecology/endocrinology.",
+    "Clickbait techniques employed": "Mild use of the question 'Is that possible?' to generate curiosity; direct reference to 'clinical evidence' increases trust.",
+    "Brand elements present": [
+      "ISGE logo",
+      "Dr. Wolff Group logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly mirrors the title, presenting the full main question as text, and featuring the speakers for authority. Clinical and evidence-based tone matches video topic.",
+    "Contrasts or mismatches": "No major mismatches; style is explicitly academic rather than sensational or casual, which may underplay curiosity but reinforces credibility and professionalism."
+  }
+}

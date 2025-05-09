@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/gold (background stone wall)": "40%",
+      "Bright yellow (text bg)": "10%",
+      "Pink (text bg)": "5%",
+      "Black (text bg)": "5%",
+      "Natural food colors (red, green, orange, white)": "30%",
+      "Skin tone/dark tones": "10%"
+    },
+    "Composition type": "Medium shot (person from chest up with prominent objects/foods in foreground, collage style)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Mild smile, gesture of presenting or offering; friendly and inviting",
+      "Demographics": "Adult, female-presenting, medium/dark skin tone, braided hair, wearing a white coat (suggesting medical expertise)"
+    },
+    "Main objects/props featured": [
+      "Various foods (rice, beans, avocado, oranges, strawberry, taro/yam, beet juice, milk bottle, lentils, nuts, leafy greens)",
+      "Bowl, glass, sack, human hand/gesture"
+    ],
+    "Background environment": "Stylized beige/gold stone wall, digitally collaged, no natural setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FOODS THAT BOOST FERTILITY"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all-caps",
+      "Emphasis": "High contrast backgrounds (pink/white, black/white, yellow/black), strong drop shadow for standout effect",
+      "Color": {
+        "FOODS THAT": "Pink background, white letters",
+        "BOOST": "Black background, white letters",
+        "FERTILITY": "Yellow background, black letters"
+      }
+    },
+    "Text placement within frame": [
+      "Top-left ('FOODS THAT')",
+      "Center-left ('BOOST')",
+      "Bottom-left ('FERTILITY')"
+    ],
+    "Use of emotional/trigger words": [
+      "BOOST",
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, empowering, informative, hopeful",
+    "Visual metaphors or symbols": [
+      "Healthy, fresh foods visually reinforcing the topic of fertility and health",
+      "Medical professional (white coat, stethoscope) adds authority"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, high-contrast keywords",
+      "Person gesturing to/holding foods",
+      "Colorful, abundant food imagery",
+      "Promise of benefits (implied by 'BOOST FERTILITY')"
+    ],
+    "Brand elements present": "None overt (no logo or watermark), but medical coat and professional pose may indicate a personal/professional brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail closely matches the title by visually showcasing a variety of healthy foods associated with fertility, while the prominently placed text overlays reinforce the keyword phrases from the title ('FOODS', 'BOOST', 'FERTILITY'). The presence of a medical professional presenting the foods adds credibility to the claim.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail focuses entirely on what to eat (positive foods) and does not illustrate 'What Not to Eat', which is mentioned in the title. There are no obviously negative images or restricted foods shown, creating a mild mismatch for viewers looking for 'what not to eat' guidance."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "3 Foods To Increase Your Chances to Get Pregnant",
+  "thumbnail_path": "thumbnails/BjIN_OcWay4_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,103 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black",
+        "percentage": 40
+      },
+      {
+        "color": "Red",
+        "percentage": 15
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Yellow",
+        "percentage": 10
+      },
+      {
+        "color": "Purple/Blue gradient",
+        "percentage": 15
+      }
+    ],
+    "Composition type": "Split composition; left half features a close-up of a hand holding a spray can in action (close-up), while the right half has a medium shot of a woman (doctor) in a white coat with a plain gradient background.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to slightly positive, direct eye contact, professional demeanor",
+      "demographics": "Adult woman, South Asian appearance"
+    },
+    "Main objects/props featured": [
+      "A black spray canister with visible spraying action",
+      "A woman in a white doctor's coat",
+      "Text banners"
+    ],
+    "Background environment": "Left side: black background for the spray action. Right side: plain gradient background (purple/blue). No detailed setting."
+  },
+  "TEXT ELEMENTS": {
+    "Text_visible": [
+      "Spray",
+      "\u0932\u0917\u093e\u0928\u0947 \u0938\u0947 \u0938\u0941\u0928 \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948?",
+      "Dr. Neha Mehta COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font_characteristics": [
+      {
+        "text": "Spray",
+        "style": "Bold sans-serif, uppercase, white on red background, very prominent"
+      },
+      {
+        "text": "\u0932\u0917\u093e\u0928\u0947 \u0938\u0947 \u0938\u0941\u0928 \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948?",
+        "style": "Bold sans-serif, white and yellow, mixed color emphasis, large size"
+      },
+      {
+        "text": "Dr. Neha Mehta",
+        "style": "Title case, white on black background, small bold, with a red bar below containing 'COUSULTANT PSYCHOLOGIST' in uppercase yellow"
+      }
+    ],
+    "Text_placement_within_frame": [
+      {
+        "text": "Spray",
+        "placement": "Top center, in a red rounded rectangle"
+      },
+      {
+        "text": "\u0932\u0917\u093e\u0928\u0947 \u0938\u0947 \u0938\u0941\u0928 \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948?",
+        "placement": "Center-right, using large font, white and yellow alternating color"
+      },
+      {
+        "text": "Dr. Neha Mehta COUSULTANT PSYCHOLOGIST",
+        "placement": "Bottom right, just above the doctor's image"
+      }
+    ],
+    "Emotional_or_trigger_words": [
+      "Spray",
+      "\u0938\u0941\u0928"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Curious, informative, slightly sensational (questioning a common belief, inviting viewers to learn the truth, trustworthy due to the doctor presence).",
+    "Visual_metaphors_or_symbols": [
+      "Spray can in action represents the product in question.",
+      "Doctor in a white coat evokes expertise and authority."
+    ],
+    "Clickbait_techniques_employed": [
+      "Bold colors and fonts",
+      "Use of a shocking/curious question ('Does spray really make you numb?')",
+      "Inclusion of medical professional for credibility",
+      "Emphasis with color contrast (yellow on '\u0938\u0941\u0928', red around 'Spray')"
+    ],
+    "Brand_elements_present": [
+      "Dr. Neha Mehta branding/name",
+      "Her professional title as a psychologist"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "The thumbnail visually demonstrates a spray (matching the 'Spray' keyword in the title) and the query about numbness is shown as bold text, directly mirroring the question asked in the title.",
+      "Presence of Dr. Neha Mehta (as labeled in both thumbnail and title) reinforces her authority and the expectation that a professional answer will be given."
+    ],
+    "Contrasts_or_mismatches": [
+      "There is a small spelling error in 'COUSULTANT' (should be 'Consultant') on the thumbnail, but otherwise the tone, content, and visuals are coherent with the title."
+    ]
+  }
+}

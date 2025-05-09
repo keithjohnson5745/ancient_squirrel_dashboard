@@ -1,0 +1,10 @@
+{
+  "title": "Nightly News Full Broadcast - May 5",
+  "thumbnail_path": "thumbnails/ukDEwINuwnM_max.jpg",
+  "title_length": 35,
+  "patterns": [
+    "thumbnail_text"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.15
+}

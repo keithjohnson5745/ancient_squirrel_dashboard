@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "Approximately 50% (prominent in spray bottle, package, large text, and bottom banner)",
+      "White": "About 35% (background and spray packaging)",
+      "Yellow": "Around 5% (bold 'Xyloken Spray' text)",
+      "Black": "Approx. 5% (shadow and outline in 'Xyloken Spray' text)",
+      "Blue": "Approx. 5% (highlight bar and some text)"
+    },
+    "Composition type": "Medium shot (product in the left third, text filling right and bottom halves)",
+    "Human presence": {
+      "Count": 0,
+      "Details": "No visible people or body parts."
+    },
+    "Main objects/props featured": [
+      "Xyloken spray bottle (red, central-left)",
+      "Xyloken package/carton (behind the bottle)"
+    ],
+    "Background environment": "Plain, flat white background, providing high contrast for the product and text."
+  },
+  "TEXT ELEMENTS": {
+    "Exact transcription": [
+      "\u09af\u09cc\u09a8 \u09ae\u09bf\u09b2\u09a8\u09c7 \u0995\u09ae\u09aa\u0995\u09cd\u09b7\u09c7 \u09ee\u0997\u09c1\u09a3 \u09b8\u09ae\u09af\u09bc \u09ac\u09be\u09a1\u09bc\u09be\u09af\u09bc",
+      "Xyloken Spray",
+      "\u09a6\u09cd\u09b0\u09c1\u09a4 \u09ac\u09c0\u09b0\u09cd\u09af\u09aa\u09be\u09a4 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09af\u09bc \u0985\u09a4\u09cd\u09af\u09a8\u09cd\u09a4 \u0995\u09be\u09b0\u09cd\u09af\u0995\u09b0",
+      "\u09a8\u09bf\u09b0\u09be\u09aa\u09a6",
+      "Pharma Career BD"
+    ],
+    "Font characteristics": {
+      "Main heading (Bangla)": "Bold, sans-serif, dark pink/red, large size, upper-right.",
+      "'Xyloken Spray'": "Bold, 3D effect, yellow with black shadow, mixed-case, central.",
+      "Supporting Bangla text": "Purple and blue, regular weight, less prominent, below main text.",
+      "'Pharma Career BD'": "White, bold, sans-serif, all capitals, on a red background, bottom banner."
+    },
+    "Text placement": {
+      "Bangla headline": "Top right",
+      "'Xyloken Spray'": "Center right",
+      "Supporting Bangla text": "Below main text, right side",
+      "'Pharma Career BD'": "Bottom, full width banner"
+    },
+    "Emotional/trigger words": [
+      "\u09b8\u09ae\u09af\u09bc \u09ac\u09be\u09a1\u09bc\u09be\u09af\u09bc (increases duration)",
+      "\u0985\u09a4\u09cd\u09af\u09a8\u09cd\u09a4 \u0995\u09be\u09b0\u09cd\u09af\u0995\u09b0 (very effective)",
+      "\u09a8\u09bf\u09b0\u09be\u09aa\u09a6 (safe)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informational with a strong promise; suggestive of reliability and effectiveness. Optimistic tone (solution-oriented).",
+    "Visual metaphors or symbols": "Product placement as a solution (here, the spray shown prominently as the answer), use of bold colors to attract attention.",
+    "Clickbait techniques employed": [
+      "Bold, large claims ('increases duration 8 times', 'very effective', 'safe')",
+      "Bright colors and large fonts for emphasis",
+      "Direct reference to sensitive, private problem (sexual performance) to clinch curiosity"
+    ],
+    "Brand elements present": [
+      "'Xyloken' brand name repeated on product and text",
+      "'Pharma Career BD' banner (suggesting a pharma/educational channel)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the title by showing the Xyloken Spray product, displaying both the name and associated claims about its use and effectiveness. The text echoes the informative intent of the title, clearly stating the benefits, use case (sexual duration), and safety, matching the video topic.",
+    "Contrasts or mismatches": "No clear mismatches; both visually and textually, the thumbnail aligns directly with the title\u2019s focus on Xyloken Spray\u2019s purpose, benefits, and usage instructions."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/off-white": "40% - background and walls",
+      "White/Grey": "20% - person's hair",
+      "Skin tone": "10% - face",
+      "Black": "15% - person's clothing",
+      "Green": "15% - bold background block for text"
+    },
+    "Composition type": "Medium close-up (single person\u2019s head and upper torso are visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to soft, comforting demeanor, slight smile, direct eye contact with camera",
+      "Demographics (if apparent)": "Likely adult female, grey/white hair, brown skin, appears to be of South Asian descent"
+    },
+    "Main objects/props featured": "Person, white bindi on forehead, distinctive black-and-white top, AirPods (earpieces) in both ears",
+    "Background environment": "Plain, softly lit indoor setting with light-colored wall and window; uncluttered, minimalistic"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "WHAT TO DO ABOUT PAIN DURING S\u00a3X",
+    "Font characteristics": {
+      "Style": "Bold, all uppercase sans-serif",
+      "Emphasis": "Very high (white font on dark green, all-caps, large size)",
+      "Color": "White text on green background"
+    },
+    "Text placement within frame": "Vertical block on right-hand third of the image, spanning nearly the full height of the thumbnail",
+    "Use of emotional/trigger words": [
+      "PAIN"
+    ],
+    "Use of euphemism/symbol": "S\u00a3X (uses pound symbol to avoid YouTube auto-censorship, visually distinct and eye-catching)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, serious, approachable and empathetic (non-sensational despite the topic)",
+    "Visual metaphors or symbols": [
+      "Soft, neutral background may symbolize reassurance or comfort; use of traditional South Asian symbol (bindi) may suggest cultural authority."
+    ],
+    "Clickbait techniques employed": [
+      "Direct question/solution-oriented phrasing (\u201cWHAT TO DO ABOUT ...\u201d)",
+      "Use of trigger topic\u2014sex-related pain",
+      "Visual censorship (S\u00a3X) increases curiosity and complies with platform guidelines"
+    ],
+    "Brand elements present": [
+      "Presence of recognizable individual (known to the channel\u2019s audience)",
+      "Consistent use of bold text box (suggests ongoing video series or branded educational format)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly repeats the main part of the video title in large, clear text, making the topic immediately recognizable. The image of the presenter (neutral, warm facial expression) aligns with the 'storytelling' and advisory nature of the title, suggesting empathy and expertise.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts. The thumbnail cleanly matches the title content and intent. Both use soft, friendly imagery while presenting a direct, potentially sensitive topic in a straightforward, solution-based way. Potential mismatch only in the sense that the thumbnail\u2019s tone is gentle, while the subject matter may evoke discomfort, but this is balanced intentionally to increase approachability."
+  }
+}

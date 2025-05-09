@@ -1,0 +1,12 @@
+{
+  "title": "OceanGate Is Worse Than You Thought",
+  "thumbnail_path": "thumbnails/e0YJBAJdVoc_max.jpg",
+  "title_length": 35,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

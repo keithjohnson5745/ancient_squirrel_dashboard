@@ -1,0 +1,13 @@
+{
+  "title": "Normal Time \u0915\u093f\u0924\u0928\u093e \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f || Dr. Neha Mehta",
+  "thumbnail_path": "thumbnails/P8IdChBtuWg_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

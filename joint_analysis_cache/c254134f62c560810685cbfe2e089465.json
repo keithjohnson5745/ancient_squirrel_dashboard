@@ -1,0 +1,13 @@
+{
+  "title": "\u2018We just want to be free': Alberta Premier Danielle Smith\u2019s full speech",
+  "thumbnail_path": "thumbnails/p5fzrOSDpds_high.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Breakthrough ft.  (Part 1 Trish Caldwell) | Mind Amendment Ep.1",
+  "thumbnail_path": "thumbnails/_s5hwwwTmKo_max.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

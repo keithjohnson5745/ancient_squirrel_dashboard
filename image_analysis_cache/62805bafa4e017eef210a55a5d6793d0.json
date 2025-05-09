@@ -1,0 +1,120 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Beige/off-white background",
+        "percentage": 35
+      },
+      {
+        "color": "Black (text and product bottle)",
+        "percentage": 20
+      },
+      {
+        "color": "Flesh tones (human face and hand)",
+        "percentage": 15
+      },
+      {
+        "color": "Red (shirt and cross-out symbol)",
+        "percentage": 10
+      },
+      {
+        "color": "Yellow (text background)",
+        "percentage": 10
+      },
+      {
+        "color": "Gold (product jar)",
+        "percentage": 5
+      },
+      {
+        "color": "Grayish-blue (background behind arm)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (person from upper torso up), with close-up photo of skin, and isolated product images.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expression": "Slight smile, neutral/confident expression",
+      "demographics": "Adult woman, fair skin, long blonde/light brown hair"
+    },
+    "Main objects/props featured": [
+      "Close-up of crepey skin on arm or leg",
+      "Bottle labeled 'N\u00e9cessaire The Body Retinol'",
+      "Gold jar labeled 'Body Firm' with red prohibition/cross-out symbol",
+      "Person (pointing gesture)"
+    ],
+    "Background environment": "Flat beige/off-white; no real scene, all elements collaged/pasted with white outlines."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HOW TO FIX CREPEY SKIN",
+      "N\u00e9cessaire The Body Retinol Le Retinol Corps",
+      "BODY FIRM Crepe Erase Advanced Body Repair Treatment",
+      "ACCORDING TO A DERMATOLOGIST"
+    ],
+    "Font characteristics": [
+      {
+        "text": "HOW TO FIX CREPEY SKIN",
+        "font_style": "Bold, all caps, sans-serif",
+        "emphasis": "Strong emphasis, black text on white box",
+        "color": "Black"
+      },
+      {
+        "text": "ACCORDING TO A DERMATOLOGIST",
+        "font_style": "Bold, all caps, sans-serif",
+        "emphasis": "High, placed on yellow background",
+        "color": "Black on yellow"
+      },
+      {
+        "text": "N\u00e9cessaire The Body Retinol Le Retinol Corps",
+        "font_style": "Narrow, white sans-serif",
+        "emphasis": "Low, on product bottle",
+        "color": "White on black"
+      },
+      {
+        "text": "BODY FIRM ...Crepe Erase Advanced Body Repair Treatment",
+        "font_style": "Serif on product, smaller",
+        "emphasis": "Low, on gold jar",
+        "color": "Black on gold"
+      }
+    ],
+    "Text placement within frame": [
+      "HOW TO FIX CREPEY SKIN: Top left, dominant position",
+      "ACCORDING TO A DERMATOLOGIST: Bottom right, overlaid on person's torso and hand",
+      "Product/brand text: On respective product images"
+    ],
+    "Emotional/trigger words": [
+      "FIX",
+      "CREPEY SKIN",
+      "ACCORDING TO A DERMATOLOGIST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, helpful, slightly urgent but reassuring",
+    "Visual metaphors or symbols": [
+      "Red prohibition/cross-out symbol over product (implies 'don\u2019t use' or 'not recommended')",
+      "Pointing gesture (highlights focus and expertise)"
+    ],
+    "Clickbait techniques employed": [
+      "All-caps bold headline with problem/solution (HOW TO FIX\u2026)",
+      "Endorsement by expert (ACCORDING TO A DERMATOLOGIST)",
+      "Visual demonstration of the problem (crepey skin close-up)",
+      "Prohibition sign to create curiosity/controversy",
+      "Face of a confident, relatable expert"
+    ],
+    "Brand elements present": [
+      "Featured brands: 'N\u00e9cessaire', 'Crepe Erase/Body Firm'",
+      "Clear emphasis on dermatologist/expert authority"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Shows the skin condition (crepey skin) directly addressed in title",
+      "Displays products, supporting the promise of potential solutions ('How to Fix')",
+      "Text directly mirrors video title/goal",
+      "Expert is clearly visible, tying in with 'Dermatologist Explains'"
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "No significant mismatch; the thumbnail is tightly aligned with the video title, visually and textually"
+    ]
+  }
+}

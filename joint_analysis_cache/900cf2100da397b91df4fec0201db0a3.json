@@ -1,0 +1,12 @@
+{
+  "title": "Big Problem for PAK | India is Building Massive Air Base on Pakistan Border",
+  "thumbnail_path": "thumbnails/jHOREVtSjQY_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

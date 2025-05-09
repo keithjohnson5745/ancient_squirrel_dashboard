@@ -1,0 +1,12 @@
+{
+  "title": "What You Can Do to Prevent Alzheimer's | Lisa Genova | TED",
+  "thumbnail_path": "thumbnails/twG4mr6Jov0_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

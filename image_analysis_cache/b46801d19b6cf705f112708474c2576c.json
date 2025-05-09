@@ -1,0 +1,100 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Hot Pink",
+        "percentage": 35
+      },
+      {
+        "color": "White",
+        "percentage": 25
+      },
+      {
+        "color": "Beige/Skin Tone",
+        "percentage": 15
+      },
+      {
+        "color": "Light Gray (background blur)",
+        "percentage": 15
+      },
+      {
+        "color": "Navy Blue (clothing, text)",
+        "percentage": 5
+      },
+      {
+        "color": "Pale Yellow (hair)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up. The subject is shown from the chest up, holding up six fingers. Left third of frame features illustrations, right two-thirds feature the subject.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "The person is smiling softly, maintaining direct eye contact with a confident and friendly demeanor.",
+      "demographics": "Appears to be a female adult with light skin and long blonde hair."
+    },
+    "Main objects/props featured": [
+      "Illustrated uterus (pink, left)",
+      "Illustrated egg and sperm (center left)",
+      "Stethoscope around subject's neck"
+    ],
+    "Background environment": "Blurred, neutral gray background with soft concentric lighting around subject's head giving a halo effect."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FERTILITY HEALTH TIPS",
+      "6 tips to help you get pregnant now or later"
+    ],
+    "Font characteristics": [
+      {
+        "content": "FERTILITY HEALTH TIPS",
+        "style": "Bold, sans-serif, all caps",
+        "emphasis": "High (large size, white text on hot pink background)",
+        "color": "White"
+      },
+      {
+        "content": "6 tips to help you get pregnant now or later",
+        "style": "Bold, rounded sans-serif",
+        "emphasis": "Medium (black text on white bar background, lower frame)",
+        "color": "Black"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "content": "FERTILITY HEALTH TIPS",
+        "position": "Top left, in a pink box"
+      },
+      {
+        "content": "6 tips to help you get pregnant now or later",
+        "position": "Bottom center, spanning width of frame in white bar"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "FERTILITY",
+      "TIPS",
+      "HELP",
+      "PREGNANT",
+      "NOW"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, encouraging, empowering, positive.",
+    "Visual metaphors or symbols": [
+      "Uterus and egg/sperm illustrate conception/fertility.",
+      "Raised hand showing six fingers visually reinforces the 'six tips' mentioned."
+    ],
+    "Clickbait techniques employed": [
+      "Direct promise of outcome ('help you get pregnant now or later').",
+      "Numbered tips ('6 tips') imply actionable, structured advice.",
+      "Bold color contrasts for quick attention.",
+      "Smiling medical professional to instill trust."
+    ],
+    "Brand elements present": [
+      "Medical imagery (stethoscope, uterus)",
+      "Professional appearance of human subject"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail mirrors both key content points and language from the title. 'FERTILITY HEALTH TIPS' is stated directly in large text. Fertility is symbolized with a uterus, egg, and sperm illustrations. The person holding up six fingers visually indicates '6 tips' as in the title. 'Get pregnant now or later' is specifically written in the lower text, fully aligning with the title's promised benefit.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no notable contrasts or mismatches; the thumbnail closely aligns visually and textually with the video title."
+  }
+}

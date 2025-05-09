@@ -1,0 +1,12 @@
+{
+  "title": "Making an apple that tastes like a grape",
+  "thumbnail_path": "thumbnails/udtLKxVZc5Y_max.jpg",
+  "title_length": 40,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

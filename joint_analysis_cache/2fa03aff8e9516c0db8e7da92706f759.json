@@ -1,0 +1,13 @@
+{
+  "title": "Female Reproductive Cycle | Ovulation",
+  "thumbnail_path": "thumbnails/pzgUbyD6mCM_max.jpg",
+  "title_length": 37,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

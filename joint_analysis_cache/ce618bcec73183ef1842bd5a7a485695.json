@@ -1,0 +1,13 @@
+{
+  "title": "Why You May Not Feel Like Yourself During Perimenopause with Dr Juliana Hauser",
+  "thumbnail_path": "thumbnails/MgLxr8QiW3Y_max.jpg",
+  "title_length": 78,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

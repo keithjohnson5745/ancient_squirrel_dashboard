@@ -1,0 +1,94 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "25% (text and central person's clothing)",
+      "Light blue/gray": "20% (background gradient)",
+      "White": "20% (backgrounds, product/cream, design cutout)",
+      "Red": "10% (red X marks, irritated skin)",
+      "Yellow": "5% (highlighted text in 'MISTAKES')",
+      "Skin tones": "20% (varied, reflecting the three people shown)"
+    },
+    "Composition type": "Medium shot and close-up collage",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Middle: Male, eyes closed, hand on forehead, exasperated/frustrated expression",
+        "Left: Female, hands on cheeks, red irritated skin, worried/concerned expression",
+        "Right: Female, facial mask on, pained/uncomfortable/confused expression"
+      ],
+      "Demographics": [
+        "Middle: Adult male, medium-dark skin, beard",
+        "Left: Young adult female, light skin, straight brown hair",
+        "Right: Young adult female, medium-dark skin, curly black hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Retinol serum bottle with red X",
+      "AHA/BHA exfoliating cleanser tube with red X"
+    ],
+    "Background environment": "Abstract, light blue/gray gradient with white outlining and partial cutout effect around the central figures"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "VITAMIN C MISTAKES",
+      "RETINOL SERUM",
+      "AHA/BHA Exfoliating Cleanser",
+      "Nettoyant exfoliant aux AHA/BHA",
+      "Amir M. Karam MD Facial Plastic Surgery"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "VITAMIN C MISTAKES",
+        "Style": "Bold, all caps sans-serif",
+        "Emphasis": "'MISTAKES' is in bright yellow, the rest in white",
+        "Color": "White and yellow"
+      },
+      {
+        "Text": "RETINOL SERUM",
+        "Style": "Bold serif mix, 'SERUM' is larger",
+        "Color": "Dark red and black"
+      },
+      {
+        "Text": "AHA/BHA Exfoliating Cleanser",
+        "Style": "Simple sans-serif, white text on magenta background",
+        "Color": "White"
+      },
+      {
+        "Text": "Nettoyant exfoliant aux AHA/BHA",
+        "Style": "Simple sans-serif, French translation",
+        "Color": "White"
+      }
+    ],
+    "Text placement within frame": [
+      "Title ('VITAMIN C MISTAKES') at the very top band, prominent and spanning full width",
+      "'RETINOL SERUM' angled on bottom left over object",
+      "'AHA/BHA Exfoliating Cleanser' angled on top right over object",
+      "Personal name/information on person's shirt (minor, bottom center)"
+    ],
+    "Use of emotional/trigger words": [
+      "MISTAKES",
+      "RETINOL SERUM",
+      "Exfoliating Cleanser"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary/concerned; signals urgency, warning about common errors",
+    "Visual metaphors or symbols": [
+      "Big red X symbols on products (do not use/avoid)",
+      "Concerned, stressed, and uncomfortable facial expressions signal mistakes/regret"
+    ],
+    "Clickbait techniques employed": [
+      "Use of large, bold trigger word ('MISTAKES')",
+      "High-contrast colors (yellow and red) to attract attention",
+      "Dramatic faces indicating distress or regret",
+      "Products with clear red X marks for visual clarity"
+    ],
+    "Brand elements present": [
+      "Central subject's name and 'Facial Plastic Surgery' on uniform (personal branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The large text 'VITAMIN C MISTAKES' directly mirrors the video title, visually amplified through highlighted 'MISTAKES'. The distressed and uncomfortable expressions, crossed-out products, and visual cues align with 'mistakes to avoid' and hint at improper combinations or usage.",
+    "Contrasts or mismatches": "No significant mismatches. The thumbnail closely signals the topic of common mistakes in Vitamin C use, just as stated in the title. If anything, the thumbnail is slightly more negative/dramatic than the title's neutral advice."
+  }
+}

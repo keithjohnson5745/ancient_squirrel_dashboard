@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "Approximately 65% (background, suit, text box backgrounds)",
+      "white": "Approximately 15% (shirt, text, phone screen, background highlights)",
+      "brown": "Approximately 10% (skin tone of the main subject)",
+      "red/maroon": "Approximately 5% (tie, pocket square)",
+      "gray": "Approximately 5% (borders of text boxes and bubble effects)"
+    },
+    "Composition type": "Medium shot\u2014main subject visible from waist up.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Subject has a surprised or comedic expression, eyebrows raised, mouth is censored/blurred possibly to indicate a strong or humorous statement.",
+      "demographics": "Adult, bald, male"
+    },
+    "Main objects/props featured": [
+      "Smartphone (held in subject\u2019s left hand)",
+      "Microphone clipped to suit",
+      "Text bubbles with words 'ASK' and 'STEVE'"
+    ],
+    "Background environment": "Indoors, television studio set, blue-tinted with large blurred text in the background and a graphic reading 'STEVE HARVEY' near the bottom left."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "ASK",
+      "STEVE",
+      "STEVE HARVEY"
+    ],
+    "Font characteristics": {
+      "ASK/STEVE": {
+        "style": "Bold, sans-serif, all uppercase",
+        "emphasis": "Outlined in gray bubble, 3D embossed look",
+        "color": "Navy Blue/Grey gradient",
+        "other effects": "Speech bubble-shaped background"
+      },
+      "STEVE HARVEY": {
+        "style": "All uppercase sans-serif, thinner font",
+        "color": "Light blue"
+      }
+    },
+    "Text placement": {
+      "ASK": "Upper right, within a speech bubble overlapping background",
+      "STEVE": "Center right, below 'ASK', in another speech bubble",
+      "STEVE HARVEY": "Bottom left corner, overlaid on background"
+    },
+    "Emotional/trigger words": [
+      "ASK",
+      "STEVE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Humorous, light-hearted, a bit dramatic due to facial expression and mouth censor.",
+    "Visual metaphors or symbols": "Speech bubbles symbolize questions/communication; the censored mouth implies something shocking, funny or potentially inappropriate is being said.",
+    "Clickbait techniques employed": [
+      "Censored mouth for intrigue/shock value",
+      "Overt speech bubbles to indicate Q&A theme",
+      "Comedic body language and expression"
+    ],
+    "Brand elements present": [
+      "STEVE HARVEY logo",
+      "Distinctive host attire (matching TV branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually supports the 'Ask Steve' theme with speech bubbles, the host in a responding pose, and clear Q&A graphics. The censored mouth aligns with the title\u2019s reference to a dramatic or shocking scenario.",
+    "Contrasts or mismatches": "Thumbnail does not directly depict the physical altercation implied by 'She\u2019s beatin\u2019 yo ass!'; instead it focuses on Steve Harvey\u2019s reaction and the Q&A format, potentially softening the implied conflict for humorous or broadcast-friendly reasons."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "FULL| Girl and her family were chased by a wolf pack, but she drove them away with just a slingshot!",
+  "thumbnail_path": "thumbnails/OpjV3qM6L_8_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

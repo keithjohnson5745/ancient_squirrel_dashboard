@@ -1,0 +1,12 @@
+{
+  "title": "Canon R6ii Focusing Systems Tutorial Training",
+  "thumbnail_path": "thumbnails/RwqnOCWYRbo_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

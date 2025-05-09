@@ -1,0 +1,13 @@
+{
+  "title": "Does Masturbation Decrease Stamina|In Hindi|Dr. Sunil Jindal|Jindal Hospital Meerut",
+  "thumbnail_path": "thumbnails/h4-OtQF2dp4_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

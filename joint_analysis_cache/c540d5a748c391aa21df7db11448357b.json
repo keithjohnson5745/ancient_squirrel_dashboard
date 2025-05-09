@@ -1,0 +1,13 @@
+{
+  "title": "Vaginal Dryness Treatment that works in 3 minutes with no pain!",
+  "thumbnail_path": "thumbnails/ZNKOcwuT-2s_high.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

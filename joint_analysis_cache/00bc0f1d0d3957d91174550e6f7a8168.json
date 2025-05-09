@@ -1,0 +1,13 @@
+{
+  "title": "Overcoming Male Infertility: Our Success Story",
+  "thumbnail_path": "thumbnails/a7bFiFA9Qt4_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

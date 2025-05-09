@@ -1,0 +1,13 @@
+{
+  "title": "No.1 Nitric Oxide Expert: This is the anti-aging cure no one is talking about!",
+  "thumbnail_path": "thumbnails/zECoaEZRRFU_max.jpg",
+  "title_length": 78,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

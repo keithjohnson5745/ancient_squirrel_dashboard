@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/cream": "25%",
+      "Red/pink stripes": "20%",
+      "Blue": "20%",
+      "Yellow": "10%",
+      "Skin tones": "15%",
+      "Black (clothing)": "5%",
+      "Bright colors in illustration (red, purple, blue, green)": "5%"
+    },
+    "Composition type": "Medium shot (waist-up view of one person, with additional illustration and text)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Wide-eyed, slightly awkward or embarrassed smile, comedic and expressive",
+      "Demographics": "Apparent adult woman, light-medium skin tone, brown hair"
+    },
+    "Main objects/props featured": [
+      "Person (center-left, gesturing with hands)",
+      "Stylized anatomical illustration (right, representing male pelvic area and prostate)",
+      "Couch (background)",
+      "Pillow (yellow, bottom right)"
+    ],
+    "Background environment": "Indoors, with a striped curtain (red, pink, beige stripes) and a blue couch, suggesting a casual, home-like setting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "PROSTATE MASSAGE",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all capitals",
+      "Emphasis": "Strong, prominent, with a slight drop shadow",
+      "Color": "White text with black shadow"
+    },
+    "Text placement within frame": "Bottom right, partially overlapping the anatomical illustration and extending over the yellow pillow",
+    "Use of emotional/trigger words": [
+      "PROSTATE MASSAGE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, slightly awkward/humorous, educational",
+    "Visual metaphors or symbols": [
+      "Anatomical diagram of male genitalia with emphasis on the prostate, visualizing the topic",
+      "Exaggerated facial expression and hand gesture add a comedic, lighthearted feel"
+    ],
+    "Clickbait techniques employed": [
+      "Use of bold and direct wording ('PROSTATE MASSAGE')",
+      "Bright, contrasting colors to draw attention",
+      "Facial expression that suggests curiosity, surprise, or embarrassment",
+      "Illustration that immediately signals the video\u2019s adult/educational topic"
+    ],
+    "Brand elements present": "No overt branding (logo, watermark), but consistent style could imply a recognizable channel identity"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces the title by": [
+      "Direct visual depiction of a prostate in the illustration, which matches the topic of 'Prostate Massage'",
+      "Bold text exactly mirrors the video title, making the subject instantly clear",
+      "Facial expression and hand gesture emphasize the sensitive or awkward nature of the topic, aligning with what viewers might expect from such a video"
+    ],
+    "Contrasts or mismatches": [
+      "There\u2019s no major mismatch; the thumbnail is a direct, clear, and slightly humorous visual representation of the title"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "The Best Podcast for Women of All Ages, 10-60 Years | Dr Anjali Kumar, India's Top Gynaecologist",
+  "thumbnail_path": "thumbnails/vq2ZUSvWjJ0_max.jpg",
+  "title_length": 96,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

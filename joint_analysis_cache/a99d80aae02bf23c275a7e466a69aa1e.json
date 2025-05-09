@@ -1,0 +1,13 @@
+{
+  "title": "Best extra-virgin olive oil under $10 (RANKED BEST TO WORST)",
+  "thumbnail_path": "thumbnails/jAh0mY6DahY_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

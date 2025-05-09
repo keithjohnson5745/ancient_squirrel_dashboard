@@ -1,0 +1,12 @@
+{
+  "title": "Nach Merz-Misserfolg: AfD-Chefin Weidel im Interview | DW Nachrichten",
+  "thumbnail_path": "thumbnails/OO_pjNhgG-8_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

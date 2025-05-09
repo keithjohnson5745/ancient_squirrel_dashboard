@@ -1,0 +1,13 @@
+{
+  "title": "LlamaCon 2025 LIVE: Mark Zuckerberg chats with Microsoft CEO Satya Nadella",
+  "thumbnail_path": "thumbnails/hbFzq3wsma4_max.jpg",
+  "title_length": 74,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

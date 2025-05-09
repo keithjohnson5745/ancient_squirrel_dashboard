@@ -1,0 +1,104 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Purple gradient (light to medium)",
+        "percentage": 35
+      },
+      {
+        "color": "Light blue/denim",
+        "percentage": 20
+      },
+      {
+        "color": "Beige/skin tone",
+        "percentage": 15
+      },
+      {
+        "color": "Brown (hair/bookshelf)",
+        "percentage": 15
+      },
+      {
+        "color": "White (text/highlights)",
+        "percentage": 10
+      },
+      {
+        "color": "Soft greens (window plant background)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Friendly, engaging, slightly surprised/curious",
+      "demographics": "Adult woman, light skin, straight light brown/dark blond hair"
+    },
+    "Main objects/props featured": [
+      "Person (Emily, likely a presenter/expert)",
+      "Bookshelf with books and decor",
+      "Window with greenery outside"
+    ],
+    "Background environment": "Well-lit indoor office or study with bookshelves, large window revealing plants/outdoor scene"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "WHAT LUBE IS BEST FOR ME?",
+      "Emily",
+      "ASTROGLIDE"
+    ],
+    "Font characteristics": [
+      {
+        "text": "WHAT LUBE IS BEST FOR ME?",
+        "style": "Bold, sans-serif, all caps",
+        "emphasis": "High",
+        "color": "White",
+        "placement": "Top left and centered, large, over purple gradient background"
+      },
+      {
+        "text": "Emily",
+        "style": "Handwritten script",
+        "emphasis": "Medium",
+        "color": "White",
+        "placement": "Bottom left, smaller"
+      },
+      {
+        "text": "ASTROGLIDE",
+        "style": "Modern sans-serif, italicized",
+        "emphasis": "Brand logo",
+        "color": "White",
+        "placement": "Bottom right"
+      }
+    ],
+    "Emotional/trigger words": [
+      "BEST",
+      "ME?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Welcoming, helpful, approachable, and slightly playful (due to color and expression)",
+    "Visual metaphors or symbols": [
+      "The presenter as a trustworthy guide",
+      "Books/office setting conveys authority and credibility"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question to viewer (\u2018What lube is best for me?\u2019)",
+      "Personalization (\u2018for me?\u2019)",
+      "Large, bold text for quick grab",
+      "Friendly, inviting face to encourage clicks"
+    ],
+    "Brand elements present": [
+      "ASTROGLIDE logo",
+      "Consistent purple brand color"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": [
+      "The thumbnail\u2019s question directly mirrors the video\u2019s focus on choosing a personal lubricant.",
+      "Presence of ASTROGLIDE logo clearly connects to the product and brand discussed in title.",
+      "Presenter\u2019s open, relatable pose reinforces the personal, helpful nature suggested in the title."
+    ],
+    "Contrasts/mismatches": [
+      "No immediate visual presence of lubricant products despite the title, which could make some viewers expect product imagery.",
+      "However, the approachable character and branding compensate by centering the human experience rather than just product visuals."
+    ]
+  }
+}

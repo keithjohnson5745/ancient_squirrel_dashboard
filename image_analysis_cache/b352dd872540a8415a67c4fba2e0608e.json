@@ -1,0 +1,97 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "deep burgundy/red",
+        "percentage": 60
+      },
+      {
+        "color": "white",
+        "percentage": 20
+      },
+      {
+        "color": "gold",
+        "percentage": 5
+      },
+      {
+        "color": "black (hair, some background elements)",
+        "percentage": 10
+      },
+      {
+        "color": "skin tone",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "medium shot (showing a woman from the waist up, turned slightly to one side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "neutral/pleasant (slight smile, confident posture)",
+      "demographics": "adult woman, South Asian"
+    },
+    "Main objects/props featured": [
+      "Woman in a red sari (traditional Indian clothing)",
+      "Jewelry (necklace, bracelet, bangles)",
+      "Eyeglasses"
+    ],
+    "Background environment": "Indoor setting with a dark, marbled wall and a burgundy patterned overlay; logo section over a plain white rectangle in the bottom left"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "GET PREGNANT FAST NATURALLY",
+      "\u091c\u0932\u094d\u0926\u0940 \u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0939\u094b\u0928\u0947 \u0915\u0947 10 \u092a\u094d\u0930\u092e\u0941\u0916 \u091f\u093f\u092a\u094d\u0938",
+      "Dr. Dipti Jain",
+      "GYNECOLOGIST & GYNAEC ONCOSURGEON",
+      "MBBS, M.S. (Obst & Gynec)"
+    ],
+    "Font characteristics": [
+      {
+        "section": "Main text (English and Hindi)",
+        "style": "Sans-serif, bold, all caps (English), regular weight (Hindi)",
+        "emphasis": "High, due to size and white color on dark background",
+        "color": "White"
+      },
+      {
+        "section": "Logo/Name block",
+        "style": "Serif (Dr. Dipti Jain), sans-serif (rest), regular weight",
+        "color": "Black and pink (for logo)"
+      }
+    ],
+    "Text placement within frame": [
+      "Top right (main English text, large)",
+      "Middle right (main Hindi text, large)",
+      "Bottom left (name, qualifications, logo in a white box)"
+    ],
+    "Use of emotional/trigger words": [
+      "FAST",
+      "NATURALLY",
+      "TOP 10",
+      "\u091c\u0932\u094d\u0926\u0940 (quickly)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, authoritative, informative",
+    "Visual metaphors or symbols": [
+      "Doctor's presence in professional attire (trust, expertise)",
+      "Heart-shaped logo with mother and baby silhouettes (care, motherhood, fertility)"
+    ],
+    "Clickbait techniques employed": [
+      "Use of 'TOP 10'/'10 \u092a\u094d\u0930\u092e\u0941\u0916 \u091f\u093f\u092a\u094d\u0938' implying a list (easy actionable advice)",
+      "Words like 'FAST' and 'NATURALLY' promising desirable results quickly and safely",
+      "Direct eye contact from the doctor suggesting personal connection/trust"
+    ],
+    "Brand elements present": [
+      "Dr. Dipti Jain's name and logo",
+      "Medical credentials listed under name",
+      "Consistent use of red/burgundy palette"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail prominently displays both English and Hindi versions of 'Get Pregnant Fast Naturally: Top 10 Tips', directly mirroring the video title",
+      "Doctor in professional attire in thumbnail reinforces medical authority and credibility, which supports the claims of expertise in the title"
+    ],
+    "Contrasts or mismatches": [
+      "None identified; the professional and informative visual matches the thematic promise of the title. The presence of both English and Hindi maximizes appeal to a bilingual audience, consistent with the title."
+    ]
+  }
+}

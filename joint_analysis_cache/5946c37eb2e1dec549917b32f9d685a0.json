@@ -1,0 +1,13 @@
+{
+  "title": "\u0915\u094d\u092f\u093e Vaseline \u0932\u0917\u093e\u0928\u093e \u0938\u0939\u0940 \u0939\u094b\u0917\u093e || Dr. Neha Mehta",
+  "thumbnail_path": "thumbnails/fCHIOgYtLXk_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

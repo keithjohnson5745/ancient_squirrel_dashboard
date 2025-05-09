@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple": "Approximately 60% (background, text blocks, shirt)",
+      "Light Pink": "Approximately 15% (middle text block background)",
+      "White": "Approximately 20% (text)",
+      "Skin tones": "Approximately 5% (face, hands)",
+      "Gray": "Approximately 5% (background on right side)"
+    },
+    "Composition type": "Medium shot (shows a woman from chest up, occupying the right one-third of the frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight smile, professional demeanor",
+      "Demographics": "Adult woman, light skin, brown hair"
+    },
+    "Main objects/props featured": [
+      "Woman in purple/medical scrubs (likely a nurse or instructor)",
+      "Lapel microphone (on scrubs)"
+    ],
+    "Background environment": "Solid muted gray on the right behind the woman, solid purple with a pink accent bar on the left behind text"
+  },
+  "TEXT ELEMENTS": {
+    "Text (exact transcription)": [
+      "INDWELLING",
+      "URINARY",
+      "CATHETER",
+      "(MALE PATIENT)"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": "High contrast, key word 'CATHETER' is in bolder, larger text in the middle and set on a pink background",
+      "Color": "White for main text, dark purple for 'CATHETER'",
+      "Readability": "Very high due to thick font and color contrast"
+    },
+    "Text placement within frame": {
+      "Vertical alignment": "Stacked centrally along the left two-thirds of the thumbnail",
+      "Horizontal alignment": "Left justified within the colored bars"
+    },
+    "Use of emotional/trigger words": [
+      "CATHETER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, educational, reassuring (purposeful use of muted but rich colors and calm facial expression)",
+    "Visual metaphors or symbols": [
+      "No metaphorical imagery; highly literal and direct"
+    ],
+    "Clickbait techniques employed": [
+      "Clear highlighting of procedure ('CATHETER' in bold, prominent text), focus on audience ('MALE PATIENT'), instructor\u2019s professional appearance"
+    ],
+    "Brand elements present": [
+      "Consistent color palette typically associated with medical or educational YouTube channels; no visible logos"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail's text directly mirrors key concepts from the video title, specifically stating 'INDWELLING URINARY CATHETER (MALE PATIENT)'. The presence of a woman in scrubs visually supports the nursing skill aspect. The purple and pink color scheme may evoke calmness/trust suitable for a medical teaching topic.",
+    "Contrasts or mismatches": "No significant contrasts or mismatches; the thumbnail and title are closely aligned, though the thumbnail is more concise, not using the full procedural wording ('Foley catheter insertion') but instead the general term."
+  }
+}

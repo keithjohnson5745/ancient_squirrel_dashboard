@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light brown/Beige (background/skin tones)": "40%",
+      "Black (hair, clothes, text bar)": "25%",
+      "White (shirts, text)": "15%",
+      "Gold/Yellow-Patterned Fabric (clothing)": "15%",
+      "Accents of orange and red (patterns, lips, headwear)": "5%"
+    },
+    "Composition type": "Split: Close-up (left, single adult female), Group portrait (right, four children in medium-to-wide shot)",
+    "Human presence": {
+      "Number of people": 5,
+      "Expressions": {
+        "Left (adult female)": "Neutral, somber, serious expression",
+        "Right (children)": "Mostly neutral; older child (center) is smiling, others have slight smiles or neutral faces"
+      },
+      "Demographics if apparent": "All appear to be Black/African descent, includes one adult female and four children of varying ages"
+    },
+    "Main objects/props featured": [
+      "Adult female (left)",
+      "Four children (right, with coordinated patterned clothing and headwraps)",
+      "Baby held by an older child"
+    ],
+    "Background environment": "Plain light-colored background on left (possibly a solid wall or backdrop), closed white door on right (interior domestic setting)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "HAVING MY FATHER'S CHILDREN",
+    "Font characteristics": {
+      "Style": "Heavy, sans-serif, bold, all uppercase",
+      "Emphasis": "Strong, high-contrast white text over black rectangular background",
+      "Color": "White text on black background"
+    },
+    "Text placement within frame": "Lower center across the image, spanning across both the left (adult) and right (children) sections",
+    "Use of emotional/trigger words": [
+      "HAVING MY FATHER'S CHILDREN"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Somber, serious, and emotionally charged; sense of history and trauma implied",
+    "Visual metaphors or symbols": [
+      "Split composition (adult vs. childhood imagery) \u2014 past and present, trauma and consequences",
+      "Traditional/identical clothing can symbolize family or lineage"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, provocative and potentially shocking text",
+      "Emotional facial expression",
+      "Juxtaposition of adult and children's images to suggest a personal and disturbing story"
+    ],
+    "Brand elements present": "None overtly visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s explicit, bold text 'HAVING MY FATHER\u2019S CHILDREN' and the imagery of a somber adult woman and a group of children strongly reinforce the 'shocking story' referenced in the title. The composition and text make clear the sensitive and disturbing subject that the video is likely to address.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts; both thumbnail and title are direct, provocative, and aligned in tone. Both highlight the shocking, personal nature of the content."
+  }
+}

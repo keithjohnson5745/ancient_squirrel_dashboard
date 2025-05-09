@@ -1,0 +1,12 @@
+{
+  "title": "K-Y Jelly Personal Lubricants - Product Video",
+  "thumbnail_path": "thumbnails/y891Fm32b0o_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

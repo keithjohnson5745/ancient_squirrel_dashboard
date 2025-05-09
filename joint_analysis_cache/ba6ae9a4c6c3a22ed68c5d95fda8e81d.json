@@ -1,0 +1,13 @@
+{
+  "title": "PMHNP Exam Review | Comprehensive Last Minute Review: PART 1 #PMHNP #review",
+  "thumbnail_path": "thumbnails/Tvv2P_BAoIc_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 50% (background color for text area)",
+      "Pink": "About 15% (vertical border and text)",
+      "Yellow": "About 10% (highlight text box)",
+      "Black": "About 15% (text color)",
+      "Red/Orange": "About 10% (woman's saree)"
+    },
+    "Composition type": "Medium close-up (close-up of a woman on right half, text block on left half)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, direct eye contact, confident or glamorous look",
+      "Demographics": "Adult female, likely of Indian/Hindi ethnicity"
+    },
+    "Main objects/props featured": [
+      "Woman in traditional attire (saree with jewelry, bindi, bright makeup)"
+    ],
+    "Background environment": "Plain or indoor background with wooden door, neutral and uncluttered"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0938\u093e\u0938 \u0914\u0930 \u0926\u093e\u092e\u093e\u0926 \u0915\u0940 \u0917\u0930\u094d\u092e \u092c\u093e\u0924\u0947\u0902",
+      "\u0935\u093e\u092f\u0930\u0932 \u0915\u0949\u0932 \u0930\u093f\u0915\u0949\u0930\u094d\u0921\u093f\u0902\u0917",
+      "\u0938\u093f\u0930\u094d\u092b \u0905\u0915\u0947\u0932\u0947 \u092e\u0947\u0902 \u0938\u0941\u0928\u0947\u0902",
+      "XXX \u0915\u0947 \u092e\u091c\u0947"
+    ],
+    "Font characteristics": {
+      "Style": "Bold and sans-serif font, clear and easy to read",
+      "Emphasis": [
+        "Red and black text for high emphasis (main messages in black, supporting/context in red)",
+        "Yellow text in a black box for 'XXX \u0915\u0947 \u092e\u091c\u0947' trigger phrase"
+      ],
+      "Color": "Red, black, yellow"
+    },
+    "Text placement within frame": {
+      "Left side": "Text occupies entire left half, each message on separate line",
+      "Right overlay": "'XXX \u0915\u0947 \u092e\u091c\u0947' placed at lower-right, over the woman\u2019s image in yellow on black background"
+    },
+    "Use of emotional/trigger words": [
+      "\u0917\u0930\u094d\u092e \u092c\u093e\u0924\u0947\u0902",
+      "\u0935\u093e\u092f\u0930\u0932",
+      "\u0938\u093f\u0930\u094d\u092b \u0905\u0915\u0947\u0932\u0947 \u092e\u0947\u0902 \u0938\u0941\u0928\u0947\u0902",
+      "XXX \u0915\u0947 \u092e\u091c\u0947"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sensational, teasing, somewhat provocative and playful, promising entertainment or gossip value",
+    "Visual metaphors or symbols": "Traditional attire reinforces 'saas' character; prominent glamorous image suggests intrigue or flirtation",
+    "Clickbait techniques employed": [
+      "Use of '\u0917\u0930\u094d\u092e \u092c\u093e\u0924\u0947\u0902' and 'XXX \u0915\u0947 \u092e\u091c\u0947' for sexual/sensational implication",
+      "Highlighting '\u0935\u093e\u092f\u0930\u0932' and '\u0938\u093f\u0930\u094d\u092b \u0905\u0915\u0947\u0932\u0947 \u092e\u0947\u0902 \u0938\u0941\u0928\u0947\u0902' to create curiosity and exclusivity"
+    ],
+    "Brand elements present": "No explicit brand logos, but style is consistent with sensational/gossip/viral content typical on some Hindi content channels"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Text directly reflects title wording ('\u0938\u093e\u0938', '\u0926\u093e\u092e\u093e\u0926', '\u0915\u0949\u0932 \u0930\u093f\u0915\u0949\u0930\u094d\u0921\u093f\u0902\u0917')",
+      "Photo of a traditionally dressed woman visually signals the 'saas' (mother-in-law) character",
+      "Use of provocative phrases and confident pose aligns with '\u092e\u0938\u094d\u0924', '\u0917\u0930\u094d\u092e \u092c\u093e\u0924\u0947\u0902', and the viral/gossip tone of the title"
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "No visible 'damaad' (son-in-law) in thumbnail; only woman is shown\u2014this omits half of the title duo",
+      "The 'XXX \u0915\u0947 \u092e\u091c\u0947' is an added element not mentioned in title, increasing the sexual/sensational shock value"
+    ]
+  }
+}

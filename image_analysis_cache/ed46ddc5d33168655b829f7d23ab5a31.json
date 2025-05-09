@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light beige/white": "50%",
+      "orange": "15%",
+      "yellow": "10%",
+      "olive green": "10%",
+      "brown hair tones": "10%",
+      "black (text)": "5%"
+    },
+    "Composition type": "Two-shot, medium close-up on the left (woman thinking), profile medium shot on the right (woman holding mask)",
+    "Human presence": {
+      "number of people": 2,
+      "expressions": [
+        "Left: Thoughtful, concerned, introspective (hand on chin)",
+        "Right: Neutral, serious, focused (profile view, looking at mask)"
+      ],
+      "demographics": [
+        "Left: Appears to be an adult woman, light skin, brown/reddish hair, middle-aged",
+        "Right: Appears to be a young adult woman, light skin, brunette"
+      ]
+    },
+    "Main objects/props featured": [
+      "White theatrical mask held by the right person"
+    ],
+    "Background environment": "Solid, gradient white/light grey with minimalist design elements (yellow rounded rectangle, orange arc shape on lower right)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "HOW THEY THINK",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": {
+        "THINK": "Larger, colored in orange/red for emphasis"
+      },
+      "color": {
+        "HOW THEY": "Black",
+        "THINK": "Orange/Red"
+      }
+    },
+    "Text placement within frame": "Top right quadrant, with 'HOW THEY' above and 'THINK' below, set inside a yellow rounded rectangle background for distinction",
+    "Use of emotional/trigger words": [
+      "THINK"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, contemplative, slightly dramatic",
+    "Visual metaphors or symbols": [
+      "Mask (symbolizing deception, hidden identity, or 'covert' nature of narcissism)",
+      "Thoughtful expression (indicating introspection or analysis)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, urgent text ('HOW THEY THINK'),",
+      "Dramatic posing and props (mask)",
+      "Contrast in emotions and visual storytelling"
+    ],
+    "Brand elements present": "No overt branding or logo within the thumbnail"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s questioning, analytical posture (older woman thinking) and the inclusion of a mask (younger woman holding it)\u2014visually symbolize 'The Mind of a Covert Narcissist' as referenced in the title. The mask directly alludes to the 'covert' or hidden aspect of narcissism. The bold text 'HOW THEY THINK' draws immediate connection to 'Mind' in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No direct mismatches; both the visuals and text support the video\u2019s promised content. The visual emphasis is on the mental process and concealment, closely matching the video title."
+  }
+}

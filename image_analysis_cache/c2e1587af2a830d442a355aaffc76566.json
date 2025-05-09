@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/navy (suit/background)": "40%",
+      "Light blue/gray (background, text box)": "25%",
+      "Beige/tan (wall, set design)": "15%",
+      "Brown (skin tone)": "10%",
+      "White (shirt, wall accent, text)": "10%"
+    },
+    "Composition type": "Medium shot (torso and head of one person are visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Animated, expressive, possibly mid-speech with raised eyebrows and slightly opened mouth (suggests surprise, explanation, or emphasis)",
+      "Demographics": {
+        "Apparent gender": "Male",
+        "Apparent age": "Adult/middle-aged",
+        "Apparent ethnicity": "Not specified"
+      }
+    },
+    "Main objects/props featured": [
+      "Person in a checked dark blue suit and tie",
+      "Set signage with the word 'STEVE' visible"
+    ],
+    "Background environment": "Television studio set; geometric modern design with wood paneling, tiles, and a blue graphic background featuring text"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "ASK",
+      "STEVE",
+      "STEVE HARVEY"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "ASK",
+        "Style": "Bold, sans serif, all caps",
+        "Emphasis": "Strong, modern, shadowed",
+        "Color": "Blue/gray with white backdrop"
+      },
+      {
+        "Text": "STEVE",
+        "Style": "Bold, sans serif, all caps",
+        "Emphasis": "Strong, modern, shadowed",
+        "Color": "Blue/gray with white backdrop"
+      },
+      {
+        "Text": "STEVE HARVEY",
+        "Style": "Sans serif, semi-bold, all caps",
+        "Emphasis": "Subtle, less prominent",
+        "Color": "Gray, semi-transparent overlay"
+      }
+    ],
+    "Text placement within frame": [
+      "Top left quadrant (ASK, STEVE)",
+      "Bottom left (STEVE HARVEY subtitle/logo)"
+    ],
+    "Use of emotional/trigger words": [
+      "ASK"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Light-hearted, energetic, and engaging; the presenter's animated gesture suggests humor or playful confrontation.",
+    "Visual metaphors or symbols": [
+      "Raised hands and expressive face suggest discussion, explanation, or addressing an audience question."
+    ],
+    "Clickbait techniques employed": [
+      "Prominent host personality",
+      "Dramatic mid-gesture pose",
+      "Clear, engaging show title and branding"
+    ],
+    "Brand elements present": [
+      "STEVE HARVEY show logo",
+      "Consistent font and color scheme used for show branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image of the recognizable host in mid-explanation or debate, paired with the clear 'ASK STEVE' branding, reinforces the show's interactive Q&A format that is implied by the title ('Ask Steve'). The host\u2019s expressive gesture suggests he's addressing a wild or provocative subject, matching the comedic and dramatic tone of 'They're Lying, Drunk or Married!'.",
+    "Contrasts or mismatches between thumbnail and title": "The thumbnail is more neutral and focuses on the host\u2019s expression rather than depicting literal references to lying, drunkenness, or marriage. Visuals do not directly show or allude to the specific scenarios in the title; the connection is primarily through the host\u2019s reaction and the show\u2019s format."
+  }
+}

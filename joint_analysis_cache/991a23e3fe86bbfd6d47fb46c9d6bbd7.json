@@ -1,0 +1,11 @@
+{
+  "title": "Dr. K Explains: The Science of Self Control",
+  "thumbnail_path": "thumbnails/dgRSfhoHE4g_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

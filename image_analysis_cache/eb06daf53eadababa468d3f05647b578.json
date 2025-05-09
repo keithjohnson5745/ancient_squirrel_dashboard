@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 45% (background of main text area)",
+      "Pink": "Approximately 20% (top and bottom borders, clinic logo background)",
+      "Light gray": "Approximately 15% (background behind the person)",
+      "Blue": "Approximately 10% (text and logo elements)",
+      "Brown/tan": "Approximately 10% (person's skin/hair)"
+    },
+    "Composition type": "Medium close-up (of a single person, left side) combined with a split-screen style featuring text on the right",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Calm, thoughtful, possibly slightly smiling",
+      "Demographics": "Adult male, appears to be of South Asian descent, wears glasses, black hair"
+    },
+    "Main objects/props featured": [
+      "Man with glasses seated in an office chair"
+    ],
+    "Background environment": "Neutral indoor office/clinic background, leather chair visible, part of a wall; right half has a plain, clean background for text"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Dr Shahs Clinic",
+      "Male Infertility & Sexual Health",
+      "Why does Sperm Come Out in the Urine?",
+      "9 Mins of information you cannot MISS"
+    ],
+    "Font characteristics": {
+      "Clinic name/logo": "Sans-serif, professional, blue (with pink accent icon)",
+      "Subtitle (clinic)": "Sans-serif, italic, pink",
+      "Main question/title": "Serif, bold, black with 'does' in italics and blue for emphasis",
+      "Duration/urgency": "Sans-serif, bold, blue"
+    },
+    "Text placement within frame": {
+      "Top left": "Dr Shahs Clinic logo and subtitle within pink rectangle",
+      "Center right": "Large, bold question text, left aligned",
+      "Bottom right": "'9 Mins of information you cannot MISS', left aligned under main question"
+    },
+    "Use of emotional/trigger words": [
+      "Why",
+      "cannot MISS",
+      "information"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, professional; slight urgency/importance implied (cannot MISS)",
+    "Visual metaphors or symbols": "None explicit; clinic logo uses stylized sperm/medical imagery to reinforce topic",
+    "Clickbait techniques employed": [
+      "Directly addressing taboo/medical mystery ('Why does Sperm Come Out in the Urine?')",
+      "Promise of valuable content in short span ('9 Mins of information you cannot MISS')",
+      "Use of emphasis with color ('does', 'MISS')"
+    ],
+    "Brand elements present": [
+      "Dr Shahs Clinic logo",
+      "Professional subtitle",
+      "Consistent color scheme"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the video title by directly featuring the main question ('Why does Sperm Come Out in the Urine?') as the most prominent text. The presence of a medical professional conveys authority and reassurance, aligning with the educational and explanatory promise in the title.",
+    "Contrasts or mismatches": "No major contrasts or mismatches; both the thumbnail and title target an audience looking for medical answers in a clear, professional, and approachable way. Thumbnail's branding and subject positioning further underline legitimacy."
+  }
+}

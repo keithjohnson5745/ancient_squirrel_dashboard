@@ -1,0 +1,12 @@
+{
+  "title": "I'm 18. If you're 13, 14, 15 or 16 years old, please watch this...",
+  "thumbnail_path": "thumbnails/RX0uI9d02QE_max.jpg",
+  "title_length": 66,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

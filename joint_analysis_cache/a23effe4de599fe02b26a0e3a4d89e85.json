@@ -1,0 +1,13 @@
+{
+  "title": "Child marriage in Nepal: From bride at 14 to young mother | Kids on the Silk Road (5/10)",
+  "thumbnail_path": "thumbnails/LCYtGdMQPMo_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

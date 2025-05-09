@@ -1,0 +1,13 @@
+{
+  "title": "\"pH Reveal: Shocking Truth Behind Johnson's Baby Soap\"",
+  "thumbnail_path": "thumbnails/RnT3XWOKiwg_max.jpg",
+  "title_length": 54,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.5,
+  "clickbait_score": 0.65
+}

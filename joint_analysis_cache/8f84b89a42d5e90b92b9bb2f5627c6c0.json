@@ -1,0 +1,13 @@
+{
+  "title": "Not in the Mood? This Cream Might Blow Your Mind",
+  "thumbnail_path": "thumbnails/JIY_-W18Cqk_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

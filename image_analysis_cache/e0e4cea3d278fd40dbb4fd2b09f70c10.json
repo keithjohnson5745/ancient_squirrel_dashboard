@@ -1,0 +1,171 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Purple",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 45
+      },
+      {
+        "color": "Grey",
+        "percentage": 10
+      },
+      {
+        "color": "Red",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Wide shot (dashboard screenshot with multiple sections and panels visible)",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": "N/A",
+      "demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Various charts (donut chart, bar charts, line chart)",
+      "Finance dashboard panels",
+      "Sidebar with filters (Year, Department, Project Status)",
+      "Statistic widgets (totals, percentages, metrics)",
+      "Brand logo (top-left corner)"
+    ],
+    "Background environment": "Digital/dashboard environment, dominated by clean/flat UI design with high contrast sections"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "OTHER LEVEL'S FINANCE STATUS DASHBOARD",
+      "Last Update 10 Sep 2020, Thursday",
+      "Main Dashboard",
+      "Human Resource",
+      "Status Report",
+      "Year",
+      "2019",
+      "2020",
+      "2021",
+      "Department",
+      "CCP",
+      "E2E",
+      "ICCD",
+      "IMC",
+      "PAN",
+      "SBN",
+      "SSBD",
+      "SSMC",
+      "Project Status",
+      "Cancelled",
+      "Closed",
+      "Current",
+      "Total Project's",
+      "99 PO",
+      "C APEX",
+      "774,111,895",
+      "Lockers",
+      "427,057,284",
+      "Popular",
+      "503,392,307",
+      "Saving",
+      "657,920,172",
+      "15%",
+      "OPEX",
+      "61%",
+      "Current",
+      "57",
+      "Closed",
+      "40",
+      "Canceled",
+      "2",
+      "LOI Issued by Departments",
+      "E2E",
+      "IMC",
+      "SSMC",
+      "SSBD",
+      "ICCD",
+      "PAN",
+      "SBN",
+      "CCP",
+      "Total Targets For September 9,817",
+      "Total Actuals For September 9,113",
+      "GAP -704 -7%",
+      "GAP 1 Bdgt vs SoW 19% -80,415,428",
+      "GAP 2 SoW vs WO 11% -46,538,100",
+      "GAP 3 MOP vs As Built 20% -86,969,084",
+      "GAP 4 As Built vs Invoiced 6% -27,049,456",
+      "68 Total Project's",
+      "558,037,890 Total Budget's",
+      "31 Canceled",
+      "T-Go Approval",
+      "VRE Under Creation",
+      "OPE Serfgd TA Approval",
+      "Pndr Kick Off",
+      "LK Approval Vendor",
+      "Haps vendor",
+      "Response Received",
+      "ASP Evaluation",
+      "Mommercial Negotiation",
+      "Po Approval",
+      "Under CVO Issuance",
+      "Contq Issued",
+      "Copyright @ Other Level's Youtube Channel Any illegal reproduction of this content in any form will result in immediate action against the person concerned.",
+      "Mommercial Negation",
+      "- porttitor congue massa. Fusce posuere",
+      "- malesuada libero, sit amet",
+      "- porttitor congue massa. Fusce posuere",
+      "- malesuada libero, sit amet"
+    ],
+    "Font characteristics": {
+      "style": "Modern sans-serif, clean and digital",
+      "emphasis": [
+        "Bold for section headers and titles",
+        "Mostly standard weight for data labels",
+        "Numbers/statistics slightly larger and bolder",
+        "Color highlights (purple, red, green) for emphasis"
+      ],
+      "color": [
+        "Purple (main headers and highlights)",
+        "Red (important notifications/warnings and some buttons)",
+        "Green (positive percentage for saving)",
+        "Grey/Black (body and data text)"
+      ]
+    },
+    "Text placement within frame": [
+      "Top bar (title, last update)",
+      "Left sidebar (navigation and filters)",
+      "Center panels (main dashboard, charts, stats)",
+      "Bottom bar (copyright disclaimer)",
+      "Various data points distributed according to chart panels"
+    ],
+    "Use of emotional/trigger words": [
+      "Current",
+      "Closed",
+      "Canceled",
+      "Total",
+      "Saving",
+      "GAP",
+      "Budget",
+      "Negation"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, analytical, informative, business-focused",
+    "Visual metaphors or symbols": [
+      "Charts/graphs as symbols of analysis and dynamic data",
+      "Dashboard UI metaphor for control, clarity, and overview"
+    ],
+    "Clickbait techniques employed": [
+      "Complex and visually impressive dashboard to attract viewers interested in data or Excel",
+      "Highlights large numbers and 'saving' percentages",
+      "Use of color (red/green) to drive attention to success/failure metrics"
+    ],
+    "Brand elements present": [
+      "Other Level's logo (top left)",
+      "Copyright notice with channel mention",
+      "Consistent color scheme tied to brand identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The thumbnail directly shows a complex, interactive-looking Excel-style dashboard, visually conveying the 'dynamic & interactive dashboard' described in the title, complete with charts, tables, filters, and KPIs.",
+    "Contrasts/mismatches": "No major contrasts; the thumbnail and the title are well-aligned, giving a clear preview of the tutorial's focus. However, some viewers might expect an actual Excel interface rather than a stylized dashboard, but the dashboard look is appropriate for the topic."
+  }
+}

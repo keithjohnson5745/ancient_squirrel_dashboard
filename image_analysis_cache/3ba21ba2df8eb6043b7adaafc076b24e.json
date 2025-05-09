@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink/magenta": "Approx. 50% (background, diagram highlights, text bars)",
+      "Light blue/cyan": "Approx. 25% (background, clothing)",
+      "White": "Approx. 15% (text, outline, details)",
+      "Beige/tan": "Approx. 7% (skin tone)",
+      "Red": "Approx. 3% (hematoma illustration)"
+    },
+    "Composition type": "Split composition; medium shot of a woman on the right, medical illustration on the left",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Neutral/encouraging slight smile, direct eye contact",
+      "demographics": "Adult woman, fair skin, light brown hair, wearing blue medical scrubs and gold hoop earrings"
+    },
+    "Main objects/props featured": [
+      "Cartoon/medical illustration of a fetus in utero (cross-section of pregnancy)",
+      "Magnifying-glass-style inset showing blood and hematoma",
+      "Text block"
+    ],
+    "Background environment": "Gradient blend from cyan to magenta/pink, non-specific (abstract background with circular/rounded shapes)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "SUBCHORIONIC HEMATOMA",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": "Strong; word 'HEMATOMA' larger and thicker font than 'SUBCHORIONIC'",
+      "Color": "'SUBCHORIONIC' in white on a navy blue background bar; 'HEMATOMA' in white on a magenta/pink background bar"
+    },
+    "Text placement": "Bottom left and center third of the thumbnail, stacked with each word in its own colored block",
+    "Emotional/trigger words": [
+      "HEMATOMA"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring yet urgent/medical; professional and informative",
+    "Visual metaphors or symbols": [
+      "Magnified inset with blood cells - visual metaphor for medical analysis",
+      "Fetus illustration - clear link to pregnancy topic"
+    ],
+    "Clickbait techniques employed": [
+      "Use of a clear, bold medical keyword ('HEMATOMA')",
+      "Bright, contrasting colors to catch the eye",
+      "Close-up of person (engagement/connection)",
+      "Dramatic diagram indicating a medical concern"
+    ],
+    "Brand elements present": "Blue medical scrubs suggest medical professional; no overt channel logo"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the title by visually showing both a fetus in utero (pregnancy) and an inset focusing on a hematoma (blood accumulation), matching the title\u2019s topics of subchorionic hematoma and bleeding in pregnancy. The text on the thumbnail highlights the main medical term, ensuring immediate recognition.",
+    "Contrasts or mismatches": "No significant contrasts or mismatches; all visual and textual elements clearly match the video title and intended content."
+  }
+}

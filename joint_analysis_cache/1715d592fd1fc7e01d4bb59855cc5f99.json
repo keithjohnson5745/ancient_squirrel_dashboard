@@ -1,0 +1,12 @@
+{
+  "title": "Taking the caffeine out of Red Bull so I can drink it at night",
+  "thumbnail_path": "thumbnails/oY8tz1paj6o_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.35
+}

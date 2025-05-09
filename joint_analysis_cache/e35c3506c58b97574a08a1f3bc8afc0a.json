@@ -1,0 +1,13 @@
+{
+  "title": "A Person Who Truly Loves You Will Ask You 4 Questions\u2026 | Jordan Peterson Motivation",
+  "thumbnail_path": "thumbnails/F1RhQx4_3Ig_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

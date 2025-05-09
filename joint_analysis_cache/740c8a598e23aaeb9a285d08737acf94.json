@@ -1,0 +1,13 @@
+{
+  "title": "Apache Iceberg: What It Is and Why Everyone\u2019s Talking About It.",
+  "thumbnail_path": "thumbnails/TsmhRZElPvM_max.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

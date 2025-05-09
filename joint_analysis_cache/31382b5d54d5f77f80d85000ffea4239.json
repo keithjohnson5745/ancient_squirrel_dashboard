@@ -1,0 +1,13 @@
+{
+  "title": "Ep 114 Signs of Early Pregnancy: How Soon Can You Know",
+  "thumbnail_path": "thumbnails/LMKwMK3pqrw_max.jpg",
+  "title_length": 54,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

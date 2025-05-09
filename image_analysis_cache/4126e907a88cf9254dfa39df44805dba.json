@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "approx. 40% (used for Thailand and surrounding land)",
+      "Red": "approx. 35% (used for Cambodia & Laos)",
+      "Blue/Teal": "approx. 15% (bodies of water)",
+      "Black": "approx. 5% (labels and text background)",
+      "White": "approx. 3% (outlines and text highlights)",
+      "Yellow": "approx. 2% (underlines beneath population figures)"
+    },
+    "Composition type": "Wide shot (top-down map view of Southeast Asia region)",
+    "Human presence": "None. No people depicted.",
+    "Main objects/props featured": "Map of Southeast Asia with Thailand, Vietnam, Cambodia, and Laos clearly outlined. Text labels with contrasting backgrounds.",
+    "Background environment": "Satellite-style terrain map with colored overlays to distinguish countries."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\"EMPTY\"",
+      "THAILAND 72M PEOPLE",
+      "VIETNAM 101M PEOPLE",
+      "\"EMPTY\""
+    ],
+    "Font characteristics": {
+      "Style": "Bold, all-uppercase sans-serif",
+      "Emphasis": "High contrast, all caps, thick black backgrounds behind text, except for the word 'EMPTY' which is in quotation marks. Population numbers are underlined with a rough yellow line.",
+      "Color": "White text on black boxes with yellow underline for numbers"
+    },
+    "Text placement within frame": {
+      "\"EMPTY\" (top)": "Centered over Laos",
+      "THAILAND 72M PEOPLE": "Left center, over Thailand",
+      "VIETNAM 101M PEOPLE": "Right center, over Vietnam with slight lower placement",
+      "\"EMPTY\" (bottom)": "Centered over Cambodia"
+    },
+    "Use of emotional/trigger words": [
+      "\"EMPTY\"",
+      "PEOPLE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity-provoking, slightly sensational due to the use of stark contrasts ('EMPTY' vs. large population numbers), with an undertone of surprise or disbelief.",
+    "Visual metaphors or symbols": "Countries shaded in bold, eye-catching red immediately signal something out of the ordinary or a warning; the word 'EMPTY' contrasts dramatically with the large labeled populations of their neighboring countries.",
+    "Clickbait techniques employed": [
+      "Use of dramatic contrasting colors (red for 'empty' countries vs. green for 'full' ones)",
+      "Bold, emotive wording in quotation marks",
+      "Highlighting numbers to provoke shock or curiosity"
+    ],
+    "Brand elements present": "No explicit creator branding is present in the thumbnail."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The title 'Why Cambodia & Laos Are Absurdly Empty' is directly reinforced by labeling these two countries as 'EMPTY' in bold text, while their neighboring countries are clearly marked with very large population numbers. The color scheme instantly distinguishes the focus countries from the others, supporting the video's premise.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches. The thumbnail is directly illustrative of the title\u2014both use the word 'empty,' and both dramatize the emptiness by visual comparison with populous neighbors."
+  }
+}

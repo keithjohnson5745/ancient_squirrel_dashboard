@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Light Skin Tone": "40%",
+      "Black": "20%",
+      "White": "20%",
+      "Yellow": "10%",
+      "Light Blue/Turquoise (razor handle)": "5%",
+      "Lavender (text box)": "5%"
+    },
+    "Composition type": "Close-up shot; left half of canvas is a close-up of one woman's face, right half is text on a plain background.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Neutral, slightly focused/explanatory, looking toward the camera.",
+      "Demographics": "Adult woman, light skin tone, blonde/light brown hair."
+    },
+    "Main objects/props featured": [
+      "Facial razor (turquoise/light blue)",
+      "Person's hand holding razor"
+    ],
+    "Background environment": "Solid light beige color, no identifiable environment (studio/graphic)."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HOW TO",
+      "SHAVE",
+      "YOUR FACE",
+      "ACCORDING TO A DERMATOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif (for 'SHAVE YOUR FACE'); regular sans-serif (for other text).",
+      "Emphasis": "Heavy for 'SHAVE YOUR FACE' (largest, boldest), moderate for other lines.",
+      "Color": {
+        "HOW TO": "Black on yellow highlight",
+        "SHAVE YOUR FACE": "Black on white/beige background",
+        "ACCORDING TO A DERMATOLOGIST": "Black on lavender/purple highlight"
+      }
+    },
+    "Text placement within frame": {
+      "HOW TO": "Top right horizontally, yellow bar",
+      "SHAVE": "Center right",
+      "YOUR FACE": "Directly below 'SHAVE', right",
+      "ACCORDING TO A DERMATOLOGIST": "Bottom right, purple bar"
+    },
+    "Emotional/trigger words": [
+      "SHAVE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, approachable, slightly clinical/professional.",
+    "Visual metaphors or symbols": [
+      "Razor near face visually demonstrates the act of shaving.",
+      "Direct gaze to camera\u2014trust/expertise implied."
+    ],
+    "Clickbait techniques employed": [
+      "Direct demonstration of process",
+      "Promise of expert advice ('According to a dermatologist')",
+      "Bold, simple phrases"
+    ],
+    "Brand elements present": "No explicit brand logo, but style is clean, professional, and dermatology-focused."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The woman holding a razor to her cheek directly demonstrates 'How to Shave Your Face,' matching and emphasizing the instructional theme of the title. The inclusion of 'According to a Dermatologist' in both thumbnail and title highlights the professional authority of the content.",
+    "Any contrasts or mismatches": "There is no apparent mismatch; the thumbnail closely aligns with and supports the title's promise."
+  }
+}

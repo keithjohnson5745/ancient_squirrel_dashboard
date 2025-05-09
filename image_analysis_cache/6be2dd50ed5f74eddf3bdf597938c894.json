@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 60% (background and text sections)",
+      "White": "Approximately 35% (text, shirts, facial highlights)",
+      "Blue": "Approximately 5% (\u2018HUBERMAN LAB\u2019 border and text)"
+    },
+    "Composition type": "Close-up (faces of two men, cropped at shoulders, each occupying roughly half the thumbnail)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Neutral to serious expression, direct gaze at camera",
+        "Right: Gentle smile, direct gaze at camera"
+      ],
+      "Demographics": {
+        "Apparent Gender": "Male",
+        "Apparent Age": "Middle-aged adults"
+      }
+    },
+    "Main objects/props featured": [
+      "Two male faces",
+      "Text overlay with three sections",
+      "'HUBERMAN LAB' boxed logo"
+    ],
+    "Background environment": "Solid black background, no visible environment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "MALE SEXUAL HEALTH",
+      "DR. MICHAEL EISENBERG",
+      "HUBERMAN LAB"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif, all uppercase",
+      "Emphasis": "High contrast, heavy weight for main title; secondary info is slightly smaller but still bold; \u2018HUBERMAN LAB\u2019 in a boxed outline with blue text",
+      "Color": "White for title and guest name; blue for 'HUBERMAN LAB'"
+    },
+    "Text placement within frame": {
+      "Main title": "Center (MALE SEXUAL HEALTH, occupying three lines)",
+      "Speaker's name": "Beneath main title, smaller font",
+      "Channel/brand": "Bottom center, within a blue rectangular outline"
+    },
+    "Use of emotional/trigger words": [
+      "SEXUAL HEALTH"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, professional, direct; slightly positive due to the smiling individual",
+    "Visual metaphors or symbols": "Use of two male faces to visually tie to the topic of male health; stark black-and-white suggests seriousness and authority",
+    "Clickbait techniques employed": [
+      "Direct address of a sensitive/taboo topic ('sexual health'), appeals to curiosity and self-improvement",
+      "High contrast visuals to stand out"
+    ],
+    "Brand elements present": [
+      "\u2018HUBERMAN LAB\u2019 logo",
+      "Consistent channel font and layout style"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The close-up images of two men directly relate to 'male sexual health' in the title. Featuring the guest's name in the text matches the title's mention of Dr. Michael Eisenberg.",
+    "Contrasts or mismatches": "None significant; both the thumbnail and title are factual, direct, and match visually and thematically."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Your Menstrual Cycle Explained",
+  "thumbnail_path": "thumbnails/EHTpdXEy-ew_max.jpg",
+  "title_length": 30,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.3
+}

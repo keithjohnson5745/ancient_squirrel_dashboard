@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark teal/blue": "Approx. 40% (background behind text)",
+      "Light teal/green": "Approx. 25% (pregnant woman's clothing)",
+      "White": "Approx. 15% (bench/couch, text)",
+      "Skin tones": "Approx. 10% (visible person)",
+      "Yellow/gold": "Approx. 5% (text/accent circle)",
+      "Pink": "Approx. 3% (side circle accent)",
+      "Orange": "Approx. 2% (arrow)"
+    },
+    "Composition type": "Medium shot, showing the pregnant woman from the upper thighs to the top of her head, seated sideways, with ample space for text on the right.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral-happy, slight smile, relaxed demeanor",
+      "Demographics": "Apparent adult pregnant woman, light skin tone, brown hair"
+    },
+    "Main objects/props featured": [
+      "Pregnant woman",
+      "Bench or white seat",
+      "Arrow graphic (pointing from text to woman)"
+    ],
+    "Background environment": "Outdoors or stylized natural setting with blurred foliage, enhanced by bold, abstract colored graphic shapes (pink/yellow/blue circles or arcs)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "DON'T SIT LIKE THIS",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": {
+        "DON'T": "Strong emphasis via yellow/gold color",
+        "SIT LIKE THIS": "Emphasized via solid white color"
+      },
+      "Color": "Yellow/gold and white"
+    },
+    "Text placement within frame": "Top right quadrant, arranged in three lines, dominating the right half of the thumbnail",
+    "Use of emotional/trigger words": [
+      "DON'T"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Instructive, cautionary but non-alarming, visually approachable with clear messaging",
+    "Visual metaphors or symbols": [
+      "Pregnant woman\u2019s posture symbolizes the specific mistake to avoid",
+      "Arrow draws attention to the example being criticized"
+    ],
+    "Clickbait techniques employed": [
+      "Use of the word 'DON'T' creates curiosity and urgency",
+      "Direct call-out of a 'wrong' behavior with visual demonstration",
+      "Bright, high-contrast text and shapes to draw eye"
+    ],
+    "Brand elements present": "No explicit logo, but use of bold color shapes and text style could be part of a recognizable channel aesthetic"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail provides a concrete example of one pregnancy mistake alluded to in the title by showing a pregnant woman sitting in a way the text directly warns against. The arrow and instructive text ('DON'T SIT LIKE THIS') clarify that the video will address specific actions to avoid, linking directly to the concept of 'common pregnancy mistakes'.",
+    "Contrasts or mismatches between thumbnail and title": "The thumbnail focuses visually on just one mistake (incorrect sitting posture), while the title promises a list (7 mistakes) that relate to postnatal complications. The thumbnail does not visually reference postnatal complications directly, so the connection relies on the viewer reading the title for broader context."
+  }
+}

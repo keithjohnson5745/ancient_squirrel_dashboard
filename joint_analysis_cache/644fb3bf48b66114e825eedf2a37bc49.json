@@ -1,0 +1,14 @@
+{
+  "title": "My 15th Birthday Gift was Shocking | Heart Touching Scenes | Tales of Life",
+  "thumbnail_path": "thumbnails/Z65JIUFUFak_max.jpg",
+  "title_length": 74,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.8,
+  "clickbait_score": 0.8
+}

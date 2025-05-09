@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/light tan (background and skin tones)": "40%",
+      "White (text and shirt)": "20%",
+      "Purple/blue (text highlight bar)": "15%",
+      "Brown (hair, background blur)": "15%",
+      "Black (eyeglasses, some text outline)": "5%",
+      "Hints of pastel colors/blurs (shelves background)": "5%"
+    },
+    "Composition type": "Medium close-up; the female subject is framed from the chest up, centrally positioned.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, approachable, direct gaze at camera",
+      "demographics_if_apparent": "Adult female, brown hair, light skin, wearing glasses and pearl earring"
+    },
+    "Main objects/props featured": [
+      "Eyeglasses on the woman",
+      "Pale/white blouse/shirt"
+    ],
+    "Background environment": "Indoors, home-like setting with a blurred background featuring shelves and soft, warm lighting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "WHICH LUBE",
+      "IS BEST TO GET PREGNANT?"
+    ],
+    "Font characteristics": {
+      "style": "Bold sans-serif, all uppercase",
+      "emphasis": "Strong, clear, high-contrast lettering; 'WHICH LUBE' is highlighted by a brush-stroke purple/blue background.",
+      "color": "White (main text), purple/blue background bar for top text"
+    },
+    "Text placement within frame": {
+      "Top portion": "'WHICH LUBE' (spans across upper half of image, partially overlays subject's forehead)",
+      "Bottom portion": "'IS BEST TO GET PREGNANT?' (centered, bottom quarter, overlays subject's upper body and lower background)"
+    },
+    "Use of emotional/trigger words": [
+      "BEST",
+      "GET PREGNANT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Warm, welcoming, informative, trustworthy",
+    "Visual metaphors or symbols": "The use of a smiling woman implies friendliness and trust; bold text and brush-stroke underline urgency and importance.",
+    "Clickbait techniques employed": [
+      "Use of an urgent question format",
+      "Highlighting the words 'WHICH' and 'BEST'",
+      "Directly addressing a sensitive, high-interest topic (fertility/trying to conceive)"
+    ],
+    "Brand elements present": "No direct brand logos, but visual consistency in style that may represent a personal or educational channel."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly echoes the video's core question by displaying 'WHICH LUBE IS BEST TO GET PREGNANT?' The subject (smiling woman) also enhances approachability for a topic that may be sensitive.",
+    "Contrasts or mismatches": "No notable mismatches; the thumbnail is fully consistent and highly relevant to the video's title. However, the thumbnail text is a shortened/condensed version of the full video title, focusing only on the main question and omitting references to natural lubes, TTC, and oils."
+  }
+}

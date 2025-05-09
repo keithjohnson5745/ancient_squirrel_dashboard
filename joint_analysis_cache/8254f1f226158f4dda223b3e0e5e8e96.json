@@ -1,0 +1,13 @@
+{
+  "title": "Deva super hits songs @kitchenkilladiestamil",
+  "thumbnail_path": "thumbnails/gD4fYvrHEi4_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

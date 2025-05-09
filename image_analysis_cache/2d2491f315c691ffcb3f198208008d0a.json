@@ -1,0 +1,78 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light Blue": "approx. 60% (background)",
+      "White": "approx. 15% (text boxes, props, badge)",
+      "Pink/Magenta": "approx. 10% (text, accents, icon)",
+      "Black": "approx. 10% (text, woman's hair and outfit)",
+      "Green": "approx. 3% (scarf on woman)",
+      "Beige/skin tone": "approx. 2% (woman\u2019s face and hands)"
+    },
+    "Composition type": "Medium shot (upper half of an adult woman, facing the camera, with surrounding graphic and text elements)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Friendly, slightly smiling, confident",
+      "Demographics": "Adult woman, appears South Asian, formal attire"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test illustration (with positive result, two lines)",
+      "Circular 'Master Classes on Pregnancy' badge"
+    ],
+    "Background environment": "Plain, solid light blue color with no detailed backdrop, keeps focus on text and subject"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "5 TIPS TO GET PREGNANT EASILY",
+      "2.2M+ VIEWS",
+      "MASTER CLASSES ON PREGNANCY",
+      "MAITRI",
+      "SIGN UP NOW IN DESCRIPTION"
+    ],
+    "Font characteristics": {
+      "Main headline": "All uppercase, sans-serif, bold, mix of bright pink for emphasis ('5 TIPS'), black for rest, large font",
+      "Views count": "Bold red and black, sans-serif, all caps, white box background",
+      "Badge": "White on dark pink background, all uppercase, circular format"
+    },
+    "Text placement within frame": {
+      "Headline": "Top left to center, occupying majority of left half",
+      "Views count": "Bottom right, overlaid on white box",
+      "Badge": "Bottom right, partially overlapping subject",
+      "Other": "Small, within circular badge"
+    },
+    "Use of emotional/trigger words": [
+      "TIPS",
+      "EASILY",
+      "2.2M+ VIEWS",
+      "MASTER CLASSES",
+      "SIGN UP NOW"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, friendly, informative, trustworthy",
+    "Visual metaphors or symbols": [
+      "Pregnancy test: symbolizing hope, results, and theme of conception",
+      "Master class badge: authority, professionalism"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('5 Tips')",
+      "Promise of ease/simple solution ('EASILY')",
+      "Highlighting high popularity ('2.2M+ VIEWS')",
+      "Bright, attention-grabbing colors"
+    ],
+    "Brand elements present": [
+      "Maitri logo and badge",
+      "Recurring visual color scheme likely associated with the brand"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail repeats exact key phrase from the title ('5 Tips to Get Pregnant Easily'), providing instant clarity on the video topic.",
+      "Woman shown may represent Dr. Anjali Kumar (named in title), suggesting expert authority.",
+      "Pregnancy test visual immediately signals video content about conception."
+    ],
+    "Contrasts or mismatches": [
+      "No major mismatches; explicit alignment between words, visuals, and intended topic.",
+      "Title includes Dr. Anjali Kumar and Maitri, while the thumbnail visually presents a woman who is likely Dr. Anjali Kumar and visually references Maitri via logo badge."
+    ]
+  }
+}

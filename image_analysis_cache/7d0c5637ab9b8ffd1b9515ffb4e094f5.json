@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "name": "Skin tones",
+        "percentage": "40%"
+      },
+      {
+        "name": "Brown (hair, furniture, wood ceiling)",
+        "percentage": "25%"
+      },
+      {
+        "name": "Yellow (text background)",
+        "percentage": "10%"
+      },
+      {
+        "name": "Black (clothing, some interior elements)",
+        "percentage": "10%"
+      },
+      {
+        "name": "Muted white/cream (walls, text color)",
+        "percentage": "8%"
+      },
+      {
+        "name": "Pink (text highlight)",
+        "percentage": "5%"
+      },
+      {
+        "name": "Blue/teal (outside window)",
+        "percentage": "2%"
+      }
+    ],
+    "Composition type": "Close-up (group close-up selfie shot)",
+    "Human presence": {
+      "number_of_people": 3,
+      "expressions": "All three are smiling, appearing happy and relaxed",
+      "demographics": "Appears to be two women and one man, all adults, light skin tones"
+    },
+    "Main objects/props featured": [
+      "The three people in the foreground"
+    ],
+    "Background environment": "Casual indoor setting, possibly a caf\u00e9 or restaurant with visible windows, wooden walls/ceiling, some light fixtures, and framed picture on the wall"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "LIFE AS A THROUPLE",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Yellow font for 'LIFE AS A', pink font for 'THROUPLE' with drop shadow for depth",
+      "color": "Yellow for 'LIFE AS A', Pink for 'THROUPLE', both on a light yellow background box"
+    },
+    "Text placement": "Lower portion of the frame, centered horizontally, slightly angled upwards",
+    "Use of emotional/trigger words": [
+      "LIFE",
+      "THROUPLE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Upbeat, inclusive, positive, inviting and curious",
+    "Visual metaphors or symbols": "Smiling faces as symbols of happiness/normalcy; close grouping implies intimacy, togetherness, and unity.",
+    "Clickbait techniques employed": [
+      "Bright/bold colored text, attention-grabbing font",
+      "Unique relationship structure mentioned ('Throuple')",
+      "Happy expressions to spark curiosity about lifestyle"
+    ],
+    "Brand elements present": "No overt brand logo or watermark, but uses popular YouTube thumbnail design language"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the title by visually representing a 'throuple' (three people, close together, smiling), mirroring the video's promise to explore polyamorous life.",
+    "Contrasts or mismatches": "No significant contrasts or mismatches; the image and text are both cohesive and consistent with the title's message."
+  }
+}

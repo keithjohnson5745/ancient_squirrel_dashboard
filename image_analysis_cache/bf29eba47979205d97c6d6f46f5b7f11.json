@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Cream/Beige (skin tones/clothing)": "50%",
+      "White (background, text box)": "20%",
+      "Black (hair, text, clothing trim, gua sha tool)": "10%",
+      "Red/Pink (cheeks, irritated skin)": "10%",
+      "Silver/grey (metal gua sha tool, ice cubes)": "5%",
+      "Green (stone gua sha tool)": "5%"
+    },
+    "Composition type": "Medium close-up (two faces presented side-by-side, focus on facial expressions and demonstration)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Neutral, slightly smiling, actively demonstrating gua sha on face.",
+        "Right: Thoughtful/critical, hand on chin in a 'thinking' pose."
+      ],
+      "Demographics (apparent)": [
+        "Left: Young woman with light complexion, dark hair.",
+        "Right: Middle-aged woman with medium complexion, dark hair."
+      ]
+    },
+    "Main objects/props featured": [
+      "Metal gua sha tool (being held to face on the left)",
+      "Green stone gua sha tool (bottom right)",
+      "Glass of ice with gua sha tool (top left background)",
+      "Red, irritated skin (top right background, indicative of improper gua sha use)"
+    ],
+    "Background environment": "Simple white background for clear focus on foreground subjects and objects; minimal visual clutter."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "DON'T MAKE THESE COMMON GUA SHA MISTAKES",
+    "Font characteristics": {
+      "Style": "Bold sans-serif, all-caps.",
+      "Emphasis": "Very strong, due to boldness, capitalization, and white/black color contrast.",
+      "Color": "Black text on white background."
+    },
+    "Text placement within frame": "Centrally placed at the bottom, running across both people, partially overlays both figures.",
+    "Use of emotional/trigger words": [
+      "DON'T",
+      "MISTAKES",
+      "COMMON"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary and corrective, urgency to avoid mistakes, educational.",
+    "Visual metaphors or symbols": [
+      "Red, irritated skin = negative consequence.",
+      "Different gua sha tools = demonstration of proper vs improper technique or tools."
+    ],
+    "Clickbait techniques employed": [
+      "Warning language ('DON'T', 'MISTAKES')",
+      "Juxtaposition of proper technique (left) vs negative effect (right, red skin)",
+      "Celebrity presence (implied by the title)"
+    ],
+    "Brand elements present": "No overt brand logos, but implied expertise via the acupuncturist and possibly visual recognition of the person on the left."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title by showing a celebrity figure attempting gua sha (potentially making a mistake), an expert's evaluating expression, and a clear, dramatic image of skin irritation \u2014 matching the idea of 'fixing mistakes' as described in the title.",
+    "Contrasts or mismatches": "No significant mismatch; the thumbnail closely aligns with the title. The visual narrative makes the corrective/educational aspect clear, and the presence of both a recognizable subject (the left figure) and an 'expert' adds credibility and intrigue."
+  }
+}

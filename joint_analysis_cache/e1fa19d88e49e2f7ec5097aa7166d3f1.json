@@ -1,0 +1,13 @@
+{
+  "title": "Lidocaine for Vulvodynia, Pudendal Neuralgia, etc.",
+  "thumbnail_path": "thumbnails/DMtLO_twqhE_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

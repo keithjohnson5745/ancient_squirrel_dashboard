@@ -1,0 +1,12 @@
+{
+  "title": "Is This Drink Better Than VIAGRA? (Get Hard & Boost Heart Health) \ud83d\ude80",
+  "thumbnail_path": "thumbnails/jHONNKRcXA8_high.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

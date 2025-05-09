@@ -1,0 +1,13 @@
+{
+  "title": "I Tried Homemade Rubik's Cube Lube",
+  "thumbnail_path": "thumbnails/TA3lIe08Kd0_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "name": "Light pink",
+        "percentage": 50
+      },
+      {
+        "name": "White",
+        "percentage": 15
+      },
+      {
+        "name": "Burgundy/dark red (shirt)",
+        "percentage": 15
+      },
+      {
+        "name": "Black (hair, text)",
+        "percentage": 10
+      },
+      {
+        "name": "Orange/coral (pants)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot (upper body of a single woman, slightly off-center to the right)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, confident, approachable",
+      "demographics": "Adult female, light skin, dark hair"
+    },
+    "Main objects/props": [
+      "Anatomical pelvic model (held by the woman)",
+      "Earbuds (in woman's ears)"
+    ],
+    "Background environment": "Stylized with a bright pink gradient, circular patterns and dots on the left, transitioning to a white wall/floor on the right"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "6 STRATEGIES TO EASILY PUSH AND BREATHE OUT YOUR BABY",
+    "Font characteristics": {
+      "Style": "Bold sans-serif, uppercase",
+      "Emphasis": [
+        {
+          "words": "6 STRATEGIES",
+          "features": "White font, bolder and larger, drop shadow for contrast"
+        },
+        {
+          "words": "TO EASILY PUSH AND BREATHE OUT YOUR BABY",
+          "features": "Black font, still bold, slightly smaller but prominent"
+        }
+      ],
+      "Color": "White for headline, black for supporting text"
+    },
+    "Text placement": "Left half of frame, vertically centered; headline at top left, subhead fills most of left side",
+    "Emotional/trigger words": [
+      "EASILY",
+      "PUSH",
+      "BREATHE",
+      "YOUR BABY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, positive, supportive, practical",
+    "Visual metaphors or symbols": [
+      "Pelvic model as a symbol of childbirth education/medical expertise",
+      "Woman\u2019s confident posture and smile to create trust and positivity"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('6 STRATEGIES') for actionable content",
+      "Promise of ease and effectiveness ('EASILY PUSH')",
+      "Direct address with 'YOUR BABY' to create personal relevance",
+      "Bright colors and bold fonts to attract the eye"
+    ],
+    "Brand elements present": "No explicit logos or consistent brand marks identified; style could be signature if part of a series"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail uses direct language matching the video's instructional title ('push' and 'breathe' prominent in both)",
+      "Pelvic model visually supports the educational angle promised in the title ('breathing techniques for labor' and 'vaginal birth tips')",
+      "Presenter\u2019s welcoming expression underscores the supportive, guidance-oriented topic"
+    ],
+    "Contrasts or mismatches": [
+      "Title uses '6 vaginal birth tips'; the thumbnail says '6 STRATEGIES', which is essentially a match but wording differs slightly",
+      "Thumbnail focuses strongly on simplicity/ease, whereas title also mentions breathing specifically; breathing is highlighted in thumbnail text, but not visually illustrated"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Wicked Aqua Flavored Lube",
+  "thumbnail_path": "thumbnails/KWx2ZzSLLqQ_max.jpg",
+  "title_length": 25,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

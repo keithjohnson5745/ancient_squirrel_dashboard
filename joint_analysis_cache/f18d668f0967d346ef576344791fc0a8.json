@@ -1,0 +1,13 @@
+{
+  "title": "\u0915\u093f\u0924\u0928\u093e \u092c\u0922\u093c\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0939\u093e@\u0925  \u0938\u0947 \u092e\u091c\u0947 \u0932\u0947 \u0915\u0947 \u0964 @EKTAUNIQUE",
+  "thumbnail_path": "thumbnails/GYMlkCzrrxs_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

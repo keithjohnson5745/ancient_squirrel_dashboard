@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 40% (text background, left side)",
+      "Gray/Silver": "Approximately 20% (hair color, eyeliner pencil)",
+      "Skin tones": "Approximately 20% (face, hands)",
+      "Black": "Approximately 10% (clothing, eyeliner pencil tip, some text)",
+      "Red": "Approximately 5% (nail polish, lips)",
+      "Other minor colors": "Pale pink/peach (makeup, lips)"
+    },
+    "Composition type": "Close-up shot (shows head, shoulders, and one hand in detail)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral but focused, with mouth slightly parted and direct eye contact with the viewer",
+      "Demographics": "Apparent mature woman with light skin and gray/silver hair"
+    },
+    "Main objects/props featured": [
+      "Eyeliner pencil (held near the eye, showing application technique)",
+      "Person's hand with red nail polish (demonstrating application)"
+    ],
+    "Background environment": "Plain, minimal background (white/neutral), no detailed environmental context"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "THE SNEAKY EYELINER TRICK FOR MATURE WOMEN",
+    "Font characteristics": {
+      "Style": "Bold sans-serif, all-uppercase letters",
+      "Emphasis": "Very strong emphasis through weight and size",
+      "Color": "Black text on a white background"
+    },
+    "Text placement within frame": "Left side of the image, vertically stacked and center-aligned to fill the space",
+    "Use of emotional/trigger words": [
+      "SNEAKY",
+      "TRICK",
+      "MATURE WOMEN"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Empowering and informative, with a sense of insider knowledge or special technique for a targeted audience",
+    "Visual metaphors or symbols": "The eyeliner being applied directly illustrates the topic (\u2018trick\u2019), the gray hair represents the 'mature women' demographic",
+    "Clickbait techniques employed": [
+      "Use of the word 'sneaky' to suggest a secret or hack",
+      "Direct address to a specific audience ('mature women')",
+      "Close-up of makeup application for practical demonstration"
+    ],
+    "Brand elements present": "Eyeliner pencil shows branding (blurry but may say 'Nikol Beauty'), the creator\u2019s recognizable looks may also be a personal brand element"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually mirrors the title by explicitly showing a mature woman applying eyeliner in a seemingly special way, reinforcing both the 'eyeliner trick' and the 'mature women' focus; emotion and technique are both evident.",
+    "Contrasts or mismatches": "No significant contrast or mismatch; the visual and text are highly aligned and targeted toward the same demographic and tutorial focus."
+  }
+}

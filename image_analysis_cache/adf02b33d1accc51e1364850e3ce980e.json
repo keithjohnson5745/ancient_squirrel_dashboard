@@ -1,0 +1,78 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pastel pink/lavender background": "approx. 50%",
+      "Bright magenta (SEX text)": "approx. 20%",
+      "Black (FIRST TIME text)": "approx. 7%",
+      "Yellow (20 MILLION VIEWS! text)": "approx. 10%",
+      "Skin tones and brown/black hair (person)": "approx. 13%"
+    },
+    "Composition type": "Medium close-up. Single person takes up right side, large text on left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Pensive, thoughtful, or slightly skeptical (raised eyebrows, pursed lips, hand under chin)",
+      "Demographics": "Apparent adult woman, medium skin; no other demographics evident"
+    },
+    "Main objects/props featured": "No props visible; person is the subject.",
+    "Background environment": "Soft, pastel swirling gradient of pinks, purples, and blues; abstract and non-specific."
+  },
+  "2. TEXT ELEMENTS": {
+    "All text visible": [
+      "FIRST TIME",
+      "SEX",
+      "(HINDI)",
+      "20 MILLION VIEWS!",
+      "+"
+    ],
+    "Font characteristics": {
+      "FIRST TIME": {
+        "Style": "Bold, sans-serif, all caps",
+        "Color": "Black",
+        "Emphasis": "High, strong visual weight"
+      },
+      "SEX": {
+        "Style": "Very large, bold, sans-serif, all caps",
+        "Color": "Bright pink/magenta with cyan shadow",
+        "Emphasis": "Extremely high, most eye-catching element"
+      },
+      "(HINDI)": {
+        "Style": "Bold, sans-serif, all caps",
+        "Color": "White with cyan outline",
+        "Emphasis": "Medium"
+      },
+      "20 MILLION VIEWS!": {
+        "Style": "Bold, sans-serif, all caps with drop shadow",
+        "Color": "Yellow with black outline",
+        "Emphasis": "High"
+      },
+      "+": {
+        "Style": "Simple, sans-serif",
+        "Color": "White with yellow outline",
+        "Emphasis": "Low"
+      }
+    },
+    "Text placement within frame": {
+      "FIRST TIME SEX (HINDI)": "Top left and center, occupying most of the left half",
+      "20 MILLION VIEWS! +": "Bottom left, stacked and prominent"
+    },
+    "Use of emotional/trigger words": [
+      "SEX",
+      "FIRST TIME",
+      "20 MILLION VIEWS!"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, inviting, slightly serious but open; not sensationalized, but engaging.",
+    "Visual metaphors or symbols": "No explicit metaphors, but the pastel swirls and thoughtful facial expression suggest sensitivity and approachability.",
+    "Clickbait techniques employed": [
+      "Using a bold word ('SEX') in large print to draw immediate attention",
+      "Highlighting high view count to signal popularity and credibility",
+      "'First Time' phrase implies personal or relatable storytelling"
+    ],
+    "Brand elements present": "No explicit logos, but the presence and style of the host may be recognizable for regular viewers."
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly mirrors the title with the identical large text 'FIRST TIME SEX (HINDI)' and an image of the presenter, suggesting a personal, informational or explanatory video. The '20 MILLION VIEWS!' further reinforces the implied importance and popularity of the topic.",
+    "Contrasts or mismatches": "No clear mismatch. Both title and thumbnail are direct, bold, and leave little room for ambiguity. Both emphasize the subject (sex education/first time sex talk in Hindi) and the success of the video."
+  }
+}

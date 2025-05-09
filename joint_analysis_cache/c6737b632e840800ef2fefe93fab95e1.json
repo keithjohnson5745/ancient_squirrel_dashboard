@@ -1,0 +1,12 @@
+{
+  "title": "Cannabis: A Lost History (FULL DOCUMENTARY)",
+  "thumbnail_path": "thumbnails/X2p6qFT_Zjg_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "Approx. 60% (background and text banner)",
+      "Dark blue/teal": "Approx. 30% (central background panel and text color)",
+      "Monochrome/sepiatone": "Approx. 10% (portraits are grayscale or muted tones)"
+    },
+    "Composition type": "Medium shot (portraits of two people from the waist/chest up, facing camera)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both people are smiling, conveying friendliness and approachability.",
+      "Demographics": "Both appear to be women; one is likely middle-aged with curly dark hair, the other is a younger adult with straight long dark hair."
+    },
+    "Main objects/props featured": "No props present, focus is on the two people and the text.",
+    "Background environment": "Plain, stylized background with textures; no detailed environment shown. A soft, lightly speckled blue pattern is used."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "With Dr. Laurie Mintz",
+      "Sex Tips That Every Man Should Learn"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, geometric sans-serif.",
+      "Emphasis": "Main headline (Sex Tips That Every Man Should Learn) is largest and most prominent, featured in a centered lower-third arc/curve.",
+      "Color": "Text is a dark blue/teal against a lighter blue background for high contrast."
+    },
+    "Text placement within frame": {
+      "Top center": "With Dr. Laurie Mintz",
+      "Center/lower third": "Sex Tips That Every Man Should Learn"
+    },
+    "Use of emotional/trigger words": [
+      "Sex Tips",
+      "Every Man",
+      "Should Learn"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, educational, and encouraging. Smiling faces signal positivity, safety, and expertise.",
+    "Visual metaphors or symbols": "None overt; focus is on direct communication and authority (the headshot of a credentialed expert).",
+    "Clickbait techniques employed": [
+      "Directly addressing a specific audience: 'Every Man'",
+      "Promise of actionable value: 'Tips' and 'Should Learn'",
+      "Prominence of expert endorsement (with name and photo of Dr. Laurie Mintz)"
+    ],
+    "Brand elements present": "No overt brand logos, but the inclusion of a named expert functions as a brand/reputation element."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail repeats and visually highlights the main promise of the video ('Sex Tips That Every Man Should Learn'). The presence of a smiling expert, her name included, reinforces credibility and trust, aligning with the educational angle of the title ('how to pleasure your partner to orgasm'), even if the word 'orgasm' is not repeated in the image.",
+    "Any contrasts or mismatches between thumbnail and title": "Mild tone-down: the thumbnail avoids explicit words such as 'orgasm' (used in the title). The visual is warm and professional, avoiding sensational or explicit imagery, which positions the video as informative rather than provocative."
+  }
+}

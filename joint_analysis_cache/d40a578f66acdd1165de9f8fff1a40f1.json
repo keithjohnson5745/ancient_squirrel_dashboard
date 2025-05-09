@@ -1,0 +1,13 @@
+{
+  "title": "Why Cambodia & Laos Are Absurdly Empty",
+  "thumbnail_path": "thumbnails/ES1KMDHEUFM_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

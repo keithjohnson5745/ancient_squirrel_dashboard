@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "Approximately 40% (background, gradient from red to black)",
+      "Black": "Approximately 25% (lower and right edges, shadows around figure)",
+      "Green": "Approximately 20% (glowing lenses of goggles, stippled effect on subject)",
+      "Yellow/Orange": "Approximately 10% (helmet highlights, light reflections)",
+      "White": "Approximately 5% (text, minor accenting)"
+    },
+    "Composition type": "Close-up (shows upper torso and head of one figure, focused tightly on goggles)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Not visible (face is fully obscured by goggles and helmet)",
+      "Demographics": "Not apparent; character is wearing tactical/military gear (goggles and helmet) so identity details are concealed"
+    },
+    "Main objects/props featured": [
+      "Quad-tube night vision goggles (prominently glowing green)",
+      "Tactical helmet worn by the figure"
+    ],
+    "Background environment": "Solid-to-gradient, graphic background fading from deep red at the base to black at top, stylized/abstract with no environmental details"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "gpnvg.",
+    "Font characteristics": {
+      "Style": "Bold sans-serif",
+      "Emphasis": "Heavy, all lowercase, white color for high contrast",
+      "Color": "White with subtle shadowing",
+      "Other": "Period at end for emphasis/finality"
+    },
+    "Text placement within frame": "Left side, roughly center-vertical, horizontally spanning about a third of the frame",
+    "Use of emotional/trigger words": [
+      "None explicitly; text is factual/acronymic, relies on curiosity about the term 'gpnvg.'"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Mysterious, dramatic, high-tech",
+    "Visual metaphors or symbols": [
+      "Glowing green goggles symbolize advanced/elite technology and maybe secrecy",
+      "Red-and-black gradient evokes danger, urgency, or intensity"
+    ],
+    "Clickbait techniques employed": [
+      "Extreme close-up of a high-tech object (drives curiosity)",
+      "Obscured identity of person (adds mystery and intrigue)",
+      "Bright, unnatural glow from goggles (attention-grabbing)",
+      "Short, cryptic text ('gpnvg.') prompting curiosity and search intent"
+    ],
+    "Brand elements present": "No clear brand logos or channel marks visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "Strong connection; the thumbnail centers on the exact object referenced in the title ('goggles'), their unique four-tube design and vivid green glow visually explain why these goggles might be 'everywhere'. The abbreviation 'gpnvg.' matches the subject matter and supports the inquiry-based title.",
+    "Contrasts or mismatches": "No major contrasts; the image, text, and title are cohesive, combining tech intrigue and viral/conspicuous presence alluded to in the title."
+  }
+}

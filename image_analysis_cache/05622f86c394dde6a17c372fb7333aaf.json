@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 40% (doctor\u2019s coat, wall)",
+      "Blue": "Approximately 25% (screen header, logo, tie, sperm image highlights)",
+      "Black": "Approximately 15% (text, screen background for sperm image)",
+      "Beige/Pale green": "Approximately 15% (background wall color)",
+      "Other (skin tone, objects, etc.)": "Approximately 5%"
+    },
+    "Composition type": "Medium shot (waist-up view of person next to a large presentation screen)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, professional, slight focus or explanation gesture",
+      "demographics": "Adult male, likely Caucasian, wearing a white medical coat (doctor or medical professional)"
+    },
+    "Main objects/props featured": [
+      "Large wall-mounted flat screen presenting medical slide",
+      "Laser pointer or remote in the person\u2019s hand",
+      "Doctor\u2019s white coat",
+      "Medical illustration of a sperm cell"
+    ],
+    "Background environment": "Clinical, professional, most likely a hospital or clinic conference room/classroom"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "The Sperm Test",
+      "\u2022 Semen Analysis:",
+      "\u2022 Volume of ejaculate",
+      "\u2022 Sperm concentration in millions per milliliter",
+      "\u2022 Sperm motility, fast swimmers and twitchers",
+      "\u2022 Sperm morphology",
+      "   (shape of heads, necks and tails)"
+    ],
+    "Font characteristics": {
+      "style": "Sans-serif, clean and legible",
+      "emphasis": "Titles are bold and larger size; bullet points are smaller, regular weight",
+      "color": "White or light gray (title); black (body text); blue (slide header background)"
+    },
+    "Text placement within frame": "All text is within the screen/presentation area, occupying the upper right two-thirds of the thumbnail. Logo 'U' in lower right corner.",
+    "Use of emotional/trigger words": [
+      "Sperm",
+      "Ejaculate",
+      "Motility",
+      "Morphology"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, clinical, informative, objective",
+    "Visual metaphors or symbols": "Sperm cell illustration represents fertility and men\u2019s health; white coat signals medical authority",
+    "Clickbait techniques employed": "Minimal to none; focus is on clear presentation and authority rather than sensationalism",
+    "Brand elements present": [
+      "UCLA \u2018U\u2019 logo at bottom right",
+      "Professional medical attire"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The presence of a medical professional presenting a slide titled 'The Sperm Test', alongside clear references to sperm count and related analysis, directly reinforces the video\u2019s topic on improving fertility in men with poor sperm count. The clinical setting and explicit sperm-related imagery support the seriousness and expertise implied in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The visual tone matches the educational and medical nature of the video title."
+  }
+}

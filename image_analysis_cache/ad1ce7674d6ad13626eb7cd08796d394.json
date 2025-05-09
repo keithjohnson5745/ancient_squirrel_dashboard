@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black",
+        "percentage": 30
+      },
+      {
+        "color": "White",
+        "percentage": 25
+      },
+      {
+        "color": "Blue (water, background)",
+        "percentage": 20
+      },
+      {
+        "color": "Red (arrow, blood suggestion)",
+        "percentage": 10
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      },
+      {
+        "color": "Grey (wetsuit)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Split frame (left and right) with medium to close-up shots of a woman and orca",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": [
+        {
+          "side": "left",
+          "expression": "Calm, content, affectionate (eyes closed, smiling slightly)"
+        },
+        {
+          "side": "right",
+          "expression": "Distressed, scared, mouth open in possible scream or shock"
+        }
+      ],
+      "demographics": "Young woman, light skin, dark hair"
+    },
+    "Main objects/props featured": [
+      "Orca (killer whale)",
+      "Human in wetsuit",
+      "Red arrow (graphic element)"
+    ],
+    "Background environment": [
+      "Aquarium/pool setting",
+      "Blurred audience/people in the background",
+      "Water (on right side), blue and aqua tones dominant"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "None within the thumbnail image",
+    "Font characteristics": "N/A (no visible text present)",
+    "Text placement": "N/A",
+    "Emotional/trigger words": "Not directly in the thumbnail, but potentially suggested visually (see clickbait techniques)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Contrasting emotions: tenderness and serenity (left), fear and panic (right). The shift suggests danger, tragedy, or shocking developments.",
+    "Visual metaphors or symbols": [
+      "Red arrow: transition or cause-and-effect, indicating a dramatic change.",
+      "Hug vs. struggle: symbolizes betrayal, danger beneath apparent trust."
+    ],
+    "Clickbait techniques": [
+      "Dramatic visual contrast",
+      "Use of shock/fear imagery (distressed face, possible blood)",
+      "Split-screen 'before and after' effect",
+      "Prominent, attention-grabbing graphic arrow"
+    ],
+    "Brand elements present": "No explicit brand logos; wetsuit logo partially visible."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforces_title": "Yes, the thumbnail visualizes the 'terrifying last moments' by pairing an affectionate interaction (left) with a traumatic, dangerous moment (right), matching the narrative of a drastic shift in events implied by the title.",
+    "Contrasts_or_mismatches": "No significant mismatch. Both the emotional shift and the hint of danger/fatal event visually support the video's given title."
+  }
+}

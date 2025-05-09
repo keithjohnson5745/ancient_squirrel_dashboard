@@ -1,0 +1,13 @@
+{
+  "title": "Will \"Graphite\" Help Motor Oil Performance? Let's find out! Vintage Arco Graphite vs Quaker State",
+  "thumbnail_path": "thumbnails/aqz5330Srdc_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "approximately 60% (background)",
+      "Yellow": "approximately 15% (large portion of headline text)",
+      "Cyan/Light Blue": "approximately 10% (secondary headline text)",
+      "Red": "approximately 5% (the large numeral '6')",
+      "White": "approximately 5% (supporting text)",
+      "Skin tones, Pink, and Blue": "approximately 5% (visible in the woman\u2019s clothing and skin, and small border of sari)"
+    },
+    "Composition type": "Medium shot (shows upper body of a woman next to prominent text)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Neutral to inviting, direct eye contact, makeup accentuating eyes and lips",
+      "demographics": "Adult female, likely South Asian, wearing traditional Indian attire (sari and red bindi/sindoor, indicative of a married woman)"
+    },
+    "Main objects/props featured": [
+      "Woman in a pink sari with blue border and red bindi",
+      "Large bold Hindi text"
+    ],
+    "Background environment": "Solid black background, high contrast for text and subject"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (exact transcription)": "\u092e\u0930\u094d\u0926 \u0915\u094b \u0936\u093e\u0926\u0940\u0936\u0941\u0926\u093e \u0914\u0930\u0924 \u0906\u0901\u0916\u094b\u0902 \u0938\u0947 \u092f\u0939 6 \u0907\u0936\u093e\u0930\u093e \u0915\u0930\u0947\u0902 \u0938\u092e\u091d \u091c\u093e\u090f \u0935\u0939 \u0939\u0935\u0938 \u0915\u0947 \u0932\u093f\u090f \u092d\u0942\u0916\u0940",
+    "Font characteristics": {
+      "Style": "Sans serif, very bold and blocky",
+      "Emphasis": "Contrasting colors and sizes for emotional appeal. '6' in bright red, larger than other text.",
+      "Color": "Yellow, cyan/light blue, white, and red",
+      "Text placement": "Covers most of the left and center portion of the image; large, clear, filling space to maximize attention. The number '6' is especially prominent."
+    },
+    "Use of emotional/trigger words": [
+      "\u0939\u0935\u0938 (desire/lust)",
+      "\u092d\u0942\u0916\u0940 (hungry)",
+      "\u0936\u093e\u0926\u0940\u0936\u0941\u0926\u093e (married)",
+      "\u0907\u0936\u093e\u0930\u093e (signal/hint)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sensational, provocative, curiosity-triggering, slightly taboo",
+    "Visual metaphors or symbols": [
+      "A married woman with revealing attire suggesting openness, sexuality, or signaling",
+      "Large red '6' suggests urgency and listicle/step count format"
+    ],
+    "Clickbait techniques employed": [
+      "Use of numbers in a list format ('6 signals')",
+      "Sexual and taboo subject matter",
+      "Sensational language ('\u0939\u0935\u0938 \u0915\u0947 \u0932\u093f\u090f \u092d\u0942\u0916\u0940'/'hungry for lust')",
+      "Provocative imagery"
+    ],
+    "Brand elements present": "No explicit branding, but visual style is typical of Hindi-language relationship or sensational psychology channels"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail directly visualizes the title\u2019s theme: a traditionally 'married' woman (mangalsutra, bindi, saree) posing in a manner designed to appear alluring or suggestive, which aligns with the title\u2019s promise of decoding 'signals' of desire.",
+    "Contrasts or mismatches": "No major mismatch, but the overtly sexual visual and highlighted words may exaggerate or sensationalize the actual video content versus the more nuanced implications of the psychological topic."
+  }
+}

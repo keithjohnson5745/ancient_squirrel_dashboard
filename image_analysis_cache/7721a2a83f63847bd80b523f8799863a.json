@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "30% (banner background, question mark)",
+      "White": "30% (text backgrounds, text)",
+      "Blue": "10% (text)",
+      "Black": "15% (text, outlines)",
+      "Skin tones": "10% (face and hand of the woman)",
+      "Beige/Tan": "5% (background, clothing)"
+    },
+    "Composition type": "Medium close-up shot (woman from shoulders up, main text and graphics)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Concerned, empathetic, informative",
+      "demographics": "Adult female, fair skin, blonde hair, direct eye contact (likely the content creator or host)"
+    },
+    "Main objects/props featured": [
+      "Large pink question mark",
+      "Text blocks",
+      "Female presenter"
+    ],
+    "Background environment": "Indistinct, neutral blur with beige tones, likely indoors, focus is on the presenter and text"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "PREGNANCY LOSS",
+      "chemical vs clinical? what is it? what should you know?",
+      "What is a chemical pregnancy?"
+    ],
+    "Font characteristics": [
+      {
+        "text": "PREGNANCY LOSS",
+        "style": "Bold, all caps, sans-serif",
+        "emphasis": "High (prominent, largest text, eye-catching)",
+        "color": "White on hot pink background"
+      },
+      {
+        "text": "chemical vs clinical? what is it? what should you know?",
+        "style": "Bold, mixed case, sans-serif",
+        "emphasis": "Medium",
+        "color": "Blue on white background"
+      },
+      {
+        "text": "What is a chemical pregnancy?",
+        "style": "Bold, mixed case, sans-serif",
+        "emphasis": "High (large font size at bottom of thumbnail)",
+        "color": "Black on white"
+      }
+    ],
+    "Text placement": [
+      "Top left: PREGNANCY LOSS",
+      "Middle left: chemical vs clinical? what is it? what should you know?",
+      "Center: Large pink question mark as a visual anchor",
+      "Bottom: What is a chemical pregnancy?"
+    ],
+    "Use of emotional/trigger words": [
+      "LOSS",
+      "chemical vs clinical",
+      "what should you know",
+      "pregnancy"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, caring, informative; slight urgency and empathy conveyed by presenter\u2019s expression and bold text.",
+    "Visual metaphors or symbols": [
+      "Large question mark representing uncertainty or common questions around the topic."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text with questions",
+      "Use of contrasting colors for high visibility",
+      "Direct address of viewer concerns ('what should you know?')",
+      "Prominent question mark to signal answers inside video"
+    ],
+    "Brand elements present": [
+      "None overt (no logos or recognizable branding), but consistent use of presenter and palette may be a channel trademark."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail directly supports the title with the phrases 'PREGNANCY LOSS', 'chemical vs clinical?', and 'What is a chemical pregnancy?'\u2014all elements in the video title.",
+      "The question mark highlights the theme of inquiry and explanation."
+    ],
+    "Contrasts or mismatches": [
+      "No major contrasts: the image, text, and emotional tone of the thumbnail are all aligned with the video title and topic.",
+      "No graphic depictions of pregnancy (e.g., ultrasound, test), keeping the visual tone neutral and focused on education."
+    ]
+  }
+}

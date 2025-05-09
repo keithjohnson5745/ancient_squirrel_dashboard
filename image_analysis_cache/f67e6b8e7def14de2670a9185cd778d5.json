@@ -1,0 +1,92 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 45% (background, text areas)",
+      "Pink": "Approximately 20% (header circle, emphasis text, borders, logo)",
+      "Black": "Approximately 15% (text, character outlines)",
+      "Blue": "Approximately 15% (woman's outfit on right, yoga mat illustration)",
+      "Beige/Tan": "Approximately 5% (skin tone of illustrated and photographed woman)"
+    },
+    "Composition type": "Split composition with a medium shot of a real woman (right), a medium cartoon illustration (center-right), and large text area (left).",
+    "Human presence": {
+      "Real people": 1,
+      "Expression": "Smiling, approachable (real woman, likely Dr. Anjali Kumar)",
+      "Demographics": "Adult woman, South Asian appearance (from context and clothing)",
+      "Illustrated people": 1,
+      "Expression (illustration)": "Neutral/thoughtful, pregnant woman"
+    },
+    "Main objects/props featured": [
+      "Photograph of a woman (likely the gynecologist)",
+      "Cartoon illustration of a pregnant woman sitting on a yoga mat",
+      "Text blocks",
+      "Pink circular icon (with '12' in it)",
+      "Master Classes logo badge (bottom-right)"
+    ],
+    "Background environment": "Plain light background, possibly with subtle texture; text and illustrated graphics dominate."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "12",
+      "Embarrassing Questions",
+      "A PREGNANT WOMAN",
+      "wants to ask a gynaecologist!",
+      "What can I eat to make my baby intelligent?",
+      "Is vaginal discharge normal?",
+      "No desire for sex. Is it normal?",
+      "100K+ VIEWS",
+      "MASTER CLASSES ON PREGNANCY",
+      "MAITRI",
+      "SIGN UP NOW - LINK IN DESCRIPTION"
+    ],
+    "Font characteristics": {
+      "Main headline": "Bold sans-serif (black and bright pink), heavy emphasis on 'A PREGNANT WOMAN' (all caps, pink)",
+      "Supporting text": "Clean sans-serif, regular weight (black)",
+      "Questions": "Simple sans-serif, black, smaller",
+      "Circular number": "Bold sans-serif, white on pink background",
+      "Views badge": "Bold sans-serif, red text on white with red outline",
+      "Logotype": "Clean sans-serif, white on red (badge)"
+    },
+    "Text placement": {
+      "Main headline and body": "Left half of thumbnail in a boxed area",
+      "Questions": "Above cartoon woman's head (center-right)",
+      "100K+ VIEWS": "Bottom center/right in a white rounded rectangle",
+      "Masterclasses badge": "Bottom right overlay"
+    },
+    "Use of emotional/trigger words": [
+      "Embarrassing",
+      "Questions",
+      "PREGNANT WOMAN",
+      "100K+ VIEWS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, trustworthy, inviting, slightly playful (due to illustrated character and empathetic text). A mix of curiosity and reassurance.",
+    "Visual metaphors or symbols": [
+      "Illustrated pregnant woman: Represents the target audience \u2014 pregnant women with concerns.",
+      "Speech bubbles/questions: Symbolize internal thoughts/questions pregnant women may have.",
+      "Pink number '12': Emphasizes the 'list' or 'countdown' aspect, driving curiosity."
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('12 Embarrassing Questions')",
+      "Emotional/admission wording ('Embarrassing', 'wants to ask')",
+      "Large view count badge ('100K+ VIEWS') to demonstrate popularity/trust",
+      "Speech bubble teaser questions raise curiosity and relatability"
+    ],
+    "Brand elements present": [
+      "Dr. Anjali Kumar (presents expert/authority figure visually)",
+      "Maitri Master Classes logo (bottom right, repeated branding)",
+      "Consistent use of pink/white/blue color palette"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail repeats the \u201812 Embarrassing Questions' theme from the title in bold text.",
+      "Visuals include both a pregnant woman (cartoon) and a gynecologist/expert, matching the video\u2019s premise.",
+      "Speech bubbles list specific example questions alluded to in the title."
+    ],
+    "Contrasts or mismatches": [
+      "Both thumbnail and title strongly align; no major mismatch. Thumbnail may appear slightly more playful due to illustration, while the title is strictly informative.",
+      "The thumbnail uses slightly softer, friendlier visuals than the clinical tone a title might suggest, but this likely increases approachability."
+    ]
+  }
+}

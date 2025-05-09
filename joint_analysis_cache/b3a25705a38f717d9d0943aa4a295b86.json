@@ -1,0 +1,13 @@
+{
+  "title": "\u091a\u0930\u092e\u0938\u0941\u0916 \u0915\u093e \u0930\u093e\u0938\u094d\u0924\u093e \u0915\u094c\u0928-\u0938\u093e \u0939\u0948 || In Hindi || Dr. Neha Mehta",
+  "thumbnail_path": "thumbnails/7u-hbCEq0Kw_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

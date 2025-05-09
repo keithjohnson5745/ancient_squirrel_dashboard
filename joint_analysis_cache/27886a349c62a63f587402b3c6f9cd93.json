@@ -1,0 +1,13 @@
+{
+  "title": "What You Should Eat to Boost Your Fertility // What Not to Eat // Fertility Foods",
+  "thumbnail_path": "thumbnails/4ydIkE7o3gg_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

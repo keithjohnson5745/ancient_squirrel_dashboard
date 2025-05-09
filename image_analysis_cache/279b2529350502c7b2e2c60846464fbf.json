@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Red": "Approx. 60% (background, text boxes)",
+      "Yellow": "Approx. 15% (main text, highlight in 'views')",
+      "White": "Approx. 10% (text, outline on people)",
+      "Black": "Approx. 10% (clothing, microphone, hair, text in 'views')",
+      "Other colors": "Approx. 5% (skin tones, background photo, blue in label at bottom)"
+    },
+    "Composition Type": "Medium shot (two main people in foreground) + faded background image (intimate couple, wide shot)",
+    "Human Presence": {
+      "Number of People": 4,
+      "Foreground": [
+        {
+          "Expression": "Neutral/Attentive",
+          "Demographics": "Young man (left), adult woman (right), both South Asian appearance"
+        }
+      ],
+      "Background": [
+        {
+          "Expression": "Woman: neutral, arms around man; Man: neutral/relaxed",
+          "Demographics": "Young couple, partially clothed, intimate pose"
+        }
+      ]
+    },
+    "Main Objects/Props Featured": [
+      "Microphone (used by woman, indicates podcast/interview)",
+      "Background photo of couple in intimate setting"
+    ],
+    "Background Environment": "Solid red with faded image of a couple in an intimate pose on a bed"
+  },
+  "TEXT ELEMENTS": {
+    "Visible Text": [
+      "\u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0901 \u0926\u0942\u0938\u0930\u094b\u0902 \u0915\u094b \u0915\u094d\u092f\u094b\u0902 \u0926\u0947\u0924\u0940 \u0939\u0948",
+      "2.6Millions+ views",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST",
+      "REAL TALK Podcast"
+    ],
+    "Font Characteristics": {
+      "Main Text (Hindi)": "Bold sans-serif, white & yellow, high contrast with shadow, some words in yellow for emphasis",
+      "Views": "Bold sans-serif, yellow and white, on red",
+      "Podcast Branding": "Small, simple sans-serif",
+      "Name/Title": "Bold, sans-serif, white on blue background, subtitle red on white"
+    },
+    "Text Placement": {
+      "Main Hindi Text": "Center top (largest element), partially overlapping people",
+      "'Views' Box": "Bottom left",
+      "Name Plate": "Bottom center",
+      "Podcast/RT Logo": "Top right corner"
+    },
+    "Emotional/Trigger Words": [
+      "\u0915\u094d\u092f\u094b\u0902 \u0926\u0947\u0924\u0940 \u0939\u0948 (Why do they give...)",
+      "2.6Millions+ views (large number implies popularity/shock/value)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Intriguing, slightly provocative, conversational, hints at relationship advice or secrets",
+    "Visual Metaphors/Symbols": [
+      "Intimate couple in background: symbolizes relationship/attraction themes"
+    ],
+    "Clickbait Techniques": [
+      "Large numbers (2.6Million+ views)",
+      "Provocative/question-based phrasing",
+      "Highlighting expert presence (Dr. Neha Mehta)",
+      "Emphasizing potential taboo or curiosity"
+    ],
+    "Brand Elements Present": [
+      "RT Real Talk Podcast logo",
+      "Dr. Neha Mehta name/title"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement": "The thumbnail supports the title by showing a man and an expert discussing a topic, with a provocative background image (intimate couple) that aligns with a theme likely to attract male viewers, matching the title's direct appeal to boys.",
+    "Contrasts/Mismatches": "The thumbnail text references '\u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0901 \u0926\u0942\u0938\u0930\u094b\u0902 \u0915\u094b \u0915\u094d\u092f\u094b\u0902 \u0926\u0947\u0924\u0940 \u0939\u0948' (Why do girls give it to others?), which is more provocative than the relatively generic and advisory tone of the video title ('\u0932\u0921\u093c\u0915\u0947 \u091c\u0930\u0942\u0930 \u0926\u0947\u0916 \u0932\u094b - \u0915\u093e\u092e \u0906\u0910\u0917\u0940' / 'Boys must watch\u2014this will be useful'). The background image makes the overall theme more explicit/controversial than the more ambiguous title."
+  }
+}

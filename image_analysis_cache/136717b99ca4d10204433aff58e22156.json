@@ -1,0 +1,53 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/off-white (walls and background)": "40%",
+      "Black (clothing, eyeglass frames)": "30%",
+      "Skin tones (person's face/arms)": "20%",
+      "Red (text background)": "5%",
+      "Blue/gray (minor details, inner shirt or reflection)": "5%"
+    },
+    "Composition type": "Medium close-up shot, centered",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slightly serious or focused expression; looking directly at the camera, implying engagement or direct address to the viewer",
+      "Demographics": "Adult woman, likely middle aged, light complexion, dark hair, wearing glasses, fitness attire"
+    },
+    "Main objects/props featured": [
+      "Eyeglasses",
+      "Black sports bra/tank top",
+      "Bathroom/vanity setting"
+    ],
+    "Background environment": "Indoor home bathroom or vanity area with neutral walls, white door, and typical overhead lighting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Aging is normal, suffering is normal."
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, simple, modern",
+      "Emphasis": "Bold white text on a solid red rounded rectangle background yields high contrast for emphasis",
+      "Color": "White text on red background"
+    },
+    "Text placement within frame": "Horizontal, centered just below the chest/torso area dominating the lower midsection of the frame",
+    "Use of emotional/trigger words": [
+      "Aging",
+      "Normal",
+      "Suffering"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, empathetic, direct; acknowledges discomfort but normalizes it",
+    "Visual metaphors or symbols": "The real, unposed appearance (visible midsection, activewear, no glamour) symbolizes honesty and authenticity about aging/menopause",
+    "Clickbait techniques employed": [
+      "Personal direct gaze (creates connection/engagement)",
+      "Contrasting, bold text (draws instant attention)",
+      "Emotionally charged language (addressing normalcy of difficult experiences)"
+    ],
+    "Brand elements present": "No explicit logo or channel name visible; focus is entirely on message and relatable imagery"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The visual of a woman who appears to be middle-aged, unfiltered and candid, directly connects to the topic of perimenopause/menopause/post-menopause. The affirming message about aging and suffering being normal underlines the empathetic, advice-giving tone suggested by the '3 tips' in the title.",
+    "Contrasts or mismatches": "The thumbnail does not reference the '3 tips' aspect directly (no numbered list, tips, or bullet points visible), focusing instead on emotional validation rather than actionable information. This could create curiosity or a gap, prompting viewers to click to learn more."
+  }
+}

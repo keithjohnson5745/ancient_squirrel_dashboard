@@ -1,0 +1,104 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Deep maroon/red",
+        "percentage": 35
+      },
+      {
+        "color": "Violet/purple",
+        "percentage": 25
+      },
+      {
+        "color": "Yellow",
+        "percentage": 20
+      },
+      {
+        "color": "White",
+        "percentage": 10
+      },
+      {
+        "color": "Dark green (bottom bar)",
+        "percentage": 5
+      },
+      {
+        "color": "Orange (top border)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (one visible person, torso and head visible, positioned on right side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral or slight smile",
+      "demographics": "Appears to be an adult Indian woman, professional appearance"
+    },
+    "Main objects/props": [
+      "Woman in white coat (doctor or professional attire)",
+      "Text overlays (main element)"
+    ],
+    "Background environment": "Solid color gradient background transitioning from deep maroon/red on the left to violet/purple on the right; no specific physical location depicted"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Lube \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932",
+      "\u0915\u094d\u092f\u094b\u0902 \u0914\u0930 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCOLOGIST"
+    ],
+    "Font characteristics": [
+      {
+        "section": "Main Hindi/English Title",
+        "style": "Bold, sans-serif",
+        "emphasis": "Very high (large size, vibrant yellow and white against dark background)",
+        "color": "Yellow (top line), White (bottom line)"
+      },
+      {
+        "section": "Name Tag",
+        "style": "Bold, all caps for name",
+        "emphasis": "High (contrasting white on gray rectangle)",
+        "color": "White text on gray background, red highlight for role"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "Lube \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932",
+        "placement": "Upper left, taking majority width"
+      },
+      {
+        "text": "\u0915\u094d\u092f\u094b\u0902 \u0914\u0930 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902?",
+        "placement": "Center left, under top line, large size"
+      },
+      {
+        "text": "Dr. Neha Mehta COUSULTANT PSYCOLOGIST",
+        "placement": "Bottom right, overlaid on image of the woman"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "\u0915\u094d\u092f\u094b\u0902 \u0914\u0930 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902?"
+    ],
+    "Analysis": "These words suggest problem-solving and information \u2014 appealing to curiosity and practical need. 'Lube' is a direct term relating to the main topic, potentially triggering attention due to its sensitive nature."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, approachable, and credible. Not sensationalized or comedic.",
+    "Visual metaphors or symbols": "White coat symbolizes medical/psychological authority and trust; the use of large, bold text adds clarity and directness.",
+    "Clickbait techniques employed": [
+      "Use of a sensitive/curious topic ('Lube') in the title and text.",
+      "Questions asked directly in the text ('\u0915\u094d\u092f\u094b\u0902 \u0914\u0930 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902?') to provoke curiosity.",
+      "Presence of expert figure (doctor) enhances trust and perceived value."
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta (expert branding through name/role)",
+      "Consistent formatting style (professional design, clear fonts, distinctive colors)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "Thumbnail directly matches the title by repeating the main terms and focus in both English and Hindi.",
+      "Featuring an expert adds credibility and reinforces the educational/medical angle promised in the title."
+    ],
+    "Contrasts or mismatches": [
+      "No clear contrasts or mismatches; both are consistent in tone and topic.",
+      "The thumbnail omits any visual representation of lube, focusing only on text/expert, which may limit immediate visual association for some viewers."
+    ]
+  }
+}

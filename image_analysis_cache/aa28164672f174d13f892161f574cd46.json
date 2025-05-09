@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Muted Blue (background)": "\u224860%",
+      "Bright Yellow (text)": "\u224820%",
+      "Brown/Blonde (hair)": "\u224810%",
+      "Multicolored Pastels (clothing: blue, pink, green)": "\u22485%",
+      "Natural skin tones": "\u22485%"
+    },
+    "Composition type": "Medium close-up (focuses on the head and upper torso)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to pleasant; direct eye contact, gentle smile",
+      "Demographics (if apparent)": "Mature woman, possibly in her 50s, medium to dark skin tone, curly blonde-brown hair"
+    },
+    "Main objects/props featured": "Makeup (focus on eyes/eyeliner), colorful robe or blouse, cross necklace",
+    "Background environment": "Solid muted blue color, digitally added, no discernible background features"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "BEST EYELINER HACK FOR WOMEN 50+",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All caps, high contrast",
+      "Color": "White for 'BEST', bright yellow-green for remaining text"
+    },
+    "Text placement": "Left two-thirds of the frame, stacked vertically. Each word or phrase occupies a separate line, very prominent and easy to scan.",
+    "Use of emotional/trigger words": [
+      "BEST",
+      "HACK",
+      "FOR WOMEN 50+"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Empowering, helpful, confident, approachable",
+    "Visual metaphors or symbols": "Well-groomed, attractive older woman symbolizes effective results. Bright, clean text suggests clarity and simplicity.",
+    "Clickbait techniques employed": [
+      "SUPERLATIVE ('BEST')",
+      "Promises secret/shortcut ('HACK')",
+      "Strong targeting/niche appeal ('FOR WOMEN 50+')"
+    ],
+    "Brand elements present": "No explicit brand logo, but distinctive color palette and photographic style could be a brand signature."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail visually spotlights an older woman with immaculate eyeliner, underlining the video\u2019s focus on eyeliner techniques for mature and hooded eyes. The bold text and explicit '50+' directly echo the title\u2019s targeting of mature viewers.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches. Both thumbnail and title sync in their messaging and visual cues, emphasizing maturity, expertise, and inclusivity for women over 50."
+  }
+}

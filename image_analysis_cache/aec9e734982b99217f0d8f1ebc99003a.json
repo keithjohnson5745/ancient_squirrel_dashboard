@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 60% (background, hat, clothing)",
+      "White": "Approximately 25% (text, border, shirt)",
+      "Red": "Approximately 10% (highlighted text box)",
+      "Skin tone": "Approximately 5% (face and hand of subject)"
+    },
+    "Composition type": "Medium close-up shot of a single person facing the camera with upper torso and head visible.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slight, confident smile with direct eye contact.",
+      "Demographics": "Adult male, likely middle-aged, light to medium skin tone, appears to be a professional (wearing medical cap and mask)."
+    },
+    "Main objects/props featured": [
+      "Person (presumed plastic surgeon)",
+      "Black medical cap",
+      "White surgical mask (hanging around the neck)",
+      "Raised hand with index finger pointing upward"
+    ],
+    "Background environment": "Solid black with a partial white outline border around the person; no additional setting or environmental details visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "KaramMD SKIN SCHOOL",
+      "8",
+      "NON SURGICAL TREATMENTS I RECOMMEND",
+      "AS A FACIAL PLASTIC SURGEON"
+    ],
+    "Font characteristics": {
+      "Style": "All-caps sans-serif fonts used throughout; bold for emphasis.",
+      "Emphasis": "Red background with white bold letters for 'NON SURGICAL', bold white for 'TREATMENTS I RECOMMEND', small white text with black background for 'AS A FACIAL PLASTIC SURGEON'.",
+      "Color": "Primarily white, with key phrase 'NON SURGICAL' in white text on a red background."
+    },
+    "Text placement within frame": {
+      "Top right": "KaramMD SKIN SCHOOL",
+      "Upper center": "8",
+      "Center right": "'NON SURGICAL' and 'TREATMENTS I RECOMMEND'",
+      "Below central text": "'AS A FACIAL PLASTIC SURGEON' in smaller font"
+    },
+    "Use of emotional/trigger words": [
+      "NON SURGICAL"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, trustworthy, confident and inviting.",
+    "Visual metaphors or symbols": [
+      "Doctor's attire and gesture underline authority and expertise.",
+      "Pointing hand directs viewer focus to the main topic/text."
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('8') for actionable advice",
+      "Bold, highlighted keywords ('NON SURGICAL')",
+      "Authority bias (featuring medical professional with credentials indicated)"
+    ],
+    "Brand elements present": [
+      "KaramMD",
+      "SKIN SCHOOL"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The direct presentation of the doctor/expert, combined with the exact phrasing 'NON SURGICAL TREATMENTS I RECOMMEND', directly echoes the promise of the video title and emphasizes expertise. The use of the number '8' visually calls out the format (list of treatments) stated in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong congruence between thumbnail and title. Both focus on non-surgical treatments and reinforce the authority of the presenter. The only minor difference is that the thumbnail says 'TREATMENTS I RECOMMEND' versus the title's 'that actually work,' but the implication of expertise and efficacy is maintained."
+  }
+}

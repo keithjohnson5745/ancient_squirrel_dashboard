@@ -1,0 +1,49 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 60% (background)",
+      "Green": "Approximately 15% (text)",
+      "White": "Approximately 15% (text)",
+      "Skin tones/Beige": "Approximately 7% (face/arms of person)",
+      "Gray/Blond": "Approximately 3% (hair of person)"
+    },
+    "Composition type": "Medium close-up (person\u2019s shoulders and face occupy right half of the image)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, positive, approachable",
+      "Demographics": "Adult woman, light skin, blond hair"
+    },
+    "Main objects/props featured": [
+      "Human (woman)",
+      "Large, bold text"
+    ],
+    "Background environment": "Solid black background (no visible environmental context)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "\"FILL MY TWO HOLES\"",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "VERY high, uses uppercase and quotation marks",
+      "Color": "Green ('FILL MY TWO'), White ('HOLES')"
+    },
+    "Text placement within frame": "Left two-thirds of frame, vertically centered and stacked; occupies majority of the left side with very high visibility",
+    "Use of emotional/trigger words": [
+      "FILL",
+      "TWO HOLES"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Surprised, amused, potentially sensational/controversial",
+    "Visual metaphors or symbols": "Text phrase uses innuendo/double entendre as a form of clickbait, contrasting with wholesome appearance of the person",
+    "Clickbait techniques employed": [
+      "Double entendre/ambiguity",
+      "Bold, oversized text with shocking phrasing",
+      "Juxtaposition of sensational text and friendly visual"
+    ],
+    "Brand elements present": "No overt branding or logos visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail uses a bold and attention-grabbing (somewhat provocative) phrase in large text, paired with the image of a friendly-looking neighbor, which reinforces the surprise and curiosity suggested in the title ('unexpected kindness' and 'you won't believe what happened').",
+    "Any contrasts or mismatches between thumbnail and title": "The text\u2019s innuendo and suggestive ambiguity creates an initial misleading impression, while the video title centers on kindness, implying the story is ultimately wholesome. This contrast is likely intentional to maximize clicks via curiosity and surprise."
+  }
+}

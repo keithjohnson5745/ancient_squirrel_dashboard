@@ -1,0 +1,13 @@
+{
+  "title": "Can You Use Lubricant While TTC?",
+  "thumbnail_path": "thumbnails/fTa_kNQRl6s_max.jpg",
+  "title_length": 32,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "title": "GLOVES OFF: Obama official deals Trump MAJOR HUMILIATION",
+  "thumbnail_path": "thumbnails/TzYr4yOnY8Y_high.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

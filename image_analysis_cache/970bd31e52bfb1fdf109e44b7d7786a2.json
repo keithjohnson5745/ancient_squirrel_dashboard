@@ -1,0 +1,83 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black",
+        "percentage": 60
+      },
+      {
+        "color": "White",
+        "percentage": 35
+      },
+      {
+        "color": "Light Blue (in HUBERMAN LAB logo)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Close-up (two faces in portrait orientation occupying left and right thirds of the frame, with text center)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        {
+          "left": "Serious, neutral expression, bearded male"
+        },
+        {
+          "right": "Smiling, positive expression, female"
+        }
+      ],
+      "demographics_if_apparent": [
+        {
+          "left": "Adult male, light skin, dark hair/beard"
+        },
+        {
+          "right": "Adult female, light skin, blonde hair"
+        }
+      ]
+    },
+    "Main objects/props featured": "Faces of two people (male and female), necklace visible on female subject",
+    "Background environment": "Plain black background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FEMALE HORMONES & FERTILITY",
+      "DR. NATALIE CRAWFORD",
+      "HUBERMAN LAB"
+    ],
+    "Font characteristics": [
+      {
+        "text": "FEMALE HORMONES & FERTILITY, DR. NATALIE CRAWFORD",
+        "style": "Bold, sans-serif, all caps",
+        "emphasis": "Strong, high contrast",
+        "color": "White"
+      },
+      {
+        "text": "HUBERMAN LAB",
+        "style": "Condensed sans-serif, all caps, outlined",
+        "emphasis": "Blue font with black fill, blue border",
+        "color": "Blue/Black"
+      }
+    ],
+    "Text placement within frame": [
+      "Center (main title just right of center), subtitle underneath, channel brand ('HUBERMAN LAB') at the bottom center"
+    ],
+    "Use of emotional/trigger words": [
+      "FEMALE",
+      "HORMONES",
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Balanced, authoritative, engaging; slight warmth from female smile offsets more serious male expression",
+    "Visual metaphors or symbols": "Juxtaposition of male and female faces to underline gender/health themes, black-white contrast denotes seriousness/professionalism",
+    "Clickbait techniques employed": [
+      "High-contrast close-up faces (draws attention)",
+      "Large, bold text highlighting key topic/keywords",
+      "Leading with impactful, direct words"
+    ],
+    "Brand elements present": "HUBERMAN LAB logo in signature blue and style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The subjects (male and female) and centered focus on words 'FEMALE HORMONES & FERTILITY' directly support the title, which names Dr. Natalie Crawford and focuses on hormone health and fertility. The authority and expertise theme is reinforced by professional and minimalistic design.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a small contrast: while the title specifically features Dr. Natalie Crawford, both a male and female are shown with equal prominence, which may cause momentary confusion. However, the overall message and focus remain consistent\u2014female health and fertility topics."
+  }
+}

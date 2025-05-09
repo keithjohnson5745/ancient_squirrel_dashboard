@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "30%",
+      "Blue": "40%",
+      "Yellow (text/accent)": "10%",
+      "White (text and clothing)": "15%",
+      "Dark green (bottom bar)": "5%"
+    },
+    "Composition type": "Medium shot (person from waist up) with full screen text overlay",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slight smile, direct eye contact with camera",
+      "demographics": "Adult female, dark straight hair, likely Indian"
+    },
+    "Main objects/props featured": [
+      "A woman in a white coat",
+      "Text in bold letters"
+    ],
+    "Background environment": "Split gradient with left side in deep red and right side in blue; plain, no specific setting or scenery visible"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0909\u0902\u0917\u0932\u093f\u092f\u093e\u0902 \u0918\u0941\u092e\u093e\u090f\u0902",
+      "\u091a\u093e\u0901\u0926 \u0924\u0915 \u0932\u0947 \u091c\u093e\u090f\u0902",
+      "Dr. Neha Mehta",
+      "CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "style": "Blocky, sans-serif for Hindi; sans-serif for English",
+      "emphasis": "Bold, drop-shadow for visibility, uppercase for English",
+      "color": "Hindi text: yellow and white with black/grey outline; English name: white on blue background; 'PSYCHOLOGIST': white on red bar"
+    },
+    "Text placement": {
+      "Hindi main text": "Centered, occupying most of the upper and middle frame",
+      "English text": "Bottom right, in a rectangle",
+      "Name": "Along bottom right, aligned above the profession title"
+    },
+    "Use of emotional/trigger words": [
+      "\u091c\u093e\u0926\u0942 (magic, from video title)",
+      "\u091a\u093e\u0901\u0926 \u0924\u0915 \u0932\u0947 \u091c\u093e\u090f\u0902 (take you to the moon, metaphorical, aspirational)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inspirational, motivational, confident, and approachable",
+    "Visual metaphors or symbols": [
+      "Moon (\u091a\u093e\u0901\u0926) as a metaphor for achieving something extraordinary/high potential",
+      "Gesturing with fingers (implied in text)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, exaggerated claim ('take you to the moon')",
+      "Use of 'magic' or 'miracle'-like phrasing in relation to fingers",
+      "Professional appearance (doctor in coat) for trustworthiness"
+    ],
+    "Brand elements present": [
+      "Name: Dr. Neha Mehta",
+      "Professional title: Consultant Psychologist",
+      "Consistent font/style likely seen across channel"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail text mirrors and expands on the video title ('\u0909\u0902\u0917\u0932\u093f\u092f\u093e\u0902 \u0918\u0941\u092e\u093e\u090f\u0902, \u091a\u093e\u0901\u0926 \u0924\u0915 \u0932\u0947 \u091c\u093e\u090f\u0902' echoes '\u091c\u093e\u0928\u093f\u090f \u0909\u0902\u0917\u0932\u093f\u092f\u094b\u0902 \u0915\u093e \u091c\u093e\u0926\u0942'), reinforcing the 'magic of fingers' and potential for extraordinary outcomes. Dr. Neha Mehta\u2019s presence in a white coat supports the authority and psychological expertise suggested.",
+    "Contrasts or mismatches": "The thumbnail visually aligns closely with the title, both focusing on the 'magic' or potential of fingers. There is no notable mismatch; rather, the visual doubles down on the intrigue and promise hinted at in the title."
+  }
+}

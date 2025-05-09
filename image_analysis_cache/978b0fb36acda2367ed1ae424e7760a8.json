@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White (background)": "40%",
+      "Black (outlines, text, hair, clothing)": "25%",
+      "Red (text and shorts)": "10%",
+      "Brown (hair)": "10%",
+      "Blue (clothing, suit, jeans)": "7%",
+      "Orange (shirt)": "3%",
+      "Green (grass, shirt)": "2%",
+      "Other (accents: yellow, pink - flowers etc.)": "3%"
+    },
+    "Composition type": "Medium shot (side profile of a woman looking at a group of six men, all visible from waist up)",
+    "Human presence": {
+      "Number of people": 7,
+      "Expressions": "Cartoon/drawn style, neutral or slightly inquisitive/detached expressions, difficult to infer exact emotions due to stylization",
+      "Demographics": "Mixed group of men (varied hair color/styles, facial hair, skin tones, clothing styles denoting different 'types'); one central woman (brown hair in ponytail, earring), depicted from behind/side profile"
+    },
+    "Main objects/props featured": [
+      "Drawn characters (one woman, six men of varying styles/types)",
+      "Grass/flowers (foreground, bottom of image)"
+    ],
+    "Background environment": "Cartoon style, mostly white/blank with a strip of green grass and pink flowers at the base. Outdoor setting implied."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "HOW BIRTH CONTROL CHANGES WHO YOU'RE ATTRACTED TO",
+      "by DR. SARAH HILL"
+    ],
+    "Font characteristics": {
+      "Style": "Handwritten/sketch style, casual, friendly, varying thickness",
+      "Emphasis": {
+        "Words emphasized": [
+          "CHANGES",
+          "ATTRACTED"
+        ],
+        "Emphasis method": "Red color for emphasized words, larger font size"
+      },
+      "Color": "Mainly black, with key words in bright red",
+      "Text placement within frame": "Left side for text (vertically stacked); 'by Dr. Sarah Hill' at the bottom left corner"
+    },
+    "Use of emotional/trigger words": [
+      "CHANGES"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity-provoking, slightly playful due to cartoon style but addresses a significant, potentially personal topic",
+    "Visual metaphors or symbols": [
+      "Woman choosing or assessing among a diverse group of men \u2014 metaphor for mate selection/attraction",
+      "Variation in men's styles (professional, athletic, casual, etc.) symbolizes the concept of changing attraction 'types'"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large, emotionally-charged words ('CHANGES')",
+      "Strongly contrasts 'before' and 'after' implications",
+      "Implied promise to reveal surprising or important personal consequences"
+    ],
+    "Brand elements present": [
+      "Dr. Sarah Hill featured by name (personal branding)",
+      "Consistent sketch style, possibly a signature thumbnail look"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual of a woman evaluating a group of differently-styled men directly ties into the theme of 'who you're attracted to.' Use of the word 'CHANGES' in red, along with the varied presentation of men, visually reinforces the idea that birth control can alter attraction preferences \u2014 pivoting perfectly off the title's promise to explore 'Your Brain on Birth Control.'",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail accurately matches the title; both address the change in attraction linked to birth control. The cartoon tone is slightly lighter and more playful than the scientific/medical expectation the title may imply, but this likely serves to make the topic more approachable."
+  }
+}

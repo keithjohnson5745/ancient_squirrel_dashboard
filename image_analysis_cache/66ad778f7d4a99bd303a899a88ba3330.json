@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "35% (warning tape in background)",
+      "Black": "25% (warning tape text, doctor's shirt, text background)",
+      "Red": "15% (headline text, words 'OLDER', some accents on cap)",
+      "White": "15% (outlines, word balloon, text)",
+      "Purple/Blue": "5% (doctor\u2019s surgical cap)",
+      "Skin tones": "5% (doctor\u2019s face and hands)"
+    },
+    "Composition type": "Medium close-up of a single person, centrally framed",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Man appears surprised/alarmed, mouth open, eyes wide",
+      "Demographics": "Adult male, possibly middle-aged"
+    },
+    "Main objects/props featured": [
+      "Person wearing a scrub top and a patterned surgical cap",
+      "Hands raised in a defensive/warning gesture",
+      "Yellow warning tape with 'WARNING' written repeatedly"
+    ],
+    "Background environment": "Blurred out, dominated by the crisscrossing yellow 'WARNING' tape; otherwise nondescript"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "URGENT",
+      "WARNING!",
+      "YOU WILL LOOK OLDER"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase for all words except 'will'",
+      "Emphasis": [
+        "'URGENT', 'WARNING!', and 'OLDER' are in red and larger size",
+        "'YOU', 'WILL', 'LOOK' in black, with 'WILL' in italics"
+      ],
+      "Color": "Red for urgent/trigger words, black for additional text"
+    },
+    "Text placement within frame": {
+      "Top": "\"URGENT WARNING!\" in a thick black bar spanning the top",
+      "Bottom/right": "\"YOU WILL LOOK OLDER\" inside a white speech balloon, lower right side with a black outline"
+    },
+    "Use of emotional/trigger words": [
+      "URGENT",
+      "WARNING",
+      "WILL",
+      "OLDER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, alarming, cautionary, attention-grabbing",
+    "Visual metaphors or symbols": [
+      "Yellow warning tape symbolizes danger/caution",
+      "Raised hands reinforce the message of warning/stop"
+    ],
+    "Clickbait techniques employed": [
+      "Use of urgent and alarming words ('URGENT', 'WARNING!')",
+      "Highlighted consequences ('YOU WILL LOOK OLDER!')",
+      "Dramatic facial expression and body language",
+      "High contrast, bold colors to draw attention"
+    ],
+    "Brand elements present": [
+      "Presenter may be recognizable as a medical professional (surgical cap, scrubs), but no explicit logo or channel name visible"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s urgent and cautionary tone directly aligns with the warning in the title about facial procedures making you appear older. The use of warning tape, alert words, and the medical figure heightens the seriousness of the message suggested by the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; both communicate alarm and concern about aging and facial procedures. The thumbnail emphasizes the negative outcome and urgency implied in the title."
+  }
+}

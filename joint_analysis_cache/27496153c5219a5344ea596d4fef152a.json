@@ -1,0 +1,12 @@
+{
+  "title": "Full interview: President Trump says he\u2019ll be a \u2018two-term president,\u2019 downplays third-term talk",
+  "thumbnail_path": "thumbnails/9b4OAlpPhNA_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

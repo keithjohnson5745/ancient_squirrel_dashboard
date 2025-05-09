@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Brown (skin tone, head wrap)": "40%",
+      "White/Beige (background and shirt)": "35%",
+      "Blue (pregnancy test tip, text on test)": "15%",
+      "Muted Pink (shirt)": "10%"
+    },
+    "Composition type": "Close-up shot",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/serious, intent gaze at the pregnancy test",
+      "Demographics": "Female-presenting, possibly adult, medium-to-dark skin tone"
+    },
+    "Main objects/props featured": "Pregnancy test (Clearblue brand), hands holding the test",
+    "Background environment": "Plain, neutral indoor environment (beige wall, not distinctive)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Why I couldn't get pregnant",
+      "Clearblue"
+    ],
+    "Font characteristics": {
+      "Style": "Bold serif (for main thumbnail text)",
+      "Emphasis": "Prominent, high contrast, centered on frame",
+      "Color": "White (main text), Blue (on pregnancy test branding)"
+    },
+    "Text placement within frame": "Main text is centered and large, overlaying the person and pregnancy test; brand name 'Clearblue' is printed on the pregnancy test, near top left of the frame",
+    "Emotional/trigger words": [
+      "couldn't",
+      "pregnant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, personal, possibly vulnerable or somber",
+    "Visual metaphors or symbols": "Pregnancy test symbolizes the struggle with conception and fertility; direct presentation of the object underscores the subject matter",
+    "Clickbait techniques employed": [
+      "Personal confession ('Why I couldn't get pregnant')",
+      "First-person narrative to elicit curiosity/empathy",
+      "Clear focus on emotionally charged topic (fertility, pregnancy)"
+    ],
+    "Brand elements present": [
+      "'Clearblue' logo on pregnancy test"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail shows a person holding a pregnancy test, directly referencing the subject of pregnancy and difficulties getting pregnant, which matches and visually reinforces the video\u2019s title ('How I finally got pregnant'). The focus on the test and the serious expression aligns with the struggle described.",
+    "Contrasts or mismatches": "The thumbnail text ('Why I couldn't get pregnant') highlights the struggle, whereas the video title ('How I finally got pregnant') suggests success/the end of the struggle. This contrast may be intentionally used to highlight both the challenge and the resolution, encouraging viewers to click for the full story."
+  }
+}

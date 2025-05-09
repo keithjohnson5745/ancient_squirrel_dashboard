@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "Approximately 60% (background)",
+      "Blue": "Approximately 20% (doctor's scrubs and text box)",
+      "White": "Approximately 15% (text, gloves, eggs)",
+      "Black": "Approximately 5% (text, facial features on eggs)"
+    },
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, slightly stern/concerned expression",
+      "Demographics": "Adult male, likely of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Person (doctor) in blue scrubs",
+      "White gloved hand holding two eggs with sad faces drawn on",
+      "Text blocks"
+    ],
+    "Background environment": "Solid red background (plain, no real environment)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": {
+      "Top": "11 WARNING SIGNS LOW TESTOSTERONE",
+      "Bottom Right (Hindi)": "\u092c\u093f\u0928\u093e \u091f\u0947\u0938\u094d\u091f \u0915\u0948\u0938\u0947 \u092e\u093e\u0932\u0942\u092e \u0915\u0930\u0947\u0902 \u2013 \u0932\u094b \u091f\u0947\u0938\u094d\u091f\u094b\u0938\u094d\u091f\u0947\u0930\u0949\u0928",
+      "Bottom Left": "DR. SUNIL JINDAL"
+    },
+    "Font characteristics": {
+      "Style": "Bold sans-serif",
+      "Emphasis": "All caps (English), large font size, strong contrast",
+      "Color": "White font on dark backgrounds (navy blue/black box)"
+    },
+    "Text placement within frame": {
+      "Top bar": "English title centered along top edge",
+      "Bottom right": "Hindi explanation in a large box along the lower right",
+      "Bottom left": "Doctor's name in smaller font below his image"
+    },
+    "Use of emotional/trigger words": [
+      "WARNING",
+      "LOW",
+      "TESTOSTERONE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, cautionary",
+    "Visual metaphors or symbols": [
+      "Sad faces on two eggs (suggests testicles, low mood or deficiency)",
+      "Medical gloves (professionalism, diagnostic authority)"
+    ],
+    "Clickbait techniques employed": [
+      "Use of '11 warning signs' to promise practical, list-based information",
+      "Direct appeal to common health concern (testosterone/men's health)",
+      "Combination of English and Hindi widens audience",
+      "Sad, anthropomorphized eggs add a memorable visual cue"
+    ],
+    "Brand elements present": [
+      "Doctor's name (Dr. Sunil Jindal)",
+      "Doctor's image in medical attire"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title and topic by showing a doctor (implying authority), sad-faced eggs (a metaphor for low testosterone/testicular function) and bold warnings. The dual-language text directly reflects both the Hindi/English nature of the title.",
+    "Contrasts or mismatches": "No significant mismatches are present. The thumbnail's content is cohesive with the video's descriptive title and message, enhancing its clarity and clickability for the target audience."
+  }
+}

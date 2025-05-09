@@ -1,0 +1,12 @@
+{
+  "title": "Complications: Preeclampsia, HELLP Syndrome, Amniotic Fluid Abnormalities - Maternity | @LevelUpRN",
+  "thumbnail_path": "thumbnails/1B17eRAQ0lM_max.jpg",
+  "title_length": 98,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

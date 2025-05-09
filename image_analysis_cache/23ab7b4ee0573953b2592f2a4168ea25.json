@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "pale yellow/cream (garlic)": "60%",
+      "light tan/brown (background)": "30%",
+      "medium brown (arms)": "5%",
+      "white (gloves, text)": "5%"
+    },
+    "Composition type": "Medium close-up (focus on hands holding garlic cloves with partial forearms shown, camera angled top-down, tight crop)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Not visible (face not shown, only hands and partial forearms present)",
+      "demographics": "Not apparent; only forearms/hands with gloves visible"
+    },
+    "Main objects/props featured": [
+      "A large handful of garlic cloves (held in gloved hands)",
+      "Gloves (protective, food-safe)",
+      "Vast quantity of loose garlic cloves in the background"
+    ],
+    "Background environment": "Blurry, filled with more garlic cloves; strongly suggests a food processing facility, warehouse, or factory environment"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BUSINESS INSIDER",
+      "BIG BUSINESS"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all capitals",
+      "emphasis": "Very strong, especially 'BIG BUSINESS' (heavier typeface, bolder, larger)",
+      "color": "White",
+      "background for text": "Faint black-to-transparent gradient for high contrast"
+    },
+    "Text placement within frame": "Both elements appear in the bottom left corner; 'BUSINESS INSIDER' is smaller, above and slightly left of 'BIG BUSINESS', which dominates the lower left",
+    "Emotional/trigger words": [
+      "BIG BUSINESS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Neutral to positive, emphasizing scale, industriousness, and abundance",
+    "Visual metaphors or symbols": [
+      "Overflowing handful of garlic = abundance, prosperity, or surviving/adapting at scale",
+      "Gloved hands = professionalism, food safety, industrial processing"
+    ],
+    "Clickbait techniques employed": [
+      "Extreme close-up of product illustrating scale",
+      "Bold text promising insight on something 'big' or impactful",
+      "Prominent brand/logo"
+    ],
+    "Brand elements present": [
+      "BUSINESS INSIDER logo",
+      "Consistent with the 'Big Business' series style"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail's close-up of a massive quantity of garlic in industrial gloved hands directly illustrates 'the US' Biggest Garlic Producer', visually communicating scale and industry. The overflowing garlic reinforces the idea of persistence and abundance even during hardship described in the title ('Survived the Fall of American Garlic').",
+    "Contrasts or mismatches": "No apparent mismatch\u2014thumbnail clearly signals content about large-scale garlic production and business survival. The image directly matches the video title's promise of big business and resilience.",
+    "Synergy": "The image and text together clearly target viewers interested in food industry, big business operations, and stories of survival or comeback."
+  }
+}

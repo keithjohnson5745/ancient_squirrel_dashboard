@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Yellow (background)": "40%",
+      "Green (border, liquid, and highlight icons)": "20%",
+      "Cyan/Teal (shirt, pouring liquid, fertilizer bottle)": "20%",
+      "Red (dreadlocks, 'X' icon)": "5%",
+      "White (text, measuring cup)": "10%",
+      "Black (measurement lines, text, and details)": "5%"
+    },
+    "Composition Type": "Medium shot with close-up inset (left side shows a person from chest up; right side features a close-up of a hand pouring liquid into a measuring cup)",
+    "Human Presence": {
+      "Number": 1,
+      "Expression": "Mildly perplexed or scrutinizing, slightly pursed lips, raised brow",
+      "Demographics": "Light-skinned adult male, visible facial hair, wearing dreadlocks, teal shirt, grey cap"
+    },
+    "Main Objects/Props Featured": [
+      "Person with dreadlocks and a grey cap",
+      "Hand holding a transparent measuring beaker",
+      "Liquid fertilizer bottle (labeled 'GENERAL HYDROPONICS')",
+      "Green liquid being poured",
+      "Large measuring scale (yellow background)",
+      "'X' (red, top) and checkmark (green, bottom) icons indicating 'wrong' and 'right'"
+    ],
+    "Background Environment": "Solid yellow wall textured with subtle cannabis leaf patterns, ruled measurement lines"
+  },
+  "TEXT ELEMENTS": {
+    "Visible Text": [
+      "#6",
+      "GENERAL HYDROPONICS"
+    ],
+    "Font Characteristics": {
+      "#6": "Bold, sans-serif, black on white circular background, lower left corner",
+      "GENERAL HYDROPONICS": "Bold, white sans-serif with green outline, partially visible and wrapped around bottle, right margin"
+    },
+    "Text Placement Within Frame": {
+      "#6": "Lower left corner (white circle)",
+      "GENERAL HYDROPONICS": "Right edge, slanted vertically on bottle"
+    },
+    "Use of Emotional/Trigger Words": [
+      "#6"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Inquisitive, cautionary, instructional (the facial expression and prominent 'X'/'checkmark' visual cues suggest a teaching or troubleshooting theme)",
+    "Visual Metaphors or Symbols": [
+      "Checkmark and X: right and wrong solution or method",
+      "Measurement scale: precision and importance of correct quantities",
+      "Beaker and liquid: scientific approach, mixing, or dosing nutrients"
+    ],
+    "Clickbait Techniques Employed": [
+      "Bright, contrasting colors for rapid attention",
+      "Clear 'before/after' or right/wrong signals with icons",
+      "Facial expression of intrigue/confusion for relatability",
+      "Partial visibility of a common brand to attract experienced viewers"
+    ],
+    "Brand Elements Present": [
+      "GENERAL HYDROPONICS bottle label",
+      "Logo on the person's hat (not fully readable but visually branded)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How Thumbnail Reinforces Title": "The thumbnail visually depicts the act of measuring and pouring (feeding) nutrients\u2014directly connecting to the 'Feeding Cannabis Nutrients' theme in the title. The check and X suggest there's a secret or specific way that's correct (implied secret method). The use of nutrient solution (associated with cannabis growing) visually matches the focus in the title.",
+    "Contrasts or Mismatches": "There is no direct depiction of cannabis plants or leaves aside from a subtle pattern in the background, so the reference is primarily implied through props and context. The video\u2019s title uses a blood droplet emoji (\ud83e\ude78), absent in the thumbnail. Otherwise, the instructional/secretive tone is matched visually and textually."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Doctors found an Anal Fistula. Do I need surgery? | Dr. Chung answers YOUR questions!",
+  "thumbnail_path": "thumbnails/GaC8kYEscaE_max.jpg",
+  "title_length": 85,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

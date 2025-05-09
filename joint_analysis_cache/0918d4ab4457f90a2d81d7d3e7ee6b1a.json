@@ -1,0 +1,14 @@
+{
+  "title": "17 Great Tools Under $20 at Home Depot",
+  "thumbnail_path": "thumbnails/LR_tit1pwzA_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

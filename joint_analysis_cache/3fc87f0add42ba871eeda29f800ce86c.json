@@ -1,0 +1,12 @@
+{
+  "title": "Diddy's Lawyer Explains '1000 Baby Oil Bottles' Found During Raid",
+  "thumbnail_path": "thumbnails/J65QYpSigqk_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

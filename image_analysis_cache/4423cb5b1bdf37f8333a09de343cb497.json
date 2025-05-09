@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark olive green": "Approx. 50% (background)",
+      "orange": "Approx. 15% (accent, sidebar and main text)",
+      "light yellow-green": "Approx. 20% (main text)",
+      "beige/skin tones": "Approx. 10% (person's face and hands)",
+      "brown": "Approx. 5% (person's hair and shirt)"
+    },
+    "Composition type": "Medium close-up (torso and head visible, subject occupies about half the right side)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Confident, mildly playful, direct eye contact. Raising glasses, slightly pursed lips.",
+      "demographics": "Young adult woman, light skin, light brown/blonde hair"
+    },
+    "Main objects/props featured": [
+      "Eyeglasses (partially held by the woman)",
+      "Woman's brown shirt"
+    ],
+    "Background environment": "Solid dark olive-green color, no visible environmental context"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FREE MASTERCLASS ON",
+      "FLIRTING SECRETS WOMEN WISH YOU KNEW",
+      "@KIMBERLYNINAHILL"
+    ],
+    "Font characteristics": {
+      "style": "Bold sans-serif",
+      "emphasis": "High (large size, capitalization for main phrases; words 'YOU KNEW' in orange for stronger emphasis)",
+      "color": [
+        "Light yellow-green (main text)",
+        "Bright orange (emphasis, 'YOU KNEW')",
+        "White (username and 'FREE MASTERCLASS ON')"
+      ]
+    },
+    "Text placement within frame": {
+      "FREE MASTERCLASS ON": "Upper left, in a shaded rectangle",
+      "FLIRTING SECRETS WOMEN WISH YOU KNEW": "Majority of left side, center-aligned",
+      "YOU KNEW": "Bottom left, in orange for special emphasis",
+      "@KIMBERLYNINAHILL": "Lower left, smaller font, under main text"
+    },
+    "Use of emotional/trigger words": [
+      "SECRETS",
+      "WISH",
+      "YOU KNEW",
+      "FREE",
+      "MASTERCLASS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confident, curious, inviting, slightly mysterious (hint of playfulness)",
+    "Visual metaphors or symbols": [
+      "Woman raising glasses\u2014invitation to look closer or see differently (uncover secrets)",
+      "Direct gaze\u2014implies intimacy/revelation"
+    ],
+    "Clickbait techniques employed": [
+      "Use of secrets",
+      "Promises of insider knowledge",
+      "High-contrast, bold text",
+      "Emphasized 'FREE MASTERCLASS'",
+      "Emotional appeal with 'WISH YOU KNEW'"
+    ],
+    "Brand elements present": [
+      "Consistent bold color palette (orange/green/yellow)",
+      "Handle (@KIMBERLYNINAHILL) for easy recognition"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces title": "Yes; the text in the thumbnail closely matches the video title, using the most emotionally charged words. The image of a confident woman peering over glasses is visually suggestive of withholding or revealing secrets, which fits the 'secrets women wish you knew' concept.",
+    "Contrasts or mismatches": "No significant mismatch. The visual style is direct, bold, and matches the promise of insider knowledge in the title. The only minor difference is the thumbnail lays heavier visual emphasis on 'YOU KNEW' and 'FREE MASTERCLASS', concretely reinforcing the video's main selling points."
+  }
+}

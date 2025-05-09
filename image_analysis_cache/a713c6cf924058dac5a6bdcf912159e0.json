@@ -1,0 +1,106 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "60% (background, strong gradient effect)",
+      "Yellow": "10% (large top text)",
+      "White": "8% (text, logo, props)",
+      "Light Blue": "7% (shirt, text border)",
+      "Pink": "5% (uterus illustration)",
+      "Skin tones": "10% (faces, hands, arms)"
+    },
+    "Composition type": "Medium shot (central figure in medium-close shot, surrounded by symbolic elements and text)",
+    "Human presence": {
+      "Number of people": 3,
+      "Details": [
+        {
+          "Person 1": "Middle-aged man centered, glasses, serious/explanatory expression, South Asian appearance"
+        },
+        {
+          "Person 2": "Young woman, left, only hands visible holding a stylized uterus"
+        },
+        {
+          "Person 3": "Young woman, right, seated and looking thoughtful/worried, light skin, long blonde hair"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Stylized uterus prop held by two hands (left side)",
+      "Person sitting in a distressed posture (right side)"
+    ],
+    "Background environment": "Solid red/gradient background with no physical setting, giving a clean, attention-focusing effect."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "PCOD & Sex",
+      "Dr. Sunil Jindal",
+      "REPRODUCTIVE MEDICINE SPECIALIST",
+      "PCOD \u092e\u0947\u0902 \u0938\u0947\u0915\u094d\u0938 \u0915\u092e \u0915\u094d\u092f\u094b\u0902 ?"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "PCOD & Sex",
+        "Style": "Bold, sans-serif",
+        "Color": "Bright yellow",
+        "Emphasis": "High"
+      },
+      {
+        "Text": "PCOD \u092e\u0947\u0902 \u0938\u0947\u0915\u094d\u0938 \u0915\u092e \u0915\u094d\u092f\u094b\u0902 ?",
+        "Style": "Large, bold sans-serif (mixed Devanagari and Latin script)",
+        "Color": "White and yellow with a dark outline",
+        "Emphasis": "Very high"
+      },
+      {
+        "Text": "Dr. Sunil Jindal",
+        "Style": "Handwritten script",
+        "Color": "White",
+        "Emphasis": "Branding"
+      },
+      {
+        "Text": "REPRODUCTIVE MEDICINE SPECIALIST",
+        "Style": "Small, sans-serif",
+        "Color": "White",
+        "Emphasis": "Low"
+      }
+    ],
+    "Text placement": [
+      {
+        "PCOD & Sex": "Top center"
+      },
+      {
+        "PCOD \u092e\u0947\u0902 \u0938\u0947\u0915\u094d\u0938 \u0915\u092e \u0915\u094d\u092f\u094b\u0902 ?": "Bottom center, large banner"
+      },
+      {
+        "Dr. Sunil Jindal, REPRODUCTIVE MEDICINE SPECIALIST": "Bottom left corner as branding"
+      }
+    ],
+    "Emotional/trigger words": [
+      "Shocking Truth"
+    ],
+    "Emotional/trigger words present": [
+      "PCOD",
+      "Sex",
+      "\u0915\u092e \u0915\u094d\u092f\u094b\u0902 ? (Why less?)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, and informational with a sense of concern",
+    "Visual metaphors or symbols": [
+      "Uterus illustration = reproductive health/PCOD",
+      "Thoughtful/worried woman = personal struggle/stress about the issue",
+      "Pointing gesture by doctor = emphasis/clarification"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, provocative keywords (PCOD & Sex, \u0915\u094d\u092f\u094b\u0902 ?, Shocking Truth in title)",
+      "Use of a doctor's image to signal authority",
+      "Emotional expressions and worried posture to invoke curiosity and empathy",
+      "Clear visual focus on controversial topics (sex, PCOD)"
+    ],
+    "Brand elements present": [
+      "Dr. Sunil Jindal's signature and title, Jindal Hospital inferred from video title"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly addresses the video title by visually combining images of a reproductive organ (PCOD), sexual topic (sex, through both the prop and the questioning text), and the reputable presence of a medical professional\u2014Dr. Sunil Jindal\u2014signaling authority. The serious and worried female figure aligns with the 'low sex drive' concern.",
+    "Contrasts or mismatches": "No major mismatches; the thumbnail strongly supports the provocative and medical-explanatory nature of the title, reinforcing both the sensitivity and urgency of the topic with clear, direct visuals and emotional cues."
+  }
+}

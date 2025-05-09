@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "Approximately 35% (mainly Deadpool\u2019s suit and parts of the explosion)",
+      "Yellow": "Approximately 30% (Wolverine\u2019s costume and text)",
+      "Orange": "Approximately 20% (explosion/fire background)",
+      "Black": "Approximately 10% (Deadpool\u2019s mask/accents, Wolverine hair and armor, text outlines)",
+      "Gray/Blue": "Approximately 5% (Wolverine\u2019s costume, smoky explosion background)"
+    },
+    "Composition type": "Close-up: Both characters depicted from chest up, filling most of the frame",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Deadpool: Playful, leaning on the other character, body language suggests casual affection",
+        "Wolverine: Stern or serious, looking away, slightly annoyed or resolute"
+      ],
+      "demographics": "Both appear as adult males in superhero costumes"
+    },
+    "Main objects/props featured": [
+      "Deadpool in red and black suit",
+      "Wolverine in yellow costume with blue armor",
+      "Katana (sheathed on Deadpool\u2019s back)",
+      "Explosions/fire (as background)"
+    ],
+    "Background environment": "Intense orange explosion/fire with smoke, giving an action-packed dramatic atmosphere"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "\"MARVEL STUDIOS DEADPOOL & WOLVERINE\"",
+    "Font characteristics": {
+      "MARVEL STUDIOS": {
+        "style": "Sans-serif, uppercase, condensed",
+        "emphasis": "White text on a red rectangle",
+        "color": "White on red",
+        "placement": "Top left"
+      },
+      "DEADPOOL": {
+        "style": "Bold, block, uppercase, stylized with a grunge/metal texture",
+        "emphasis": "Very prominent, 3D effect, red gradient with dark outlines",
+        "color": "Red/orange gradient with yellow undertones and dark shadow",
+        "placement": "Left upper-center"
+      },
+      "WOLVERINE": {
+        "style": "Bold, block, uppercase, similar to \"DEADPOOL\" but in a different color",
+        "emphasis": "Yellow with dark outline, slightly smaller than \"DEADPOOL\"",
+        "color": "Yellow with black shadow/outlines",
+        "placement": "Below \"DEADPOOL\", aligned to left/center"
+      },
+      "&": {
+        "style": "Ampersand, dark color",
+        "placement": "Small, left of \"WOLVERINE\""
+      }
+    },
+    "Text placement within frame": "Upper left corner, overlaying the explosion background and partially over characters\u2019 heads",
+    "Use of emotional/trigger words": [
+      "\"DEADPOOL\"",
+      "\"WOLVERINE\""
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intense, energetic, dramatic with underlying humor and rebellion",
+    "Visual metaphors or symbols": [
+      "Explosion/fire represents chaos, danger, and high-stakes action",
+      "Contrasting facial expressions (playful vs serious) symbolize their dynamic personalities"
+    ],
+    "Clickbait techniques employed": [
+      "Large, eye-catching text with famous character names",
+      "Dramatic explosion background",
+      "Contrasting personalities/expressions",
+      "Iconic costume designs for instant recognition"
+    ],
+    "Brand elements present": [
+      "\"MARVEL STUDIOS\" logo",
+      "Trademark costumes and character designs"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces the title": "The thumbnail showcases Deadpool and Wolverine, the two characters mentioned in the title. The explosive background and intense facial expressions directly imply 'action' and 'violence.' Deadpool\u2019s playful physical pose hints at the 'savage humor' aspect; Wolverine\u2019s seriousness hints at violence and their complicated past.",
+    "Contrasts or mismatches": "The visual perfectly matches the video title\u2019s themes (action, humor, violence, 'crashing pasts'). There is no significant mismatch; both thumbnail and title promise an intense, action-packed, and character-driven narrative."
+  }
+}

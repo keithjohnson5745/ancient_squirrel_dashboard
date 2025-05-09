@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "purple": "approximately 40% (background gradient)",
+      "blue": "approximately 15% (background gradient and shirt)",
+      "pink": "approximately 20% (text block background, pregnancy test line, arc in background)",
+      "white": "approximately 15% (text, pregnancy test)",
+      "teal": "approximately 5% (lower background layer)",
+      "skin tones": "approximately 5% (human presence)"
+    },
+    "Composition type": "Split composition; medium shot of a woman (upper torso/shoulders and head) on the right, with an illustrated pregnancy test and bold text filling the left/center.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling gently, approachable and calm",
+      "demographics": "Adult female with light skin, long brown hair, blue eyes"
+    },
+    "Main objects/props featured": [
+      "Home pregnancy test (illustration, with visible result lines)",
+      "Text blocks"
+    ],
+    "Background environment": "Abstract, featuring a soft blend of purple, pink, and blue gradients, with a large pink arc and faint medical/pregnancy related outlines. No real-world environment depicted, rather a clean, editorial-graphic look."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "SIGNS OF EARLY PREGNANCY",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all caps",
+      "emphasis": "Very strong (heavy weight, high contrast with backgrounds)",
+      "color": "White font; placed on blocks of dark blue and pink for emphasis"
+    },
+    "Text placement within frame": "Left and center, arranged in three stacked horizontal blocks for maximum visibility; the pink block (\"PREGNANCY\") at the bottom, darker blue above",
+    "Use of emotional/trigger words": "SIGNS, EARLY, PREGNANCY (all are direct, important, and cause curiosity/urgency for the target audience)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, trustworthy. The use of medical-blue clothing and a smiling face gives a clinical yet empathetic impression.",
+    "Visual metaphors or symbols": [
+      "Pregnancy test = symbol for early pregnancy/diagnosis",
+      "Medical scrubs = expertise/authority"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, urgent text (high-contrast, promising answers)",
+      "Direct and simple language that taps into viewer anxieties/curiosity",
+      "Friendly professional (suggesting expertise and trustworthiness)"
+    ],
+    "Brand elements present": "Possible personal branding (face of a specific expert), but no explicit institutional logos."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly illustrates the video's core topic by combining the key emotional and medical symbol (pregnancy test), prominent, clear text repeating the main keywords ('Signs', 'Pregnancy'), and an expert figure (presumably Dr. Lora Shahine). The color and text make it clear the content is informative regarding early signs.",
+    "Contrasts or mismatches": "Minor: The thumbnail does not explicitly visualize the 'two week wait' or 'mistakes to avoid' mentioned in the title. The focus is entirely on 'signs of early pregnancy.' However, overall alignment between title and thumbnail is strong for main topic."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Real Reason Harry Can\u2019t Move On | Psychiatrist Breaks It Down",
+  "thumbnail_path": "thumbnails/nLv3_4Pggy0_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

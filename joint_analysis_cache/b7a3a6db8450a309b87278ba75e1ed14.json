@@ -1,0 +1,13 @@
+{
+  "title": "Filipina Massage Therapy With A Smile - And A Secret!",
+  "thumbnail_path": "thumbnails/wDGpj-9e20w_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.8
+}

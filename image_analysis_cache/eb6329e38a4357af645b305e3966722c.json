@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "50% (background gradients, SQL icon, clothing accents)",
+      "Yellow": "20% (main large text: SQL, INTERVIEW)",
+      "Black": "15% (shirt, some text, background)",
+      "White": "10% (text, object highlights, logo)",
+      "Gray/Silver": "5% (SQL database icon)"
+    },
+    "Composition type": "Medium shot\u2014shows upper body of a person combined with prominent text and graphics.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "The individual is smiling, conveying confidence and approachability.",
+      "Demographics": "Young adult female (more detail not discernible from image alone)"
+    },
+    "Main objects/props featured": [
+      "A 3D SQL database icon",
+      "Text overlays in large blocks",
+      "Person wearing 'Intellipaat' branded polo shirt"
+    ],
+    "Background environment": "Dark blue abstract digital background with subtle coding snippets, overlaid with light blue graphical elements behind the person for contrast."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "15",
+      "Most Asked",
+      "SQL",
+      "INTERVIEW",
+      "Questions and Answers",
+      "[2025 Updated]",
+      "IntelliPaat"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, modern sans-serif; some words in all caps for emphasis",
+      "Emphasis": "Heavy emphasis on 'SQL', 'INTERVIEW', and numbers; '15' is very large, 'SQL' in all capitals, 'INTERVIEW' in bright yellow.",
+      "Color": "Yellow for main keywords, white for supporting information, blue and black for contrast areas."
+    },
+    "Text placement within frame": {
+      "Top left": "'15' and 'Most Asked'",
+      "Upper center": "3D SQL icon",
+      "Center left/mid": "'SQL INTERVIEW'",
+      "Lower mid": "'Questions and Answers' in a rounded white banner",
+      "Bottom left": "'[2025 Updated]' smaller text",
+      "Top right": "'IntelliPaat' logo"
+    },
+    "Use of emotional/trigger words": [
+      "Most Asked",
+      "INTERVIEW",
+      "15",
+      "[2025 Updated]"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confident, informative, and motivating\u2014aimed at assuring viewers of up-to-date, high-value interview preparation.",
+    "Visual metaphors or symbols": [
+      "3D database icon symbolizes SQL/tech/data concepts",
+      "Bright, bold colors for urgency and attention"
+    ],
+    "Clickbait techniques employed": [
+      "Specific number ('15') to promise concrete content",
+      "'Most Asked' implies insider, valuable info",
+      "Year update ('2025 Updated') signals relevancy",
+      "Confident and friendly human presence for trust"
+    ],
+    "Brand elements present": [
+      "IntelliPaat logo (top right and on shirt)",
+      "Consistent color palette with brand identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "'15', 'SQL Interview', and 'Questions & Answers' are visually highlighted, all directly matching the title's promise. The '2025 Updated' tag reinforces recency and relevance, tying to 'TO GET YOU HIRED in 2025' in the title. The presence of the SQL icon and a smiling educator adds credibility and approachability, reinforcing educational intent.",
+    "Any contrasts or mismatches between thumbnail and title": "Minimal mismatch. The thumbnail omits 'TO GET YOU HIRED' language, instead using 'Most Asked'\u2014which is a slight shift from the title\u2019s explicit job-getting focus toward emphasizing commonality/value. However, the rest of the text and visuals cohesively align with the video's topic as described in the title."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark red/burgundy background": "65%",
+      "white (text and clothing)": "25%",
+      "skin tone (face and hands)": "7%",
+      "black (microphone)": "3%"
+    },
+    "Composition type": "Medium close-up. The human subject is shown from the torso up, filling the right half of the frame.",
+    "Human presence": {
+      "number": 1,
+      "expression": "Smiling, calm, gentle expression.",
+      "demographics": "Adult woman, appears of South Asian descent, dark hair, wearing white."
+    },
+    "Main objects/props featured": [
+      "Microphone (held by the woman)",
+      "Clothing badge (on the woman's left shoulder, some gold and colored detail visible)"
+    ],
+    "Background environment": "Solid dark red/burgundy color, no discernible physical background (clean and simple for text focus)."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0917\u0930\u094d\u092d \u0938\u0902\u0938\u094d\u0915\u093e\u0930-",
+      "We Got Sanskars In The Womb"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif for English (high contrast); Serif for Hindi text.",
+      "emphasis": "Very large, thick, high visibility.",
+      "color": "White, strong contrast against dark red."
+    },
+    "Text placement within frame": "Hindi text at the top left, English text in large blocks centered left and lower left. Text occupies over half of the thumbnail width.",
+    "Use of emotional/trigger words": [
+      "Sanskars",
+      "Womb",
+      "We Got"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, nurturing, spiritual, and informative.",
+    "Visual metaphors or symbols": "The white attire and gentle smile suggest purity, peace, and spiritual authority. Clean design signals trustworthiness.",
+    "Clickbait techniques employed": [
+      "Bold, direct statement ('We Got Sanskars In The Womb') piques curiosity about prenatal influence.",
+      "Combination of Hindi and English broadens appeal.",
+      "The subject's confident, friendly demeanor adds credibility."
+    ],
+    "Brand elements present": "Attire (white dress, badge) hints at a recognizable spiritual/group affiliation (possibly Brahma Kumaris), and the style is consistent with spiritual discourse thumbnails."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The English text in the thumbnail exactly matches the core of the title, directly illustrating the video's main message. The presence of the speaker (likely BK Shivani) reinforces the 'expert/spiritual' nature promised in the title.",
+    "Contrasts or mismatches": "No major mismatch. The thumbnail delivers a visual and textual summary of the title, covering both Hindi and English-speaking audiences. The subtitle and 'Part 1' aspects in the full title aren't directly shown on the thumbnail."
+  }
+}

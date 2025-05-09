@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Mustard yellow",
+        "percentage": 40
+      },
+      {
+        "color": "Black",
+        "percentage": 30
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 5
+      },
+      {
+        "color": "Dark blue/gray (shirt)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up shot (showing person from mid-torso up, clear focus on facial expression and posture)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Engaged, confident, slightly smiling, making eye contact",
+      "demographics": {
+        "gender": "Male (apparent)",
+        "age_range": "Middle-aged adult",
+        "other_features": "Beard, short dark hair"
+      }
+    },
+    "Main objects/props featured": [
+      "Microphone (suggesting a podcast or interview setting)"
+    ],
+    "Background environment": "Solid mustard yellow background, clean and distraction-free, visually isolates the subject"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "5 THINGS YOU MUST WORK ON EVERYDAY",
+      "DR. ANDREW HUBERMAN"
+    ],
+    "Font characteristics": {
+      "style": "Bold, all-caps, distressed/grunge effect, sans-serif",
+      "emphasis": "High (bright yellow for \"5 THINGS\", \"WORK ON\"; white for other lines)",
+      "color": [
+        "Yellow",
+        "White"
+      ]
+    },
+    "Text placement within frame": "Large, left-aligned, occupying the left half of the thumbnail; name in smaller text at the bottom left",
+    "Use of emotional/trigger words": [
+      "MUST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, urgent, authoritative, positive",
+    "Visual metaphors or symbols": [
+      "Bold, distressed text for seriousness/urgency",
+      "Microphone for authority/communication/podcast"
+    ],
+    "Clickbait techniques employed": [
+      "Enumerative headline (\u201c5 THINGS\u201d) promising actionable value",
+      "Directive language ('MUST') creates urgency and importance",
+      "Professional portrait of an authoritative figure"
+    ],
+    "Brand elements present": [
+      "Dr. Andrew Huberman's name",
+      "Podcast/interview microphone setup (possibly referencing 'Huberman Lab Podcast' style)",
+      "Color palette and bold typography typical of motivational/personal development content"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail repeats the exact main phrase from the title ('5 Things You Must Work On Every Day') in highly legible, attention-grabbing text; the image of Dr. Andrew Huberman reinforces expertise, matching the title\u2019s reference to him. The microphone implies a 'best speech' or lecture setting.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; the thumbnail and title are almost identical in message. The only minor difference is the title mentions 'best speech,' while the thumbnail focuses on the actionable content, but the presence of the microphone and Dr. Andrew Huberman visually suggests a speech or lecture."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Is It Ever Too Late for Hormone Replacement? | Menopause Insights with Dr. Susan",
+  "thumbnail_path": "thumbnails/eMzjkj4PW6g_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.3
+}

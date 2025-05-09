@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (background wall and stripes on shirt)",
+      "Red/Coral": "20% (central shirt area)",
+      "Skin tones": "20% (face and arms)",
+      "Black": "10% (hair, text, parts of shirt and lubricant box)",
+      "Blue": "5% (on product packaging)",
+      "Orange": "5% (part of the text)"
+    },
+    "Composition type": "Medium shot (shows person from waist/chest up, centered in frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, enthusiastic, direct eye contact with viewer",
+      "Demographics": "Apparent young adult female"
+    },
+    "Main objects/props featured": [
+      "Pre-Seed lubricant box (product held up digitally or superimposed to the right of the person)"
+    ],
+    "Background environment": "Plain white wall with minimal features, possible headboard or shelf visible"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in thumbnail": [
+      "How to Use",
+      "Pre-Seed fertility-friendly personal lubricant",
+      "For the time when trying to get pregnant",
+      "Clinically shown to be fertility friendly",
+      "Supports sperm movement"
+    ],
+    "Font characteristics": {
+      "How to Use": {
+        "Style": "Bold, sans-serif, playful",
+        "Emphasis": "Large, prominent",
+        "Color": "Orange with black outline"
+      },
+      "Other product text": {
+        "Style": "Standard packaging font, clean sans-serif",
+        "Emphasis": "Product branding and information",
+        "Color": "Mostly navy blue and white"
+      }
+    },
+    "Text placement within frame": {
+      "How to Use": "Upper left quadrant, overlaid on image close to the person's head",
+      "Product packaging text": "Confined to the lubricant box image, upper right area"
+    },
+    "Use of emotional/trigger words": [
+      "How to Use",
+      "Fertility-friendly",
+      "Trying to get pregnant",
+      "Supports sperm movement"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Hopeful, instructional, positive, supportive",
+    "Visual metaphors or symbols": [
+      "Smiling person (approachability, trust)",
+      "Product prominently featured (central focus, authority on topic)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct instructional phrasing ('How to Use')",
+      "Smiling, enthusiastic presenter",
+      "Display of specific product/brand"
+    ],
+    "Brand elements present": [
+      "Pre-Seed logo and product packaging"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both reference Pre-Seed lubricant explicitly; the thumbnail features the actual product packaging and the presenter, suggesting a demonstration or explainer. The visible phrases 'How to Use' and product branding clearly connect to 'USING PRESEED LUBRICANT TRYING TO CONCEIVE' and reinforce the how-to, conception-focused aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major contrasts. The thumbnail delivers directly on the promise of the title (product usage for conception). No visual elements contradict the intended subject."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light Beige (background wall)": "40%",
+      "Brown (hair, chair)": "25%",
+      "White (floral shirt base)": "20%",
+      "Blue/Red/Pink (floral shirt accents)": "10%",
+      "Yellow (text background strip)": "5%"
+    },
+    "Composition type": "Medium close-up shot, vertically framed (portrait).",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Eyes closed, mouth slightly open, hands together in a gesture possibly indicating explanation or contemplation.",
+      "Demographics": "Appears to be an adult woman."
+    },
+    "Main objects/props featured": [
+      "Person sitting (likely Dr. Neha Mehta), wearing a floral top",
+      "Tattoo visible on left wrist",
+      "Office chair"
+    ],
+    "Background environment": "Plain, light-colored wall with no visible decorations; setting suggests an office or consultation room."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BOOK CONSULTATION",
+      "WWW.DRNEHAMEHTA.COM"
+    ],
+    "Font characteristics": {
+      "BOOK CONSULTATION": {
+        "Style": "Bold, sans-serif, all uppercase.",
+        "Emphasis": "High (black text on bright yellow background).",
+        "Color": "Black."
+      },
+      "WWW.DRNEHAMEHTA.COM": {
+        "Style": "All uppercase, sans-serif.",
+        "Emphasis": "Moderate (white text on black background).",
+        "Color": "White."
+      }
+    },
+    "Text placement within frame": {
+      "BOOK CONSULTATION": "Top center strip.",
+      "WWW.DRNEHAMEHTA.COM": "Directly below 'BOOK CONSULTATION', occupying a horizontal black strip."
+    },
+    "Use of emotional/trigger words": [
+      "BOOK CONSULTATION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious and professional, with a sense of explanation or education.",
+    "Visual metaphors or symbols": "Tattoo and expressive hand gesture may suggest openness or personal touch.",
+    "Clickbait techniques employed": [
+      "Provocative video title (sexual topic)",
+      "Direct call-to-action ('BOOK CONSULTATION')"
+    ],
+    "Brand elements present": [
+      "Direct website URL (www.drneha mehta.com)",
+      "Branding via consultation call and doctor's apparent presence"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The presence of a professional-looking woman in a consultation setting visually supports the educational/clinical approach suggested by 'Dr.' in the title. Her expressive gesture hints at explanation or discussion, reinforcing the informative aspect.",
+    "Contrasts or mismatches": "The thumbnail is relatively conservative compared to the provocative nature of the title ('Why do girls like Oral'), possibly aimed at balancing curiosity with professionalism. No explicit or sexual imagery is present, which may contrast with the viewer's expectations set by the title."
+  }
+}

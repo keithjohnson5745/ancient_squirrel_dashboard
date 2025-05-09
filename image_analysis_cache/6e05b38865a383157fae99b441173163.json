@@ -1,0 +1,124 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Yellow",
+        "percentage": 30
+      },
+      {
+        "color": "Light Blue/White",
+        "percentage": 30
+      },
+      {
+        "color": "Green (Products and tubes)",
+        "percentage": 20
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      },
+      {
+        "color": "Red (Heart and Shirt)",
+        "percentage": 5
+      },
+      {
+        "color": "Black",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot, composite (products and people all visible from waist/chest up; close-ups on product tubes)",
+    "Human presence": {
+      "number_of_people": 3,
+      "expressions": [
+        "Central person: neutral/serious, pointing with both hands",
+        "Left: woman facing right, neutral or slight smile",
+        "Right: man facing left, slight smile"
+      ],
+      "demographics": [
+        "Central: Indian male, glasses, short hair, light facial hair",
+        "Left: Caucasian female, brown long hair",
+        "Right: Caucasian male, short light brown/blonde hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Tentex Royal Gel tube",
+      "Himcolin Gel tube",
+      "Large pink/red heart emoji (center bottom)"
+    ],
+    "Background environment": "Plain light blue sky, minimal distractions; product images and people are composited onto background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TENTEX ROYAL GEL & HIMCOLIN GEL",
+      "Himalaya SINCE 1930",
+      "Tentex Royal Performance Gel",
+      "FOR ENHANCED PERFORMANCE",
+      "Powered with Tridax Herb",
+      "NEW AND IMPROVED",
+      "Himcolin GEL 30g",
+      "\u0938\u092c\u0938\u0947 Better \u0915\u094c\u0928 \u0938\u093e \u0939\u0948?"
+    ],
+    "Font characteristics": [
+      {
+        "text": "TENTEX ROYAL GEL & HIMCOLIN GEL",
+        "style": "Bold, all-caps, sans-serif",
+        "color": "Black"
+      },
+      {
+        "text": "\u0938\u092c\u0938\u0947 Better \u0915\u094c\u0928 \u0938\u093e \u0939\u0948?",
+        "style": "Bold, sans-serif, mix of Devanagari and Latin",
+        "color": "Blue on White"
+      },
+      {
+        "text": "Product tubes",
+        "style": "Clean, modern, sans-serif",
+        "color": "White/Teal/Orange"
+      }
+    ],
+    "Text placement within frame": [
+      "Main comparison title (TENTEX ROYAL GEL & HIMCOLIN GEL): Top third of image, centered on yellow background",
+      "Product details: On the product tubes (left and right edges)",
+      "Question (\u0938\u092c\u0938\u0947 Better \u0915\u094c\u0928 \u0938\u093e \u0939\u0948?): Bottom, across a white bar, centered",
+      "Heart Emoji: Centered over chest/midsection of central figure"
+    ],
+    "Use of emotional/trigger words": [
+      "Better (comparison)",
+      "Performance",
+      "NEW AND IMPROVED",
+      "Heart emoji (relationship/love metaphor)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inquisitive, comparative, slightly playful (due to heart and finger-pointing pose)",
+    "Visual metaphors or symbols": [
+      "Heart emoji: symbolizes love, relationships, or romantic/sexual health",
+      "Pointing fingers: represents comparison, decision-making"
+    ],
+    "Clickbait techniques employed": [
+      "Bright, contrasting colors for immediate attention",
+      "Direct comparison (",
+      "&",
+      "better",
+      "Vs",
+      "NEW AND IMPROVED",
+      "FOR ENHANCED PERFORMANCE",
+      "heart emoji",
+      "pointing gestures"
+    ],
+    "Use of a question to provoke curiosity": "Brand elements present",
+    "Brand elements present": [
+      "Himalaya company logo and branding on both product tubes"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "Thumbnail visually represents both products (Tentex Royal Gel and Himcolin Gel), echoing the comparison in the title",
+      "Shows people (suggesting target audience/relationship context), directly linked to the gels\u2019 usage",
+      "Prominent question at the bottom (\u2018\u0938\u092c\u0938\u0947 Better \u0915\u094c\u0928 \u0938\u093e \u0939\u0948?\u2019) mirrors the Vs/comparison premise of the title"
+    ],
+    "Contrasts or mismatches": [
+      "No major mismatches. Thumbnail and title are closely aligned in theme (comparison between two products for enhancement/relationship) and style.",
+      "Thumbnail adds a visual relationship context (couple and heart) not explicitly mentioned in the title but inferred."
+    ]
+  }
+}

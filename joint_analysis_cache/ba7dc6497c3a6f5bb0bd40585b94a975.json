@@ -1,0 +1,13 @@
+{
+  "title": "\u0915\u092d\u0940 \u0922\u0940\u0932\u093e \u0928\u0939\u0940\u0902 \u092a\u0921\u093c\u0928\u0947 \u0926\u0947\u0917\u0940 \u092f\u0947 3 Exercise",
+  "thumbnail_path": "thumbnails/eSW2y5cPcw4_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Gold": "30% (background decor, clock, and vase)",
+      "Green": "10% (plants and vase)",
+      "Black/Grey": "30% (background wall, text area)",
+      "Pink": "15% (saree and text highlight)",
+      "White": "10% (text, circle, flowers)",
+      "Red": "5% (YouTube logo, saree detail)"
+    },
+    "Composition type": "Medium close-up shot (focus on one person's upper body and face, balanced with text)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Pleasant, composed, gentle smile",
+      "demographics": "Adult woman, likely of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Person in ethnic attire (saree)",
+      "Decorative vase with flowers",
+      "Decorative gold clock/statue",
+      "Couch/chair"
+    ],
+    "Background environment": "Indoor, possibly a clinic or well-furnished home/office, with elegant decorative items and plants"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "PCOD / PCOS",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+      "335K+ Views",
+      "\u0921\u0949. \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915, \u092a\u0941\u0923\u0947"
+    ],
+    "Font characteristics": {
+      "PCOD / PCOS": "Bold, Sans-serif, uppercase, white on magenta background",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?": "Bold, Sans-serif, white",
+      "335K+ Views": "Bold, Sans-serif, black on white semi-transparent circle",
+      "\u0921\u0949. \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915, \u092a\u0941\u0923\u0947": "Regular to bold, Sans-serif (Devanagari script), white"
+    },
+    "Text placement within frame": {
+      "PCOD / PCOS": "Top right, inside a magenta rectangle",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?": "Right-center, below main heading",
+      "335K+ Views": "Bottom left, inside a large white circle overlapping the photo",
+      "\u0921\u0949. \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915, \u092a\u0941\u0923\u0947": "Bottom right, above social media icons"
+    },
+    "Use of emotional/trigger words": [
+      "PCOD / PCOS",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?",
+      "335K+ Views"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, approachable, trustworthy",
+    "Visual metaphors or symbols": [
+      "Professional appearance and elegant decor symbolize expertise and reliability",
+      "Large view count circle adds social proof"
+    ],
+    "Clickbait techniques employed": [
+      "Large, brightly colored text immediately stating the subject",
+      "Prominent view count for social validation",
+      "Direct question format ('\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?') creates curiosity",
+      "Use of professional photo to build trust"
+    ],
+    "Brand elements present": [
+      "Doctor's name (\u0921\u0949. \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915)",
+      "Location (\u092a\u0941\u0923\u0947)",
+      "Social media platform logos (Facebook, YouTube)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly states the topic (PCOD/PCOS) both in English and Hindi, matching the title. The question '\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?' visually reinforces the '\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?' in the video title, indicating the content answers what PCOD/PCOS is, and the presence of a doctor adds authority as referenced in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; thumbnail and title are highly aligned in both content and presentation. The only extension is the visible view count, which does not appear in the title."
+  }
+}

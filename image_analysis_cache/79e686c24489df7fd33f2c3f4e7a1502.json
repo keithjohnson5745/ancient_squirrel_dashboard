@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Tan (brain)": "50%",
+      "Black (gloves)": "25%",
+      "Grey/Blue (background)": "20%",
+      "White (text and logo)": "5%"
+    },
+    "Composition type": "Close-up (focus on hands holding a brain specimen, bust-shot cropping)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Face not visible, only gloved hands visible",
+      "Demographics": "Unclear, no demographic info apparent"
+    },
+    "Main objects/props featured": [
+      "Dissected human brain specimen",
+      "Black gloves (worn by person holding brain)"
+    ],
+    "Background environment": "Blurry, clinical or educational setting, possible classroom or lab environment"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Fentanyl",
+      "INSTITUTE OF HUMAN ANATOMY"
+    ],
+    "Font characteristics": {
+      "Fentanyl": {
+        "Style": "Bold, Sans-serif, Italicized",
+        "Emphasis": "High (large, centered, overlaid on brain)",
+        "Color": "White"
+      },
+      "INSTITUTE OF HUMAN ANATOMY": {
+        "Style": "Thin, All-caps, Sans-serif (logo text)",
+        "Color": "Gray and red (part of logo)"
+      }
+    },
+    "Text placement within frame": {
+      "Fentanyl": "Centered, overlaid across the center of the brain specimen",
+      "INSTITUTE OF HUMAN ANATOMY": "Bottom left corner (with logo)"
+    },
+    "Emotional/trigger words": [
+      "Fentanyl"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, clinical, educational (with a sense of urgency or warning implied by subject matter)",
+    "Visual metaphors or symbols": [
+      "Human brain symbolizes the physiological impact/danger",
+      "Gloved hands convey scientific rigor or medical authority"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, central keyword highlighting controversial/dangerous topic",
+      "Graphic visual of real anatomical specimen to provoke curiosity or concern"
+    ],
+    "Brand elements present": [
+      "Institute of Human Anatomy logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title by directly showing a dissected brain (main target of fentanyl's effects), with the word 'Fentanyl' boldly overlaid. This concretely links the content to the threat/danger to human health and the physiological consequences mentioned in the title.",
+    "Contrasts or mismatches": "No significant mismatches. Both title and thumbnail are aligned: the title stresses extreme danger, and the visual foregrounds real human anatomy affected by fentanyl."
+  }
+}

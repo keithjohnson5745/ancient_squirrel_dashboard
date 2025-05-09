@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "30% (text, background gradient, chairs)",
+      "Black": "25% (background, text box, clothing)",
+      "Red": "15% (text box, 'EP-3' label)",
+      "White": "20% (text, background effects, clothing)",
+      "Skin tones/Browns": "10% (faces/hands)"
+    },
+    "Composition type": "Close-up and medium shot composite (large headshots of two people facing each other, with a small inset of them recording the podcast in the bottom center)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Serious, engaged, contemplative",
+      "Demographics": "Two adult men, South Asian"
+    },
+    "Main objects/props featured": [
+      "Two microphones",
+      "Yellow/orange armchairs",
+      "Eyeglasses (on one individual)"
+    ],
+    "Background environment": "Abstract faded gradient with dark vignette and white/gray splotches; recording studio setup with noticeable chairs and mics in inset"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in the thumbnail": [
+      "Is \u092f\u094b\u0917 Se",
+      "\u092e\u0930\u0924\u093e \u0939\u0941\u0906 \u092d\u0940",
+      "ZINDA \u0939\u094b \u091c\u093e\u092f\u0947",
+      "EP-3"
+    ],
+    "Font characteristics": {
+      "Style": [
+        "Bold sans-serif (for English and Hindi text)",
+        "Mix of uppercase English and Devanagari script"
+      ],
+      "Emphasis": [
+        "Yellow for 'Is \u092f\u094b\u0917 Se', 'ZINDA', and '\u0939\u094b \u091c\u093e\u092f\u0947' (attention-grabbing, positive)",
+        "Red for 'EP-3' and '\u092e\u0930\u0924\u093e \u0939\u0941\u0906 \u092d\u0940' (urgent/strong)",
+        "White for 'EP-3' background and some text"
+      ]
+    },
+    "Text placement within frame": {
+      "Top center": "'Is \u092f\u094b\u0917 Se' (yellow), '\u092e\u0930\u0924\u093e \u0939\u0941\u0906 \u092d\u0940' (red bar), 'ZINDA \u0939\u094b \u091c\u093e\u092f\u0947' (yellow, below red bar)",
+      "Bottom left": "'EP-3' (in a boxed label)"
+    },
+    "Use of emotional/trigger words": [
+      "\u092e\u0930\u0924\u093e \u0939\u0941\u0906 \u092d\u0940",
+      "'ZINDA' \u0939\u094b \u091c\u093e\u092f\u0947",
+      "Is \u092f\u094b\u0917 Se",
+      "EP-3"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, inspirational, transformative (due to references to life and death and the power of yoga)",
+    "Visual metaphors or symbols": [
+      "Large, contrasting facial expressions (debate, dialogue, transformation)",
+      "Light/gradient behind faces (revelation/enlightenment)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, dramatic text about miraculous transformation",
+      "Intriguing question/claim ('even the dying can become alive with yoga')",
+      "Facial close-ups to showcase drama and intensity",
+      "Series/episode marker ('EP-3')"
+    ],
+    "Brand elements present": [
+      "Episode number label",
+      "Podcast-style setup (microphones, chairs)",
+      "Consistent style likely unique to channel"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Both thumbnail and title emphasize the transformative power of yoga over extreme stress or despair (through dramatic text and serious expressions)",
+      "Presence of a yoga expert and interview setup in thumbnail supports the 'expert' aspect in the title"
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail text is more dramatic and life-or-death focused ('even the dying can come alive'), whereas the title is about stress relief and flexibility",
+      "Thumbnail does not visually show yoga poses or flexibility, but instead focuses on faces and conversation/drama"
+    ]
+  }
+}

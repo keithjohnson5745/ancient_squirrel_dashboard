@@ -1,0 +1,120 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Dark blue",
+        "approx_percentage": 50
+      },
+      {
+        "color": "Red",
+        "approx_percentage": 15
+      },
+      {
+        "color": "White",
+        "approx_percentage": 20
+      },
+      {
+        "color": "Green (cucumber)",
+        "approx_percentage": 10
+      },
+      {
+        "color": "Skin tone (hands/faces)",
+        "approx_percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (showing a man from chest up, with hands visible and a prop, not a close-up or wide shot)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, slightly inquisitive, demonstrating with hands",
+      "demographics": "Middle-aged man, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "Cucumber (being measured with tape, used as a metaphor)",
+      "Measuring tape",
+      "Glasses (worn by subject)"
+    ],
+    "Background environment": "Plain, gradient blue with a soft reddish halo behind the subject for emphasis; no distinct environmental details"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "Is my P***s small ?",
+      "Dr. Sunil Jindal",
+      "REPRODUCTIVE MEDICINE SPECIALIST",
+      "\u0932\u093f\u0902\u0917* \u0915\u093e \u0906\u0915\u093e\u0930"
+    ],
+    "Font characteristics": [
+      {
+        "text": "Is my P***s small ?",
+        "style": "Bold sans-serif",
+        "emphasis": "High (large, red, all caps except 'my')",
+        "color": "Red"
+      },
+      {
+        "text": "\u0932\u093f\u0902\u0917* \u0915\u093e \u0906\u0915\u093e\u0930",
+        "style": "Bold sans-serif",
+        "emphasis": "High (large, white, all caps, with asterisk)",
+        "color": "White"
+      },
+      {
+        "text": "Dr. Sunil Jindal",
+        "style": "Handwritten/cursive",
+        "emphasis": "Medium",
+        "color": "Black"
+      },
+      {
+        "text": "REPRODUCTIVE MEDICINE SPECIALIST",
+        "style": "All-caps sans-serif",
+        "emphasis": "Low",
+        "color": "Black"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "Is my P***s small ?",
+        "position": "Top center"
+      },
+      {
+        "text": "Dr. Sunil Jindal",
+        "position": "Bottom left (above shirt)"
+      },
+      {
+        "text": "REPRODUCTIVE MEDICINE SPECIALIST",
+        "position": "Bottom left (below signature)"
+      },
+      {
+        "text": "\u0932\u093f\u0902\u0917* \u0915\u093e \u0906\u0915\u093e\u0930",
+        "position": "Bottom right"
+      }
+    ],
+    "Emotional/trigger words": [
+      "small",
+      "Is my",
+      "P***s",
+      "\u0932\u093f\u0902\u0917* (Ling = penis in Hindi)",
+      "\u0906\u0915\u093e\u0930 (size in Hindi)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, anxious, slightly clinical, designed to both provoke concern and reassure",
+    "Visual metaphors or symbols": [
+      "Measuring tape around a cucumber (cucumber is a common substitute for male genitalia in visual metaphor)",
+      "Red asterisk/censoring (to soften explicitness)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct personal question evoking insecurity ('Is my P***s small?')",
+      "Use of partial censoring to draw attention ('P***s', '\u0932\u093f\u0902\u0917*')",
+      "Measuring a cucumber (humorous/intriguing visual trigger)",
+      "Bold, prominent font",
+      "Explicit references to taboo subject"
+    ],
+    "Brand elements present": [
+      "Signature/handwritten name (Dr. Sunil Jindal)",
+      "Specialist title",
+      "Hospital/doctor context signaled visually and in text"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the title by explicitly raising the question about male size, using a provocative question, metaphorical imagery (cucumber being measured), and featuring a medical expert. The text in both English and Hindi covers the linguistic breadth of the audience, closely matching the video title.",
+    "Contrasts or mismatches": "There are no significant mismatches. Both title and thumbnail focus on male size anxiety and the 'truth' about averages, though the thumbnail perhaps pushes slightly more emotional urgency with its direct question compared to the more factual tone implied in the title."
+  }
+}

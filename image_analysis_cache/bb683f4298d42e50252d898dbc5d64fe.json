@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige (background)": "40%",
+      "White (text boxes/background)": "20%",
+      "Black (main text)": "15%",
+      "Yellow (highlight)": "8%",
+      "Red (X mark)": "5%",
+      "Purple (lower text box)": "7%",
+      "Skin tones/hair": "5%"
+    },
+    "Composition type": "Medium close-up (shoulders and head of the person, with hand pointing up towards text)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slightly concerned, serious or suggestive\u2014eyebrows raised, mildly pursed lips",
+      "Demographics": "Adult woman, light skin, blonde/light brown hair"
+    },
+    "Main objects/props featured": [
+      "Human subject (pointing hand)",
+      "Large red 'X' over the word 'SKIN'",
+      "Bold text/boxes"
+    ],
+    "Background environment": "Plain beige, no detailed background\u2014clean, intentionally neutral to highlight subject and text"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "SURPRISING",
+      "SENSITIVE SKIN X MISTAKES",
+      "ACCORDING TO A DERMATOLOGIST"
+    ],
+    "Font characteristics": {
+      "SURPRISING": "All caps, sans-serif, black text on a bright yellow background\u2014emphasis through color and position",
+      "SENSITIVE SKIN MISTAKES": "All caps, thick bold black sans-serif, high contrast against white box backgrounds, 'X' is hand-drawn or brush-stroke style and red for emphasis",
+      "ACCORDING TO A DERMATOLOGIST": "All caps, sans-serif, black on purple for visibility"
+    },
+    "Text placement within frame": {
+      "SURPRISING": "Top right, inside yellow horizontal box",
+      "SENSITIVE SKIN MISTAKES": "Central right, three lines, each in individual white boxes, large and occupies most of the right half",
+      "'X'": "Red, next to 'SKIN', striking through/over the text to signify mistake",
+      "ACCORDING TO A DERMATOLOGIST": "Lower right, inside a purple box\u2014serves as a credential/authority tag"
+    },
+    "Use of emotional/trigger words": [
+      "SURPRISING",
+      "MISTAKES",
+      "ACCORDING TO A DERMATOLOGIST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative yet urgent and cautionary; the concerned expression, bold text, and red 'X' signal a warning or alert about common errors; colors and composition inspire trust and authority",
+    "Visual metaphors or symbols": [
+      "Red 'X' as a classic symbol for 'wrong' or 'mistake'",
+      "Pointing gesture directs attention and implies explanation"
+    ],
+    "Clickbait techniques employed": [
+      "Prominent use of 'SURPRISING' and 'MISTAKES' to trigger curiosity/FOMO",
+      "Visual focus on 'X' triggers a sense of must-know information",
+      "Credentialing phrasing 'ACCORDING TO A DERMATOLOGIST' adds authority and trust"
+    ],
+    "Brand elements present": "No overt brand logo; however, the style (professional photo, color accents, credentials) strongly suggests a personal/professional brand, likely in skincare or dermatology"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail closely matches the title's promise: it visually highlights 'Sensitive Skin Mistakes' with bold text, a red 'X', and the authority of a dermatologist (in both text and the image of the individual who is likely the dermatologist). The concerned expression and finger-pointing reinforce the idea that viewers are unknowingly making these mistakes.",
+    "Contrasts or mismatches": "No significant mismatches\u2014thumbnail and title are highly congruent, mutually reinforcing the video\u2019s educational and cautionary theme for sensitive skincare."
+  }
+}

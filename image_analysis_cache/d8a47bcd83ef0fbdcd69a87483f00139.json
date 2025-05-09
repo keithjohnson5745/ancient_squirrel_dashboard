@@ -1,0 +1,46 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "white": "50% (background - toilet, reflection, and lighting)",
+      "blue": "25% (WD-40 can)",
+      "yellow": "10% (WD-40 label)",
+      "red": "10% (WD-40 cap and label)",
+      "skin tones": "5% (hand holding can)",
+      "beige": "trace amount (bathroom tile background)"
+    },
+    "Composition type": "Medium close-up (focus on hand, WD-40 can, and toilet bowl)",
+    "Human presence": {
+      "number_of_people": 1,
+      "visible_features": "Single hand with light skin tone and a gold bracelet is visible. No face or full body is shown."
+    },
+    "Main objects/props featured": [
+      "WD-40 spray can",
+      "Toilet bowl"
+    ],
+    "Background environment": "Bathroom with visible white toilet and beige tile flooring, in focus only on the toilet and WD-40, rest is blurred/out of frame."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "WD-40\nPRODUCTO MULTIUSO\nPRODUIT MULTI-USO\n500 ml\nNo contiene silicona\nNo cont\u00e9m silicone",
+    "Font characteristics": {
+      "style": "Bold, sans-serif for 'WD-40'; smaller, clean sans-serif for instructions",
+      "emphasis": "'WD-40' in large, bold, dark blue letters on a yellow background; supporting text in smaller white or yellow fonts"
+    },
+    "Text placement within frame": "Primary brand text (\u2018WD-40\u2019) is centered and prominent on the can, placed in the middle-left of the frame. Additional instructions are on the side of the can towards the right.",
+    "Emotional/trigger words": "'WD-40' (brand recognition), 'multi-uso' (multi-use, suggests versatility), 'No contiene silicona' (reassurance, safety)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intriguing and surprising\u2014uses an everyday household brand in an unexpected situation",
+    "Visual metaphors or symbols": "Shows a cleaning product being applied to a toilet, symbolizing unconventional cleaning hacks or life tips",
+    "Clickbait techniques employed": [
+      "Unexpected context (WD-40 in a bathroom/toilet setting)",
+      "Curiosity gap (implies a trick most people don't know)"
+    ],
+    "Brand elements present": [
+      "WD-40 can and logo, highly recognizable"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The image directly shows WD-40 being used in an unconventional manner (sprayed into a toilet), visually supporting the idea of a 'trick everyone should know' and suggesting alternate uses.",
+    "Contrasts or mismatches": "No significant mismatch; the thumbnail creates curiosity about the featured trick and aligns with the idea of there being '20 other uses.' However, only one specific use is shown (toilet cleaning), not the full range implied by the title."
+  }
+}

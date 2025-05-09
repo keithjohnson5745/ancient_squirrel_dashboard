@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "sage green/background": "~65%",
+      "peach/pale pink (jacket)": "~10%",
+      "gray-blue (top)": "~5%",
+      "light cream (earrings/text)": "~10%",
+      "warm skin tones": "~10%"
+    },
+    "Composition type": "Medium close-up (person shown from chest up, taking up roughly half the width of the frame, positioned left)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Pleasant, open smile, direct eye contact; approachable and friendly demeanor",
+      "demographics": "Adult woman, fair skin, red/light brown hair, likely late 40s to early 60s"
+    },
+    "Main objects/props featured": "Large circular earrings, necklace, soft jacket/cardigan; no other prominent props",
+    "Background environment": "Flat sage green with subtle, line-drawn botanical/leaf motifs for a calm and natural look"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "WHEN IS IT Too Late TO START HORMONE THERAPY?",
+    "Font characteristics": {
+      "WHEN IS IT / TO START HORMONE THERAPY?": "All caps, modern serif, black or charcoal color, formal and easy to read",
+      "Too Late": "Handwritten/script font, large, light cream/off-white color, flowing and emphasized"
+    },
+    "Text placement within frame": {
+      "WHEN IS IT": "Top right",
+      "Too Late": "Center right, dominant and intentionally prominent",
+      "TO START HORMONE THERAPY?": "Bottom right"
+    },
+    "Use of emotional/trigger words": [
+      "Too Late"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, calm, welcoming, trustworthy (soft colors, pleasant expression, gentle background)",
+    "Visual metaphors or symbols": "Botanical/leaf motifs evoke health, natural transitions, and growth; soft colors and attire suggest empathy and care",
+    "Clickbait techniques employed": [
+      "Posing an urgent question ('WHEN IS IT Too Late...') to invoke curiosity and potential concern",
+      "Use of bold/contrasting script for 'Too Late' to draw immediate attention"
+    ],
+    "Brand elements present": "No explicit branding or logo, but the consistent use of a professional, health-oriented aesthetic may be part of a recognizable brand style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly echoes the video's title, clearly referencing the concept of timing around hormone therapy. The text emphasizes 'Too Late' in a handwritten, urgent style, matching the video's focus on addressing concerns about timing. The presence of a reassuring medical expert visually supports the 'insights with Dr. Susan' segment of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches; both the thumbnail and title reinforce the theme of menopause and timing for hormone therapy in a consistent, supportive manner."
+  }
+}

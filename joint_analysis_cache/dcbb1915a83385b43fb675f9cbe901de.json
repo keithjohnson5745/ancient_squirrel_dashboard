@@ -1,0 +1,12 @@
+{
+  "title": "Karen Read trial live stream | Retired Canton police officer back on the stand",
+  "thumbnail_path": "thumbnails/rtFfcDoMbcs_max.jpg",
+  "title_length": 78,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

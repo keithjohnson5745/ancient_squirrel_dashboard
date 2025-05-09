@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "45% (background, large text background area)",
+      "Light teal/blue": "25% (woman\u2019s clothing, some design elements)",
+      "Green": "10% (Bangla text\u2019s outline and inside fill)",
+      "Black": "5% (woman\u2019s headscarf, glasses, necklace, text outline)",
+      "Purple": "7% (name text at bottom)",
+      "Other": "8% (flesh tones, wood decoration, yellowish wallpaper, light gold accents)"
+    },
+    "Composition type": "Medium shot (single person from waist up, clear facial features, sitting position)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight smile, calm and professional",
+      "Demographics": "Apparent adult woman, South Asian, wearing glasses and a hijab/scarf; appears to be a medical or academic professional"
+    },
+    "Main objects/props featured": [
+      "Seated woman (likely expert or doctor)",
+      "Headscarf/hijab",
+      "Glasses",
+      "Furniture detail (back of ornate chair)",
+      "Clip-on microphone"
+    ],
+    "Background environment": "Indoor, likely an office or sitting area; patterned wallpaper with gold/yellow accents; part of a wooden wall decor and a cushioned chair visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "\u09b8\u09b9\u09ac\u09be\u09b8\u09c7\u09b0 \u09b8\u09ae\u09af\u09bc \u09af\u09cc\u09a8\u09be\u0999\u09cd\u0997\u09c7 \u099c\u09cd\u09ac\u09be\u09b2\u09be\u09aa\u09cb\u09a1\u09bc\u09be, \u09ac\u09cd\u09af\u09a5\u09be \u0995\u09c7\u09a8 \u09b9\u09af\u09bc?",
+      "\u09aa\u09cd\u09b0\u09ab\u09c7\u09b8\u09b0 \u09a1\u09be\u0983 \u09b8\u09c7\u09b2\u09bf\u09a8\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0"
+    ],
+    "Font characteristics": {
+      "Main title font": "Bold, large, sans-serif Bangla script, green with a white-and-black outline for high emphasis",
+      "Subtext font": "Slightly smaller, purple, sans-serif Bangla script, outlined, italicized look, more formal"
+    },
+    "Text placement within frame": {
+      "Main title": "Upper and middle left, occupying most of left third or half",
+      "Name/subtext": "Bottom left, smaller size, prominent but less than headline"
+    },
+    "Use of emotional/trigger words": [
+      "\u099c\u09cd\u09ac\u09be\u09b2\u09be\u09aa\u09cb\u09a1\u09bc\u09be (Burning)",
+      "\u09ac\u09cd\u09af\u09a5\u09be (Pain)",
+      "\u0995\u09c7\u09a8 \u09b9\u09af\u09bc (Why does it happen?)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, professional, empathetic. The expert pose and calm colors suggest trustworthiness and sensitivity.",
+    "Visual metaphors or symbols": [
+      "Medical professional's attire and decorum signal authority and trust."
+    ],
+    "Clickbait techniques employed": [
+      "Direct question posed in the headline",
+      "Focus on a sensitive topic",
+      "Expert/doctor\u2019s name highlighted to build authority"
+    ],
+    "Brand elements present": [
+      "HC Bangla logo in upper left corner"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The large, direct Bangla question in the thumbnail exactly matches the topic in the title, reinforcing the video\u2019s intent to answer a sensitive medical question. The presence of a female medical professional adds credibility and a sense of reassurance, matching the educational/medical theme.",
+    "Any contrasts or mismatches": "There is alignment. The only minor contrast is that the image is very calm and professional in tone while the topic is about a very intimate and potentially distressing issue, but this contrast supports the overall sense of trustworthy advice."
+  }
+}

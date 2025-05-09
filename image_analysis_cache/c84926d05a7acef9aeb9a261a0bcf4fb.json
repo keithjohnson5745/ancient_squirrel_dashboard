@@ -1,0 +1,64 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Light Blue": "Approximately 50% (background grid)",
+      "Coral/Red": "Approximately 25% (background, shirt, calendar graphic)",
+      "White": "Approximately 15% (doctor's coat, text)",
+      "Beige/Tan": "Approximately 5% (skin tone)",
+      "Various Accent Colors": "Approximately 5% (purple, yellow, blue from emojis, and calendar graphic)"
+    },
+    "Composition Type": "Medium shot (shows the upper body of a woman/doctor, frontal view)",
+    "Human Presence": {
+      "Number of People": 1,
+      "Expression": "Smiling, friendly expression",
+      "Demographics": "Female, adult, light skin, light hair, wearing a white coat (doctor/medical professional appearance)"
+    },
+    "Main Objects/Props Featured": [
+      "Pregnancy test (held by the woman)",
+      "White medical coat",
+      "Pregnant woman emoji",
+      "Calendar graphic with X marks"
+    ],
+    "Background Environment": "A digitally created, divided background with a blue grid texture on most of the area and a coral/red shape behind the main text and graphics."
+  },
+  "2. TEXT ELEMENTS": {
+    "Visible Text": [
+      "Early Pregnancy:",
+      "DPO 1-12 \ud83d\ude23\ud83d\udca6 Symptoms",
+      "(pregnant woman emoji, calendar graphic, upset face emoji, sweat droplets emoji, blood drop emoji)"
+    ],
+    "Font Characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High (large, bold, easy to read; 'Early Pregnancy:' is in much larger font for emphasis)",
+      "Text color": "White",
+      "Emojis": "Mixed in with text for visual/emotional emphasis"
+    },
+    "Text Placement": "Text is right-aligned, occupying the right two-thirds of the frame; 'Early Pregnancy:' is at the upper right, with the rest stacked below.",
+    "Emotional/Trigger Words": [
+      "Early Pregnancy",
+      "Symptoms",
+      "DPO 1-12",
+      "Emojis signaling discomfort (\ud83d\ude23), water/sweat (\ud83d\udca6), blood drop (\ud83e\ude78)"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Informative and mildly reassuring, with a hint of concern (mainly due to the discomfort and blood drop emojis)",
+    "Visual Metaphors or Symbols": [
+      "Pregnancy test (symbol of early pregnancy/testing)",
+      "Pregnant woman emoji (symbolizing pregnancy)",
+      "Calendar (tracking cycle or days past ovulation/DPO)",
+      "Blood drop emoji (menstruation, symptoms)"
+    ],
+    "Clickbait Techniques Employed": [
+      "Large, bold keywords ('Early Pregnancy', 'Symptoms')",
+      "Emojis emphasizing emotion/symptom urgency",
+      "Medical professional for credibility",
+      "Props and symbols directly related to pregnancy"
+    ],
+    "Brand Elements Present": "No explicit logo; the use of a medical professional and clear, readable type serves as subtle branding for credibility/authority."
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement": "The thumbnail uses a medical professional holding a pregnancy test, the calendar, and DPO references to directly reflect the video's focus on symptoms after ovulation and early pregnancy. Emojis complement the implied symptom progression discussed in the title ('Two Week Wait Symptoms: DPO 1 to DPO 12'). Text explicitly references both early pregnancy and symptom timeline.",
+    "Contrasts or Mismatches": "No strong contrasts or mismatches; the visual language and icons accurately communicate the same topic as the title, focused on early pregnancy symptoms and DPO timeline."
+  }
+}

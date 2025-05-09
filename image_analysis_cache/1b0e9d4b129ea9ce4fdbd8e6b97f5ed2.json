@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant_colors": {
+      "Skin tones (beige, light pink)": "40%",
+      "Black (hair, clothing, background edges)": "25%",
+      "Light grey/off-white (headband, wall)": "15%",
+      "Muted purple (hair highlights)": "10%",
+      "Red (arrows, X mark)": "5%",
+      "Other (subtle peach tones)": "5%"
+    },
+    "Composition_type": "Medium close-up (shows upper torso and face, hands raised to camera)",
+    "Human_presence": {
+      "Number_of_people": 1,
+      "Apparent_demographics": "Young woman, East Asian features",
+      "Expressions": "Slight smile, neutral/calm expression, direct gaze at camera"
+    },
+    "Main_objects_props_featured": [
+      "Headband (fuzzy, off-white; likely for skincare routine)",
+      "Fingers crossed in an 'X' with visible shine (possibly oil)",
+      "Red 'X' and directional arrow drawn on/near face"
+    ],
+    "Background_environment": "Plain indoor setting, beige wall and closed door, typical home environment. Neutral and unobtrusive to highlight the subject."
+  },
+  "TEXT ELEMENTS": {
+    "Visible_text": "the oil to the opposite direction",
+    "Font_characteristics": {
+      "Style": "Modern sans-serif, easy to read.",
+      "Emphasis": "All lowercase, not bolded or italicized, white with thin black outline for contrast.",
+      "Color": "White with black outline."
+    },
+    "Text_placement": "Bottom-center of the frame, just above the hands.",
+    "Emotional_trigger_words": [
+      "opposite direction"
+    ],
+    "Other_visual_text": {
+      "Red_X_and_arrow": "Hand-drawn effect, acts as visual instructional cues."
+    }
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Friendly, approachable, instructional. The use of casual clothing, headband, and direct eye contact creates a relaxed, trustworthy atmosphere.",
+    "Visual_metaphors_or_symbols": [
+      "Red X and arrow: Emphasizes direction/instruction, visual guide to technique.",
+      "Headband: Symbolizes self-care/skincare routine."
+    ],
+    "Clickbait_techniques_employed": [
+      "Direct eye contact to engage viewer",
+      "Visually demonstrating a technique/method",
+      "Overlay instructional graphics (arrows, X) to hint at a unique tip or hack"
+    ],
+    "Brand_elements_present": "No visible branding or product in the thumbnail. Branding only implied by the video title mentioning 'IUNIK CALENDULA CLEANSING OIL'."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual_reinforcement_of_title": "The thumbnail clearly reinforces the theme of skincare and cleansing oil use, with the subject demonstrating a facial technique. The instructional/careful nature complements the 'for acne prone skin' audience, and ties into the title\u2019s promise of revealing an 'underrated' product.",
+    "Contrasts_or_mismatches": "No visible product is shown in the thumbnail, making the specific brand ('IUNIK CALENDULA CLEANSING OIL') or its 'underrated' status less obvious. The focus is more on technique than on the product being promoted."
+  }
+}

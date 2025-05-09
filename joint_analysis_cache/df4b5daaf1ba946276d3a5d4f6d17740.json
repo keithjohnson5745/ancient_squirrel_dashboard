@@ -1,0 +1,13 @@
+{
+  "title": "Watch this to never get a heart attack | Padma Bhushan Cardiac Surgeon | Rethink India Ep. 9",
+  "thumbnail_path": "thumbnails/tHkt17D0AWA_max.jpg",
+  "title_length": 92,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

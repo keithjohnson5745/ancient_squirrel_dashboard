@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue/navy": "20%",
+      "tan/beige": "15%",
+      "brown (skin tones)": "30%",
+      "white": "15%",
+      "black/gray": "15%",
+      "red": "5%"
+    },
+    "Composition type": "Triptych (three-panel layout) with close-up and medium shots.",
+    "Human presence": {
+      "number of people": "At least five (two clearly shown individually, three+ in the central action shot)",
+      "expressions": [
+        "Left: Serious, engaged, possibly concerned",
+        "Center: Intense, physical effort or celebration",
+        "Right: Surprised or contemplating"
+      ],
+      "demographics": "Adult males, likely African-American (left, right), mixed group in center with possible diversity, early 30s-50s"
+    },
+    "Main objects/props featured": [
+      "Microphones (left/right, attached to jackets)",
+      "Basketball uniforms (center, visible on athletes)"
+    ],
+    "Background environment": [
+      "Studio set with gray/blue accent for left/right panels",
+      "Basketball court and crowd in central panel"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "THE INSIDE GUYS"
+    ],
+    "Font characteristics": {
+      "style": "Bold, block, sans-serif",
+      "emphasis": "All caps, heavy drop shadow for 3D effect",
+      "color": "White text with black border"
+    },
+    "Text placement within frame": "Bottom third, spanning width of thumbnail",
+    "Use of emotional/trigger words": "None explicitly, but 'INSIDE' connotes exclusivity and authority"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic, intense, and slightly suspenseful or reactive. The central action image is high-energy, while the studio reactions suggest analysis or shock.",
+    "Visual metaphors or symbols": [
+      "Central player being mobbed \u2014 symbolizes triumph, victory, or a game-winning moment",
+      "Panel format \u2014 suggests debate or reaction/show context"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic and celebratory sports action shot",
+      "Strong facial reactions",
+      "Bold/exclusive-looking typography"
+    ],
+    "Brand elements present": [
+      "Consistent 'NBA On TNT' studio visual style",
+      "Prominent display of show segment name ('THE INSIDE GUYS')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly reflects the video title by depicting analysts ('Inside' crew) on either side and an explosive in-game celebration (likely Aaron Gordon\u2019s game-winner) in the middle, matching the discussion of a key NBA moment. The center panel visually conveys the 'game-winner' and excitement; analysts' expressions fit the 'reacts' prompt from title.",
+    "Contrasts or mismatches": "While Joki\u0107 is mentioned in the title for his 'insane stat line', he is not visually featured or highlighted within the thumbnail. The focus is split between analysts and Aaron Gordon, with no show of explicit stats or Joki\u0107."
+  }
+}

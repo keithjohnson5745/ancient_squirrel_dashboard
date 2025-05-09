@@ -1,0 +1,13 @@
+{
+  "title": "COLLAGEN Supplements.  What you need to know before starting. \ud83d\udc37\ud83d\udc2e\ud83d\udc1f\ud83e\udd5a",
+  "thumbnail_path": "thumbnails/juKy4HfCdmw_max.jpg",
+  "title_length": 66,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

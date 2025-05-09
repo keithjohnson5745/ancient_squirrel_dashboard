@@ -1,0 +1,91 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Neon green": "Approximately 40%",
+      "Dark green": "Approximately 30%",
+      "White": "Approximately 10%",
+      "Light pink (skin tones, eyes)": "Approximately 10%",
+      "Blue/aqua (man\u2019s face)": "Approximately 5%",
+      "Red (man\u2019s eyes, stethoscope)": "Approximately 5%"
+    },
+    "Composition type": "Medium shot / Split composition (two human subjects, both framed from shoulders up, separated by a central text box)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        {
+          "Left person": "Wide-eyed, dazed/confused, with exaggerated pink/red eyes (suggesting marijuana use)"
+        },
+        {
+          "Right person": "Smiling, open, friendly (doctor/professional appearance)"
+        }
+      ],
+      "Demographics": [
+        {
+          "Left person": "Young adult male, dark hair, South Asian features"
+        },
+        {
+          "Right person": "Young adult female, dark hair tied back, glasses, South Asian features, wearing doctor\u2019s coat and stethoscope"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Large cannabis/marijuana leaf graphic over left person\u2019s head",
+      "Two rolled joints and buds of marijuana pictured at the bottom left",
+      "Stethoscope worn by the right person"
+    ],
+    "Background environment": "Solid gradient background (neon green to dark green), with a circular dark green field behind the text"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "LIFE WITH",
+      "WEED",
+      "ADDICTION"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, straightforward text",
+      "Emphasis": {
+        "WEED": "Extra-large, bright neon green for maximum visual impact",
+        "LIFE WITH": "All caps, smaller, white font",
+        "ADDICTION": "All caps, medium, white font"
+      },
+      "Color": "Bright neon green (WEED), white (LIFE WITH, ADDICTION)"
+    },
+    "Text placement within frame": {
+      "LIFE WITH": "Top center of oval",
+      "WEED": "Center of oval, dominating the frame",
+      "ADDICTION": "Bottom center of oval"
+    },
+    "Use of emotional/trigger words": [
+      "WEED",
+      "ADDICTION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "A mix between alarming/serious (man\u2019s expression, red eyes, the word 'ADDICTION') and trustworthy/informative (friendly doctor, clean design)",
+    "Visual metaphors or symbols": [
+      "Cannabis leaf above man\u2019s head = weed/marijuana",
+      "Bloodshot/pink eyes = effects of marijuana use/possible addiction",
+      "Doctor figure = authority, credibility, medical perspective",
+      "Rolled joints = direct drug use representation"
+    ],
+    "Clickbait techniques employed": [
+      "Bold emotional trigger words ('ADDICTION')",
+      "Extreme visual cues (bloodshot eyes, large cannabis leaf)",
+      "Contrasting personalities (disheveled user vs. calm doctor)",
+      "Bright, unnatural colors for high contrast and curiosity"
+    ],
+    "Brand elements present": [
+      "Doctor persona (potential series branding)",
+      "Professional/medical context signaled visually"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": [
+      "Shows direct visual references to marijuana use (leaf, joints, bloodshot eyes)",
+      "Presents a juxtaposition between experience of 'life with weed' (left/headline/joints) and 'Indian Doctor' (right/persona)"
+    ],
+    "Contrasts/mismatches": [
+      "Thumbnail heavily emphasizes 'addiction', whereas the title is more neutral/informative ('what happens when you smoke marijuana'), which may create a slightly sensational tone compared to the educational promise in the title"
+    ]
+  }
+}

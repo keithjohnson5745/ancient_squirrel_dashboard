@@ -1,0 +1,13 @@
+{
+  "title": "We're Back with some SAUCY Stories | F**ks Given Podcast | Come Curious",
+  "thumbnail_path": "thumbnails/t02uGcCOJ34_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

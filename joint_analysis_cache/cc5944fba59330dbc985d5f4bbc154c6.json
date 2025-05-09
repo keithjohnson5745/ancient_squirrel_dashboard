@@ -1,0 +1,13 @@
+{
+  "title": "Why it Sucked to Be a Medieval Blacksmith",
+  "thumbnail_path": "thumbnails/DPeag3UdOiE_max.jpg",
+  "title_length": 41,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.35
+}

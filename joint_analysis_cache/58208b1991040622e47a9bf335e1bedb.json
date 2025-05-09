@@ -1,0 +1,13 @@
+{
+  "title": "The Full Truth About Herpes",
+  "thumbnail_path": "thumbnails/mF0SSV_1NHQ_max.jpg",
+  "title_length": 27,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,82 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark teal/green background": "\u224860%",
+      "White (doctor's coat, bed sheets, text)": "\u224825%",
+      "Skin tones": "\u22487%",
+      "Light brown (hair, skin)\u2014female subject": "\u22485%",
+      "Orange/gold (name banner)": "\u22483%"
+    },
+    "Composition type": "Medium composite shot\u2014combining a portrait (doctor) on the left and a staged scene (couple in bed) on the right",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Doctor: Neutral, professional",
+        "Male in bed: Neutral-calm, eyes closed; passive or possibly concerned",
+        "Female in bed: Eyes downcast, moderately concerned or disappointed"
+      ],
+      "Demographics": "Doctor: adult male, South Asian; Couple: young adult/middle-aged, man and woman, both fair skin, woman has curly hair"
+    },
+    "Main objects/props featured": [
+      "Doctor in white coat",
+      "Bed with male and female subjects sitting in it",
+      "Doctor\u2019s name plaque/banner"
+    ],
+    "Background environment": "Solid dark teal/green background with a graphic/edited layout; no real-world background elements"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Best Ways To Treat Erectile Dysfunction Naturally",
+      "DR. SUNIL JINDAL"
+    ],
+    "Font characteristics": {
+      "Main title": {
+        "Style": "Simple, sans-serif, bold",
+        "Emphasis": "Bold, all words capitalized except minor words",
+        "Color": "White"
+      },
+      "Name plaque": {
+        "Style": "Sans-serif, bold, all-caps",
+        "Emphasis": "White text on bold orange background with dark blue border",
+        "Color": "White on orange"
+      }
+    },
+    "Text placement within frame": {
+      "Main title": "Top right quadrant, left-aligned, occupying half the thumbnail",
+      "Name plaque": "Bottom left corner, overlaid on doctor\u2019s photo"
+    },
+    "Use of emotional/trigger words": [
+      "Best",
+      "Naturally"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, serious, and supportive\u2014aims to reassure and inform the viewer",
+    "Visual metaphors or symbols": [
+      "Doctor in white coat: credibility, expertise",
+      "Couple in bed: direct reference to the subject (erectile dysfunction)",
+      "Body language: mild concern/discomfort, highlighting the issue"
+    ],
+    "Clickbait techniques employed": [
+      "Use of 'Best' and 'Naturally' (promises ideal and easy solutions)",
+      "Direct mention of 'Erectile Dysfunction' (draws attention to taboo topic)",
+      "Authority figure pictured (doctor)",
+      "Emotionally evocative scenario (couple in bed, visible tension)"
+    ],
+    "Brand elements present": [
+      "Doctor's name prominently displayed",
+      "Consistent color scheme with hospital/medical professionalism"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail supports title": [
+      "Text on the thumbnail summarizes the video\u2019s promise: natural treatments for erectile dysfunction",
+      "Image of doctor ('Dr. Sunil Jindal') reinforces medical authority of the speaker mentioned in the title",
+      "Inclusion of a couple in bed visually contextualizes the topic\u2014relating to real viewers\u2019 concerns"
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail text is in English, but video title mentions \u2018In Hindi\u2019 (potentially a mismatch for language expectations)",
+      "Thumbnail is more generic than title\u2014title specifies 'Jindal Hospital Meerut' and content in Hindi; thumbnail focuses on generic solution claims"
+    ]
+  }
+}

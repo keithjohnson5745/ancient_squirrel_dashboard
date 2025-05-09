@@ -1,0 +1,87 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant_colors": {
+      "Blue": "Approximately 40% (WD-40 branding, background mat)",
+      "Yellow": "Approximately 15% (WD-40 logo, text background, bottle parts)",
+      "Black": "Approximately 20% (Rubber parts, text, outlines)",
+      "Red": "Approximately 10% (Cap, bottle writing, details)",
+      "White": "Approximately 10% (Plastic containers, text highlights)",
+      "Other": "5% (Background objects and surfaces)"
+    },
+    "Composition_type": "Split-frame: Left half is a close-up of WD-40 products; right half is an overhead medium shot of organized rubber parts and labeled containers.",
+    "Human_presence": {
+      "Number_of_people": 0,
+      "Expressions": null,
+      "Demographics": null
+    },
+    "Main_objects_props_featured": [
+      "WD-40 spray can (Trigger Pro, Non-Aerosol)",
+      "Large WD-40 canister",
+      "Rubber parts (various seals, O-rings, bushings)",
+      "Plastic sample containers (some with handwritten red labels: 'Air', 'WD40 SPRAY', 'WD40 SOAK')"
+    ],
+    "Background_environment": "Left side: workshop or toolbench area. Right side: blue surface (possibly towel or mat), neutral and uncluttered environment."
+  },
+  "TEXT ELEMENTS": {
+    "All_text_visible_in_thumbnail": [
+      "EXPERIMENTS EP2",
+      "WD-40",
+      "TRIGGER PRO",
+      "NON-AEROSOL",
+      "Stops Squeaks",
+      "Removes & Protects",
+      "Loosens Rusted Parts",
+      "Frees Sticky Mechanisms",
+      "Drives Out Moisture",
+      "Danger: Harmful or fatal if swallowed.",
+      "Keep Out of Reach of Children.",
+      "See other cautions on back.",
+      "1 GALLON / 3.785 LITERS",
+      "Air",
+      "WD40 SPRAY",
+      "WD40 SOAK"
+    ],
+    "Font_characteristics": {
+      "Style": "Bold, sans-serif, block letters for 'EXPERIMENTS EP2' and WD-40 branding; smaller, clean sans-serif for product details.",
+      "Emphasis": "High contrast, thick borders (especially thumbnail headline); yellow/black color scheme for emphasis.",
+      "Color": "Headline (EXPERIMENTS EP2) in black with thick orange background/shadow for pop. WD-40 logo in yellow/blue."
+    },
+    "Text_placement_within_frame": {
+      "Headline": "Top center, spanning the frame.",
+      "Brand/product_text": "Prominently placed on WD-40 canisters on the left. Red writing on containers (right side, upper half)."
+    },
+    "Use_of_emotional_trigger_words": [
+      "EXPERIMENTS",
+      "NON-AEROSOL",
+      "Stops",
+      "Removes",
+      "Protects",
+      "Loosens",
+      "Frees",
+      "Drives Out",
+      "Danger"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Curious, experimental, slightly urgent (triggers interest and safety concerns).",
+    "Visual_metaphors_or_symbols": [
+      "Scientific setup (organized parts, labeled containers) to signify 'experiment.'",
+      "Juxtaposition of known product (WD-40) with raw materials (rubber parts) to symbolize testing and discovery."
+    ],
+    "Clickbait_techniques_employed": [
+      "Large bold headline ('EXPERIMENTS EP2')",
+      "Explicit step-by-step arrangement of test items",
+      "Brand/logo dominance for instant recognition",
+      "Implied promise of dramatic results (long-term exposure test, reference to possible damage)"
+    ],
+    "Brand_elements_present": [
+      "WD-40 logo and canisters occupy significant visual space",
+      "Maintains WD-40 color palette and design style",
+      "Product copy visible on canisters"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement_with_title": "The thumbnail directly illustrates the video's premise by showing both the WD-40 product (being tested) and the various rubber parts (test subjects) with visible experiment organization. The labeled sample containers visually match the 'experiments' and 'long-term exposure' themes from the title.",
+    "Contrasts_or_mismatches": "There are no significant mismatches. Both thumbnail and title are well-aligned: the visual is scientific and experimental in nature, matching the title precisely, and the focus on rubber with WD-40 is clear and unambiguous."
+  }
+}

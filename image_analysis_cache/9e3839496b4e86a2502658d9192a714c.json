@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/teal": "Approximately 60% (background)",
+      "Yellow": "Around 10% (circle accents, text highlights)",
+      "White": "About 20% (main text)",
+      "Green (surgeon's scrubs)": "About 5%",
+      "Gray/light blue (background of photo)": "Around 5%"
+    },
+    "Composition type": "Medium close-up (doctor), split layout with text and image",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/confident (arms crossed, slight smile)",
+      "Demographics": "Adult male, South Asian appearance, dressed as a medical professional"
+    },
+    "Main objects/props featured": [
+      "Person in surgical scrubs (doctor)",
+      "Medical equipment visible in background of photo (monitor, machines)"
+    ],
+    "Background environment": "Left: solid color with abstract circles; Right: clinical, hospital or medical facility (inset photo)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u09b2\u09bf\u0999\u09cd\u0997 \u09b2\u09ae\u09cd\u09ac\u09be \u0993 \u09ae\u09cb\u099f\u09be \u0995\u09b0\u09be\u09b0 \u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0 \u0993 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09aa\u09a6\u09cd\u09a7\u09a4\u09bf",
+      "\u09a1\u09be\u0983 \u0987\u0995\u09ac\u09be\u09b2 \u0986\u09b9\u09ae\u09c7\u09a6"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold, clean for main headline; slightly smaller, simple for name",
+      "Emphasis": "Certain words (\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0) in yellow for highlighting",
+      "Color": "Main headline in white, highlighted word (\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0) and name in yellow"
+    },
+    "Text placement within frame": {
+      "Headline": "Left two-thirds, vertically stacked, centered left",
+      "Doctor's name": "Bottom left corner"
+    },
+    "Use of emotional/trigger words": [
+      "\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0",
+      "\u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, trustworthy, scientific; some emphasis on solution and authority",
+    "Visual metaphors or symbols": [
+      "Doctor in scrubs (symbol of medical expertise/trust)",
+      "Medical setting (reinforces scientific/clinical approach)",
+      "Yellow circles (draw focus and imply highlight/importance)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large headline text with direct promise of solution",
+      "Highlighted keyword ('\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0' - permanent), suggests uniqueness/effectiveness",
+      "Prominent image of an expert (doctor) to build trust"
+    ],
+    "Brand elements present": [
+      "Name of the doctor prominently displayed",
+      "Consistent use of accent color (yellow) and circles for visual signature"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail headline is an exact match to the main title, reinforcing the video topic (penile enlargement, scientific/permanent methods) with bold, authoritative text. The doctor\u2019s image visually underlines the authoritative and clinical promise found in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no major mismatch. Both thumbnail and title focus on the same theme: medical, scientific, permanent solutions for penile enlargement. The visual style is consistent with the claim of expertise and science."
+  }
+}

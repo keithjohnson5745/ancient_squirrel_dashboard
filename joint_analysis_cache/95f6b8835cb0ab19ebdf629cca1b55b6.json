@@ -1,0 +1,12 @@
+{
+  "title": "Beautiful Relaxing Soothing Music, Peaceful  Music, \"Nature's Rest\" by Tim Janis",
+  "thumbnail_path": "thumbnails/ciSYYc6Pwos_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

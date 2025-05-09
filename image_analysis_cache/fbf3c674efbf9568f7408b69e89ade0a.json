@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink (background gradient & uterus illustrations)": "40%",
+      "Blue (background gradient, woman's scrubs)": "30%",
+      "White (text, numbers, border)": "15%",
+      "Red (blood details in illustrations)": "10%",
+      "Black (text shadow, outlines)": "5%"
+    },
+    "Composition type": "Medium shot (Female presenter shown from chest up, alongside large close-up diagrams of uteri)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to friendly, slightly serious but approachable (subtle smile, direct eye contact)",
+      "Demographics": "Adult woman, light skin, straight brown hair, wearing blue medical scrubs"
+    },
+    "Main objects/props featured": [
+      "Medical illustrations of three uteri with stages of miscarriage or bleeding (numbered 1, 2, 3)",
+      "Blood droplets illustrated beneath the uteri",
+      "The female presenter (likely a healthcare professional)"
+    ],
+    "Background environment": "Abstract, gradient background from blue (bottom left) to pink (upper right), clean with no environmental details"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "1",
+      "2",
+      "3",
+      "TYPES OF",
+      "MISCARRIAGE"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All-caps, high contrast colors (white on black, white on pink)",
+      "Color": [
+        "White (primary text and numbers)",
+        "Black (background block behind \u2018TYPES OF\u2019)",
+        "Bright pink block highlighting the word \u2018MISCARRIAGE\u2019"
+      ]
+    },
+    "Text placement within frame": {
+      "\u20181\u2019, \u20182\u2019, \u20183\u2019": "Next to corresponding uterus illustrations (top left to middle-left)",
+      "\u2018TYPES OF\u2019": "Lower left, inside a black rectangular block",
+      "\u2018MISCARRIAGE\u2019": "Bottom left, inside a magenta/pink rectangular block beneath \u2018TYPES OF\u2019"
+    },
+    "Use of emotional/trigger words": [
+      "MISCARRIAGE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct, serious but approachable and educational. Grim anatomical imagery is balanced by a friendly human presence.",
+    "Visual metaphors or symbols": [
+      "Bleeding uteri as explicit visual representation of miscarriage types"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list visuals suggest discrete, learnable categories (promise of clarity)",
+      "Large, bold type confronts and draws attention to the topic",
+      "Strong color contrast and medical illustrations for instant recognition"
+    ],
+    "Brand elements present": "Possible medical professional branding in the presenter\u2019s attire (blue medical scrubs), but no explicit channel logo."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The anatomical illustrations with differing numbers and the bold text 'TYPES OF MISCARRIAGE' visually echo the video\u2019s intent to enumerate, clarify, and educate about types of miscarriage, directly aligning with the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The title mentions \u201810 Kinds\u2019, but only 3 are visually illustrated in the thumbnail. The rest are implied but not represented, possibly as a simplification for visual clarity or focus."
+  }
+}

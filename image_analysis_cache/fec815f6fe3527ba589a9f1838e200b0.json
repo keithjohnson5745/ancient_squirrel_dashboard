@@ -1,0 +1,85 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "40% (main text boxes, some background elements)",
+      "Black": "20% (shirt of subject, some background elements)",
+      "Beige/Tan": "15% (skin tone of the subject)",
+      "White": "10% (text, paper/card in hand, some background details)",
+      "Blonde": "10% (subject's hair)",
+      "Pink": "5% (top left text box background)"
+    },
+    "Composition type": "Medium shot (waist-up of one person, centered, direct-to-camera)",
+    "Human presence": {
+      "Number": 1,
+      "Expression": "Smiling, enthusiastic, direct eye contact, open mouth (engaged/happy)",
+      "Demographics": "Adult woman with long blonde hair, light skin"
+    },
+    "Main objects/props featured": [
+      "White card with capital 'M' (left hand of subject)",
+      "Black sleeveless shirt with text",
+      "Furniture (background), bookshelf"
+    ],
+    "Background environment": "Indoor, home-like setting with furniture (sofa, table), bookshelves, plants, bright and uncluttered."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Let's Get you Pregnant!",
+      "TRYING TO CONCEIVE?",
+      "10 THINGS YOU SHOULD BE DOING",
+      "How to Have SEX & More!",
+      "MF Woman in the MF World",
+      "M"
+    ],
+    "Font characteristics": {
+      "Primary style": "Sans-serif, bold, all caps for emphasis in most callouts",
+      "Colors": [
+        "White (dominant, for main text)",
+        "Pink (background panel, top left)",
+        "Blue (panel backgrounds for most text)",
+        "Orange (MF on shirt text)",
+        "Teal/green (How to Have SEX & More!, background panel)"
+      ],
+      "Emphasis": "High-contrast with drop-shadows or colored panels behind the text for visibility"
+    },
+    "Text placement within frame": {
+      "Top left": "Let's Get you Pregnant!",
+      "Left/bottom left": "TRYING TO CONCEIVE?",
+      "Center right": "10 THINGS YOU SHOULD BE DOING",
+      "Bottom right": "How to Have SEX & More!",
+      "Center, on subject's shirt": "MF Woman in the MF World",
+      "Card in hand": "M"
+    },
+    "Emotional/trigger words": [
+      "Get Pregnant",
+      "Trying to Conceive",
+      "SEX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, energetic, supportive, informative. The upbeat expression and bright environment set a positive feel.",
+    "Visual metaphors or symbols": {
+      "Shirt slogan": "MF Woman in the MF World"
+    },
+    "Clickbait techniques employed": [
+      "\"10 Things You Should Be Doing\" as a listicle promise",
+      "Direct, personal engagement with audience",
+      "Big, friendly smile and direct addressing of a popular concern (pregnancy)",
+      "Highlight words like \"SEX\", \"NOW\", \"Get Pregnant\" for urgency and emotional draw"
+    ],
+    "Brand elements present": [
+      "Repeated use of specific typography and color palette",
+      "Presenter may be a recurring persona (implied by name on title and text on shirt/card)",
+      "Possible channel logo or branding (M on card, unclear if it's a logo)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "The thumbnail visually parallels the video title by using large, clear callouts of \"10 THINGS YOU SHOULD BE DOING\" and \"TRYING TO CONCEIVE?\", which directly echo the phrasing of the title.",
+      "Imagery and text both focus on pregnancy advice, matching the audience's expected content."
+    ],
+    "Contrast or mismatch": [
+      "There is strong alignment between thumbnail and title, no clear mismatch.",
+      "The playful language and shirt text add personality which the title doesn't communicate, creating additional relatability not explicit in the title."
+    ]
+  }
+}

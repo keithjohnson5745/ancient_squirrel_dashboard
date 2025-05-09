@@ -1,0 +1,13 @@
+{
+  "title": "Frank Abagnale Stuns Everyone With Stories of Being a Con Man | Carson Tonight Show",
+  "thumbnail_path": "thumbnails/FIYtKR24LQs_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

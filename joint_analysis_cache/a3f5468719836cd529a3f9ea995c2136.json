@@ -1,0 +1,12 @@
+{
+  "title": "ANDULAS NAMAN NYAN",
+  "thumbnail_path": "thumbnails/I8LNoPBfk_w_max.jpg",
+  "title_length": 18,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

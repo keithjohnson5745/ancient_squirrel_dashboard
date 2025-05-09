@@ -1,0 +1,12 @@
+{
+  "title": "Quick Weave Tutorial for Beginners | Deep Side Part",
+  "thumbnail_path": "thumbnails/uiio1xK13s0_max.jpg",
+  "title_length": 51,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/white background": "60%",
+      "Red (text)": "20%",
+      "Black (text)": "10%",
+      "Beige/light brown (clothing)": "8%",
+      "Skin tones": "2%"
+    },
+    "Composition type": "Medium shot (waist-up view of a single person on the right, prominent large text on the left)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, gentle, content",
+      "Demographics": "Young adult female, possibly Muslim (wearing a hijab)"
+    },
+    "Main objects/props featured": [
+      "Pregnant woman in a hijab and modest clothing"
+    ],
+    "Background environment": "Plain, light gray or white, with no discernible setting elements"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Become Parents Mother & Father!",
+      "Conceive A Child Prayer",
+      "DUA To Get",
+      "Pregnant",
+      "RECITED BY SAAD AL QURESHI"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif, mix of upper and lower case",
+      "Emphasis": [
+        "DUA",
+        "Pregnant",
+        "Conceive A Child Prayer"
+      ],
+      "Color": [
+        "Black (DUA, subtext)",
+        "Red (Pregnant, Conceive A Child Prayer, To Get)"
+      ]
+    },
+    "Text placement within frame": "Text occupies the left two-thirds of the frame, largest words ('DUA' and 'Pregnant') centered vertically. Other phrases arrayed above and below.",
+    "Use of emotional/trigger words": [
+      "Become Parents",
+      "Conceive A Child",
+      "DUA",
+      "Pregnant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Hopeful, supportive, nurturing, positive",
+    "Visual metaphors or symbols": [
+      "Pregnant woman represents hope for parenthood and conception",
+      "'DUA' (prayer) as a spiritual solution"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold, emotional trigger words ('Pregnant', 'DUA', 'Conceive')",
+      "Promise of solution ('To Get Pregnant')",
+      "Clear, direct language appealing to a strong desire"
+    ],
+    "Brand elements present": "Reciter\u2019s name ('SAAD AL QURESHI') for credibility and recognition, but no major corporate branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image of a visibly pregnant, smiling woman reinforces the video's focus on pregnancy and conception. Prominent keywords ('DUA', 'Pregnant', 'Conceive') in the thumbnail text mirror the title\u2019s promise of a prayer to help viewers become parents.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts; the thumbnail accurately and directly reflects the video's topic as described in the title. The text clarifies the video\u2019s religious approach (prayer/dua) and emotional appeal."
+  }
+}

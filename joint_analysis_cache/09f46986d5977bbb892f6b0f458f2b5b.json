@@ -1,0 +1,13 @@
+{
+  "title": "Women Health Expert: Birth Control Changes Who You Are & How You Feel About Your Partner!",
+  "thumbnail_path": "thumbnails/MGposaKNJKQ_max.jpg",
+  "title_length": 89,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

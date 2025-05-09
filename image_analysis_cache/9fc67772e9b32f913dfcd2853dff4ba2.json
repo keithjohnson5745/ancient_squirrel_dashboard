@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Grayish blue (car, part of the background)": "40%",
+      "Muted green (canopy, signage)": "20%",
+      "Earth tones (monster, buildings)": "25%",
+      "White/off-white (columns, text overlay, highlights)": "10%",
+      "Accents of red/yellow (signage foreground)": "5%"
+    },
+    "Composition type": "Wide shot (shows entire scene with background, monster, car, and human figure)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Not clearly visible; figure shown fleeing or reacting in fear/terror, with blurred motion conveying urgency",
+      "Demographics": "Unclear due to motion blur and angle, possibly adult"
+    },
+    "Main objects/props featured": [
+      "Large, menacing monster/creature (center-right, attacking)",
+      "Blue car (center, partially crushed/affected by monster)",
+      "Blurred human figure (left, fleeing/running)",
+      "Urban storefront with pillars and signs (background)"
+    ],
+    "Background environment": "City street with retail storefronts, signage, glass windows, and concrete columns"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "SCENE"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all-caps",
+      "Emphasis": "Very high (white color, heavy weight, large size)",
+      "Color": "White with subtle shadow/outline for contrast"
+    },
+    "Text placement within frame": "Bottom left corner",
+    "Use of emotional/trigger words": [
+      "SCENE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intense, chaotic, frightening; high action/threat conveyed by the monster\u2019s attack and fleeing person",
+    "Visual metaphors or symbols": [
+      "Monster = danger/fear",
+      "Fleeing figure = human vulnerability/survival",
+      "Urban setting = invasion of safety"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic creature mid-attack, capturing explosive action",
+      "Blurred human suggesting imminent threat",
+      "Large, bold text marking it as a key movie \u2018scene\u2019"
+    ],
+    "Brand elements present": [
+      "\u2018SCENE\u2019 logo style is typical of official movie channel clips",
+      "No explicit movie logos but the recognizable font/layout suggest an official brand channel"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail depicts a monster attacking a person, directly illustrating the 'Monsters Attack' described in the title. The dynamic action scene and imposing creature visually promise an extended, dramatic moment as referenced by 'Extended Scene' in the video title. The horror/action vibe matches the film\u2019s known atmosphere.",
+    "Contrasts or mismatches between thumbnail and title": "No significant mismatch; the visual and the title are highly aligned in terms of tone, subject matter, and implied stakes."
+  }
+}

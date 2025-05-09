@@ -1,0 +1,13 @@
+{
+  "title": "New Durex Naturals / The Best Lubricant",
+  "thumbnail_path": "thumbnails/vpC_875SycM_max.jpg",
+  "title_length": 39,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

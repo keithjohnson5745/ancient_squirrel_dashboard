@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 50% (background)",
+      "Black": "Approximately 15% (text, dress, shoes, shirt pattern)",
+      "Brown": "Approximately 15% (bag, shoes, hair)",
+      "Blue": "Approximately 10% (jeans)",
+      "Green": "Approximately 5% (check marks)",
+      "Other": "Approximately 5% (beige skin tones, light pink lips, maroon in shoes)"
+    },
+    "Composition type": "Medium shot collage; features cut-outs of products and people, arranged around central bold text.",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "One woman (right side) smiling, friendly and open expression.",
+        "Two partial-body figures: one wears a black sleeveless dress (face partially visible, neutral); the other wears a cropped top with jeans (face is cropped out of frame)."
+      ],
+      "Demographics": "Appears to be adult women, likely of Western descent, varied hair colors (light brown, brunette)."
+    },
+    "Main objects/props featured": [
+      "Blue jeans",
+      "Black flat shoes",
+      "Brown leather handbag",
+      "Maroon and beige adidas sneaker",
+      "Black sleeveless dress"
+    ],
+    "Background environment": "Plain white with subtle soft-focus beige pattern; minimal and clean for emphasis on foreground items."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "WISH I BOUGHT SOONER",
+    "Font characteristics": {
+      "Style": "Bold sans-serif, all caps",
+      "Emphasis": "Very strong, shadowed for contrast",
+      "Color": "Solid black with thin white outlines"
+    },
+    "Text placement within frame": "Centered horizontally and vertically, slightly above the image's true midpoint.",
+    "Use of emotional/trigger words": [
+      "WISH",
+      "SOONER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, enthusiastic, with a focus on improvement and personal recommendation.",
+    "Visual metaphors or symbols": [
+      "Green check marks: approval, endorsement.",
+      "The selection of attractive personal items: symbols of value and satisfaction."
+    ],
+    "Clickbait techniques employed": [
+      "Use of superlative phrasing ('Wish I Bought Sooner') to suggest regret/missed opportunity.",
+      "Feature of appealing products with check marks implying top picks.",
+      "Contrast between before/after or regret/fulfillment."
+    ],
+    "Brand elements present": [
+      "Adidas shoe (brand visible via shoe stripes and logo).",
+      "Chlo\u00e9 handbag (bag style and logo tag visible).",
+      "Possible personal branding: consistent color palette, smile and presence of apparent channel host."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail features eye-catching images of specific items of clothing and accessories, along with affirmative check marks, visually reinforcing the video\u2019s promise to reveal valued or 'must-have' purchases referenced in the title ('I Wish I Bought these 12 Items SOONER!'). The prominent text echoes the title, making clear the video's content is about regret/enthusiasm for acquiring these items.",
+    "Contrasts or mismatches": "The thumbnail only displays five items, while the title refers to twelve; this is a standard YouTube practice to keep thumbnails simple and clickable but may leave some viewers expecting a broader product range than visually shown. Aside from this, the imagery and message are consistent."
+  }
+}

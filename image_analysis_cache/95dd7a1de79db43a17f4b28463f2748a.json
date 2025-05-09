@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "35% (can, glove)",
+      "yellow": "15% (WD-40 logos, can caps)",
+      "red": "10% (can accents, parts of car)",
+      "gray/silver": "20% (can, background table)",
+      "black": "10% (table, car tire, background objects)",
+      "white": "10% (text, car, background details)"
+    },
+    "Composition type": "Close-up shot focused on two spray cans, with gloved hand holding the one in the foreground",
+    "Human presence": {
+      "number_of_people": 1,
+      "details": "Only a single blue-gloved hand is visible; human face/body not shown, no apparent demographic details",
+      "expressions": "Not applicable (no faces shown)"
+    },
+    "Main objects/props featured": [
+      "WD-40 can (original formula)",
+      "WD-40 Specialist Dry Lube can",
+      "Blue nitrile glove (on hand holding Dry Lube can)",
+      "Plastic grid-like workbench surface"
+    ],
+    "Background environment": "Automotive garage or workshop (visible car wheel and white car, plastic bin, concrete floor)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "Choose Wisely",
+      "WD-40",
+      "SPECIALIST",
+      "Dirt & Dust Resistant Dry Lube PTFE Spray",
+      "EXTREME DANGER",
+      "[Safety Symbols]",
+      "[Small print not fully legible]"
+    ],
+    "Font characteristics": {
+      "Choose Wisely": {
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "High, very large font",
+        "color": "White"
+      },
+      "WD-40 labels": {
+        "style": "Brand font, sans-serif, bold",
+        "emphasis": "Medium-high (logo)",
+        "color": "Yellow on blue, yellow on silver"
+      },
+      "SPECIALIST": {
+        "style": "Bold uppercase",
+        "emphasis": "Red text for contrast",
+        "color": "Red"
+      },
+      "Other product details": {
+        "style": "Sans-serif, small, mostly uppercase",
+        "color": "Black/gray on silver"
+      }
+    },
+    "Text placement": {
+      "Choose Wisely": "Top center, large and spanning nearly the full image width",
+      "Can brand/product names": "Center/foreground on can labels"
+    },
+    "Emotional/trigger words": [
+      "Choose Wisely",
+      "EXTREME DANGER",
+      "SPECIALIST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary and urgent; encourages careful decision-making (with hints of safety concerns)",
+    "Visual metaphors or symbols": [
+      "Comparison of two similar-looking products for a critical decision",
+      "Use of safety symbols (hazard icons) to imply potential risk"
+    ],
+    "Clickbait techniques employed": [
+      "Direct call to action ('Choose Wisely')",
+      "Emphasis on choice/decision-making",
+      "Highlighting hazard to provoke curiosity/fear",
+      "Bright, bold text"
+    ],
+    "Brand elements present": [
+      "WD-40 logo and branded colors prominently featured"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the video's title about selecting the correct product for door lock lubrication, by visually displaying two different WD-40 products side-by-side in a way that forces a comparison. The text 'Choose Wisely' mirrors the title's question.",
+    "Contrasts/mismatches": "No major mismatches; the thumbnail and title are closely aligned. The safety warnings ('EXTREME DANGER') visually amplify the video's implied urgency about correct product selection, which may exaggerate the risk element but fits clickbait norms."
+  }
+}

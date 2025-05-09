@@ -1,0 +1,13 @@
+{
+  "title": "How to put on a condom | 60-second summary | OSCE | PLAB 2",
+  "thumbnail_path": "thumbnails/UKb47Qwr1C0_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "how_to",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

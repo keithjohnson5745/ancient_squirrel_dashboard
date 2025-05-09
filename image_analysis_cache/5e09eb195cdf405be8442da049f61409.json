@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black/Dark Gray": "40%",
+      "Yellow (gel/lube)": "25%",
+      "Light skin tone (hand)": "15%",
+      "Blue (WD-40 can)": "10%",
+      "Red (can nozzle and straw)": "5%",
+      "White/Gray (background)": "5%"
+    },
+    "Composition type": "Medium close-up; the scene is tightly focused on a single hand holding and aiming a can of WD-40 Specialist Gel Lube at what appears to be a greasy machine part.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Hand visible, no facial expression or demographic markers visible",
+      "Demographics": "Indeterminate due to lack of visible facial or identifying features"
+    },
+    "Main objects/props featured": [
+      "WD-40 Specialist Gel Lube can",
+      "Hand holding the can",
+      "Machine/mechanical part covered in yellow gel/lube"
+    ],
+    "Background environment": "Industrial or workshop setting with metallic surfaces and machinery parts; blurred background to emphasize the foreground action"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "STEP 2",
+    "Font characteristics": {
+      "Style": "Sans-serif, bold",
+      "Emphasis": "All-caps, white text with black background for high contrast",
+      "Color": "White text on solid black bar"
+    },
+    "Text placement within frame": "Centered horizontally near the top",
+    "Use of emotional/trigger words": "Numerical sequencing ('STEP 2') adds procedural, tutorial, or instructional value; not an emotional/trigger word"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Technical, instructional, and pragmatic; suggests usefulness and expertise",
+    "Visual metaphors or symbols": "Application of gel lube to a mechanical part symbolizes expertise, maintenance, and problem-solving",
+    "Clickbait techniques employed": [
+      "Implied tutorial/professional advice by using step-wise instruction ('STEP 2')",
+      "Brand visibility (clear WD-40 logo)",
+      "Dramatic depiction of product in action"
+    ],
+    "Brand elements present": [
+      "WD-40 Specialist Gel Lube can with recognizable blue and yellow WD-40 branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The act of spraying WD-40 Specialist Gel Lube directly onto machinery clearly demonstrates the product\u2019s use, visually supporting the promise made in the video title about experts using the product. The hand performing the action reinforces the 'how-to' aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts or mismatches; the thumbnail directly matches the instructional and product-focused tone set by the title."
+  }
+}

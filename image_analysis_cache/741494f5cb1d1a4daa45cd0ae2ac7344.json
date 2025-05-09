@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "25% (mainly in text background)",
+      "White": "30% (background and text)",
+      "Skin tones": "20% (person's face and arms)",
+      "Black": "15% (person's shirt)",
+      "Various product colors": "10% (silver, blue, purple, yellow, turquoise, etc. from bottles and packaging)"
+    },
+    "Composition type": "Medium shot (person shown from chest up, full arm gesture visible, objects in foreground clearly displayed)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, somewhat stern or warning expression",
+      "Demographics": "Adult male, light skin, shaved head"
+    },
+    "Main objects/props featured": [
+      "Five hair care product bottles (Color WOW, Moroccanoil, Amika, Honest, Redken)",
+      "Person with arms crossed in an 'X' shape (gesture of disapproval/stop)"
+    ],
+    "Background environment": "Plain, light-colored wall (grey/white), neutral and uncluttered. The objects appear to be placed on a white or marble shelf."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in the thumbnail": "AVOID AT ALL COST!",
+    "Font characteristics": {
+      "Style": "Bold, all-caps, sans-serif",
+      "Emphasis": "Very high\u2014the contrast of white text on red background and bold font create urgency",
+      "Color": "White text on a red rectangular background"
+    },
+    "Text placement within frame": "Upper left quadrant, occupying a large block just above the products and left of the person",
+    "Use of emotional/trigger words": [
+      "AVOID",
+      "ALL COST!"
+    ],
+    "Emotional/trigger assessment": "Extremely strong trigger language\u2014conveys a warning, urgency, and danger"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, cautionary, negative toward the products shown",
+    "Visual metaphors or symbols": [
+      "Crossed arms in an 'X'\u2014universal gesture for 'no', 'stop', or 'do not proceed'",
+      "Bold red warning background\u2014commonly used for alerts or danger"
+    ],
+    "Clickbait techniques employed": [
+      "Excessive warning (\"AVOID AT ALL COST!\")",
+      "Visual 'X' gesture and stern facial expression",
+      "Showing recognizable brand products to provoke curiosity or controversy"
+    ],
+    "Brand elements present": [
+      "Brand logos and distinctive packaging of major haircare brands (Color WOW, Moroccanoil, Amika, Honest, Redken)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both thumbnail and title deliver a strong warning. The thumbnail's bold text and the crossed arms visually emphasize urgency and caution, mirroring the aggressive warning in the title ('9 Haircare Products That Will Destroy Your Hair'). Presenting specific product bottles visually confirms the video is about real, named products. The use of the phrase 'AVOID AT ALL COST!' and the 'X' gesture directly suggest harm or danger, backing up the word 'destroy' in the title.",
+    "Contrasts or mismatches between thumbnail and title": "There is no major mismatch; if anything, the thumbnail amplifies the sense of danger and consequence suggested in the video title. Both elements work together to increase curiosity and provoke a strong emotional response.",
+    "Additional notes": "The thumbnail does not name the products in text, which may prompt viewers to click out of curiosity about which products are being 'exposed.'"
+  }
+}

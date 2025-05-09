@@ -1,0 +1,13 @@
+{
+  "title": "Toxic Braids?!: What Every Black Woman Needs to Know",
+  "thumbnail_path": "thumbnails/iu1o1ru2cpQ_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

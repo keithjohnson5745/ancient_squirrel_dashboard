@@ -1,0 +1,13 @@
+{
+  "title": "WD-40 Long-Term Exposure Testing on Rubber Parts (Experiments Ep.2)",
+  "thumbnail_path": "thumbnails/HfcEPso4YoY_max.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

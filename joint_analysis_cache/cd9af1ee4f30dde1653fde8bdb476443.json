@@ -1,0 +1,13 @@
+{
+  "title": "Doctor Ranks Every Supplement: Worst To Best",
+  "thumbnail_path": "thumbnails/PPjVXMi_a3w_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

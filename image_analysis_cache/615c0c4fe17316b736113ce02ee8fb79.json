@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "yellow": "35% (background on left side, vibrant and eye-catching)",
+      "white": "25% (background on right side, behind person and bottles)",
+      "dark green": "15% (olive oil bottle on the right)",
+      "amber/golden yellow": "10% (olive oil bottle on the left)",
+      "navy blue": "10% (text boxes and Zoe logo)",
+      "red/brown": "5% (circular 'vs.' icon)"
+    },
+    "Composition type": "Medium shot (shows face of a person on the right side, two olive oil bottles in the center, split background)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, focused, neutral",
+      "demographics": "Adult, light-skinned, female-presenting"
+    },
+    "Main objects/props featured": [
+      "Two olive oil bottles (one amber/yellow, one dark green)",
+      "Face of a woman (potentially an expert or guest)",
+      "Zoe logo (top left)",
+      "'vs.' in a circular badge"
+    ],
+    "Background environment": "Plain, solid yellow on left transitioning to white on right; visually split to highlight the contrast between the bottles and the person."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "zoe",
+      "This mistake ruins olive oil",
+      "vs."
+    ],
+    "Font characteristics": {
+      "style": "Sans-serif, bold for emphasis",
+      "emphasis": [
+        "\"ruins\" is in bold/white, drawing attention",
+        "All text is clear and contrasted"
+      ],
+      "color": [
+        "White text on navy background for main message",
+        "Yellow for 'zoe'",
+        "White on red/brown background for 'vs.'"
+      ]
+    },
+    "Text placement within frame": {
+      "'zoe'": "top left corner",
+      "'This mistake ruins olive oil'": "center-left on navy blue rectangles spanning middle/left section",
+      "'vs.'": "centered between olive oil bottles near the bottom"
+    },
+    "Use of emotional/trigger words": [
+      "mistake",
+      "ruins"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgency, concern, and authority\u2014emphasizes the risk of a common mistake and positions the video as a source of important, corrective information.",
+    "Visual metaphors or symbols": [
+      "'vs.' symbol between bottles implies a comparison or contest",
+      "Contrasting bottle colors and face suggest making a choice"
+    ],
+    "Clickbait techniques employed": [
+      "Use of the word 'mistake' to imply viewers are probably doing something wrong",
+      "Dramatic word 'ruins' to amplify perceived risk",
+      "Direct address to the viewer\u2019s fear of missing out on health benefits"
+    ],
+    "Brand elements present": [
+      "Zoe logo (top left corner, distinctive yellow box)",
+      "Consistent color palette (yellow/blue/white) reminiscent of Zoe branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual comparison ('vs.') and the bottles directly represent the subject (olive oil). The woman\u2019s serious expression and the blunt text address ('This mistake ruins olive oil') reinforce the theme of unlocking health benefits by avoiding mistakes. The Zoe brand connects thumbnail and content to authoritative nutrition advice.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment: both focus on olive oil and maximizing its benefits, warning against errors. The thumbnail emphasizes the idea of common mistakes visually, but does not directly mention 'unlocking health benefits' \u2014 instead, it uses a negative framing (ruining) for click-attracting impact."
+  }
+}

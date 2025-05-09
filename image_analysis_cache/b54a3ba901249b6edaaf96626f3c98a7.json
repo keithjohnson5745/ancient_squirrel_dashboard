@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "35% (primarily from the subject's shirt and the Durex branding)",
+      "Beige/Tan": "25% (skin tone of the subject)",
+      "White": "20% (product package, text areas, some shelves)",
+      "Assorted colors": "20% (product packaging in the background, including red, yellow, green, purple)"
+    },
+    "Composition type": "Medium close-up shot; the subject is centered holding a product toward the camera.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slightly pursed lips possibly mid-speech.",
+      "Demographics": "Adult male, medium skin tone, short dark hair."
+    },
+    "Main objects/props featured": [
+      "Durex Naturals lubricant box prominently held in the foreground",
+      "Store/shop shelves with various health/personal care products in the background"
+    ],
+    "Background environment": "Retail/shop setting with shelves full of packaged products, suggesting a pharmacy, convenience store, or general shop."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "durex",
+      "naturals",
+      "lubricant",
+      "100% natural",
+      "\u092a\u0947\u091f \u0938\u093e\u092b\u093c",
+      "PET SAFA",
+      "ENIGMA",
+      "SCORTS",
+      "CANDONIN"
+    ],
+    "Font characteristics": {
+      "\u2018durex\u2019": "Rounded, bold, lowercase sans-serif, white on blue background (recognizable brand logo)",
+      "Other product text (\u2018naturals\u2019, \u2018lubricant\u2019, \u2018100% natural\u2019)": "Simple, modern sans-serif, lowercase, black and green (clean aesthetic)",
+      "'\u092a\u0947\u091f \u0938\u093e\u092b\u093c', 'PET SAFA', etc.": "Bold, attention-grabbing, blocky fonts, black text on yellow background"
+    },
+    "Text placement within frame": "The main product text is centered in the foreground on the box. Other visible texts are on shelves in the background, with '\u092a\u0947\u091f \u0938\u093e\u092b\u093c' repeated down the right edge.",
+    "Use of emotional/trigger words": [
+      "'100% natural' (triggers sense of safety/purity)",
+      "'naturals', 'durex' (brand name signifies quality/trust in context)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative and trustworthy, professional retail environment; neutral to positive.",
+    "Visual metaphors or symbols": "The prominent product closeup evokes scrutiny, authenticity, and product endorsement.",
+    "Clickbait techniques employed": [
+      "Product demonstration held directly to the camera (implies a review or expert advice)",
+      "Clean and clear focus on a well-known personal care product (invokes curiosity and trust)"
+    ],
+    "Brand elements present": [
+      "Durex logo and branding",
+      "'PET SAFA' Indian OTC medicine"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The product (\u2018Durex Naturals lubricant\u2019) referenced in the title is held clearly and centrally, making it immediately clear the video will discuss or review this specific lubricant. The presence of the person suggests a personal review or expert opinion.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no clear mismatch; the thumbnail is directly related to the video title, both focusing on Durex Naturals as 'the best lubricant'. The only minor contrast is the neutral expression of the presenter, which is less enthusiastic than a typical \u2018best product\u2019 clickbait."
+  }
+}

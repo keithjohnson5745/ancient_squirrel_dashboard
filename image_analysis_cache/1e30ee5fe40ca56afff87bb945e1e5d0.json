@@ -1,0 +1,87 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "orange",
+        "percentage": "30%"
+      },
+      {
+        "color": "green",
+        "percentage": "30%"
+      },
+      {
+        "color": "black",
+        "percentage": "25%"
+      },
+      {
+        "color": "white",
+        "percentage": "10%"
+      },
+      {
+        "color": "gold",
+        "percentage": "5%"
+      }
+    ],
+    "Composition type": "Close-up of two basketball players positioned on opposite sides, with central graphic/text divider.",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": "Both smiling, neutral/confident expressions.",
+      "demographics": "Adult males, likely professional athletes."
+    },
+    "Main objects/props featured": [
+      "Basketball jerseys (NEW YORK, BOSTON)",
+      "Team logos (New York Knicks logo, Boston Celtics logo)",
+      "NBA Playoffs badge"
+    ],
+    "Background environment": "Solid colors split vertically: orange behind left player, green behind right player, black in central text area."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "NBA PLAYOFFS",
+      "Presented by Google",
+      "FULL GAME HIGHLIGHTS",
+      "NEW YORK KNICKS",
+      "BOSTON CELTICS"
+    ],
+    "Font characteristics": {
+      "PLAYOFFS": "Bold sans-serif, uppercase, white, with NBA logo",
+      "Presented by Google": "Small, regular sans-serif, white, lower emphasis",
+      "FULL GAME": "Very large, bold sans-serif, uppercase, white, high emphasis",
+      "HIGHLIGHTS": "Very large, bold sans-serif, uppercase, gold, distressed metallic texture, highest emphasis",
+      "Team names/logos": "Custom logo fonts in team brand colors, highly stylized"
+    },
+    "Text placement": {
+      "PLAYOFFS/PRESENTED BY GOOGLE": "Top central",
+      "FULL GAME HIGHLIGHTS": "Center, spanning most of the width vertically",
+      "Team logos": "Bottom center, under main text"
+    },
+    "Emotional/trigger words": [
+      "HIGHLIGHTS",
+      "FULL GAME",
+      "PLAYOFFS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Excitement, competition, anticipation; upbeat and energetic.",
+    "Visual metaphors or symbols": [
+      "Split screen face-off (rivalry/versus)",
+      "Team logos reinforce identity and stakes"
+    ],
+    "Clickbait techniques employed": [
+      "Bold large exciting text",
+      "\"FULL GAME HIGHLIGHTS\" promises complete/action-packed content",
+      "Player images and team logos for instant recognition/engagement",
+      "Attention-grabbing playoff branding"
+    ],
+    "Brand elements present": [
+      "NBA Playoffs logo",
+      "Google (presenter)",
+      "Team logos (New York Knicks, Boston Celtics)",
+      "NBA jersey sponsors (Nike, Amica, Experience Abu Dhabi)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail perfectly reinforces the title by showing two star players (one from the Knicks, one from the Celtics), both team logos, and the 'FULL GAME HIGHLIGHTS' label, along with the NBA Playoffs context.",
+    "Contrasts/mismatches": "There are no major mismatches; the thumbnail is visually and thematically consistent with the title. The only minor note is that individual game details (score, game number) are not shown in the thumbnail, but these are clear in the video title."
+  }
+}

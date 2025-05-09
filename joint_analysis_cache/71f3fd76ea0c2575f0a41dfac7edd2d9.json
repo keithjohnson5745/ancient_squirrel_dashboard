@@ -1,0 +1,13 @@
+{
+  "title": "ECMO: VA ECMO For Dummies!",
+  "thumbnail_path": "thumbnails/iMSk4f8eeG0_max.jpg",
+  "title_length": 26,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

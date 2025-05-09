@@ -1,0 +1,13 @@
+{
+  "title": "Joe Rogan Interviews Gone Wrong",
+  "thumbnail_path": "thumbnails/S4ydSSwu1Ws_max.jpg",
+  "title_length": 31,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.8
+}

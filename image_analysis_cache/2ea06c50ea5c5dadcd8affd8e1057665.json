@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "30% (used in text, border, and banana prop)",
+      "Red": "15% (background of some text blocks and lower border)",
+      "Blue/Dark Teal": "40% (main background color)",
+      "White": "10% (clothing, some text)",
+      "Other: Skin Tones & minor colors": "5%"
+    },
+    "Composition type": "Close-up (woman holding a banana), with a small medium-shot of another woman (presumably the expert) inset on the lower right.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Main woman: Face partially visible, neutral/serious (holding banana near mouth, looking straight at viewer)",
+        "Inset woman: Neutral expression, slight smile"
+      ],
+      "Demographics (if apparent)": [
+        "Main woman: Young adult, fair skin, light eyes, dark brown hair",
+        "Inset woman: Adult, South Asian woman, straight dark hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Large yellow banana (held horizontally, suggestive metaphor)",
+      "Text blocks",
+      "Photo of a woman (professional attire and demeanor)"
+    ],
+    "Background environment": "Flat, stylized blue/teal color block, no specific environment depicted. Professional portrait style for inset."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0914\u0930\u0924 \u0915\u093f\u0924\u0928\u093e \u0905\u0902\u0926\u0930 \u0932\u0947 \u0938\u0915\u0924\u0940 \u0939\u0948",
+      "Dr. Neha Mehto",
+      "COUSULTANT PSYCHOSIOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif",
+      "Emphasis": "High contrast colors, large size, yellow and white text on red background for emphasis",
+      "Color": [
+        "Yellow text with red background (main Hindi text)",
+        "White text (secondary Hindi word, professional name panel)",
+        "Red text on yellow (lower bar for 'COUSULTANT PSYCHOSIOGIST')"
+      ]
+    },
+    "Text placement within frame": [
+      "Hindi text in top right, large blocks",
+      "English professional designation in lower center/right, over blue & yellow banner"
+    ],
+    "Use of emotional/trigger words": [
+      "Indirect sexual reference:/innuendo in the Hindi phrase ('\u0915\u093f\u0924\u0928\u093e \u0905\u0902\u0926\u0930 \u0932\u0947 \u0938\u0915\u0924\u0940 \u0939\u0948' suggests limitation/capacity, potentially triggering curiosity or controversy)",
+      "Professional authority words ('Dr.', 'Consultant Psychologist') for trust and expertise"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, provocative, slightly sensationalized but balanced with a clinical/professional undertone due to the doctor's presence",
+    "Visual metaphors or symbols": [
+      "Banana used as a suggestive metaphor for a sexual topic (common in educational/innuendo contexts)"
+    ],
+    "Clickbait techniques employed": [
+      "Explicit curiosity gap ('How much can a woman take inside?')",
+      "Suggestive imagery (banana)",
+      "Bright, high-contrast text and color blocks for maximum attention",
+      "Authoritative presence to imply credible/educational content"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehto name and professional title",
+      "Consistent color style and professional image for channel identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail uses a woman holding a banana near her mouth, visually reference the sexual innuendo in the title ('\u0914\u0930\u0924 \u0915\u093f\u0924\u0928\u093e \u0905\u0902\u0926\u0930 \u0932\u0947 \u0938\u0915\u0924\u0940 \u0939\u0948') without being explicit. The choice of prop (banana) is a universally understood stand-in for a phallic object, matching the video's topic.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatch. The thumbnail and title use suggestive yet non-explicit cues, playing on curiosity and innuendo while maintaining a facade of educational content through the inclusion of a professional 'doctor' image and title."
+  }
+}

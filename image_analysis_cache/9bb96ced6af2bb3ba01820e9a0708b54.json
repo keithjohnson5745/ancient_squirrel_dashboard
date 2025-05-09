@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Burgundy/reddish gradient background": "50%",
+      "Light tan/cream lower banner": "15%",
+      "Blue denim (shirt)": "20%",
+      "Olive green (sweater)": "10%",
+      "Black (glasses, microphone, hair, equipment)": "5%"
+    },
+    "Composition type": "Medium-close shot (upper body and face in focus)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Serious, contemplative",
+      "Demographics": "Young adult, appears female, medium skin tone"
+    },
+    "Main objects/props featured": [
+      "Microphone on stand",
+      "Headphones (not worn)",
+      "Eyeglasses",
+      "Denim shirt",
+      "Olive green sweater draped over shoulders"
+    ],
+    "Background environment": "Plain gradient background shifting from light tan/pink left to dark red/burgundy right; text integrated into background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DR TOSHA",
+      "AFTER DARK",
+      "THE TRUTH ABOUT HERPES"
+    ],
+    "Font characteristics": {
+      "DR TOSHA": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "Large, white, dominates upper third"
+      },
+      "AFTER DARK": {
+        "Style": "Elegant serif, uppercase, smaller",
+        "Emphasis": "White, to the right, under 'DR TOSHA'"
+      },
+      "THE TRUTH ABOUT HERPES": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "White, centered in thick beige/cream banner at bottom"
+      }
+    },
+    "Text placement within frame": {
+      "DR TOSHA": "Top across the background, behind the person's head",
+      "AFTER DARK": "Upper right, just below the main title",
+      "THE TRUTH ABOUT HERPES": "Bottom third, inside a wide beige banner"
+    },
+    "Use of emotional/trigger words": [
+      "TRUTH",
+      "HERPES"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, direct, informative; somewhat intimate or late-night confessional feel",
+    "Visual metaphors or symbols": [
+      "Microphone and recording equipment suggest authority, podcast-style expertise and open discussion"
+    ],
+    "Clickbait techniques employed": [
+      "Emphasis on 'TRUTH' (suggests new/revealing information)",
+      "Large text, bold keywords",
+      "Direct address of a stigmatized topic (herpes)"
+    ],
+    "Brand elements present": [
+      "Host's name ('DR TOSHA') integrated as part of the show/series branding",
+      "Subtitle 'AFTER DARK' branding suggests a series or segment with deeper, potentially taboo discussions"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The large text 'THE TRUTH ABOUT HERPES' directly references the video title 'The Full Truth About Herpes.' The presence of the host, serious expression, and podcast microphone setup visually support a promise of an honest, in-depth discussion, aligning with the 'full truth' claim.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts; both the thumbnail and title are straightforward and cohesive in their promise to tackle a difficult, informative topic directly."
+  }
+}

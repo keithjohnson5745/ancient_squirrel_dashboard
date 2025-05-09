@@ -1,0 +1,13 @@
+{
+  "title": "How Foreigners Make Japanese UNCOMFORTABLE (Unintentionally)",
+  "thumbnail_path": "thumbnails/zhHPPL3ThKg_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

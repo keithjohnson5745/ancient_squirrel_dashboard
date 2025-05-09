@@ -1,0 +1,114 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Navy blue",
+        "percentage": 35
+      },
+      {
+        "color": "Light gray",
+        "percentage": 20
+      },
+      {
+        "color": "White",
+        "percentage": 15
+      },
+      {
+        "color": "Green (scrubs)",
+        "percentage": 15
+      },
+      {
+        "color": "Beige/ruddy skin tone",
+        "percentage": 10
+      },
+      {
+        "color": "Silver/black (shoes/accessories)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Composite layout \u2013 split into three vertical sections (head-and-shoulders close-up, content text panel, cropped lower-body shot)",
+    "Human presence": {
+      "number_of_people": 3,
+      "description": [
+        "Left: Adult male, light skin, glasses, green scrubs, neutral-to-pleasant facial expression (likely the narrator/doctor)",
+        "Right: Cropped legs of 2 people, one wearing high heels (light/feminine legs), the other in dark shoes/trousers (masculine shoes). Only legs and feet are visible; no faces."
+      ]
+    },
+    "Main objects/props featured": [
+      "Glasses (on the doctor)",
+      "Green medical scrubs (on the doctor)",
+      "High-heeled shoes and dark men's shoes (on right section)",
+      "Suggestive discarded clothing (pink and white garments on the floor)"
+    ],
+    "Background environment": [
+      "Doctor: plain blue backdrop (possibly a studio/clinic setting)",
+      "Middle text panel: flat textured gray",
+      "Right panel: indoor flooring, suggestive intimate scene (bedroom or hotel room implied by undressing feet/legs)"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "JHP Medical UK",
+      "CIALIS (Tadalafil)",
+      "How to use it for the best effect",
+      "Dr Andrew Hart-Pinto",
+      "TREATMENT FOR ERECTILE DYSFUNCTION"
+    ],
+    "Font characteristics": {
+      "Style": [
+        "Bold sans-serif (CIALIS/Tadalafil, subheadings)",
+        "All caps for emphasis (TREATMENT FOR ERECTILE DYSFUNCTION)",
+        "Mixed case, clean font for instructional/medical authority"
+      ],
+      "Emphasis": [
+        "Heavy bold on product name and instructional text",
+        "Italicized subline ('How to use it for the best effect')"
+      ],
+      "Colors": [
+        "Dark navy blue (main headings/subheadings)",
+        "White (background for maximum contrast)",
+        "Gray gradient background in the central text panel"
+      ]
+    },
+    "Text placement within frame": [
+      "Logo at top center",
+      "Main medication name centered in vertical middle panel",
+      "Instructional subtext below main medication name",
+      "Doctor's name bottom left of center panel",
+      "Erectile dysfunction treatment tagline at bottom right of image"
+    ],
+    "Use of emotional/trigger words": [
+      "CIALIS",
+      "best effect",
+      "TREATMENT FOR ERECTILE DYSFUNCTION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious with a clinical/educational overtone; subtle undertones of intimacy (conveyed by the right panel's suggestive but not explicit scene); trustworthy authority (doctor image); solution-oriented.",
+    "Visual metaphors or symbols": [
+      "Doctor = medical authority",
+      "Couple's legs/feet, high heels, discarded clothes = sex/intimacy, indirectly referencing the medication's purpose",
+      "CIALIS/Tadalafil = central focus/product being discussed"
+    ],
+    "Clickbait techniques employed": [
+      "Juxtaposition of authority figure (doctor) with suggestive, intimate imagery",
+      "Use of direct instructional phrasing: \u201cHow to use it for the best effect\u201d",
+      "Referencing a sensitive/embarrassing issue (erectile dysfunction) with promise of treatment"
+    ],
+    "Brand elements present": [
+      "JHP Medical UK logo (stethoscope heart motif)",
+      "Professional appearance of doctor"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Direct reference to Cialis/Tadalafil in large, bold text, just as the video title does.",
+      "Doctor's presence visually cues medical expertise, matching the informational/educational intent signaled by the title.",
+      "Suggestive feet/shoes/discarded clothing visually allude to the drug\u2019s purpose (sexual activity)."
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail is more suggestive than the purely clinical title, using visual innuendo to attract curiosity.",
+      "Otherwise, all major elements (medication name, instructional angle, doctor, and sexual health context) are well-aligned between title and thumbnail."
+    ]
+  }
+}

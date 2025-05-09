@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White/light gray (background)": "55%",
+      "Green (chalkboard)": "20%",
+      "Skin tones": "15%",
+      "Blue/teal/purple (top/clothing)": "8%",
+      "Other (books - red, beige, brown)": "2%"
+    },
+    "Composition type": "Medium shot (torso and face of a person visible, upper body centered to right)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slight, knowing smile with raised eyebrows, engaging, friendly and confident",
+      "Demographics": "Adult woman, light to medium skin tone, dark hair with bangs"
+    },
+    "Main objects/props featured": [
+      "Small chalkboard with text and a chalk stick",
+      "Stack of three books on chalkboard edge"
+    ],
+    "Background environment": "Plain, light gray or white studio-like background with no visible details"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "what kind of lubes cause condoms to break?",
+      "Lubezilla"
+    ],
+    "Font characteristics": {
+      "what kind of lubes cause condoms to break?": {
+        "Style": "Chalk or handwritten script, playful, informal",
+        "Emphasis": "White, stands out against green chalkboard",
+        "Color": "White"
+      },
+      "Lubezilla": {
+        "Style": "Modern sans-serif, part of logo, larger 'Z' with stylized lizard tail",
+        "Emphasis": "Green-highlighted 'Z', rest white",
+        "Color": "Mostly white, green accent"
+      }
+    },
+    "Text placement": {
+      "Chalkboard question": "Upper left of thumbnail, inside the chalkboard graphic",
+      "Lubezilla": "Lower left, within chalkboard, under question"
+    },
+    "Emotional/trigger words": [
+      "Break",
+      "cause",
+      "condoms"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, slightly playful, inviting and approachable",
+    "Visual metaphors or symbols": [
+      "Chalkboard (school/learning theme)",
+      "Books (knowledge, authority, research)"
+    ],
+    "Clickbait techniques employed": [
+      "Posing a direct question (\u201cwhat kind of lubes cause condoms to break?\u201d) to appeal to curiosity/fear of making mistakes",
+      "Bright, uncluttered image with striking contrast (white background, green chalkboard, bright top worn by host)"
+    ],
+    "Brand elements present": [
+      "Lubezilla logo with distinctive green 'Z'",
+      "Educational theme with chalkboard"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail's large chalkboard question directly references and visually echoes the key question in the video title. The presence of a confident host and clean, 'lesson-like' setup supports the educational premise suggested by 'Lube 101.'",
+    "Contrasts or mismatches": "The title mentions 'Mutant Capitalist', which is not reflected visually in the thumbnail; the branding and tone focus more on education than capitalism or mutation. The thumbnail does not visually reference condoms or lubricant types specifically, relying on text and implication instead of imagery."
+  }
+}

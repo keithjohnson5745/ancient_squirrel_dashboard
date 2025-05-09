@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 50% (background, packaging, tube)",
+      "Blue": "Approximately 35% (text, packaging design, tube)",
+      "Black": "Approximately 10% (tabletop surface, packaging text)",
+      "Green": "Approximately 5% (small leaf graphic on package)"
+    },
+    "Composition type": "Close-up (product-focused, showing packaging and tube in detail)",
+    "Human presence": "None",
+    "Main objects/props featured": [
+      "Carton box of a personal lubricant (labeled 'MY')",
+      "Tube of jelly (presumably the lubricant product)"
+    ],
+    "Background environment": "Indoors, likely on a table or flat surface, with a softly blurred neutral/light background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u09ac\u09bf\u09b6\u09c7\u09b7 \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4\u09c7 \u09aa\u09bf\u099a\u09cd\u099b\u09bf\u09b2 \u0995\u09be\u09b0\u0995 \u099c\u09c7\u09b2",
+      "\u09ae\u09be\u0987",
+      "\u099c\u09c7\u09b2\u09bf",
+      "\u09aa\u09be\u09b0\u09cd\u09b8\u09cb\u09a8\u09be\u09b2 \u09b2\u09c1\u09ac\u09cd\u09b0\u09bf\u0995\u09c7\u09a8\u09cd\u099f",
+      "\u0995\u09a8\u09a1\u09cb\u09ae \u098f\u09b0 \u09b8\u09be\u09a5\u09c7 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09be \u09af\u09be\u09af\u09bc",
+      "Can be used with condom",
+      "Clear non-greasy and non-sticky gel",
+      "MY",
+      "JELLY",
+      "15 GM",
+      "Batch No.",
+      "MFG Date",
+      "EXP Date"
+    ],
+    "Font characteristics": {
+      "Bangla main text": {
+        "Style": "Bold, rounded, playful script",
+        "Emphasis": "Heavy outline (white with blue border), shadow",
+        "Color": "White with blue outline"
+      },
+      "Packaging font": {
+        "Style": "Clean sans-serif",
+        "Emphasis": "Minimal; functional for product label",
+        "Color": "Mainly blue and black"
+      }
+    },
+    "Text placement within frame": {
+      "Bangla main text": "Large, occupying top left to bottom left, arranged in multiple lines",
+      "English/product text": "On the product packaging, displayed prominently on the right"
+    },
+    "Use of emotional/trigger words": [
+      "\u09ac\u09bf\u09b6\u09c7\u09b7 \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4\u09c7",
+      "in special moments"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, practical, slightly clinical, and direct with a subtle hint of sensitivity/comfort",
+    "Visual metaphors or symbols": [
+      "Water droplet (connoting smoothness, lubrication, cleanliness)",
+      "Leaf (possible hint at safety or naturalness)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, oversized Bangla callouts",
+      "Reference to 'special moments' (invokes curiosity or discreet need)",
+      "Product shown clearly (authenticity, authority signaling)"
+    ],
+    "Brand elements present": [
+      "MY (brand name/logo on both carton and tube)",
+      "Distinctive blue/white product identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail text repeats the video title phrase nearly verbatim (\u2018\u09ac\u09bf\u09b6\u09c7\u09b7 \u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4\u09c7 \u09aa\u09bf\u099a\u09cd\u099b\u09bf\u09b2\u0995\u09be\u09b0\u0995 \u099c\u09c7\u09b2\u09bf\u2019), and the prominent, unambiguous display of the specific jelly/lubricant tube and packaging instantly signals that the video is about personal lubricant. Both the text and imagery reinforce the focus on practical usage during 'special moments,' directly mirroring the title\u2019s emphasis.",
+    "Any contrasts or mismatches between thumbnail and title": "No notable contrasts. Both are fully aligned, using consistent language and subject; the visual leaves no ambiguity about the topic. The slightly clinical product shot matches the informative tone suggested by the title."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 60% (background, tweet card)",
+      "Blue": "Approximately 20% (woman's top, pregnancy test cap)",
+      "Skin tones": "Approximately 10% (woman's face and hands)",
+      "Pink/Red/Beige": "Approximately 5% (anatomical model)",
+      "Black": "Approximately 5% (woman's glasses, hair, some text)"
+    },
+    "Composition type": "Medium close-up shot; subject is shown from the chest up, occupying the right half of the frame.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Surprised/excited, wide open mouth, smiling",
+      "Demographics": "Appears to be an adult Asian woman with long dark hair, wearing glasses"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test held in hand (blue and white)",
+      "Anatomical model of female reproductive system",
+      "Tweet style card (large text)",
+      "Small statue (possibly of a woman) partially visible in lower left"
+    ],
+    "Background environment": "Pure white, minimal distractions, studio-like look"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "Dove @Davian_Dove",
+      "So...How does a pregnancy test work?",
+      "6:20 PM \u00b7 May 21, 2020",
+      "WIRED"
+    ],
+    "Font characteristics": {
+      "Tweet text": "Sans-serif, bold for username, regular for question text, black color.",
+      "WIRED logo": "All caps, geometric sans-serif, white, partially transparent/overlaid on background objects.",
+      "Other tweet elements": "Smaller font size for date and time, sans-serif."
+    },
+    "Text placement": {
+      "Tweet card": "Top left, taking up roughly half the frame horizontally.",
+      "WIRED logo": "Bottom left, semi-transparent over background objects."
+    },
+    "Use of emotional/trigger words": [
+      "So...How does a pregnancy test work?"
+    ],
+    "Notes": "The question is direct and curiosity-provoking; uses ellipsis to invite interest."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, friendly, informative, slightly playful (due to surprised/excited expression).",
+    "Visual metaphors or symbols": [
+      "Pregnancy test as focal prop: symbolizes the subject matter of pregnancy and fertility.",
+      "Anatomical model: reinforces the medical/expert angle.",
+      "Tweet card: symbolizes social media questions/crowdsourcing knowledge."
+    ],
+    "Clickbait techniques employed": [
+      "Direct audience question (triggers curiosity)",
+      "Expressive, excited facial expression",
+      "Large, clear text (tweet style)",
+      "Prop use to visually preview the topic"
+    ],
+    "Brand elements present": [
+      "WIRED logo, tweet-card style (familiar format for 'Tech Support' series), visual consistency with series branding."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail shows a person (presumably a fertility expert) holding a pregnancy test and an anatomical model, directly linking to 'Fertility Expert' in the video title. The overlaid tweet question is exactly the type of question the expert would be answering, reinforcing the Q&A/support theme ('Answers Questions From Twitter'). The WIRED logo ties to the series and publisher.",
+    "Contrasts or mismatches": "No significant mismatches. The thumbnail supports the video title clearly; both focus on expert answers to social media fertility questions. The scientific props and tweet visual frame the discussion's context and subject."
+  }
+}

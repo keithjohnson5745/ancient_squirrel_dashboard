@@ -1,0 +1,13 @@
+{
+  "title": "Understanding Endometriosis",
+  "thumbnail_path": "thumbnails/dsKj5hKR9HU_max.jpg",
+  "title_length": 27,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

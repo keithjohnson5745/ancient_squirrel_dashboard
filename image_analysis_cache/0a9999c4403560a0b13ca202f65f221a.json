@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "25% (border and major text color)",
+      "Black": "25% (background for upper half, woman's top)",
+      "White": "25% (text, bedding)",
+      "Gray": "15% (bed headboard, clothing)",
+      "Skin tones": "10% (faces and arms of people)",
+      "Pink": "small accent (woman\u2019s pajamas)"
+    },
+    "Composition type": "Medium shot (shows three people from the waist or chest up, with focus on their emotions and expressions)",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Woman on the left: looks frustrated/concerned, hand on forehead, stare directed away",
+        "Man in the middle: looks upset/ashamed, covering face with hand",
+        "Woman on the right: surprised/shocked, mouth open, directly facing the camera"
+      ],
+      "Demographics": [
+        "Woman on left: young adult, light skin, brown hair",
+        "Man in middle: young adult, light skin, dark hair and beard",
+        "Woman on right: young adult, medium skin, dark hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Bed with white sheets (main setting)",
+      "Illustrated red zigzag around woman\u2019s head (visual cue for frustration)"
+    ],
+    "Background environment": "Bedroom scene, neutral/gray headboard, black background for upper text area"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "CAN\u2019T LAST LONG? HERE\u2019S WHY \ud83e\udd14",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High (all-caps, large font size)",
+      "Color": "\u2018CAN\u2019T LAST LONG?\u2019 is in bright yellow, \u2018HERE\u2019S WHY\u2019 in white, both on black background"
+    },
+    "Text placement within frame": "Upper third of the thumbnail, centered horizontally",
+    "Use of emotional/trigger words": [
+      "CAN\u2019T LAST LONG?",
+      "HERE\u2019S WHY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, frustrated, anxious, with an undertone of curiosity/shock (as expressed by the woman on the right)",
+    "Visual metaphors or symbols": [
+      "Red zigzag lines = stress/frustration/anger",
+      "\ud83e\udd14 emoji = curiosity/confusion/problem-solving"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question addressing personal concerns (\u2018CAN\u2019T LAST LONG?\u2019)",
+      "Emphasis on revealing a secret (\u2018HERE\u2019S WHY\u2019)",
+      "Use of expressive faces and bold colors to draw attention",
+      "Emoji for visual appeal"
+    ],
+    "Brand elements present": "No explicit brand logos, but the expressive and direct format may align with personal brand style for health/sex education creators"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly addresses the topic of the title (\u2018Premature Ejaculation\u2019) by using a couple who look distressed in bed and a medical/expert figure with a shocked face. The emotional expressions and question in the text mirror the video\u2019s promise of uncovering an underlying truth most men don\u2019t know.",
+    "Contrasts or mismatches": "There is no explicit use of the term \u2018premature ejaculation\u2019 in the thumbnail, which keeps it YouTube-friendly but slightly less direct than the title. The use of symbols, text, and expressions makes the topic clear without stating it outright."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light blue",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 25
+      },
+      {
+        "color": "Tan/Beige (Suit)",
+        "percentage": 20
+      },
+      {
+        "color": "Orange (Clock)",
+        "percentage": 7
+      },
+      {
+        "color": "Dark blue/Black (Text)",
+        "percentage": 5
+      },
+      {
+        "color": "Light grey (Background)",
+        "percentage": 3
+      }
+    ],
+    "Composition type": "Medium shot (waist-up on one person, with prominent graphical and textual elements)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, calm, approachable",
+      "demographics": "Adult male, likely of South Asian descent, beard, wearing traditional Islamic cap and western-style tan suit"
+    },
+    "Main objects/props featured": [
+      "Analog alarm clock (orange, center top, being held in hand)",
+      "Stethoscope icon (graphic with the doctor's name and hospital logo)"
+    ],
+    "Background environment": "Solid light grey for the right side (behind person), blue and white patterned design for left side (graphic overlay)."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "Testo Life Hospital",
+      "\u09e9\u09e6 \u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1 \u0995\u09c7 \u09e9\u09e6 \u09ae\u09bf\u09a8\u09bf\u099f \u0995\u09b0\u09c1\u09a8",
+      "\u09a1\u09be. \u098f\u09b8 \u0986\u09b0 \u0996\u09be\u09a8"
+    ],
+    "Font characteristics": [
+      {
+        "section": "Main Title (Bangla)",
+        "style": "Bold, sans-serif, uppercase, black",
+        "color": "Black",
+        "emphasis": "Very strong, central in frame"
+      },
+      {
+        "section": "Name bar",
+        "style": "Sans-serif, regular",
+        "color": "Black, inside white box with outline",
+        "emphasis": "Medium"
+      },
+      {
+        "section": "Hospital name (English)",
+        "style": "Sans-serif, regular",
+        "color": "Black and purple logo",
+        "emphasis": "Minimal, top left"
+      }
+    ],
+    "Text placement within frame": [
+      "Main title: Center-left, large and inside a white box",
+      "Doctor's name: Bottom left, inside bordered box",
+      "Hospital branding: Top left, small"
+    ],
+    "Use of emotional/trigger words": [
+      "\u09e9\u09e6 \u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1 \u0995\u09c7 \u09e9\u09e6 \u09ae\u09bf\u09a8\u09bf\u099f \u0995\u09b0\u09c1\u09a8"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, solution-oriented, trustworthy, slightly urgent (promise of dramatically extended duration)",
+    "Visual metaphors or symbols": [
+      "Alarm clock: Symbolizes time, urgency, or transformation in time management/productivity/health.",
+      "White arrow: Suggests change, transition, or improvement.",
+      "Medical branding: Implies authority, expertise, and trust."
+    ],
+    "Clickbait techniques employed": [
+      "Bold promise (turning 30 seconds into 30 minutes)",
+      "Large, high-contrast text",
+      "Use of a specific time (number-based promises)",
+      "Presence of expert figure (doctor in professional attire)",
+      "Clear before-after suggestion (visually and textually)"
+    ],
+    "Brand elements present": [
+      "Testo Life Hospital logo",
+      "Doctor's professional title and name",
+      "Consistent color branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail specifically repeats the main title promise in large, high-visibility Bangla text. The bright orange alarm clock, held up, visually metaphorizes the 'time increase' or 'duration expansion' implied by the title (making 30 seconds last 30 minutes). The inclusion of the doctor's image reinforces the authority and credibility claimed in the title and hashtag.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no clear mismatch; the thumbnail, text, and the video title are highly coordinated. Both promise a dramatic, almost 'life-hack' style solution\u2014presumably in a medical, health, or productivity context\u2014using visual, textual, and authority cues in unison."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/white (background)": "60%",
+      "Black (text bars)": "20%",
+      "Beige/cream (shirt stripes)": "10%",
+      "Gray (shirt stripes and beard)": "5%",
+      "Muted blue/purple/pink (small logo, top right)": "2%",
+      "Other (skin tones)": "3%"
+    },
+    "Composition type": "Medium shot; subject (older man) is shown from mid-torso up and placed on the right half, with text on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, neutral to mildly worried expression",
+      "Demographics": "Older adult male, light skin, gray hair and beard"
+    },
+    "Main objects/props featured": [
+      "Older man (primary subject)",
+      "Lapel microphone attached to shirt",
+      "Shirt with patterned vertical stripes"
+    ],
+    "Background environment": "Plain, light, neutral studio background with no significant features except a small, colorful brain icon logo in the top right"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DIFFICULTY",
+      "SWALLOWING",
+      "HISTORY"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, all-caps, sans-serif",
+      "Emphasis": "High; large font size and strong contrast with white letters on black rectangular bars",
+      "Color": "White text on black background"
+    },
+    "Text placement within frame": "Three horizontal bars stacked vertically, left-aligned, occupying the left half of the image",
+    "Use of emotional/trigger words": [
+      "DIFFICULTY",
+      "SWALLOWING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, clinical, and direct; evokes concern and medical relevance",
+    "Visual metaphors or symbols": [
+      "Text in bold bars signifies importance and urgency",
+      "Pixelated colorful brain logo (top right) suggests medical/educational context"
+    ],
+    "Clickbait techniques employed": [
+      "Direct use of a symptom ('DIFFICULTY SWALLOWING') to address viewer concerns or interests",
+      "Serious facial expression of subject to emphasize the real-world gravity"
+    ],
+    "Brand elements present": [
+      "Pixelated brain icon represents the channel/brand"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly presents the key symptom from the title ('Difficulty Swallowing') using large text, and the presence of an older man with a serious expression visually matches the typical clinical scenario discussed in an OSCE/preparation guide. The text 'HISTORY' ties in with the idea of clinical history taking.",
+    "Any contrasts or mismatches between thumbnail and title": "Most secondary details from the title ('Weight Loss', 'OSCE Guide', 'UKMLA', 'CPSA', 'PLAB 2') are absent from the thumbnail, which focuses solely on 'Difficulty Swallowing History'. The focus is on the clinical symptom rather than the exam-preparation angle."
+  }
+}

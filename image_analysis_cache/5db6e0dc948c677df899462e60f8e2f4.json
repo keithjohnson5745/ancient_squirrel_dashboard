@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blonde/tan (hair and skin tones)": "40%",
+      "light blue (shirt and nails)": "10%",
+      "white/neutral (coconut oil jar, light reflections)": "25%",
+      "green (label on jar, background plants)": "10%",
+      "black (jar lid and label)": "10%",
+      "pastel/violet tones (hair streaks)": "5%"
+    },
+    "Composition type": "Medium close-up; upper body and face are visible, with the coconut oil jar prominently in the foreground.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Surprised, intrigued, or pleasantly curious.",
+      "demographics": "Young adult woman with light/medium skin, blonde/light brown hair with purple streaks."
+    },
+    "Main objects/props featured": [
+      "Large jar of coconut oil held up by the woman (label partially visible)",
+      "Woman herself"
+    ],
+    "Background environment": "Indoor setting with natural light streaming through blinds, blurred-out background featuring some plants and indistinguishable home elements."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "UNREFINED VIRGIN ORGANIC COCONUT OIL (partial, from jar label); rest of label is not clearly readable.",
+    "Font characteristics": {
+      "style": "Sans-serif, clean, product-label style.",
+      "emphasis": "None prominent in thumbnail; jar label blends in as part of object, not as an added overlay.",
+      "color": "Black, green, and white block coloring on the jar label."
+    },
+    "Text placement within frame": "Text (product label) appears on jar, located to the upper right of center; no large, overlaid text is present.",
+    "Use of emotional/trigger words": "None present in thumbnail text. Any emotional impact comes from the visual of the woman's facial expression."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity, positivity, warm and inviting; the woman appears pleasantly surprised or intrigued by the coconut oil.",
+    "Visual metaphors or symbols": "The way the jar is held up and examined suggests discovery, usefulness, or importance. The bright, soft lighting conveys a healthy and wholesome tone.",
+    "Clickbait techniques employed": [
+      "Strong facial expression to engage viewer curiosity",
+      "Prominent display of product (coconut oil) central to the video's topic",
+      "Clean background and saturated colors for visual appeal"
+    ],
+    "Brand elements present": "No specific YouTube channel branding visible; only the coconut oil product label, which conveys health/natural living themes."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "thumbnail_reinforces_title": "The thumbnail visually reinforces the title by putting a jar of coconut oil center stage and showing the presenter engaged with it, which suggests a focus on different ways to use coconut oil. The woman's expression adds intrigue and draws attention to the utility or versatility implied by '10 Ways.'",
+    "contrasts_or_mismatches": "There are no obvious mismatches, but the thumbnail itself only hints at the concept of multiple uses due to the focus on a single jar and single person. However, the visual pairing remains direct, clear, and relevant to the title."
+  }
+}

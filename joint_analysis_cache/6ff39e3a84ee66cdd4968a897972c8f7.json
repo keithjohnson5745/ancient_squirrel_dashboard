@@ -1,0 +1,14 @@
+{
+  "title": "7 main reasons for miscarrying",
+  "thumbnail_path": "thumbnails/k3HVLClTeVw_max.jpg",
+  "title_length": 30,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

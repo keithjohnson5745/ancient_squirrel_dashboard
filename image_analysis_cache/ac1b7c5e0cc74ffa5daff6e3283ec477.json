@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light brown / tan (soil/sand)": "50%",
+      "Bright green (vegetation, mine layers)": "10%",
+      "Red (mine layers)": "6%",
+      "Purple (mine layers)": "6%",
+      "Teal / turquoise (mine layers)": "6%",
+      "Black (mine supports, underground)": "10%",
+      "Pastel pink (blossoming trees)": "4%",
+      "Gray (buildings, sky)": "8%"
+    },
+    "Composition type": "Wide shot, cross-sectional diagram",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Miniature houses/buildings on surface",
+      "Trees/bushes (miniature or model)",
+      "Layered soil cross-section",
+      "Colored strata/veins (representing mine tunnels or geological layers)",
+      "Black structural elements underground (mining supports or tunnels)"
+    ],
+    "Background environment": "A neutral, flat gradient background resembling the sky, with a model landscape above a soil cross-section below"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "None visible",
+    "Font characteristics": "N/A",
+    "Text placement within frame": "N/A",
+    "Use of emotional/trigger words": "N/A"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautious curiosity, educational, slightly tense due to the visualization of underground hazards",
+    "Visual metaphors or symbols": [
+      "Subsurface cross-section = hidden danger beneath everyday life",
+      "Colored mine/extraction layers = potential instability or hazards",
+      "Tiny homes above ground = normalcy above, risk below"
+    ],
+    "Clickbait techniques employed": [
+      "Revealing cross-section to invoke curiosity",
+      "Juxtaposition of harmless houses and hidden, potentially dangerous mines"
+    ],
+    "Brand elements present": "None clearly visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s cross-sectional view directly illustrates the idea of \u2018abandoned mines\u2019 beneath the surface, showing the possible structural voids and their proximity to houses. This supports the title\u2019s focus on what happens \u2018when abandoned mines collapse\u2019 by making the risk tangible and visually engaging.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no visible collapse occurring in the thumbnail; instead, it shows stable layers. While this builds curiosity and sets up the concept, it does not depict an actual mine collapse event."
+  }
+}

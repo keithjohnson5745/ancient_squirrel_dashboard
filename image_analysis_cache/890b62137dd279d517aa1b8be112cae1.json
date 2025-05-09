@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/off-white": "40% (background walls, window light)",
+      "Muted blue": "20% (shirt, some pillow patterns)",
+      "Brown": "20% (hair, furniture, pillows)",
+      "Pale grey": "10% (overlay for main text, swaddling wrap of baby illustration)",
+      "Accents (yellow, green, black)": "10% (pillow highlights, earrings, eyes)"
+    },
+    "Composition type": "Medium shot (framed from waist up, subject centered in frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, open, friendly",
+      "Demographics": "Young adult woman, light skin, long brown hair"
+    },
+    "Main objects/props featured": [
+      "Smiling woman as central figure",
+      "Illustrated baby wrapped in a blanket (top right)",
+      "Pillows and modern furniture in the background"
+    ],
+    "Background environment": "Cozy indoor space, likely a living room or bedroom with soft lighting, framed art, and decorative pillows"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TTC JOURNEY",
+      "TIPS + EARLY SYMPTOMS"
+    ],
+    "Font characteristics": {
+      "TTC JOURNEY": {
+        "Style": "Sans-serif, all caps, bold, clean",
+        "Emphasis": "Large, black text over translucent oval background",
+        "Color": "Black"
+      },
+      "TIPS + EARLY SYMPTOMS": {
+        "Style": "Handwritten/script-like, all caps, casual",
+        "Emphasis": "Medium-large, less bold, playful",
+        "Color": "Muted blue"
+      }
+    },
+    "Text placement within frame": {
+      "TTC JOURNEY": "Upper left, centered in a translucent oval",
+      "TIPS + EARLY SYMPTOMS": "Lower left/middle, across the midsection of the subject"
+    },
+    "Use of emotional/trigger words": [
+      "TTC",
+      "JOURNEY",
+      "TIPS",
+      "EARLY SYMPTOMS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, hopeful, supportive, welcoming",
+    "Visual metaphors or symbols": [
+      "Illustrated baby in blanket (symbolizing pregnancy/newborns)",
+      "Smiling face (openness, approachability)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct reference to popular/frequently searched topic (TTC: Trying To Conceive)",
+      "Promise of valuable information or secrets ('Tips + Early Symptoms')",
+      "Human connection through genuine, inviting facial expression",
+      "Use of illustration/visual storytelling"
+    ],
+    "Brand elements present": "No overt logo or watermark; branding emerges through consistent style and quality"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail features the central figure (presumably the video creator), smiling and engaging, putting a human face to the 'journey' described in the title. The large text 'TTC JOURNEY' directly references the video topic (Trying To Conceive), while the illustrated baby visually supports the idea of pregnancy and success ('How I Got Pregnant'). The additional text 'Tips + Early Symptoms' hints at the practical information to be delivered, matching the promise in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrast or mismatch. Both thumbnail and title are closely aligned, with both focusing on conception success and helpful advice. The title emphasizes speed ('on the FIRST try'), which is not visually referenced in the thumbnail, but this is a subtle omission rather than a contradiction."
+  }
+}

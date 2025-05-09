@@ -1,0 +1,12 @@
+{
+  "title": "If You See These 13 Symptoms: Do An HIV Test Immediately",
+  "thumbnail_path": "thumbnails/4ONaxIi5jeY_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

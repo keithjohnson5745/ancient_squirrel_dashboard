@@ -1,0 +1,13 @@
+{
+  "title": "\"He's on his own!\" Meghan Markle is Prince Harry's only ally after disastrous BBC interview slammed",
+  "thumbnail_path": "thumbnails/y5SKLdjSEfU_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

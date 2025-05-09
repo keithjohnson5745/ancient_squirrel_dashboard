@@ -1,0 +1,81 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (background, tubes)",
+      "Blue/Navy": "25% (shirt, text outline, Neutrogena tube)",
+      "Skin Tones": "15% (person's face and hand)",
+      "Purple": "10% (CeraVe tubes)",
+      "Beige/Light Yellow": "5% (tube on right of person)",
+      "Other accent colors": "5% (red/orange text on product, blue squares on tube)"
+    },
+    "Composition type": "Medium close-up (one person from the chest up, centrally framed, surrounded by product tubes in a symmetrical layout)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/serious with direct eye contact, slightly raised eyebrows, finger pointing to under-eye area (demonstrative gesture)",
+      "Demographics if apparent": "Appears to be a young adult woman, light skin tone, straight brown hair, wearing minimal makeup and a navy top"
+    },
+    "Main objects/props featured": [
+      "Seven tubes/bottles of eye creams/serums from recognizable brands (Cerave, Eucerin, Beauty of Joseon, Prequel, La Roche-Posay, Neutrogena)",
+      "Person pointing at her undereye"
+    ],
+    "Background environment": "Plain, softly-lit, neutral background (white/gray), possibly indoors, with no distractors (designed for product and subject focus)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in the thumbnail": [
+      "CeraVe",
+      "Skin Renewing Vitamin C Serum",
+      "10% PURE VITAMIN C",
+      "CeraVe",
+      "Skin Renewing Eye Cream",
+      "PEPTIDE COMPLEX",
+      "Eucerin",
+      "RADIANT TONE",
+      "EYE CREAM DARK CIRCLE CORRECTOR",
+      "Beauty of Joseon",
+      "Revive Eye Serum",
+      "Ginseng + Retinal",
+      "Prequel.",
+      "LA ROCHE-POSAY",
+      "CICAPLAST GEL B5",
+      "GLYCERIN SKIN PROTECTANT 21%",
+      "HELPS SOOTHE A DISRUPTED SKIN BARRIER",
+      "Neutrogena",
+      "Rapid Wrinkle Repair",
+      "eye cream",
+      "BEST EYE CREAMS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif (for 'BEST EYE CREAMS'); Product packaging fonts are varied (sans-serif, branding-specific)",
+      "Emphasis": "High (main headline is capitalized and bold with black outline and white fill)",
+      "Color": "Main headline: White with thick dark/navy blue outline"
+    },
+    "Text placement within frame": {
+      "Main headline": "Bottom center, large, spanning the width",
+      "Product names": "On tubes, arranged vertically beside each tube, smaller and less prominent"
+    },
+    "Use of emotional/trigger words": [
+      "BEST",
+      "RADIANT",
+      "RENEWING",
+      "RAPID",
+      "CORRECTOR"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, trustworthy, informative, slightly clinical",
+    "Visual metaphors or symbols": "Pointing to under-eye area symbolizes eye cream topic; array of products visually suggests a 'guide' or comparison",
+    "Clickbait techniques employed": [
+      "Superlative language ('BEST')",
+      "Large, bold headline",
+      "Facial close-up with direct demonstration gesture",
+      "Display of popular branded products"
+    ],
+    "Brand elements present": [
+      "CeraVe, Eucerin, Beauty of Joseon, Prequel, La Roche-Posay, Neutrogena (visible logos/packaging)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The image directly illustrates the topic of 'eye creams' with a person highlighting the under-eye area while surrounded by several well-known eye cream products. The bold headline 'BEST EYE CREAMS' reinforces the 'Ultimate Guide' claim of the title.",
+    "Contrasts or mismatches": "The thumbnail emphasizes 'best' products, which is slightly more decisive or opinionated than the neutral 'guide' in the title. The title mentions '2025,' but there is no explicit reference to the year or current trends in the thumbnail."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow/Gold": "approximately 30% (catcher\u2019s gear, Padres logo)",
+      "Black": "approximately 25% (background, Yankees cap, part of Padres logo)",
+      "White": "approximately 20% (Yankees uniform, Yankees logo, part of text)",
+      "Navy Blue": "approximately 15% (Yankees logo and cap)",
+      "Brown/Beige": "approximately 5% (dirt/base, some audience apparel)",
+      "Red": "approximately 2% (vs block between team logos)",
+      "Other": "Miscellaneous colors from the audience in background"
+    },
+    "Composition type": "Medium shot (action-focused, showing both catcher and baserunner in context)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both individuals show intense focus; baserunner is sliding, catcher is bracing for a play",
+      "Demographics (if apparent)": "Both are adult male athletes, one in yellow catcher\u2019s gear, the other in a pinstriped baseball uniform"
+    },
+    "Main objects/props featured": [
+      "Baseball catcher gear (yellow, heavily featured)",
+      "Baseball uniform (pinstripes, number visible: 99)",
+      "Baseball dirt/base path (foreground)",
+      "Team logos of Padres and Yankees (graphic elements)"
+    ],
+    "Background environment": "Blurred stadium seating/audience, focusing attention on foreground sports action"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "SD vs NY",
+      "GAME HIGHLIGHTS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold and blocky sans-serif",
+      "Emphasis": "All caps, strong and easy to read",
+      "Color": "White (main text), Yellow (Padres logo), Dark Blue/Navy (Yankees logo), Red and White (vs block)"
+    },
+    "Text placement within frame": "Left side, vertically stacked; team logos and 'vs' placed at top left, 'GAME HIGHLIGHTS' below",
+    "Use of emotional/trigger words": [
+      "HIGHLIGHTS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Action-packed, competitive, and energetic, emphasizing excitement of key sports moments",
+    "Visual metaphors or symbols": [
+      "Sliding player and catcher at the plate symbolizes high-intensity, pivotal moments in baseball",
+      "Contrasting team colors/logos emphasize rivalry"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic action shot (sliding play at home plate)",
+      "Use of 'GAME HIGHLIGHTS' to promise condensed excitement",
+      "Bright, contrasting colors to draw the eye"
+    ],
+    "Brand elements present": [
+      "Padres and Yankees official logos",
+      "MLB branding style (consistent with league highlight videos)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces the title": "The thumbnail directly shows a dramatic play from a Padres vs. Yankees baseball game, aligning with the promise of 'Game Highlights.' Team logos and player action make it clear that this is a recap of a specific matchup.",
+    "Contrasts or mismatches": "No major contrasts or mismatches; everything in the thumbnail visually supports the video's title and content focus."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Truth About Prostatitis (Doctors Won\u2019t Tell You)",
+  "thumbnail_path": "thumbnails/ZusAp3CRdrk_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "New Korean Beauty Haul! Products I'm DYING Over | Dr. Sam Ellis",
+  "thumbnail_path": "thumbnails/uK2t0EO8IWs_max.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

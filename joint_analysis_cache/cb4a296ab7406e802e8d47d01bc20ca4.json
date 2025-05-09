@@ -1,0 +1,12 @@
+{
+  "title": "ADHD, IQ, and Giftedness",
+  "thumbnail_path": "thumbnails/4_BIaLhdkrw_high.jpg",
+  "title_length": 24,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

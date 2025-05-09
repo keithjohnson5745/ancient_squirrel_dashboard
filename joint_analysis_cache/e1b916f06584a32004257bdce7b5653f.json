@@ -1,0 +1,14 @@
+{
+  "title": "What is the ABORTION PILL (medication abortion)?: Cost, how to get it, & more  |  Dr. Jen Lincoln",
+  "thumbnail_path": "thumbnails/4d7hkvdGj7s_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

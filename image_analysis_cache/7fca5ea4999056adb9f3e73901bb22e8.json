@@ -1,0 +1,93 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Beige/cream (left side background, suit)",
+        "percentage": 30
+      },
+      {
+        "color": "Warm yellow/gold (left background lighting, text background)",
+        "percentage": 15
+      },
+      {
+        "color": "Black (hair, bowtie, text background, suit details, image divider)",
+        "percentage": 15
+      },
+      {
+        "color": "Flesh tones (skin and body of both men)",
+        "percentage": 25
+      },
+      {
+        "color": "Red (boutonniere)",
+        "percentage": 5
+      },
+      {
+        "color": "Blue-gray (right side background)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Side-by-side medium shots (split vertically, each man shown from waist or chest up, facing slightly toward the viewer)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        {
+          "left": "Calm, suave, somewhat neutral expression (old-fashioned masculinity archetype)"
+        },
+        {
+          "right": "Intense, serious, stern expression (hyper-muscular modern masculinity archetype)"
+        }
+      ],
+      "demographics": [
+        {
+          "left": "Adult male, light skin, dark hair, classic formal attire"
+        },
+        {
+          "right": "Adult male, light skin, extremely muscular build, short blonde hair, shirtless"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Left: White suit, black bowtie, red boutonniere, cigarette holder",
+      "Right: No props, shirtless, muscular physique highlighted"
+    ],
+    "Background environment": [
+      "Left: Glamorous, blurred, warmly lit interior setting (suggests sophistication or old-fashioned class)",
+      "Right: Outdoor, cool blue-grey tones, hints of trees and buildings (suggests something colder and more austere or urban)"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "THEN",
+      "NOW"
+    ],
+    "Font characteristics": [
+      "Bold, sans-serif, all uppercase",
+      "Bright yellow text on solid black rectangular background (high contrast, attention-grabbing)"
+    ],
+    "Text placement within frame": [
+      "\"THEN\" - top center of left half, above the left figure's head",
+      "\"NOW\" - top center of right half, above the right figure's head"
+    ],
+    "Emotional/trigger words": [
+      "\"THEN\"",
+      "\"NOW\""
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Contrast between nostalgia (past elegance) and concern/alarm (modern hyper-masculinity); evokes a sense of worry or criticism about a perceived cultural shift.",
+    "Visual metaphors or symbols": [
+      "Left: Suited figure with cigarette holder represents old-fashioned or 'classic' masculinity.",
+      "Right: Hyper-muscular shirtless figure represents modern, raw, or extreme approach to masculinity."
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic contrast between 'then' and 'now' archetypes",
+      "Bold, simple text for instant clarity",
+      "Provocative use of sharp visual and cultural dichotomy"
+    ],
+    "Brand elements present": []
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The stark visual contrast between the elegant, poised old-fashioned masculine figure ('THEN') and the aggressive, hyper-muscular, shirtless modern figure ('NOW') directly illustrates the video's premise of a 'scary shift in masculinity.' Both the visual and the title suggest an alarming or negative transformation over time.",
+    "Contrasts or mismatches": "No significant mismatch. The thumbnail effectively parallels and enhances the video's title by making the generational and stylistic shift in masculinity immediately apparent and framing it as something 'scary' or concerning."
+  }
+}

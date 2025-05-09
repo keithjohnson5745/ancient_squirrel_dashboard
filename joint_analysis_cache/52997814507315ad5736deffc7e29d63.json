@@ -1,0 +1,13 @@
+{
+  "title": "How early can you take a pregnancy test at home? Implantation Symptoms and Early Pregnancy Testing",
+  "thumbnail_path": "thumbnails/aCNiZzlpMpc_max.jpg",
+  "title_length": 98,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

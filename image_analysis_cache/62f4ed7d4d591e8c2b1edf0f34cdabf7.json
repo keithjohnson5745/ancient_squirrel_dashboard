@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (background)": "50%",
+      "Red (header strip)": "15%",
+      "Yellow (banana)": "10%",
+      "Purple (eggplant, shirt)": "15%",
+      "Other accent colors (skin, black hair, white text, green)": "10%"
+    },
+    "Composition type": "Medium close-up (illustrated person shown from the chest up, centrally framed)",
+    "Human presence": {
+      "Number of people": 1,
+      "Description": "Cartoon/animated male character, young adult, light tan skin, glasses, dark hair, casual clothing",
+      "Expression": "Worried, startled, or confused (open mouth, wide eyes, finger near/at mouth)"
+    },
+    "Main objects/props featured": [
+      "Illustrated banana on left",
+      "Illustrated eggplant on right",
+      "Person in the center (cartoon male)",
+      "Glasses"
+    ],
+    "Background environment": "Flat, stylized sky-blue background with faint abstract cloud shapes; very minimal/environment is not detailed to keep focus on the central figure and props."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "YOU ARE NOT THAT BIG",
+    "Font characteristics": {
+      "Style": "Bold, all uppercase, sans-serif",
+      "Emphasis": "Very strong (white on bright red background)",
+      "Color": "White font over red rectangular strip"
+    },
+    "Text placement within frame": "Top center, occupying entire top edge in a large, bold strip",
+    "Use of emotional/trigger words": [
+      "NOT THAT BIG"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Provocative, slightly humorous, self-conscious/awkward (elicits curiosity and mild embarrassment)",
+    "Visual metaphors or symbols": [
+      "Banana and eggplant are both widely used as phallic symbols in internet culture, referencing male anatomy without being explicit"
+    ],
+    "Clickbait techniques employed": [
+      "Direct address ('YOU ARE'),",
+      "Challenge to the viewer's ego/masculinity ('NOT THAT BIG'),",
+      "Bold, controversial or possibly embarrassing statement",
+      "Use of popular/coded emojis (banana and eggplant)",
+      "Strong color contrast and central focus on facial expression"
+    ],
+    "Brand elements present": "None overt in the thumbnail, but the bright, flat illustration style may be recognizable to fans of specific educational channels"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually and textually addresses the central question of penis size, which is the main topic of the video. The banana and eggplant are visual stand-ins for penises, tapping into common meme/emoji language. The text ('YOU ARE NOT THAT BIG') directly appeals to (and challenges) concerns about average size, hooking viewers who are curious, concerned or amused by the topic. The worried facial expression mirrors the awkwardness and curiosity implied by the video title's promise to answer 'male questions.'",
+    "Contrast/mismatches": "The thumbnail uses humor/visual innuendo (food metaphors, exaggerated cartoon style) to discuss a sensitive topic, which is consistent with the likely informative yet lighthearted tone of the video. There is no significant mismatch; the approach is direct but coded to remain YouTube-friendly."
+  }
+}

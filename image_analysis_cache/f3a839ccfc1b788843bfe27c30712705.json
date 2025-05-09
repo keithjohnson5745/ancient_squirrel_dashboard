@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": 40,
+      "Red": 20,
+      "Yellow": 20,
+      "White": 10,
+      "Brown": 10
+    },
+    "Composition type": "Wide shot (objects and person in separate sections)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral/confident, direct eye-contact, gentle smile, pointing gesture",
+      "demographics": "Adult female, dark hair, professional attire (lab coat, suggesting a doctor or health professional)"
+    },
+    "Main objects/props featured": [
+      "Green and black cardamom pods (foreground, left)",
+      "A woman (likely Dr. Neha Mehta, right side), wearing a white coat"
+    ],
+    "Background environment": "Solid blue gradient with blurred cardamom image behind the text; the lower third includes objects (cardamom pods), upper right is plain blue"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0915\u094d\u092f\u093e \u0907\u0932\u093e\u092f\u091a\u0940 \u0935\u093f\u092f\u093e\u0917\u094d\u0930\u093e \u0938\u0947 \u092d\u0940 \u092c\u095d\u093f\u092f\u093e \u0939\u0948?",
+      "Dr. Neha Mehta",
+      "CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Main Hindi text": {
+        "style": "Bold, sans-serif, outlined (black outline with yellow fill)",
+        "emphasis": "Very high, large letters",
+        "color": "Yellow text with black outline for readability"
+      },
+      "English name and title": {
+        "style": "Bold, sans-serif",
+        "emphasis": "Medium, clear branding",
+        "color": "White name on black background, red subtitle"
+      }
+    },
+    "Text placement": {
+      "Hindi text": "Top and center, occupying the upper half and middle of the thumbnail inside a red banner",
+      "English name and title": "Bottom right over a black/red label"
+    },
+    "Use of emotional/trigger words": [
+      "\u092c\u095d\u093f\u092f\u093e (better)",
+      "\u0935\u093f\u092f\u093e\u0917\u094d\u0930\u093e (Viagra)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, informative, slightly provocative (comparing cardamom to Viagra implies surprising/valuable health benefits)",
+    "Visual metaphors or symbols": [
+      "Cardamom as a natural alternative/remedy",
+      "Lab coat/doctor image symbolizing scientific credibility"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, surprising comparison (cardamom vs. Viagra)",
+      "Large, emphatic text",
+      "Use of a health professional's image for authority"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta branding",
+      "Professional attire and title presented clearly"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail explicitly supports the title\u2014showing both cardamom (subject of the video) and a professional (doctor/expert) who will explain its benefits. Text and imagery both focus on the provocative comparison to Viagra.",
+    "Contrasts or mismatches": "There are no significant mismatches; both the visual and textual components directly echo the video's promised content (benefits of cardamom for men, presented in Hindi, from a medical expert perspective)."
+  }
+}

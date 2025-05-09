@@ -1,0 +1,49 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/tan (walls, 30%)": "The background walls and lamp provide a muted beige tone.",
+      "Dark brown/black (chair, table, props, 25%)": "The chair and table reinforce a dark, professional setting.",
+      "Navy blue (shirt, 20%)": "The subject's shirt is a strong dark blue.",
+      "Pale yellow (lamp light, 10%)": "Adds warmth to the scene.",
+      "Muted green/gray (carpet, 5%)": "Carpet is subtle, receding into background.",
+      "White (window frost, snow, tissue box, 10%)": "Provides contrast and indicates an exterior winter setting."
+    },
+    "Composition type": "Medium shot \u2014 The subject is shown from mid-torso upward, centered in frame.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, neutral or slightly intense. The person appears to be explaining or discussing something important.",
+      "Demographics": "Adult male, likely between 30-50 years old. Light complexion. Business-casual attire."
+    },
+    "Main objects/props featured": [
+      "Desk lamp (warm yellow light)",
+      "Tissue box and stack of tissues",
+      "Wooden side table",
+      "Wallet/folder",
+      "Decorative objects (clock, abstract sculpture) on windowsill",
+      "Leather armchair"
+    ],
+    "Background environment": "Professional office setting, window with snow-covered trees outside, neutral-colored walls. Overall atmosphere is calm and clinical but slightly warm due to lamp lighting."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in thumbnail": "None",
+    "Font characteristics": "N/A",
+    "Text placement within frame": "N/A",
+    "Use of emotional/trigger words": "N/A (No visible text)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, professional, calm. The subject appears to be giving an informative discussion in a responsible and reassuring environment.",
+    "Visual metaphors or symbols": [
+      "Office props (desk, tissue box) symbolize professionalism and a clinical or counseling environment.",
+      "Winter scene outside window may evoke a sense of neutrality, reflection, or emotional 'stillness'."
+    ],
+    "Clickbait techniques employed": [
+      "Direct-to-camera medium shot for personal engagement.",
+      "Authoritative setting reinforces subject expertise."
+    ],
+    "Brand elements present": "None explicitly visible (no logos or channel-specific branding in thumbnail)."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How thumbnail visually reinforces the title": "The office setting, serious facial expression, and absence of sensational props or design, all reinforce the academic and expert perspective suggested by the title. It projects the authority and seriousness aligned with a forensic psychologist's analysis.",
+    "Any contrasts or mismatches": "There is no sensational or alarming visual element; the tone is academic and neutral. The subject matter is very serious, but the thumbnail avoids triggering imagery, maintaining professionalism. Some viewers may expect a more dramatic or cautionary visual for such a topic."
+  }
+}

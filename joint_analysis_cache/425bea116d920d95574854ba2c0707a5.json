@@ -1,0 +1,12 @@
+{
+  "title": "The \u00a31000 Treatment Promising To Anti-Age Your Vagina  | This Morning",
+  "thumbnail_path": "thumbnails/FpbmBmTO4qQ_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

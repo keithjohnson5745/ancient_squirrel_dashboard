@@ -1,0 +1,13 @@
+{
+  "title": "Sleep Experts Debunk 13 More Sleep Myths | Debunked | Science Insider",
+  "thumbnail_path": "thumbnails/Aoaec1Npjoc_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

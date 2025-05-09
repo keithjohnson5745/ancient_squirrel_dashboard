@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Muted green",
+        "percentage": 25
+      },
+      {
+        "color": "Brown (hair/facial hair)",
+        "percentage": 20
+      },
+      {
+        "color": "Pale sky grey/white",
+        "percentage": 30
+      },
+      {
+        "color": "Black (clothing, shadows)",
+        "percentage": 15
+      },
+      {
+        "color": "Muted beige (skin tone)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Close-up, upward angle shot, outdoor setting",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, contemplative, mouth slightly open, looking upward",
+      "demographics": "Adult male, long brown hair, beard"
+    },
+    "Main objects/props featured": [
+      "Person (main subject)",
+      "Background trees/branches"
+    ],
+    "Background environment": "Outdoors/wooded forested area, trees visible with leafless branches, overcast sky"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "NO ONE TELLS YOU THIS",
+    "font_characteristics": {
+      "style": "Sans-serif, clean",
+      "emphasis": "All uppercase, medium thickness, white color",
+      "color": "White",
+      "shadow": "Subtle dark drop-shadow for contrast"
+    },
+    "text_placement_within_frame": "Centered near top of image",
+    "emotional_trigger_words": [
+      "NO ONE TELLS YOU THIS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Serious, secretive, introspective, raw honesty",
+    "visual_metaphors_or_symbols": [
+      "Looking upward/outward may symbolize searching for answers or revelations",
+      "Solitude in nature could indicate introspection or feeling alone in one's struggles"
+    ],
+    "clickbait_techniques_employed": [
+      "Exclusive secretive language (\u2018No one tells you this\u2019)",
+      "Direct eye-level engagement with the subject's expression",
+      "Mystery/tease (promising insider knowledge not found elsewhere)"
+    ],
+    "brand_elements_present": "None (no clear logos or recurring stylistic elements)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "reinforcement": "The thumbnail visually complements the title by using secretive, exclusive language (\u2018NO ONE TELLS YOU THIS\u2019), which mirrors the title\u2019s premise (\u2018No One Tells You The Truth\u2019). The subject\u2019s serious, raw expression along with a frank outdoor setting reinforce authenticity and personal experience, matching \u201810+ Years of Weed Addiction\u2019 for a confessional tone.",
+    "contrasts_mismatches": "The thumbnail is more general in wording (\u2018NO ONE TELLS YOU THIS\u2019) than the video title, which is specific to weed addiction. The lack of any explicit reference to weed, addiction, or substance use in the thumbnail may create curiosity but also could be seen as nonspecific clickbait."
+  }
+}

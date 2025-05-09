@@ -1,0 +1,13 @@
+{
+  "title": "When He Breaks Your Heart, Break His Ego| Matthew Hussey",
+  "thumbnail_path": "thumbnails/bBxPryHZmz0_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

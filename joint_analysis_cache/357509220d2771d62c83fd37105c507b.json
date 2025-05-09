@@ -1,0 +1,12 @@
+{
+  "title": "MSNBC Highlights \u2014 May 5",
+  "thumbnail_path": "thumbnails/JE0zFzwELtc_max.jpg",
+  "title_length": 24,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

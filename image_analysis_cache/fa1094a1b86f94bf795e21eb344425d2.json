@@ -1,0 +1,50 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "90% (various shades of blue form the background and text blocks)",
+      "white": "10% (text color)"
+    },
+    "Composition type": "Wide shot (fully graphic-based, text is the main focus, no photo cutouts or close-ups)",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": "n/a",
+      "demographics": "n/a"
+    },
+    "Main objects/props featured": [
+      "Large bold text"
+    ],
+    "Background environment": "Abstract geometric background with overlapping triangles in varying shades of blue"
+  },
+  "2. TEXT ELEMENTS": {
+    "Visible text": "JIRA TUTORIAL FOR BEGINNERS",
+    "Font characteristics": {
+      "style": "Bold, all caps, sans-serif",
+      "emphasis": "High emphasis due to all caps, bold weight, and large size",
+      "color": "White text on deep blue and white/blue blocks, with some dark blue shadows for depth"
+    },
+    "Text placement within frame": {
+      "JIRA": "Top center, inside a white rectangle with slight shadow",
+      "TUTORIAL FOR": "Center, inside a blue rectangle",
+      "BEGINNERS": "Bottom center, inside a white rectangle on a blue background"
+    },
+    "Emotional/trigger words": [
+      "TUTORIAL",
+      "BEGINNERS"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clear, instructional, trustworthy, beginner-friendly",
+    "Visual metaphors or symbols": "Use of clean, geometric blue background suggests professionalism, technology, and calmness, which are associated with tutorials and software tools",
+    "Clickbait techniques employed": [
+      "High contrast bold text",
+      "Targeting beginners explicitly ('FOR BEGINNERS')"
+    ],
+    "Brand elements present": [
+      "JIRA (brand/product name), color palette somewhat reminiscent of tech/tutorial branding"
+    ]
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail text directly matches the main keywords of the video title \u2014 'Jira', 'Tutorial for Beginners' \u2014 making the subject immediately clear. The professional, tech-focused design further supports the promise of a project management tutorial.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches; both focus on the same beginner-friendly Jira tutorial theme. The thumbnail does not mention 'Project Management' explicitly, which is in the video title, but the rest of the messaging aligns closely."
+  }
+}

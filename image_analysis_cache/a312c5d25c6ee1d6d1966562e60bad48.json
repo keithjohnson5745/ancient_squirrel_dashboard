@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "20% (mainly in text)",
+      "Black": "20% (text backgrounds, outlines)",
+      "Light blue/aqua": "35% (IV bags and background highlights)",
+      "White": "15% (IV bag content/accents, text highlights)",
+      "Pink, blue, and green": "5% (brain logo)",
+      "Background gradient": "light blue/cyan and some blurred purple (remaining 5%)"
+    },
+    "Composition type": "Wide shot featuring both graphical and partial photographic elements",
+    "Human presence": "None",
+    "Main objects/props featured": [
+      "Four graphic IV fluid bags (with text NS, LR, 1/2NS, D5W)",
+      "Photographic IV drip chamber (partially visible upper right)",
+      "Small cartoonish brain icon (bottom right corner)"
+    ],
+    "Background environment": "Blurry, cool-toned medical or clinical environment, with blue and cyan hues and soft circles of light (bokeh effect)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "FLUID MANAGEMENT",
+      "TYPES OF IV FLUIDS",
+      "NS",
+      "LR",
+      "1/2NS",
+      "D5W"
+    ],
+    "Font characteristics": {
+      "FLUID MANAGEMENT": "Bold, sans-serif, uppercase, yellow with thick black drop shadow",
+      "TYPES OF IV FLUIDS": "Very bold sans-serif, uppercase, white with black background",
+      "NS, LR, 1/2NS, D5W": "Bold sans-serif, uppercase, black"
+    },
+    "Text placement within frame": {
+      "FLUID MANAGEMENT": "Top left in two large rows",
+      "TYPES OF IV FLUIDS": "Centered in middle, within a black rectangle",
+      "IV fluid abbreviations (NS, LR, 1/2NS, D5W)": "Centered within each IV bag graphic, lined up horizontally near bottom half"
+    },
+    "Use of emotional/trigger words": [
+      "MANAGEMENT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clean, educational, authoritative, clinical",
+    "Visual metaphors or symbols": [
+      "IV fluid bags as symbols for types of fluids used in medical settings",
+      "Brain logo\u2014symbolizing education or learning"
+    ],
+    "Clickbait techniques employed": [
+      "Bright, bold colors and large text for visibility and urgency",
+      "Direct listing of what will be taught (types of IV fluids)",
+      "Medical props to increase specificity/credibility"
+    ],
+    "Brand elements present": [
+      "Cartoon brain icon, likely recurring channel brand/logotype"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail explicitly visualizes the video title: it depicts classic types of IV fluids as labeled bags under 'Fluid Management', matching both content and terminology in the title.",
+    "Contrasts/mismatches": "No major mismatches; the visual content and text directly correspond to the title. Both title and thumbnail communicate a medical education topic about IV fluids and their management."
+  }
+}

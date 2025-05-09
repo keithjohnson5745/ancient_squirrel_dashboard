@@ -1,0 +1,13 @@
+{
+  "title": "HCG Pregnancy Testing: How Soon Can You Know if You Are Pregnant - Dr Lora Shahine",
+  "thumbnail_path": "thumbnails/gpfaDQZGsBU_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

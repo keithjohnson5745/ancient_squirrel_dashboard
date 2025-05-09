@@ -1,0 +1,13 @@
+{
+  "title": "Make Your Retinoids Work BETTER | Easy Retinol Hacks | Dr. Sam Ellis",
+  "thumbnail_path": "thumbnails/snaRz7Khjx0_max.jpg",
+  "title_length": 68,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

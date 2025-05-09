@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink gradient background": "50%",
+      "Black (text boxes, shirt)": "20%",
+      "White (text)": "15%",
+      "Bright pink (text highlight)": "10%",
+      "Yellow (emoji)": "3%",
+      "Skin tones": "2%"
+    },
+    "Composition type": "Medium close-up (waist-up shot of a single person, prominently positioned on the right)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, enthusiastic, confident",
+      "Demographics": "Apparent adult male, light complexion, gray hair, glasses"
+    },
+    "Main objects/props featured": [
+      "Person",
+      "Text overlays",
+      "Shushing emoji (\ud83e\udd2b)"
+    ],
+    "Background environment": "Plain gradient pink background, no specific setting, softly fading from a lighter to darker shade toward edges"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "GET PREGNANT WITH THESE 3 SECRETS",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": [
+        "White on black for 'GET PREGNANT WITH THESE'",
+        "White on pink for '3 SECRETS'"
+      ],
+      "Color": [
+        "White (main text)",
+        "Black (background for text boxes)",
+        "Bright pink (background for '3 SECRETS')"
+      ]
+    },
+    "Text placement within frame": {
+      "Top left": "'GET PREGNANT' (black rectangle)",
+      "Middle left": "'WITH THESE' (black rectangle, shushing emoji after text)",
+      "Bottom left": "'3 SECRETS' (in large font, pink rectangle)",
+      "Right side": "Person positioned next to text"
+    },
+    "Use of emotional/trigger words": [
+      "GET PREGNANT",
+      "SECRETS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, hopeful, playful (with the emoji), sense of urgency/secrecy",
+    "Visual metaphors or symbols": [
+      "Shushing emoji (\ud83e\udd2b) symbolizes a 'secret' or confidential information"
+    ],
+    "Clickbait techniques employed": [
+      "Prominent use of 'SECRETS' and large numbers ('3 SECRETS')",
+      "Implication of exclusive or privileged information",
+      "Bold text and colors to capture attention"
+    ],
+    "Brand elements present": [
+      "Person's consistent style if recurring on channel (e.g., glasses, scrubs), could reinforce a recognizable expert/personality"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly echoes the main promise of the title ('3 SECRETS to get pregnant'), featuring those exact keywords in bold, large text. The addition of the shushing emoji emphasizes the secretive aspect, paralleling the 'secrets' mentioned in the title. The presence of a professional-appearing individual strengthens credibility, aligning with the advice/educational nature implied in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail omits the phrase 'even if you have LOW EGG QUALITY,' which is included in the video title. This exclusion keeps the focus broader and more universally appealing, potentially omitting a detail that makes the video even more niche. This is a typical clickbait strategy to attract a larger audience before narrowing the focus in the video itself."
+  }
+}

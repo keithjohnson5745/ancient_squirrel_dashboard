@@ -1,0 +1,37 @@
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  standard:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  simple:
+    format: '%(levelname)s - %(message)s'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: standard
+    stream: ext://sys.stdout
+  file:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: standard
+    filename: logs/ancient_squirrel.log
+    encoding: utf8
+
+loggers:
+  ancient_squirrel:
+    level: INFO
+    handlers: [console, file]
+    propagate: no
+
+  streamlit:
+    level: WARNING
+    handlers: [console]
+    propagate: no
+
+root:
+  level: INFO
+  handlers: [console]
+  propagate: no

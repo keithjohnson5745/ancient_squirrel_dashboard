@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "Approximately 55% (background gradient and Excel logo)",
+      "White": "Approximately 25% (main text, dashboard area, and highlights)",
+      "Blue": "Approximately 10% (dashboard header, buttons)",
+      "Skin tones": "Approximately 8% (face and hand of person)",
+      "Red/Burgundy": "Approximately 2% (shirt of person)"
+    },
+    "Composition type": "Medium shot \u2013 Features a clear upper body and face of a person, alongside UI elements.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, approachable and confident",
+      "Demographics": "Adult, likely male, light skin tone, short brown hair"
+    },
+    "Main objects/props featured": [
+      "Excel logo",
+      "Text box labeled 'INTERACTIVE DASHBOARDS'",
+      "Partial screenshot of a dashboard (bar chart, slicer, tabs)",
+      "Person pointing at dashboard"
+    ],
+    "Background environment": "Stylized green burst background with gradient, radiating lines centered behind the main elements."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "INTERACTIVE DASHBOARDS",
+      "KEVIN COOKIE COMPANY",
+      "Performance Dashboard",
+      "Date",
+      "2019 - 2020",
+      "YEARS",
+      "2019",
+      "2020",
+      "India",
+      "Malaysia",
+      "Philippines",
+      "United Kingdom",
+      "Profit by Market & Cookie Type",
+      "Fortune Cookie",
+      "Sugar",
+      "Snickerdoodle",
+      "Oatmeal Raisin",
+      "White Chocolate Macadamia"
+    ],
+    "Font characteristics": {
+      "Main title": "Bold, ALL CAPS, sans-serif, white text with black drop shadow (strong emphasis).",
+      "Dashboard/interface text": "Standard sans-serif, smaller, various colors (blue for headers/buttons, black for data labels)."
+    },
+    "Text placement within frame": {
+      "Title": "Top left, large and centered within its section.",
+      "Description/interface elements": "Lower to mid-section, embedded in dashboard screenshot."
+    },
+    "Use of emotional/trigger words": [
+      "INTERACTIVE",
+      "DASHBOARDS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, enthusiastic, confident, and instructional.",
+    "Visual metaphors or symbols": [
+      "Excel logo signifies topic focus",
+      "Dashboard screenshot as a direct visual cue to content"
+    ],
+    "Clickbait techniques employed": [
+      "All-caps, bold and high-contrast headline",
+      "Clear and approachable human face with direct engagement (pointing)",
+      "Bright, inviting background"
+    ],
+    "Brand elements present": [
+      "Excel logo (product branding)",
+      "Visual of an Excel-like dashboard",
+      "Kevin Cookie Company (recurrent educational motif/brand for the channel)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly depicts both an Excel logo and a dashboard interface, literally reflecting the core promise of the video to teach how to build Excel interactive dashboards. The bold text enhances the clarity of the topic, while the confident person points to the dashboard to reinforce focus and actionability.",
+    "Contrasts or mismatches between thumbnail and title": "No significant mismatch \u2013 the visual and textual cues are highly aligned with the title. All main elements in the image emphasize the content promised in the title."
+  }
+}

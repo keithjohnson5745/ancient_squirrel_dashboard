@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark green/gray": "approx. 85%",
+      "white": "approx. 10%",
+      "mint/soft green": "approx. 5%"
+    },
+    "Composition type": "Full-frame text-based graphic; no photographic image or people.",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": "N/A",
+      "demographics": "N/A"
+    },
+    "Main objects/props featured": "None\u2014entirely typographic. The only graphical element is a stylized mint-green icon resembling a flower or abstract shape above the word 'pelvic.'",
+    "Background environment": "Solid dark green/gray background with no photographic or illustrated scenery."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "pelvic HEALTH HUB",
+      "Vaginal Lubricants",
+      "Angelique Montano-Bresolin, PT",
+      "THE PELVIC Dialogue"
+    ],
+    "Font characteristics": {
+      "primary font": "Modern, sans-serif and serif mix.",
+      "emphasis": [
+        "'pelvic' uses lowercase modern font with a stylized 'v' element and a green icon.",
+        "'HEALTH HUB', 'Vaginal Lubricants', and 'Angelique Montano-Bresolin, PT' are in clean, simple sans-serif.",
+        "'THE PELVIC' uses larger uppercase serif font in mint green.",
+        "'Dialogue' uses script/cursive style for emphasis."
+      ],
+      "color": [
+        "White for 'Vaginal Lubricants', 'Angelique Montano-Bresolin, PT'.",
+        "Mint green for 'THE PELVIC'.",
+        "White for most other text."
+      ]
+    },
+    "Text placement within frame": {
+      "Top": "'pelvic HEALTH HUB' with logo/icon",
+      "Middle": "'Vaginal Lubricants' and 'Angelique Montano-Bresolin, PT'",
+      "Bottom third": "'THE PELVIC Dialogue'"
+    },
+    "Use of emotional/trigger words": [
+      "Dialogue"
+    ],
+    "Notes": "No overtly emotional/trigger words. The language remains clinical and informational."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, clinical, educational, calm.",
+    "Visual metaphors or symbols": "Mint green icon above 'pelvic' may subtly suggest calm, health, or a flower/plant (possibly signifying growth, wellness, or femininity), but is abstract.",
+    "Clickbait techniques employed": "Minimal/none. Text is straightforward, informational, and official. No exaggerated language or sensational imagery.",
+    "Brand elements present": [
+      "pelvic HEALTH HUB logo and branding style",
+      "Consistent color palette associated with health/wellness/medical content"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail contains the main video topic ('Vaginal Lubricants') in a prominent, neutral font. The presence of a healthcare provider's name and professional branding (logo, structured layout) reinforces the educational and health-oriented topic.",
+    "Any contrasts or mismatches between thumbnail and title": "No apparent mismatch. The thumbnail is very literal and directly aligned with the title, both taking a clinical and straightforward approach. However, it lacks visual engagement or supporting visuals that might help explain 'Vaginal Lubricants' to a lay audience."
+  }
+}

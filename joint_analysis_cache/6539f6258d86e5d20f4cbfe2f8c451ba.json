@@ -1,0 +1,14 @@
+{
+  "title": "10 HYGIENE TIPS ur mom should've taught you | what i wish i knew sooner!",
+  "thumbnail_path": "thumbnails/3iLNaM71kwA_max.jpg",
+  "title_length": 72,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

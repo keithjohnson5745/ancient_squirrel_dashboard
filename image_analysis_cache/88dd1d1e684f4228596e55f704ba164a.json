@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "Approximately 60% (background gradient)",
+      "White": "Approximately 10% (text, woman's top highlights, belly highlight)",
+      "Purple": "Approximately 15% (woman's shirt)",
+      "Black": "Approximately 10% (shirts, text borders, and outline)",
+      "Beige/Tan": "Approximately 5% (skin tone of pregnant belly and woman)"
+    },
+    "Composition type": "Wide shot with composited elements (split layout: pregnant belly on left, smiling woman on right, large central text block in middle)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Pregnant woman (face not shown, focus on belly, implication of pregnancy)",
+        "Smiling woman (visible, smiling, confident expression, wearing glasses)"
+      ],
+      "Demographics": "At least one adult Black woman (right). Pregnant individual's identity and demographics are unclear (face not shown)."
+    },
+    "Main objects/props featured": [
+      "Pregnant, exposed belly with a hand holding baby shoes",
+      "Adult woman with glasses in a purple shirt",
+      "Large stylized text boxes in the center"
+    ],
+    "Background environment": "Pink gradient, smooth and abstract with no discernable physical setting to keep the focus on the main subjects and text."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "3 NATURAL FERTILITY BOOSTERS",
+    "Font characteristics": {
+      "Style": [
+        "Number '3' and words 'FERTILITY BOOSTERS' are bold, uppercase, 3D white block font with black drop shadow",
+        "Word 'NATURAL' is uppercase, simple sans-serif, pink color on black background"
+      ],
+      "Emphasis": "High emphasis with large size, 3D/shadow effect, all-caps for key words"
+    },
+    "Text placement within frame": "Central, occupying the middle third of the thumbnail: '3' at the top, 'NATURAL' below, 'FERTILITY' and 'BOOSTERS' stacked and boxed for emphasis.",
+    "Use of emotional/trigger words": [
+      "NATURAL",
+      "FERTILITY",
+      "BOOSTERS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, positive, and hopeful; communicates empowerment and trustworthiness.",
+    "Visual metaphors or symbols": [
+      "Pregnant belly (direct visual metaphor for fertility/pregnancy outcome)",
+      "Baby shoes (symbol of expecting a baby and successful conception)",
+      "Bright and optimistic color palette suggests hopefulness"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bolded numbers ('3') implying a quick, actionable list",
+      "Trigger words like 'FAST', 'BOOSTERS', 'NATURAL' implying easy, effective solutions",
+      "Explicit, relatable imagery (pregnancy, close-up of belly, direct eye contact with viewer from woman)"
+    ],
+    "Brand elements present": "No explicit logos or unique brand markers, but strong use of signature color palette (pink, purple) and consistent editorial style, possibly recognizable for returning viewers."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the title by showing a pregnant belly and baby shoes (directly tied to getting pregnant) and placing bold text that repeats the title's keywords ('3', 'Natural', 'Fertility Boosters'). The presence of a smiling woman lends credibility and approachability, potentially representing the video's host or expert.",
+    "Contrasts or mismatches": "There is no major mismatch; however, while the title suggests advice for getting pregnant quickly, the image of an already pregnant belly reflects the end goal rather than the process. The natural boosters themselves aren't visually indicated, so the cause-effect relationship is implied rather than demonstrated."
+  }
+}

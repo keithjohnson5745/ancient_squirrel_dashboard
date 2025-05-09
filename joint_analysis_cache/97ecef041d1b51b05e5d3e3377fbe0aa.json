@@ -1,0 +1,12 @@
+{
+  "title": "AR Rahman's 1ST CHAT on divorce & daughter Khatija's hijab trolling, losing mom, Slumdog, Wonderment",
+  "thumbnail_path": "thumbnails/mpAwF2nVgCs_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

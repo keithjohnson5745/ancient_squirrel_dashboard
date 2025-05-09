@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark purple": "25%",
+      "Pink": "20%",
+      "Light beige/skin tones": "20%",
+      "White": "15%",
+      "Blue gradient background": "15%",
+      "Black (hair, headphones, microphone)": "5%"
+    },
+    "Composition type": "Medium shot - split composition showing a real woman with microphone and a cartoon illustration of a pregnant woman, plus a detailed hand holding a pregnancy test.",
+    "Human presence": {
+      "Number of people": "1 real person, 1 illustrated/cartoon person",
+      "Expressions": "The real person is smiling in a welcoming manner. The illustrated woman appears content and happy.",
+      "Demographics": "Real person: adult female, light skin, light brown/dark blonde hair. Cartoon: young pregnant woman with long brown hair."
+    },
+    "Main objects/props featured": [
+      "Real woman wearing headphones (podcast style) and smiling",
+      "Large studio microphone",
+      "Cartoon of a visibly pregnant woman",
+      "Hand holding a positive pregnancy test (two red lines)"
+    ],
+    "Background environment": "Solid gradient blending from blue to pink/purple, abstract with no realistic background elements."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "FERTILITY TIPS FOR 2025",
+    "Font characteristics": {
+      "Style": "Bold, uppercase sans-serif",
+      "Emphasis": "Strong emphasis via bold, all-caps, white text on a dark purple rectangular background",
+      "Color": "White (text), dark purple (background box)"
+    },
+    "Text placement": "Top left corner, occupying ~30% of the frame width",
+    "Emotional/trigger words": [
+      "TIPS",
+      "2025"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, optimistic, supportive, and informative.",
+    "Visual metaphors/symbols": [
+      "Pregnancy test with two lines: clear symbol for pregnancy/fertility.",
+      "Pregnant cartoon woman: direct representation of the video's goal.",
+      "Microphone and headphones: expertise, podcast or educational format."
+    ],
+    "Clickbait techniques": [
+      "Bold text promising specific 'TIPS'",
+      "Reference to an upcoming year (2025) to give fresh or updated value",
+      "Clear symbols of success (pregnancy test, happy pregnant figure)",
+      "Use of both real person (trust/expertise) and illustrations (clarity/appeal)"
+    ],
+    "Brand elements": "None overtly visible (no clear logos or channel branding in this thumbnail)."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Both thumbnail and title stress 'fertility tips' and the year 2025.",
+      "Visual elements (pregnancy test, pregnant woman, professional host) directly represent 'proven tips' and successful fertility outcomes."
+    ],
+    "Contrasts/mismatches": [
+      "The title specifies '5 Proven Tips,' but the thumbnail does not visually indicate the number 5 or list the tips; it instead relies on symbols of fertility and expertise for appeal."
+    ]
+  }
+}

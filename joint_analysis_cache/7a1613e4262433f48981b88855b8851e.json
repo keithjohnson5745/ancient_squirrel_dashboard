@@ -1,0 +1,13 @@
+{
+  "title": "Your Body Language May Shape Who You Are | Amy Cuddy | TED",
+  "thumbnail_path": "thumbnails/Ks-_Mh1QhMc_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

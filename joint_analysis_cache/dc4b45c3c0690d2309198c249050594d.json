@@ -1,0 +1,13 @@
+{
+  "title": "The Protein Mistake Draining Your Energy After 40",
+  "thumbnail_path": "thumbnails/te27vWR2ZxE_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

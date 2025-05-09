@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "light lavender/purple": "40%",
+      "white": "25%",
+      "black": "15%",
+      "beige/skin tones": "10%",
+      "yellow (highlight in text)": "5%",
+      "green (logo)": "3%",
+      "dark blue (text outline)": "2%"
+    },
+    "composition_type": "Medium shot (central close-up of one person, head and shoulders visible, surrounded by product images)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Serious or concerned facial expression, direct gaze at camera",
+      "demographics": "Adult woman, light skin tone, blonde/light brown straight hair"
+    },
+    "main_objects_props": [
+      "Several bottles and tubes of personal lubricants (various shapes and colors), highlighted and floating around the person's head",
+      "OLIVE YOUNG logo"
+    ],
+    "background_environment": "Neutral, softly colored solid/light backdrop with lubricants arranged in a collage format"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "\ub7ec\ube0c\uc824 18\uc885 \ub9ac\ubdf0",
+      "OLIVE O YOUNG",
+      "\uc9d1\uc5d0 \uc774 \uc81c\ud488\uc774 \uc788\ub2e4\uba74 \ub2f9\uc7a5 \ubc84\ub9ac\uc138\uc694"
+    ],
+    "font_characteristics": {
+      "upper-left text (\ub7ec\ube0c\uc824 18\uc885 \ub9ac\ubdf0)": "Handwritten or playful rounded font, white letters with a bold purple border, medium-large size",
+      "main bottom text (\uc9d1\uc5d0 \uc774 \uc81c\ud488\uc774 \uc788\ub2e4\uba74 \ub2f9\uc7a5 \ubc84\ub9ac\uc138\uc694)": "Bold, sans-serif block font, white fill with yellow fill on '\uc774 \uc81c\ud488', all outlined in thick, dark blue/purple; large and grabbing attention",
+      "logo text (OLIVE O YOUNG)": "Standard Olive Young branding (sans-serif, black and green, logo incorporated in 'O')"
+    },
+    "text_placement": {
+      "upper-left": "Product review claim (\ub7ec\ube0c\uc824 18\uc885 \ub9ac\ubdf0)",
+      "center-bottom": "Major warning/message in large text",
+      "center": "Brand logo overlaying lower part of person"
+    },
+    "emotional_trigger_words": [
+      "18\uc885 \ub9ac\ubdf0 (18 types review)",
+      "\uc774 \uc81c\ud488 (THIS PRODUCT, in yellow for emphasis)",
+      "\ub2f9\uc7a5 \ubc84\ub9ac\uc138\uc694 (THROW AWAY IMMEDIATELY, a strong action phrase)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Serious, urgent, informative, slightly alarming",
+    "visual_metaphors_symbols": [
+      "Surrounded by many products, implying abundance of choices",
+      "Brightly highlighted bottles may symbolize concern or items to beware"
+    ],
+    "clickbait_techniques": [
+      "Bold urgent warning text ('Throw away immediately')",
+      "Bright color highlights on action words",
+      "Emotional facial expression adds gravity",
+      "Many products visually emphasized and isolated",
+      "Implied controversy ('still using that one?') via title"
+    ],
+    "brand_elements_present": [
+      "OLIVE YOUNG logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "reinforcement": [
+      "The thumbnail\u2019s bold warning text directly complements the title's implied urgency ('Still using that one?')",
+      "Visual display of many products supports 'Review of 18 Personal Lubricants' in the title",
+      "Facial expression and centered position of the reviewer emphasize seriousness, matching the educational and cautionary aspect of the title"
+    ],
+    "contrasts_or_mismatches": [
+      "No overt sexual or light-hearted visuals despite the potentially sensitive subject; tone is medical and educational, avoiding sensationalism"
+    ]
+  }
+}

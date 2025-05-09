@@ -1,0 +1,43 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark blue": "45%",
+      "yellow": "15%",
+      "white": "15%",
+      "light flesh tones": "15%",
+      "teal (shirt)": "10%"
+    },
+    "Composition type": "Medium close-up (shoulders and head visible, centered figure)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Neutral, slight closed-lip smile, calm/serious demeanor",
+      "demographics": "Adult woman, light skin, shoulder-length brown hair, appears age 40+"
+    },
+    "Main objects/props featured": "No props; focus is solely on the person",
+    "Background environment": "Solid dark blue background, no scenery"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "STILL TIRED? PROTEIN IS WHY",
+    "Font characteristics": {
+      "style": "Bold, all uppercase sans-serif",
+      "emphasis": "Strong contrast between yellow ('STILL TIRED?') and white ('PROTEIN IS WHY'), thick letters for readability",
+      "color": "\"STILL TIRED?\" in yellow, \"PROTEIN IS WHY\" in white"
+    },
+    "Text placement within frame": "Right half of the frame, stacked vertically in three lines, visually balanced with the person on the left",
+    "Use of emotional/trigger words": "TIRED, WHY; both trigger curiosity and concern"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, slightly concerned, problem-focused",
+    "Visual metaphors or symbols": "The neutral expression and direct eye contact suggest sincerity and credibility. The minimalism conveys urgency.",
+    "Clickbait techniques employed": [
+      "Asking a provocative question ('STILL TIRED?'), prompting self-reflection",
+      "Offering a surprising/simple answer ('PROTEIN IS WHY'), which encourages curiosity and clicks",
+      "Bold, contrasting text for maximum readability and emphasis"
+    ],
+    "Brand elements present": "No obvious brand logos or marks, but the crisp, modern design suggests health/wellness or medical authority"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both address fatigue and protein. The thumbnail question ('STILL TIRED?') directly connects with 'Draining Your Energy' in the title. The line 'PROTEIN IS WHY' piques curiosity about the 'mistake' mentioned in the title, while the age of the person fits the 'After 40' demographic.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is more vague, not directly mentioning 'after 40' or 'mistake.' No reference to solutions, only a bold problem/accusation. Otherwise, the message is consistent."
+  }
+}

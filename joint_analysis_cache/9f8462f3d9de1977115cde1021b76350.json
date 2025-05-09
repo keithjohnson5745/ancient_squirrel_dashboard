@@ -1,0 +1,12 @@
+{
+  "title": "Coconut oil as lube ? Dr Shahs Clinic gives you the answer",
+  "thumbnail_path": "thumbnails/4qwz9h0KMXo_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

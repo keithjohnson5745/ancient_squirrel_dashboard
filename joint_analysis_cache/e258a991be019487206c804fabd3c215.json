@@ -1,0 +1,12 @@
+{
+  "title": "Meanwhile... Luigi The Musical | GTA6 Delayed | Runaway Tortoise Found",
+  "thumbnail_path": "thumbnails/KW1FdPok54k_max.jpg",
+  "title_length": 70,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

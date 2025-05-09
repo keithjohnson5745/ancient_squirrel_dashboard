@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Brown (background)": "40%",
+      "White (text)": "20%",
+      "Black (hair and clothing)": "20%",
+      "Skin tones": "15%",
+      "Pale pink/pearl (necklace, lips)": "5%"
+    },
+    "Composition type": "Close-up (tight crop on one woman\u2019s face and shoulders, filling right half of frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, direct, composed",
+      "demographics": "Adult woman, possibly of South Asian descent"
+    },
+    "Main objects/props featured": "Pearl necklace, formal/light-colored clothing",
+    "Background environment": "Plain, dark brown gradient with no discernible features to avoid distraction"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "'HONOUR' KILLING SURVIVOR",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Very high\u2014block letters take up nearly half the frame, demanding attention",
+      "color": "White with black shadow/outline for strong contrast"
+    },
+    "Text placement within frame": "Left side, stacked in three lines, occupying nearly the entire left half of the image",
+    "Use of emotional/trigger words": [
+      "'HONOUR'",
+      "KILLING",
+      "SURVIVOR"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, impactful, somber\u2014emphasizing trauma and survival",
+    "Visual metaphors or symbols": "Direct gaze symbolizes testimony/confrontation, stark text underlines seriousness",
+    "Clickbait techniques employed": [
+      "Use of highly emotional, taboo topic ('honour killing')",
+      "Survivor narrative\u2014invokes curiosity and empathy",
+      "Quotation marks highlight controversial language"
+    ],
+    "Brand elements present": "None overt (no logo, watermark); design is consistent with documentary/interview style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The phrase 'HONOUR KILLING SURVIVOR' directly mirrors and intensifies the video title's shocking implication (\u2018Why My Parents Tried To Kill Me\u2019); portrait of the woman personalizes and humanizes the story.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is more explicit, naming the subject as an 'HONOUR KILLING SURVIVOR', while the title is more indirect and sensational, focusing on the family-perpetrated aspect. Both elicit a strong, emotional reaction but the thumbnail gives more immediate context."
+  }
+}

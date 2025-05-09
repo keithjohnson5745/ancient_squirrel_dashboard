@@ -1,0 +1,13 @@
+{
+  "title": "99% Don't Know the Truth About White Lithium Grease!",
+  "thumbnail_path": "thumbnails/vm8fB8PRlv4_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

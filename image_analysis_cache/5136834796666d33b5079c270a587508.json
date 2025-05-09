@@ -1,0 +1,95 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Hot pink",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 30
+      },
+      {
+        "color": "Beige/Light tan (background)",
+        "percentage": 15
+      },
+      {
+        "color": "Black (text)",
+        "percentage": 10
+      },
+      {
+        "color": "Light pink (shirt/illustration)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, open expression",
+      "demographics": "Adult woman, light skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Illustration of an ovary/egg cell (pink medical diagram)",
+      "Raised hand showing five fingers"
+    ],
+    "Background environment": "Plain, softly gradient light tan/beige background with a slight vignette"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "EGG QUALITY",
+      "5 Tips to Improve Egg Quality"
+    ],
+    "Font characteristics": [
+      {
+        "text": "EGG QUALITY",
+        "font_style": "Bold, sans-serif, all uppercase",
+        "emphasis": "High (white text on bright pink box)",
+        "color": "White",
+        "placement": "Top left, inside a hot pink rectangle"
+      },
+      {
+        "text": "5 Tips to Improve Egg Quality",
+        "font_style": "Bold, sans-serif, sentence case",
+        "emphasis": "Very high (black text on white background)",
+        "color": "Black",
+        "placement": "Bottom center, spanning width of thumbnail"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "EGG QUALITY",
+        "placement": "Top left"
+      },
+      {
+        "text": "5 Tips to Improve Egg Quality",
+        "placement": "Bottom, full width"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "Improve",
+      "Tips",
+      "Quality"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, encouraging, and informative",
+    "Visual metaphors or symbols": [
+      "Medical illustration of ovary/egg cell symbolizes fertility",
+      "Raised hand with five fingers clearly references '5 Tips'"
+    ],
+    "Clickbait techniques employed": [
+      "List format ('5 Tips')",
+      "Promise of valuable information ('Improve')",
+      "Bright, eye-catching colors",
+      "Expressive and friendly human presence"
+    ],
+    "Brand elements present": [
+      "Possible consistent use of pink (color branding for women/fertility topics)",
+      "Person may be a recognizable host/expert in channel branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail strongly reinforces the title: the text in the thumbnail closely matches the video title. The raised hand visually supports the '5 Tips' aspect, and the medical illustration directly represents 'egg quality' and fertility.",
+    "Contrasts or mismatches": "There are no major mismatches. The thumbnail clearly and directly visualizes the video's subject and lists the number of tips, matching the title exactly."
+  }
+}

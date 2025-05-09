@@ -1,0 +1,13 @@
+{
+  "title": "Dermatologist Explains Red Light Therapy at Home: Worth it for Anti-Aging? Best Devices?",
+  "thumbnail_path": "thumbnails/b07m7MreHiI_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.6
+}

@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/black": "40%",
+      "Purple gradient": "10%",
+      "Beige/tan (skin tones)": "20%",
+      "Coral/pink (shirts)": "15%",
+      "White/yellow (text)": "10%",
+      "Grey (microphones)": "5%"
+    },
+    "Composition type": "Close-up/medium shot featuring two individuals facing each other in conversation.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Expressive, mid-speech, slightly raised eyebrows, mild emphasis or concern.",
+        "Right: Serious, direct eye contact with camera, mouth slightly open as if explaining."
+      ],
+      "Demographics if apparent": "Both appear to be adult females of South Asian descent."
+    },
+    "Main objects/props featured": [
+      "Two podcast-style microphones (one for each person)",
+      "Text overlay in the center",
+      "Clothing (coral/pink tops)"
+    ],
+    "Background environment": "Dark, gradient background with purple on the left and blue on the right, giving a neutral, high-contrast base to make subjects and text pop. No visible real-world environment."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\"DON'T MAKE IT TOO HOT!\"",
+      "RENA MALIK, MD"
+    ],
+    "Font characteristics": {
+      "Main quote": {
+        "Style": "Bold, sans-serif, all uppercase",
+        "Emphasis": "Mix of white and yellow (\"TOO HOT!\" in yellow), large size",
+        "Color": "White (most text), yellow (\"TOO HOT!\"), light blue quotation marks"
+      },
+      "Name/branding": {
+        "Style": "Sans-serif, all uppercase",
+        "Emphasis": "Contained in rounded rectangle, white/yellow text on a dark background",
+        "Color": "Yellow (\"RENA MALIK\"), white (\", MD\")"
+      }
+    },
+    "Text placement": "Central (quote dominating middle of image, between the two people), branding near lower third on the right.",
+    "Use of emotional/trigger words": [
+      "DON'T",
+      "TOO HOT!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, lightly humorous or provocative (due to the double entendre/innuendo). Serious but accessible.",
+    "Visual metaphors or symbols": "Use of bold, colored text to highlight the advice as important; dual-color backgrounds emphasizing the conversation (left/right dynamic). \"Hot\" as both literal advice and a double-meaning related to the topic.",
+    "Clickbait techniques employed": [
+      "Catchy, ambiguous quote that can be interpreted in a sexual or safety context.",
+      "Direct facial expressions to camera, inviting curiosity.",
+      "Bright, high-contrast text for eye-catching appeal."
+    ],
+    "Brand elements present": "Channel host's name (RENA MALIK, MD) clearly shown in branded style."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The thumbnail uses a direct quote ('DON'T MAKE IT TOO HOT!') that hints at the video's focus on safe practices during anal sex, matching the medical/advice aspect promised by the title. Professionally dressed speakers and medical branding reinforce the 'gastroenterologist' angle.",
+    "Contrasts or mismatches": "The thumbnail avoids direct mention of 'anal sex' or explicit imagery, likely to comply with YouTube guidelines and broaden appeal; instead, it relies on innuendo and curiosity, which may slightly underplay the topic's explicitness compared to the video's clear, direct title."
+  }
+}

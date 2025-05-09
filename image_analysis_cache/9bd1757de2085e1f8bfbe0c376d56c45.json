@@ -1,0 +1,85 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "approx. 60% (background and text areas)",
+      "Blue": "approx. 10% (text highlights and accents)",
+      "Black": "approx. 10% (text)",
+      "Red": "approx. 5% (text and circle border)",
+      "Skin tones": "approx. 10% (presenter and pregnant woman)",
+      "Beige/brown": "approx. 5% (background of pregnant woman)"
+    },
+    "Composition type": "Medium shot (presenter, lower torso of man), Inset closeup (hands and question mark prop), Wide shot background (pregnant woman\u2019s torso)",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Presenter: smiling, confident, direct eye contact",
+        "Pregnant woman: face not visible, only torso with hands on stomach",
+        "Man (inset): face not visible, only lower torso and hands shown"
+      ],
+      "Demographics": [
+        "Presenter: adult woman, likely Indian",
+        "Pregnant woman: adult (face not visible), likely Indian",
+        "Man: adult (face not visible)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Presenter (Dr. Supriya Puranik), front-facing",
+      "Pregnant woman\u2019s torso",
+      "Hands holding a card with a red question mark (over a man\u2019s pelvic region)"
+    ],
+    "Background environment": "Clean, medical/professional/informational setting. White and pale beige, soft out-of-focus background. Pregnant woman\u2019s torso adds a health/care context."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in the thumbnail": [
+      "Concieve \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u092f\u0947 Sperm Motility \u0915\u093f\u0924\u0928\u0940 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u092f\u0947?",
+      "Sperm Motility Grades",
+      "Dr. Supriya Puranik",
+      "Test Tube Baby Consultant & Practicing Gynaecology",
+      "MOTHER CARE"
+    ],
+    "Font characteristics": {
+      "Main headline": "Bold sans-serif, black for Hindi, red for 'Concieve', 'Sperm Motility', and 'Grades', high emphasis",
+      "Subheadline": "White font on blue rectangle, sans-serif, moderate emphasis",
+      "Presenter name & title": "Regular sans-serif, blue for name, smaller black font for role/description",
+      "Brand logo": "Simple, sans-serif, blue"
+    },
+    "Text placement within frame": {
+      "Main headline": "Top left and center",
+      "Subheadline (\u2018Sperm Motility Grades\u2019)": "Just below main headline, left side",
+      "Presenter name/title": "Bottom left",
+      "Brand logo": "Top left corner above main headline"
+    },
+    "Use of emotional/trigger words": [
+      "Concieve",
+      "Sperm Motility",
+      "Grades"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, caring, authoritative, supportive. Positive and hopeful, addressing sensitive health issues.",
+    "Visual metaphors or symbols": [
+      "Pregnant woman\u2019s torso: symbolizing fertility, pregnancy, conception",
+      "Question mark over male pelvis: symbolizing doubt, curiosity, quest for answers regarding sperm motility"
+    ],
+    "Clickbait techniques employed": [
+      "Use of a question in both image and title",
+      "Red question mark prop - creates intrigue",
+      "Professional photo of doctor - builds trust and authority",
+      "Direct reference to common concern/problem (fertility)"
+    ],
+    "Brand elements present": [
+      "MOTHER CARE logo top left",
+      "Presenter\u2019s name and credentials featured"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail directly references the title by visually showing themes of sperm motility (question mark over male pelvis) and conception (pregnant woman\u2019s torso)",
+      "The presence of a medical professional (Dr. Supriya Puranik) aligns with the informative nature and authority of the title"
+    ],
+    "Contrasts or mismatches": [
+      "No obvious visual mismatch; the image and text both address the main subject (sperm motility and conception)",
+      "However, only a partial representation of 'Grades' is visible in the thumbnail (not shown through charts or data visuals)"
+    ]
+  }
+}

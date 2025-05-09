@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light gray background": "50%",
+      "skin tones (medium, warm)": "20%",
+      "black (clothing, eyebrow color)": "10%",
+      "pink/nude (lipstick, blush)": "10%",
+      "metallic silver (earrings)": "5%",
+      "red (X mark)": "2%",
+      "green (check mark)": "2%",
+      "white/black (text)": "1%"
+    },
+    "Composition type": "Close-up, split-screen frontal headshot (medium close-up) with a single person centered and shown twice: left/right halves with different looks.",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": {
+        "left": "Neutral, almost stern/serious",
+        "right": "Subtle smile, friendlier/softer"
+      },
+      "demographics": {
+        "gender": "Female-presenting",
+        "ethnicity": "Not explicitly clear, light to medium skin tone",
+        "age_group": "Adult (appears late 20s to early 40s)"
+      }
+    },
+    "Main objects/props featured": [
+      "Person's face showing two makeup looks (left: 'bad', right: 'good')",
+      "Large metallic hoop earrings"
+    ],
+    "Background environment": "Solid light gray, neutral, minimalistic (no environmental distractions)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "LOOK 10 YEARS YOUNGER!",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, playful but readable",
+      "emphasis": "All capital letters, white font with black outline for contrast and visibility",
+      "color": "White (with black border)",
+      "weight": "Heavy/bold"
+    },
+    "Text placement within frame": "Centrally placed across the division between the two halves, directly under the face and above the chest area",
+    "Use of emotional/trigger words": [
+      "10 YEARS YOUNGER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, transformative, supportive (with a dramatic comparison to draw instant attention)",
+    "Visual metaphors or symbols": [
+      "Red X mark over the left side (wrong/bad makeup)",
+      "Green check mark over the right side (correct/good makeup)"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic before & after comparison",
+      "Large, bold, emotionally charged text implying transformation",
+      "Promise of significant benefit ('look younger')",
+      "Split-screen format for instant, visual clarity"
+    ],
+    "Brand elements present": "None explicitly visible (no logos, branding color scheme, or channel name)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The side-by-side headshots clearly show two distinct makeup styles labeled with universal symbols for 'wrong' and 'right', directly illustrating the video\u2019s claim that makeup can make you look older or younger. The central text 'LOOK 10 YEARS YOUNGER!' echoes the title\u2019s focus on avoiding makeup mistakes that age you. Both the facial expressions and makeup application align with the theme of age-related transformation.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The thumbnail directly supports the title and delivers an immediate visual example of the video's promise."
+  }
+}

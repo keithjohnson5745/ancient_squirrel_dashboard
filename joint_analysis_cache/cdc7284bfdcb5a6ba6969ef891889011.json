@@ -1,0 +1,14 @@
+{
+  "title": "The #1 Menopause Doctor: How to Lose Belly Fat, Sleep Better, & Stop Suffering Now",
+  "thumbnail_path": "thumbnails/ReFZ__ZeSEQ_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

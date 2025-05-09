@@ -1,0 +1,106 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light skin tones",
+        "percentage": 40
+      },
+      {
+        "color": "Magenta/Pink (circle)",
+        "percentage": 15
+      },
+      {
+        "color": "Peach/Light orange (shirt)",
+        "percentage": 10
+      },
+      {
+        "color": "Dark brown/purple (background)",
+        "percentage": 20
+      },
+      {
+        "color": "Black (text bars and shirt hair)",
+        "percentage": 10
+      },
+      {
+        "color": "White (highlight, arrow, text)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Composite/Medium shot. Collage of close-up (bare chest), illustration, and medium shot (woman facing camera).",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "First person: face not shown, body only, hand covering chest",
+        "Second person: woman, smiling gently, direct eye contact"
+      ],
+      "demographics": [
+        "First: Presumably female (breast visible)",
+        "Second: Adult woman, South Asian features"
+      ]
+    },
+    "Main objects/props featured": [
+      "Bare chest (covered by hand, dotted reference lines drawn for medical context)",
+      "Pink circle graphic with stylized breast/nipple sketch and lightning symbols",
+      "Text bars and arrow",
+      "Photo of a smiling woman (upper body, peach top)"
+    ],
+    "Background environment": "Abstract, with muted illustration or pattern suggestive of anatomy/medical theme (pink, brown, and maroon tones)."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "shethepeople",
+      "THE WOMXN'S CHANNEL",
+      "ARE YOUR BREASTS NORMAL?",
+      "MUST WATCH"
+    ],
+    "Font characteristics": [
+      {
+        "text": "ARE YOUR BREASTS NORMAL?",
+        "style": "Bold, uppercase, sans-serif, white font on black background, strong emphasis"
+      },
+      {
+        "text": "MUST WATCH",
+        "style": "Bold, uppercase, sans-serif, black font on yellow background, high emphasis"
+      },
+      {
+        "text": "shethepeople",
+        "style": "All lowercase, modern sans-serif, white font, small"
+      },
+      {
+        "text": "THE WOMXN'S CHANNEL",
+        "style": "All uppercase, sans-serif, white, smaller, under channel name"
+      }
+    ],
+    "Text placement within frame": [
+      "'shethepeople' and tagline - top left corner",
+      "'ARE YOUR BREASTS NORMAL?' - upper right/center in large black bar",
+      "'MUST WATCH' - bottom left, highlighted yellow bar",
+      "No text over the women's faces"
+    ],
+    "Use of emotional/trigger words": [
+      "NORMAL",
+      "MUST WATCH"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct, educational, mildly urgent but friendly; combines seriousness (medical diagram, bold question) with relatability (smiling human face)",
+    "Visual metaphors or symbols": [
+      "Dotted lines and covered breast suggest body assessment/medical examination",
+      "Lightning symbols in graphic imply pain or symptoms",
+      "Magenta circle and stylized breasts emphasize anatomical focus"
+    ],
+    "Clickbait techniques employed": [
+      "Question format in large type",
+      "Emotive trigger ('MUST WATCH')",
+      "Partial nudity/medical context for curiosity",
+      "Bright colors for urgency"
+    ],
+    "Brand elements present": [
+      "'shethepeople' branding and tagline, consistent channel style"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly addresses breasts both visually (close-up of a woman covering her bare chest, stylized breast graphics) and with the question-driven text, matching the video's promise to discuss breast and nipple information. The medical and educational cues align with the idea of important 'must know' facts.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch present. Both thumbnail and title are focused, but the thumbnail emphasizes 'normalcy' (Are your breasts normal?) while the title is broader ('things you must know'), possibly making the topic seem more about reassurance/diagnosis than holistic education."
+  }
+}

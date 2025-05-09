@@ -1,0 +1,12 @@
+{
+  "title": "This Is Why Many Elderly People Will Not Live Past 82! If You Are Old, You Need To See This Now",
+  "thumbnail_path": "thumbnails/7SfEHxnNLYs_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

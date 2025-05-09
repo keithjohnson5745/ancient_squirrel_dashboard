@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark indigo/blue-violet gradient": "60%",
+      "yellow (text)": "15%",
+      "white (text and lab coat)": "15%",
+      "natural beige (garlic clove)": "7%",
+      "red (nameplate)": "3%"
+    },
+    "Composition type": "Medium shot (human figure from waist up on right), close-up of garlic clove on left. Mostly graphic/typographic layout.",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Neutral, with a slight friendly smile",
+      "demographics": "Adult woman, likely Indian, professional attire (lab coat)"
+    },
+    "Main objects/props featured": [
+      "Garlic clove (left side, prominent)",
+      "Human figure (doctor/psychologist, right side)",
+      "Text in Hindi (center, large)",
+      "Nameplate/branding (bottom right)"
+    ],
+    "Background environment": "Simple, clean gradient background (dark indigo to blue-violet), no detailed scene depicted"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "\u0932\u0939\u0938\u0941\u0928 \u0915\u0930\u0947\u0917\u093e \u0938\u0940\u0927\u093e",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Primary (Hindi)": {
+        "style": "Bold, sans-serif",
+        "emphasis": "High, very thick font",
+        "color": [
+          "Yellow (top line)",
+          "White (bottom line)"
+        ]
+      },
+      "Nameplate (Dr. Neha Mehta)": {
+        "style": "All caps, sans-serif",
+        "color": "White (main text), Red (subtitle background)",
+        "emphasis": "Medium, clear and professional"
+      }
+    },
+    "Text placement": {
+      "Main Hindi text": "Upper left and center, spanning much of the frame",
+      "Nameplate": "Lower right corner, above woman's torso"
+    },
+    "Use of emotional/trigger words": [
+      "\u0938\u0940\u0927\u093e",
+      "\u0932\u0939\u0938\u0941\u0928"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, authoritative, informative, trustworthy, slightly dramatic (due to bold fonts and use of '\u0938\u0940\u0927\u093e').",
+    "Visual metaphors or symbols": [
+      "Garlic clove symbolizes the subject of health/natural remedy",
+      "Doctor in lab coat symbolizes credibility/expertise"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, oversized text.",
+      "Use of mystery/curiosity ('\u0915\u094d\u092f\u093e \u0915\u0930\u0947\u0917\u093e \u0938\u0940\u0927\u093e' \u2013 what will be 'fixed' or 'made straight by garlic?').",
+      "Professional with name/title for authority.",
+      "Bright color contrast (yellow/white on dark blue)"
+    ],
+    "Brand elements present": [
+      "Name and professional title ('Dr. Neha Mehta, COUSULTANT PSYCHOLOGIST')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly reinforces the video title by featuring garlic visually and textually, and the presence of Dr. Neha Mehta in a lab coat builds credibility, aligning with her expertise as stated in the title.",
+    "Contrasts or mismatches": "There are no major mismatches. The messaging, visuals, and title are cohesive, all focusing on the health benefits of garlic with a professional/medical angle."
+  }
+}

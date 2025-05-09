@@ -1,0 +1,101 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Turquoise/Light Blue",
+        "percentage": 55
+      },
+      {
+        "color": "Brown (shirt)",
+        "percentage": 15
+      },
+      {
+        "color": "Gray (background)",
+        "percentage": 20
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot (shoulders and up), split composition with text and person side by side",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, approachable",
+      "demographics": "Adult woman, likely of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Person (likely the fertility doctor)",
+      "Text bubbles (speech bubbles with questions)"
+    ],
+    "Background environment": "Simple, solid gray wall, minimal distractions"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "How to Get Pregnant",
+      "Fertility Doctor's Tips",
+      "When should I have sex?",
+      "Does position matter?",
+      "How often?"
+    ],
+    "Font characteristics": [
+      {
+        "text": "How to Get Pregnant",
+        "style": "Serif, bold, large",
+        "emphasis": "High",
+        "color": "White"
+      },
+      {
+        "text": "Fertility Doctor's Tips",
+        "style": "Sans-serif, regular, smaller than title",
+        "emphasis": "Medium",
+        "color": "White"
+      },
+      {
+        "text": "When should I have sex?",
+        "style": "Sans-serif, regular, in speech bubble",
+        "emphasis": "Medium",
+        "color": "Black/Navy"
+      },
+      {
+        "text": "Does position matter?",
+        "style": "Sans-serif, regular, in speech bubble",
+        "emphasis": "Medium",
+        "color": "Black/Navy"
+      },
+      {
+        "text": "How often?",
+        "style": "Sans-serif, regular, in speech bubble",
+        "emphasis": "Medium",
+        "color": "Black/Navy"
+      }
+    ],
+    "Text placement within frame": [
+      "Top left: Main title",
+      "Below title: Subtitle",
+      "Bottom left (clustered): Speech bubbles with key questions"
+    ],
+    "Use of emotional/trigger words": [
+      "How to Get Pregnant",
+      "When should I have sex?",
+      "Does position matter?",
+      "How often?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, educational, trustworthy, welcoming",
+    "Visual metaphors or symbols": [
+      "Speech bubbles represent common questions, indicating an informative Q&A style."
+    ],
+    "Clickbait techniques employed": [
+      "Bold promise of expert advice ('How to Get Pregnant')",
+      "List of provocative and common questions in bubbles",
+      "Clear, personal presentation with a smiling expert"
+    ],
+    "Brand elements present": "No explicit logo or unique branding, but professional medical/educational tone and design"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail text mirrors the video title, highlighting 'How to Get Pregnant' and 'Fertility Doctor's Tips.' The inclusion of the person's (likely the doctor) friendly face adds credibility and relatability. Key questions in speech bubbles make the subject matter clear and draw in viewers looking for specific answers.",
+    "Any contrasts or mismatches between thumbnail and title": "No clear mismatches. Both the thumbnail and title are strongly aligned, with the visual emphasizing expertise, answers, and approachability. All elements support the informative topic of the video."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "Approximately 50% (background on left side, text box, part of border)",
+      "orange": "Approximately 30% (background on right side)",
+      "white": "Approximately 15% (text, lines, minor elements, clothes details)",
+      "yellow/mustard": "Approximately 5% (sweater worn by the person)"
+    },
+    "Composition type": "Medium shot (the person is visible from the waist up, occupying the right half of the image)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Serious and assertive with direct eye contact, index finger raised (suggesting warning or emphasis)",
+      "demographics": "Apparent adult woman, medium skin tone, dark curly hair"
+    },
+    "Main objects/props featured": [
+      "Person in mustard yellow sweater with raised finger",
+      "Clinic logo top left"
+    ],
+    "Background environment": "Simple and clean, divided diagonally: solid blue on the left, solid orange on the right. No additional props or environmental context."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TRYING TO CONCEIVE?",
+      "AVOID KY JELLY WHILE HAVING SEX.",
+      "MALPANI INFERTILITY CLINIC",
+      "We make IVF stress-free by making you an expert patient!"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold for main message, uppercase throughout for emphasis",
+      "Emphasis": "Heavy and bolded, high readability, blue and white backgrounds for contrast",
+      "Color": "White text on solid blue/orange backgrounds; blue text for main subheading"
+    },
+    "Text placement within frame": "Main message centered on left half, top left for clinic branding, 'TRYING TO CONCEIVE?' in a highlighted box at the top left quadrant",
+    "Use of emotional/trigger words": [
+      "AVOID",
+      "KY JELLY",
+      "SEX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, and informative. The visual and verbal cues convey caution and attentiveness.",
+    "Visual metaphors or symbols": "Raised index finger signals warning or pinpoints crucial advice. Color split may represent choice or a 'stop and think' dichotomy.",
+    "Clickbait techniques employed": [
+      "Capitalized, urgent phrasing ('AVOID', 'WHILE HAVING SEX.')",
+      "Direct address to a target audience ('TRYING TO CONCEIVE?')",
+      "Clear statement about a common product (KY Jelly)",
+      "Facial expression and finger gesture emphasizing the warning"
+    ],
+    "Brand elements present": [
+      "Malpani Infertility Clinic logo/top left",
+      "Tagline associating with authority and specialized care"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly references the core assertion of the title\u2014questioning KY Jelly's suitability for couples trying to conceive. The visual emphasis on the word 'AVOID' and the direct question 'TRYING TO CONCEIVE?' targets the intended audience (TTC couples) and aligns with the video\u2019s theme of revealing a potential problem/solution.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is not overtly sensational but very direct. Both the title and image focus on discouraging the use of KY Jelly, but while the title hints at a deeper explanation ('The Truth About...'), the thumbnail offers a blunt directive with little nuance. No significant mismatches detected\u2014the message is cohesive and clear, if a bit blunt."
+  }
+}

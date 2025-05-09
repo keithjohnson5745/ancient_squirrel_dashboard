@@ -1,0 +1,13 @@
+{
+  "title": "EXCLUSIVE: \u201cHow Fascism Works\u201d Author Jason Stanley Plans to Leave the U.S. | Amanpour and Company",
+  "thumbnail_path": "thumbnails/qKAdujuHvuQ_max.jpg",
+  "title_length": 98,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

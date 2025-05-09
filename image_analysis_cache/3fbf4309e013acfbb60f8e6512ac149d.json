@@ -1,0 +1,63 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "about 40% (faces, body, arms)",
+      "Light gray/off-white": "about 20% (background gradient)",
+      "Black/dark brown": "about 20% (hair, shirt)",
+      "White": "about 10% (soap lather, highlights)",
+      "Red": "about 7% (red 'WRONG' box and red circle)",
+      "Other": "about 3% (details/shadows)"
+    },
+    "Composition type": "Medium shot (half-torso of man, back and shoulders of woman)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Man: neutral to concerned, eyebrows slightly furrowed, mouth slightly pursed, pointing gesture (engaging the viewer, conveying warning/advice)",
+        "Woman: turned away, face not fully visible; washing hair (no visible emotion)"
+      ],
+      "Demographics": [
+        "Man: adult, light skin, short hair",
+        "Woman: adult, medium skin, long dark wet hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Man pointing (possibly a presenter or expert)",
+      "Woman with wet, shampoo-covered hair, shampooing",
+      "Red circle highlighting woman's scalp/hands",
+      "Red box with 'WRONG'"
+    ],
+    "Background environment": "Simple gradient (gray to white), minimal distractions, focus on subjects"
+  },
+  "2. TEXT ELEMENTS": {
+    "Visible text": [
+      "WRONG"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All-caps, high contrast, large for quick visibility",
+      "Color": "White text on solid red rectangle (urgent, attention-grabbing)"
+    },
+    "Text placement within frame": "Top right corner, above the circled area (hair/scalp)",
+    "Use of emotional/trigger words": [
+      "WRONG"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary, urgent, and corrective; emphasizes a mistake and the need to fix it",
+    "Visual metaphors or symbols": [
+      "Red circle: highlighting mistake/action to avoid",
+      "Red 'WRONG': strongly signals error or negative outcome",
+      "Pointing gesture: directs viewer's attention, signals authority or instruction"
+    ],
+    "Clickbait techniques employed": [
+      "Use of 'WRONG' and red highlights to create curiosity and urgency",
+      "Facial expression and pointing create a sense of warning/alert",
+      "Visual focus on a common but potentially incorrect action (washing hair) that connects to viewer concerns"
+    ],
+    "Brand elements present": "No explicit branding (logo/text), but presenter\u2019s face may serve as a personal brand"
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image shows a woman washing her hair in a way that is highlighted as wrong, with a red circle and a bold 'WRONG' label. This directly matches the title\u2019s message about 'Shampoo Mistakes That Ruin Your Hair.' The man\u2019s pointing and expression reinforce the idea that a mistake is being made.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a strong alignment and no significant mismatch. The visual elements focus explicitly on hair washing and the idea of making mistakes, as suggested by the video title."
+  }
+}

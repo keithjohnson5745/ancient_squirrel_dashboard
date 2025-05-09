@@ -1,0 +1,13 @@
+{
+  "title": "Relaxing music Relieves stress, Anxiety and Depression \ud83c\udf3f Heals the Mind, body and Soul - Deep Sleep",
+  "thumbnail_path": "thumbnails/I3OJUwILelU_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

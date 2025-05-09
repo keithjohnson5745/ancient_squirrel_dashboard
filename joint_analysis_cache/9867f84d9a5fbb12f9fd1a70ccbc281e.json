@@ -1,0 +1,14 @@
+{
+  "title": "Steve Harvey: Baby Oil vs Lube?",
+  "thumbnail_path": "thumbnails/ponFUFP2IAI_high.jpg",
+  "title_length": 31,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

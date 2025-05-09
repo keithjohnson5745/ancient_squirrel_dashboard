@@ -1,0 +1,14 @@
+{
+  "title": "Guess The MOVIE By Emoji \ud83c\udfac\ud83c\udf7f Best Movies Quiz",
+  "thumbnail_path": "thumbnails/ExfL4uF-vs4_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

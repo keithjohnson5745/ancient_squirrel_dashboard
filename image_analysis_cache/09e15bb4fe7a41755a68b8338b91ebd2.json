@@ -1,0 +1,46 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (large block text)",
+      "Brown/Beige": "30% (background)",
+      "Skin tones": "25% (the person\u2019s face)",
+      "Black": "5% (shirt, shadows, eyes)"
+    },
+    "Composition type": "Close-up shot. The composition is split with text occupying the left two-thirds and a close-up of a man's face on the right one-third.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to somber facial expression; direct eye contact with the camera",
+      "Demographics": "Apparent adult male, appears to have fair skin tone, bald or shaved head, middle-aged"
+    },
+    "Main objects/props featured": "No distinct props; only the human subject is visible aside from text.",
+    "Background environment": "Blurred, neutral brown/beige background, studio-like, no identifiable features."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "10 YEARS IN INDIAN PRISON",
+    "Font characteristics": {
+      "Style": "Bold, tall block sans-serif capitals",
+      "Emphasis": "Strong, impactful; all caps for urgency",
+      "Color": "White",
+      "Shadow/Outline": "No visible outline, but strong contrast against background"
+    },
+    "Text placement within frame": "Occupies the left two-thirds of the image, stacked in four lines and aligned left.",
+    "Emotional/trigger words": [
+      "10 YEARS",
+      "PRISON"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, tense, dramatic; evokes hardship and survival",
+    "Visual metaphors or symbols": "None explicit, but the stark bold text and the pensive, weathered look on the man's face suggest endurance and trauma.",
+    "Clickbait techniques employed": [
+      "Use of a large shocking time frame ('10 YEARS')",
+      "Referencing a foreign and challenging environment ('INDIAN PRISON')",
+      "Zoomed-in human face to create personal connection and curiosity"
+    ],
+    "Brand elements present": "No overt channel logo or signature color scheme included."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually communicates survival through hardship: the man\u2019s serious expression aligns with the themes of extreme adversity ('10 years in prison', battling malaria, eating ants) described in the title. The bold, urgent text heightens the sense of dramatic storytelling.",
+    "Contrasts or mismatches": "The thumbnail focuses specifically on the imprisonment aspect and does not visually reference malaria or the act of eating ants mentioned in the title. There is a slight mismatch since the thumbnail omits imagery related to illness or survival acts (such as ants), possibly narrowing the story\u2019s scope to just the imprisonment."
+  }
+}

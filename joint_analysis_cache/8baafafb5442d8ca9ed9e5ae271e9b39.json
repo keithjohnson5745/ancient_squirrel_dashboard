@@ -1,0 +1,12 @@
+{
+  "title": "Plastic Surgeon reveals the 8 Non Surgical Facial Rejuvenation Treatments that actually work",
+  "thumbnail_path": "thumbnails/zCzss0I0pZc_high.jpg",
+  "title_length": 92,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

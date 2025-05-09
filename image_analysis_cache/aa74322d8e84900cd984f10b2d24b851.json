@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue/grey background": "Approx. 60%",
+      "Brown/tan (person's skin tone and hair)": "Approx. 25%",
+      "Muted grey (headboard/bed)": "Approx. 10%",
+      "Pale pink/beige (shirt)": "Approx. 5%",
+      "White (text)": "Approx. 1%"
+    },
+    "Composition type": "Medium close-up shot (subject waist/chest up, centered)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Serious, neutral to slightly open-mouthed (engaged, possibly vulnerable or ready to share)",
+      "Demographics": "Young woman with medium-long brown hair, medium skin tone"
+    },
+    "Main objects/props featured": "Necklace (large pendant 'B'), possibly bedframe/pillows in background",
+    "Background environment": "Indoor setting, bedroom with upholstered headboard and light-colored walls"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "How I found out I was HIV+",
+    "Font characteristics": {
+      "Style": "Sans-serif, clean, modern",
+      "Emphasis": "Moderate (not bold, but large and well-contrasted against background)",
+      "Color": "White",
+      "Placement": "Top center, arched above the subject's head"
+    },
+    "Text placement within frame": "Top center, visually 'framing' the person's head",
+    "Use of emotional/trigger words": [
+      "found out",
+      "HIV+"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Personal, vulnerable, honest, serious",
+    "Visual metaphors or symbols": [
+      "Centering the subject with neutral, soft background emphasizes individual experience and vulnerability",
+      "Arched text might suggest weight or gravity of the topic literally and figuratively over the subject"
+    ],
+    "Clickbait techniques employed": [
+      "Emotive and highly personal story ('How I found out...')",
+      "Direct mention of a sensitive/serious medical topic (HIV+)",
+      "Open, unfinished narrative in text (entices curiosity)"
+    ],
+    "Brand elements present": "None overt (no clear logos or branding)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "Yes \u2013 the exact title text ('How I found out I was HIV+') is visually presented in the thumbnail, and the serious facial expression of the person matches the gravity of the topic.",
+    "Contrasts or mismatches": "No major contrasts; both thumbnail and title are direct, personal, and serious. The tone/subject are well matched."
+  }
+}

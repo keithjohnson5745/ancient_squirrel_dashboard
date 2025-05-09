@@ -1,0 +1,110 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark red/burgundy gradient background": "60%",
+      "Turquoise blue (text)": "10%",
+      "Skin tones (faces/hands)": "10%",
+      "Grey/blue (clothing)": "10%",
+      "White (text and clothing)": "10%"
+    },
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        {
+          "Person": "Older man (left)",
+          "Expression": "Serious/concerned, making a thumbs-down gesture"
+        },
+        {
+          "Person": "Younger man (right)",
+          "Expression": "Sad, worried, looking downward"
+        },
+        {
+          "Person": "Young woman (right)",
+          "Expression": "Concerned, comforting the man"
+        }
+      ],
+      "Demographics": [
+        {
+          "Approximate age": "Older male (middle-aged, left)",
+          "Ethnicity": "Not clearly determinable"
+        },
+        {
+          "Approximate age": "Young adult male and female (right)",
+          "Ethnicity": "Not clearly determinable"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Thumbs down gesture",
+      "Man in a suit",
+      "Seated distressed couple (man with head in hands, woman supporting)"
+    ],
+    "Background environment": "Solid gradient color with no discernible physical location, keeping focus on the subjects."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "During intercourse - Collapse",
+      "\u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0921\u093e\u0909\u0928 \u0939\u094b \u091c\u093e\u0928\u093e",
+      "Dr. Sunil Jindal",
+      "REPRODUCTIVE MEDICINE SPECIALIST"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "During intercourse - Collapse",
+        "Style": "Bold sans-serif, all lowercase except for 'Collapse', bright turquoise blue",
+        "Emphasis": "High",
+        "Color": "Turquoise blue"
+      },
+      {
+        "Text": "\u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0921\u093e\u0909\u0928 \u0939\u094b \u091c\u093e\u0928\u093e",
+        "Style": "Bold Devanagari, white",
+        "Emphasis": "High",
+        "Color": "White"
+      },
+      {
+        "Text": "Dr. Sunil Jindal",
+        "Style": "Script, white, signature-like",
+        "Emphasis": "Medium",
+        "Color": "White"
+      },
+      {
+        "Text": "REPRODUCTIVE MEDICINE SPECIALIST",
+        "Style": "Small caps, white, sans-serif",
+        "Emphasis": "Low",
+        "Color": "White"
+      }
+    ],
+    "Text placement within frame": {
+      "Top center": "During intercourse - Collapse (English)",
+      "Bottom center": "\u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0921\u093e\u0909\u0928 \u0939\u094b \u091c\u093e\u0928\u093e (Hindi)",
+      "Bottom left": "Dr. Sunil Jindal (script and specialist title)"
+    },
+    "Use of emotional/trigger words": [
+      "Collapse",
+      "\u0921\u093e\u0909\u0928 \u0939\u094b \u091c\u093e\u0928\u093e (down/collapse - Hindi)",
+      "During intercourse"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Concerned, serious, empathetic",
+    "Visual metaphors or symbols": [
+      "Thumbs down gesture indicates negative outcome or trouble.",
+      "Comforting couple visually represents support during a problem.",
+      "Man's head in hands symbolizes stress or embarrassment."
+    ],
+    "Clickbait techniques employed": [
+      "Direct mention of a sexual issue ('During intercourse - Collapse')",
+      "Dramatic emotional expression from characters",
+      "Use of large, clear text to emphasize the topic"
+    ],
+    "Brand elements present": [
+      "Dr. Sunil Jindal logo/signature",
+      "Specialist title for credibility"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the video title by showing a man in distress and another man gesturing a thumbs down, representing a negative or problematic event occurring during intercourse, matching the 'collapse' in the title. The presence of a couple and a medical specialist further aligns with the health/relationship theme suggested in the title.",
+    "Contrasts or mismatches": "There is no major visual mismatch; imagery, emotional tone, and text all directly support the video's described content."
+  }
+}

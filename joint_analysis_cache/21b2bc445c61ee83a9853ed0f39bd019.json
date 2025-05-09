@@ -1,0 +1,12 @@
+{
+  "title": "Prostate Massage for Health and Pleasure",
+  "thumbnail_path": "thumbnails/v4eqDqTIr-c_max.jpg",
+  "title_length": 40,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

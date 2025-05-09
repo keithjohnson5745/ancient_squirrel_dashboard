@@ -1,0 +1,13 @@
+{
+  "title": "Happy Birthday Vijay Antony | PICHAIKKARAN 2 Full Hindi Dubbed Action Movie | Kavya Thapar, Dev Gill",
+  "thumbnail_path": "thumbnails/pGrWuDDIdKc_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

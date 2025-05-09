@@ -1,0 +1,12 @@
+{
+  "title": "Product Review:  Poise Impressa, an over the counter pessary",
+  "thumbnail_path": "thumbnails/kYt1aicX7cE_max.jpg",
+  "title_length": 60,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,32 @@
+# Default configuration for Ancient Squirrel
+
+# Input/Output settings
+input_file: data/video_nodes.csv
+output_dir: output
+
+# Processing settings
+num_workers: 4
+
+# Clustering settings
+num_clusters: 30
+clustering_method: kmeans
+cluster_col: cluster
+
+# NLP settings
+enable_nlp: true
+use_openai: true
+use_llm: true
+openai_api_key: ${OPENAI_API_KEY}
+num_topics: 15
+text_col: title
+clean_text_col: clean_title
+
+# Cluster insight settings
+enable_cluster_insights: true
+cluster_insight_top_n: 10
+cluster_insight_use_llm: true
+
+# Analysis options
+extract_entities: true
+temporal_analysis: true
+influence_analysis: true

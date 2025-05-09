@@ -1,0 +1,89 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "beige/cream": "35%",
+      "brown (chair)": "30%",
+      "white": "15%",
+      "red (text box)": "10%",
+      "black (hair, sidebars, some text)": "10%"
+    },
+    "composition_type": "Medium close-up (torso and face of person, centered)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slightly explaining/engaged expression",
+      "demographics": "Adult woman, South Asian"
+    },
+    "main_objects_props_featured": "Person (doctor/expert), office-style chair, text box overlay",
+    "background_environment": "Light floral or patterned wallpaper, professional/office setting"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "PREGNANCY #TIPS",
+      "\u2605Super Mummy",
+      "\u0938\u0902\u092c\u0902\u0927 \u092c\u0928\u093e\u0924\u0947 \u0938\u092e\u092f \u0932\u094d\u092f\u0942\u092c\u094d\u0930\u0940\u0915\u0947\u0902\u091f \u092f\u0942\u091c \u0915\u0930\u0947\u0902 \u092f\u093e \u0928\u0939\u0940\u0902?",
+      "\u0921\u0949. \u0936\u094d\u0935\u0947\u0924\u093e \u092e\u093f\u0936\u094d\u0930\u093e, MBBS, MD"
+    ],
+    "font_characteristics": [
+      {
+        "text": "PREGNANCY #TIPS",
+        "style": "Bold, all-caps, serif font",
+        "emphasis": "High (large, prominent)",
+        "color": "Red"
+      },
+      {
+        "text": "\u2605Super Mummy",
+        "style": "Hand-written/cursive style",
+        "emphasis": "Moderate",
+        "color": "Black with white outline"
+      },
+      {
+        "text": "\u0938\u0902\u092c\u0902\u0927 \u092c\u0928\u093e\u0924\u0947 \u0938\u092e\u092f \u0932\u094d\u092f\u0942\u092c\u094d\u0930\u0940\u0915\u0947\u0902\u091f \u092f\u0942\u091c \u0915\u0930\u0947\u0902 \u092f\u093e \u0928\u0939\u0940\u0902?",
+        "style": "Bold, sans-serif (likely), centered",
+        "emphasis": "High (on red background)",
+        "color": "White text on red background"
+      },
+      {
+        "text": "\u0921\u0949. \u0936\u094d\u0935\u0947\u0924\u093e \u092e\u093f\u0936\u094d\u0930\u093e, MBBS, MD",
+        "style": "Bold, sans-serif (likely), centered",
+        "emphasis": "Moderate",
+        "color": "White text on black background"
+      }
+    ],
+    "text_placement_within_frame": {
+      "top": "PREGNANCY #TIPS",
+      "upper left": "\u2605Super Mummy",
+      "center (overlay on person)": [
+        "\u0938\u0902\u092c\u0902\u0927 \u092c\u0928\u093e\u0924\u0947 \u0938\u092e\u092f \u0932\u094d\u092f\u0942\u092c\u094d\u0930\u0940\u0915\u0947\u0902\u091f \u092f\u0942\u091c \u0915\u0930\u0947\u0902 \u092f\u093e \u0928\u0939\u0940\u0902?",
+        "\u0921\u0949. \u0936\u094d\u0935\u0947\u0924\u093e \u092e\u093f\u0936\u094d\u0930\u093e, MBBS, MD"
+      ]
+    },
+    "use_of_emotional_trigger_words": [
+      "Pregnancy",
+      "Tips",
+      "\u0932\u094d\u092f\u0942\u092c\u094d\u0930\u0940\u0915\u0947\u0902\u091f"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Informative, trustworthy, approachable",
+    "visual_metaphors_or_symbols": "Doctor in professional attire represents expertise; pregnancy tip theme visually connected via setting and text cues",
+    "clickbait_techniques_employed": [
+      "'Tips' in headline promises valuable advice",
+      "Question format raises curiosity",
+      "Use of doctor's credentials boosts authority",
+      "Bold, highlighted text grabs attention"
+    ],
+    "brand_elements_present": [
+      "\u2605Super Mummy logo",
+      "Personal branding (doctor's name and credentials)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": [
+      "The doctor/expert figure visually matches the sensitive, medical-focused title.",
+      "Direct reiteration of key topic ('\u0932\u094d\u092f\u0942\u092c\u094d\u0930\u0940\u0915\u0947\u0902\u091f \u092f\u0942\u091c \u0915\u0930\u0947\u0902 \u092f\u093e \u0928\u0939\u0940\u0902?') appears in the thumbnail in Hindi, reinforcing the main question."
+    ],
+    "contrasts_or_mismatches": [
+      "No significant contrast or mismatch; both the thumbnail and title are medical, direct, and clearly tied to pregnancy/advice on lubricant use."
+    ]
+  }
+}

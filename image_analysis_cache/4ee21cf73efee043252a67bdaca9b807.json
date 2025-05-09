@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "30%",
+      "Red (clothing)": "15%",
+      "Black (pants and background elements)": "20%",
+      "Pale gray/white (background walls)": "20%",
+      "Gold/yellow (text)": "7%",
+      "Green (plants)": "5%",
+      "Pink (clothing and drink)": "3%"
+    },
+    "Composition type": "Wide shot, collage-style arrangement showing four people. Two women seated at a table on the left; a man and a woman in a dramatic pose on the right (man holding woman).",
+    "Human presence": {
+      "Number of people": 4,
+      "Expressions": [
+        "Two seated women on the left: serious, contemplative or slightly bored expressions.",
+        "Man on the right: smiling, looking pleased.",
+        "Woman being carried: relaxed or playful, arms extended backward."
+      ],
+      "Demographics": "Young adults, diverse appearances, majority female."
+    },
+    "Main objects/props": [
+      "Table and drink",
+      "Sunglasses on the ground",
+      "Chairs",
+      "Outdoor plants (corners)"
+    ],
+    "Background environment": "Neutral, outdoor or patio-like space with concrete/gray walls, giving a relaxed but nondescript setting. Palm leaves added for visual effect and atmosphere."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "\u0639\u0634\u0642 \u0627\u0628\u062f\u06cc",
+      "Eshghe Abadi",
+      "\u0642\u0633\u0645\u062a 6"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, stylized with 3D/gold effect, sans-serif for English.",
+      "Emphasis": "High, metallic gold for Persian; bright yellow/gold for '6'; slightly shadowed and embossed for attention.",
+      "Color": "Gold/yellow for all main text, creating strong visual impact."
+    },
+    "Text placement": {
+      "Top center": "\u0639\u0634\u0642 \u0627\u0628\u062f\u06cc / Eshghe Abadi (series title, stacked)",
+      "Bottom center": "\u0642\u0633\u0645\u062a 6 (large episode number, dominant against background)"
+    },
+    "Emotional/trigger words": [
+      "\u0627\u0628\u062f\u200c\u06cc / Abadi (Eternal - conveys drama/romance/lasting meaning)",
+      "\u0639\u0634\u0642 / Eshgh (Love - an emotional and strong term, typical for romance-themed content)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic and romantic with a playful or light reality-show vibe, given the flirtatious pose and fashionable attire.",
+    "Visual metaphors or symbols": [
+      "Man carrying woman: Symbolizes romance, possibly rescue or courtship.",
+      "Palm leaves and outdoor setting: Suggests relaxation, vacation or exotic location, hinting at escape or fantasy."
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic, posed scene that hints at romance or tension.",
+      "Bold text and episode number for easy recognition.",
+      "Juxtaposition of two women watching (possibly jealous) while couple embraces, suggesting drama."
+    ],
+    "Brand elements present": [
+      "Consistent use of gold 3D text for title/episode marker (likely series branding)",
+      "Dual-language (Persian/English) appeals to a broad audience."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually supports the title ('\u0642\u0633\u0645\u062a 6 \u0639\u0634\u0642 \u0627\u0628\u062f\u06cc / Eshghe Abadi Episode 6') by clearly displaying both the series name and episode number in a highly visible, branded style. The dramatic interaction and romantic pose between the characters directly reference the show's theme of 'eternal love.'",
+    "Contrasts or mismatches": "No significant mismatch; the visuals and text are well-aligned with the title's promise of romance, drama, and serialized storytelling."
+  }
+}

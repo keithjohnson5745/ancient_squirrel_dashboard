@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Tan": "30% (building and part of the woman's skin tone)",
+      "Blue": "20% (sky, background curtain, accents)",
+      "White": "25% (background, some text, sails in the logo)",
+      "Green": "10% (plants, palm trees)",
+      "Red/Pink": "8% (umbrella, curtain designs)",
+      "Black": "7% (text, border, woman's top)"
+    },
+    "Composition type": "Split composition with a close-up of a woman (left in a circular frame) and a wide shot of a building (top right in a rectangular frame); overall, a combination shot.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral/slight smile",
+      "demographics": "Adult woman, light skin, long light brown/blonde hair"
+    },
+    "Main objects/props featured": [
+      "A woman labeled 'STEVIE WOLFE'",
+      "A building (Gulf Breeze Recovery center)",
+      "Decorative curtain in background (left)",
+      "Logo graphic (bottom, Gulf Breeze Recovery with sailboat)"
+    ],
+    "Background environment": "Indoor setting (left) with a colorful patterned curtain, outdoor setting (right) with a sunny sky, palm trees, and a tan recovery center building surrounded by landscaping."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TRIUMPH IN RECOVERY, GRADUATE STEVIE WOLFE: GULF BREEZE RECOVERY.",
+      "STEVIE WOLFE",
+      "Gulf Breeze RECOVERY Because It Works! www.gulfbreezerecovery.com"
+    ],
+    "Font characteristics": {
+      "Main title": "Bold sans-serif, all caps, black text",
+      "Name label": "Medium sans-serif, all caps, white text",
+      "Logo/website": "Cursive script for 'Gulf Breeze', serif for 'RECOVERY' and slogan, dark blue color"
+    },
+    "Text placement within frame": {
+      "Main title": "Upper right, above building image",
+      "Name label": "Across lower chest of woman in left circle",
+      "Logo/website": "Bottom center below both main images"
+    },
+    "Use of emotional/trigger words": [
+      "Triumph",
+      "Recovery",
+      "Inspiring",
+      "Because It Works!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Hopeful, positive, uplifting, recovery-focused",
+    "Visual metaphors or symbols": [
+      "Sailboat (symbolizing journey, navigation, hope/restoration)",
+      "Building (safe haven, structured support, fresh start)"
+    ],
+    "Clickbait techniques employed": [
+      "Personal success story highlighted ('Triumph in Recovery, Graduate Stevie Wolfe')",
+      "Faces/building direct gaze to evoke trust",
+      "Prominent display of 'inspiring story' in the title (not thumbnail text)"
+    ],
+    "Brand elements present": [
+      "Logo with Gulf Breeze branding",
+      "Website URL",
+      "Institution building image"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The image of Stevie Wolfe, labeled with her name, gives a face to the personal story.",
+      "Showing the Gulf Breeze Recovery center directly relates to the 'recovery' aspect in the title.",
+      "Brand/logo reinforces the source and authority behind the narrative."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail is formal and straightforward, relatively restrained compared to the 'inspiring' emotional promise in the video title.",
+      "The emotional tone is subdued (with neutral expressions) compared to potentially more dynamic visuals suggested by 'inspiring story of triumph.'"
+    ]
+  }
+}

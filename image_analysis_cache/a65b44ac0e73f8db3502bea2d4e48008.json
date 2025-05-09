@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones (beige, tan)": "35%",
+      "Grey (background)": "30%",
+      "Blue (Parachute bottle)": "20%",
+      "Yellow (arrow, some text)": "10%",
+      "Black (hair, text)": "5%"
+    },
+    "Composition type": "Close-up (focus on a woman's face, bottle and spoon)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Mild smiling, confident expression",
+      "Demographics": "Adult woman, medium complexion, likely Indian/South Asian"
+    },
+    "Main objects/props featured": [
+      "Woman's face",
+      "Spoon (being rubbed on cheek)",
+      "Parachute coconut oil bottle",
+      "Yellow arrow pointing to the bottle"
+    ],
+    "Background environment": "Plain/solid dark grey background to emphasize foreground elements"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "*\u0928\u093e\u0930\u093f\u092f\u0932 \u0924\u0947\u0932 \u0938\u0947*",
+      "\u090f\u0915 \u092c\u093e\u0930 \u092e\u0947\u0902 \u0939\u0940\u0930\u0947 \u091c\u0948\u0938\u0940 \u091a\u092e\u0915",
+      "\u0930\u093e\u0924",
+      "\u0938\u094b\u0924\u0947 \u0938\u092e\u092f \u0915\u0930\u094b",
+      "10min \u092e\u0947\u0902 \u0917\u094d\u0932\u094b\u0907\u0902\u0917 \u0938\u094d\u0915\u093f\u0928"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans serif",
+      "Emphasis": "Mixed emphasis; yellow, white, and black for visual impact. Some text outlined for contrast.",
+      "Color": [
+        "Yellow (for key phrases at the top and right)",
+        "White (main text, especially '\u0930\u093e\u0924' and key instructions)",
+        "Black outline for legibility"
+      ]
+    },
+    "Text placement within frame": [
+      "Top left (main attention phrase in yellow)",
+      "Middle left/top center (white text)",
+      "Bottom/middle right (yellow text, near/corresponding to the bottle)"
+    ],
+    "Use of emotional/trigger words": [
+      "\u0939\u0940\u0930\u0947 \u091c\u0948\u0938\u0940 \u091a\u092e\u0915 (diamond-like glow)",
+      "\u0917\u094d\u0932\u094b\u0907\u0902\u0917 \u0938\u094d\u0915\u093f\u0928 (glowing skin)",
+      "10min \u092e\u0947\u0902 (in 10 mins)",
+      "\u090f\u0915 \u092c\u093e\u0930 \u092e\u0947\u0902 (in one try)",
+      "\u0938\u094b\u0924\u0947 \u0938\u092e\u092f (while sleeping)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Optimistic, encouraging, 'quick result' beauty solution",
+    "Visual metaphors or symbols": [
+      "Spoon on cheek: Facial massage or skin application method",
+      "Parachute bottle: Trusted/common coconut oil brand"
+    ],
+    "Clickbait techniques employed": [
+      "Promises fast, dramatic results ('diamond-like glow', 'in 10 min')",
+      "Before-after suggestion (glowing face, prominent oil bottle)",
+      "Big, bold, colorful text to catch attention"
+    ],
+    "Brand elements present": [
+      "Parachute (visible product packaging)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "The thumbnail shows the application of oil with a spoon on a glowing face, visually supporting the video's subject of night-time coconut oil facial use.",
+      "The Parachute bottle matches the '\u0928\u093e\u0930\u093f\u092f\u0932 \u0915\u093e \u0924\u0947\u0932' (coconut oil) in the title.",
+      "Text on thumbnail promises quick, glowing results, directly echoing the title\u2019s claim of better results than a facial."
+    ],
+    "Contrasts or mismatches": [
+      "No explicit contrast; both thumbnail and title strongly align in messaging and visuals.",
+      "Both highlight coconut oil as a beauty solution, and specifically mention night-time application."
+    ]
+  }
+}

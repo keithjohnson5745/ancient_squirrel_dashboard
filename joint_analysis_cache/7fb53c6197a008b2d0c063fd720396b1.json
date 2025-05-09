@@ -1,0 +1,12 @@
+{
+  "title": "Can Carney avoid a Canada-U.S. trade war with Trump? | About That",
+  "thumbnail_path": "thumbnails/NSW8obmLT80_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

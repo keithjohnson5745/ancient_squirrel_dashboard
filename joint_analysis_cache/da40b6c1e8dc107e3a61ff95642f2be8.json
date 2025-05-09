@@ -1,0 +1,12 @@
+{
+  "title": "Egg Freezing 101: The 10 Most Common Questions Answered",
+  "thumbnail_path": "thumbnails/zictAIc7AjI_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

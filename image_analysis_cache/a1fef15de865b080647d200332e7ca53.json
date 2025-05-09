@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/blue (background)": "approximately 50%",
+      "Black (clothing, text)": "approximately 25%",
+      "White (hair, clothing, text backgrounds)": "approximately 15%",
+      "Beige/tan (skin tones)": "approximately 5%",
+      "Yellow/orange (box accents behind text)": "approximately 5%"
+    },
+    "Composition type": "Medium shot (shows two women from waist up, centered in the frame)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both women are smiling. The woman on the left is pointing towards the woman on the right. Their expressions are friendly and approachable.",
+      "Demographics": "Both are adult women, likely middle-aged, with light skin and glasses. One has white hair, the other has light brown/blonde hair."
+    },
+    "Main objects/props featured": [
+      "Two women (central subjects)",
+      "Name tags on both women (suggesting professional or clinic setting)",
+      "Eyeglasses (worn by both women)"
+    ],
+    "Background environment": "Neutral, clinical/office-like setting with gray walls and minimal visible decor. Appears professional and calm."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "alcove health",
+      "A WOMEN'S CLINIC",
+      "HOW SOON AFTER AN ABORTION CAN YOU GET PREGNANT AGAIN?"
+    ],
+    "Font characteristics": {
+      "alcove health / A WOMEN'S CLINIC": "Modern, sans-serif, white font. Clinic logo present.",
+      "Question text": "Bold, all-uppercase sans-serif. Black text. The main question is split into three lines with alternating backgrounds (blue, white, yellow/orange)."
+    },
+    "Text placement within frame": {
+      "Logo/Clinic name": "Top left corner, small and unobtrusive.",
+      "Question text": "Centered at the bottom/middle of the frame in a large box overlaying the lower half of the image."
+    },
+    "Emotional/trigger words": [
+      "abortion",
+      "pregnant again",
+      "how soon"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, non-threatening. Smiling faces suggest approachability and trust.",
+    "Visual metaphors or symbols": "Smiling professionals in a clinic imply expert advice and a supportive environment. The act of pointing adds emphasis and attention.",
+    "Clickbait techniques employed": [
+      "Directly addressing a highly specific, urgent question",
+      "Using a bold, large-font text box to immediately communicate the topic"
+    ],
+    "Brand elements present": [
+      "Clinic logo (alcove health)",
+      "Clinic name ('A WOMEN'S CLINIC')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail visually reinforces the title by presenting two professional-looking women, likely staff at a clinic, thereby establishing credibility and authority to answer the medical question. The large, clear question in the thumbnail matches the video's title and directly reflects the video's subject.",
+    "Contrasts or mismatches": "No significant contrasts or mismatches. The calm and professional setting in the thumbnail aligns well with the medical/informational nature of the title. The directness of the text ensures clarity."
+  }
+}

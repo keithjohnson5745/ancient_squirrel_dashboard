@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Tan (background, couch, and skin tone)": "40%",
+      "White (text, stripes on shirt)": "20%",
+      "Blue (Pre-Seed box)": "20%",
+      "Pink (lamp shade and Pre-Seed product)": "10%",
+      "Brown (hair and some background elements)": "5%",
+      "Black (stripes on shirt, product text)": "5%"
+    },
+    "Composition type": "Close-up (selfie-style shot focused on the woman's face and the product she is holding)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, and welcoming",
+      "demographics": "Adult woman, light skin, brown hair, casual outfit"
+    },
+    "Main objects/props featured": [
+      "Box of Pre-Seed fertility lubricant (held up to the camera, product name clearly visible)",
+      "Woman (primary subject of frame)"
+    ],
+    "Background environment": "Indoor, home living room. Couch and lamp visible, cozy and casual setting."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in thumbnail": [
+      "How to Get Pregnant With Preseed",
+      "SAVE $10",
+      "Pre-Seed fertility-friendly personal lubricant",
+      "For Use When TRYING TO GET PREGNANT",
+      "Clinically shown to be Fertility Friendly",
+      "Provides antioxidant support for sperm",
+      "Mimics your own fertile fluids"
+    ],
+    "Font characteristics": {
+      "Main title text (left, How to Get Pregnant With Preseed)": {
+        "Style": "Bold, sans-serif, blocky",
+        "Emphasis": "Strong, all uppercase except 'Preseed'",
+        "Color": "White with a black shadow"
+      },
+      "Product box text": "Mixture of sans-serif fonts, various sizes, some bold for emphasis. Main colors: black, white, blue, pink, and yellow for 'SAVE $10' banner."
+    },
+    "Text placement within frame": {
+      "Main thumbnail text": "Left half of the frame, stacked vertically",
+      "Product box text": "Right side, on the product packaging being held up"
+    },
+    "Emotional/trigger words": [
+      "How to",
+      "Get Pregnant",
+      "SAVE $10",
+      "Fertility Friendly",
+      "TRYING TO GET PREGNANT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Hopeful, supportive, encouraging; aimed at viewers seeking fertility advice",
+    "Visual metaphors or symbols": "Product as a solution/tool, smiling face conveying reassurance and positivity",
+    "Clickbait techniques employed": [
+      "How-to format",
+      "Direct promise of an outcome (pregnancy)",
+      "Product prominently displayed",
+      "Large, bold text communicating clear benefit"
+    ],
+    "Brand elements present": [
+      "Pre-Seed product branding",
+      "SAVE $10 offer"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail features a smiling woman holding up the exact product mentioned in the title ('Preseed'), with large text on the left that nearly matches the video title. This makes it instantly clear what the video will discuss and reinforces the personal testimonial/guide aspect.",
+    "Contrasts or mismatches": "There are no significant mismatches. Both the title and the thumbnail focus directly on the product and its purpose. The thumbnail emphasizes the 'how-to' promise by visually pairing the smiling individual (personal experience) with the specific product, matching expectations set by the title."
+  }
+}

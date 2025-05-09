@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink/Fuchsia": "30% (blazer and scarf of the presenter)",
+      "Black": "25% (product boxes, monitor, scarf pattern)",
+      "Beige/Tan": "20% (wall background)",
+      "White": "10% (devices, text on boxes, paper, hair highlights)",
+      "Blue/Purple": "10% (laptop, cap on product in hand)",
+      "Other Colors": "5% (books, plants, miscellaneous objects)"
+    },
+    "Composition type": "Medium shot (framed from the waist up, presenter at a desk)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, engaged, direct eye-contact with the camera; friendly and enthusiastic demeanor",
+      "Demographics": "Adult woman, light skin tone, long gray-blond hair, glasses"
+    },
+    "Main objects/props featured": [
+      "Product boxes labeled 'Mia Vita'",
+      "Tube-like product being held up",
+      "Laptop (purple or blue case)",
+      "Desktop computer (iMac)",
+      "Printer",
+      "Books (foreground)",
+      "Other office electronics"
+    ],
+    "Background environment": "Organized office or study with neutral walls, traditional wood desk, modern computer equipment, and office accessories"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Mia Vita",
+      "intimate skin moisturizer"
+    ],
+    "Font characteristics": {
+      "Style": "Script-like, modern sans-serif for 'Mia Vita'; simple sans-serif for subtext",
+      "Emphasis": "Main product name is bold and larger, subtext is smaller and lighter weight",
+      "Color": "White (product name), peach/light pink (subtext)"
+    },
+    "Text placement within frame": "Text appears on product boxes, which are at the bottom center of the image",
+    "Use of emotional/trigger words": [
+      "intimate",
+      "moisturizer"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Welcoming, trustworthy, and informative \u2014 the subject appears personable and ready to explain or endorse something of personal care value",
+    "Visual metaphors or symbols": [
+      "Presenter\u2019s confident body language and direct gaze symbolize expertise and reliability",
+      "Highlighting the product tube in hand signifies endorsement or demonstration"
+    ],
+    "Clickbait techniques employed": [
+      "Friendly, relatable figure (presenter) addressing the viewer",
+      "Highlighting a specific product with implied promise of benefits",
+      "Branded product up close (focus on name and use case)"
+    ],
+    "Brand elements present": [
+      "'Mia Vita' product branding clearly visible",
+      "Professional setting (instills credibility)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The presenter is holding a branded product and surrounded by clear indications of an informative setting, visually supporting the question 'Why FemmePharma?' by implying she will answer it, possibly based on her expertise or positive experience with the featured product.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no explicit mention of 'FemmePharma' in the thumbnail image; the product brand shown is 'Mia Vita', which may or may not be directly associated depending on context. This could create some mild confusion if viewers are unfamiliar with the relationship."
+  }
+}

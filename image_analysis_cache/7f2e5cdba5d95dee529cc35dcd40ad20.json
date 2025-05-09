@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "60%",
+      "White": "30%",
+      "Gray (tones in faces and background)": "8%",
+      "Blue (Huberman Lab logo box)": "2%"
+    },
+    "Composition type": "Close-up (split down the center with male on left, female on right, both faces cropped around shoulders and edge of head)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Neutral, direct gaze toward camera, serious demeanor",
+      "Demographics": "One adult male, one adult female; likely middle-aged"
+    },
+    "Main objects/props featured": [
+      "Two human faces (no additional props or objects)"
+    ],
+    "Background environment": "Solid black, creating a high-contrast and minimalist feel"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FEMALE HORMONE OPTIMIZATION",
+      "DR. SARA GOTTFRIED",
+      "HUBERMAN LAB"
+    ],
+    "Font characteristics": {
+      "Main text": "All-caps, bold sans-serif, white",
+      "Subtext (Huberman Lab)": "All-caps, condensed sans-serif, light blue on black, outlined box"
+    },
+    "Text placement within frame": {
+      "Main text": "Center, occupying majority of space between the two faces",
+      "Subtext (Dr. Sara Gottfried)": "Below main header text, smaller size",
+      "Brand text (Huberman Lab)": "Bottom center in a rectangular box"
+    },
+    "Use of emotional/trigger words": [
+      "Optimization"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, authoritative, scientific, and professional",
+    "Visual metaphors or symbols": [
+      "Split faces may symbolize dual perspectives or the bridging of gender/science discourse"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claims of 'optimization'",
+      "Use of authority/expert (doctor's name featured)",
+      "Direct visual attention grab with intense eye contact",
+      "Use of 'lab' branding to suggest science-backed advice"
+    ],
+    "Brand elements present": [
+      "Huberman Lab logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The split-face composition underlines the focus on gender (specifically female hormone health) and expertise (Dr. Sara Gottfried alongside the familiar host).",
+      "Direct mention of 'Female Hormone Optimization' ties directly to the video's topic.",
+      "Prominent display of Dr. Sara Gottfried's name visually reinforces her role as guest expert, emphasized in the title."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail shows both a male and a female, despite the topic being female hormone health\u2014this could highlight the show's scientific, balanced or collaborative approach, though it might confuse at a glance.",
+      "Serious tone may appeal to credibility but lacks any energetic, 'vitality' imagery implied by part of the title."
+    ]
+  }
+}

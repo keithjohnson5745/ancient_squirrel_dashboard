@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "30% (background, clothes of both people)",
+      "Tan/Light Skin Tone": "20% (faces, hand holding spray)",
+      "Blue": "20% (background behind spray, some text on spray)",
+      "Red": "20% (text banner at bottom)",
+      "Silver/Grey": "10% (spray bottle)"
+    },
+    "Composition type": "Three-panel medium shot: left - head-and-shoulders of one person, center - close-up of hand holding spray, right - head-and-shoulders of another person",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Neutral, slightly concerned or focused expression",
+        "Right: Engaged, explaining or making a point, hand raised in gesture"
+      ],
+      "Demographics": "Both appear to be adult males of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "A hand holding a spray bottle labeled 'INVIGRA Delay Spray'"
+    ],
+    "Background environment": "Left and right: Indoor setting, blurred, likely a podcast or interview space. Center: Solid blue gradient backdrop behind spray for emphasis."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "IN VIGRA Delay Spray",
+      "Viagra Vs Delay Spray"
+    ],
+    "Font characteristics": {
+      "\u2018Viagra Vs Delay Spray\u2019": {
+        "Style": "Sans-serif, bold",
+        "Emphasis": "Strong, white text on bright red rectangle",
+        "Color": "White text on red"
+      },
+      "\u2018IN VIGRA Delay Spray\u2019 (on bottle)": {
+        "Style": "Sans-serif, regular and bold combo",
+        "Emphasis": "\u2018VI\u2019 in blue, rest in black",
+        "Color": "Black, blue"
+      }
+    },
+    "Text placement within frame": {
+      "\u2018Viagra Vs Delay Spray\u2019": "Centered at bottom in a bright red banner that overlaps all three panels",
+      "\u2018IN VIGRA Delay Spray\u2019": "Vertically on the spray bottle in the center segment"
+    },
+    "Emotional/trigger words": [
+      "Viagra",
+      "Delay",
+      "Vs"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inquisitive, mildly serious, with a hint of controversy or debate; a sense of comparison or showdown.",
+    "Visual metaphors or symbols": [
+      "Central placement of the spray bottle visually contrasts two people as if mediating or being judged.",
+      "Hand holding spray with precision symbolizes focus and importance."
+    ],
+    "Clickbait techniques employed": [
+      "Bright red banner with high-contrast text",
+      "\u2018Vs\u2019 framing to signal a debate or competition",
+      "Intense focus on product suggests controversy or revelation"
+    ],
+    "Brand elements present": [
+      "Product branding ('INVIGRA') on the spray",
+      "YouTube talk-show/podcast visual cues (hosts, framing, dialogue posture)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail visually represents the title by explicitly showing both a person with a product believed to be a 'delay spray', contrasted with another person, and the text banner makes it clear it is a comparison or versus discussion.",
+    "Contrasts or mismatches": "The thumbnail only explicitly shows the spray (no explicit reference to Viagra visually), which may cause minor disconnect for viewers expecting to see both products. However, the inclusion of the word 'Viagra' in the headline and the contrasting expressions help bridge the gap."
+  }
+}

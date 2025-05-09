@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "Approx. 65% (background of main text area)",
+      "yellow": "Approx. 15% (text and border)",
+      "white": "Approx. 10% (secondary text color, and diagram background)",
+      "skin tones": "Approx. 5% (face, hand in medical image)",
+      "green": "Approx. 3% (shirt in medical illustration)",
+      "red/pink": "Approx. 2% (reproductive anatomy in medical illustration)"
+    },
+    "Composition type": [
+      "Medium close-up (photo of a woman, head and shoulders)",
+      "Diagram/illustration (lower abdomen and uterus/ovary image)",
+      "Text-dominant layout (large block of text taking up left two-thirds)"
+    ],
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slightly smiling",
+      "demographics": "Adult female, likely of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Portrait photo of a woman",
+      "Medical illustration (female pelvic region and organs)",
+      "Large blue text box"
+    ],
+    "Background environment": [
+      "Solid blue backdrop for text",
+      "Neutral blurred background behind woman's portrait (suggestive of indoor setting)"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "PID \u092c\u091a\u094d\u091a\u0947\u0926\u093e\u0928\u0940 \u092e\u0947\u0902 \u0907\u0928\u094d\u092b\u0947\u0915\u094d\u0936\u0928 \u0915\u093e\u0930\u0923, \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u0907\u0932\u093e\u091c",
+    "font_characteristics": {
+      "style": "Bold sans-serif",
+      "emphasis": "Strong emphasis (all caps for 'PID'; increased font weight and size for main section headers)",
+      "color": "Yellow (prominent text and headings), White (sub-headings/lines)"
+    },
+    "text_placement_within_frame": [
+      "'PID' is top center-left, largest, in yellow on blue box",
+      "Main Hindi text is below, in yellow and white, filling most of left two-thirds",
+      "Text occupies majority of the left side; right side reserved for image/diagram/portrait"
+    ],
+    "emotional_trigger_words": [
+      "\u0907\u0932\u093e\u091c (treatment/healing)",
+      "\u0907\u0928\u094d\u092b\u0947\u0915\u094d\u0936\u0928 (infection)",
+      "\u0932\u0915\u094d\u0937\u0923 (symptoms)",
+      "\u0915\u093e\u0930\u0923 (causes)",
+      "PID"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": [
+      "Medical/informational",
+      "Supportive and reassuring (positive facial expression, direct text about solutions and care)"
+    ],
+    "visual_metaphors_or_symbols": [
+      "Medical illustration of uterus represents focus on gynecological health",
+      "Portrait of woman conveys trust and expertise"
+    ],
+    "clickbait_techniques_employed": [
+      "Bold use of all-caps and color for 'PID'",
+      "Direct mention of 'best treatment', 'symptoms', and 'causes' implying full answers in the video",
+      "Combination of text, human face, and anatomical image creates immediate relevance and urgency"
+    ],
+    "brand_elements_present": [
+      "None overtly\u2014no logos or channel brand, but the use of a professional-like portrait and clear text creates an authoritative/educational perception"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": "Thumbnail directly mirrors the title by displaying the term 'PID', its full Hindi description, and the main keyword components: infection, causes, symptoms, and treatment, along with visual symbols (medical diagram of pelvic region) that reinforce the specific health concern mentioned.",
+    "contrasts_or_mismatches": "No major mismatches; the thumbnail is aligned with the title, both visually and contextually. The only minor point is that the thumbnail is mostly in Hindi, while the video title includes English\u2014may affect international reach."
+  }
+}

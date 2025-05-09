@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Cream (background & flooring)": "40%",
+      "Black (hair, blouse, chair parts)": "25%",
+      "White/Grey (saree, chair)": "20%",
+      "Pink (box in hand)": "10%",
+      "Blue (text highlight)": "5%"
+    },
+    "Composition type": "Medium shot (waist up), centered",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, slightly intent/explanatory (talking, hand gesture for emphasis)",
+      "Demographics": "Adult woman, likely South Asian, professional attire (saree), indoors/office setting"
+    },
+    "Main objects/props featured": [
+      "Rectangular pink box (possibly product packaging, being held)",
+      "Office chair",
+      "Desk items in the background (papers, monitor, organizer)"
+    ],
+    "Background environment": "Office/clinic setting with certificates or forms on the wall, shelves and desk accessories"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "NORY FOR YOU",
+      "OF PREGNANCY DECREASE."
+    ],
+    "Font characteristics": [
+      {
+        "Text": "NORY FOR YOU",
+        "Style": "Modern sans-serif, thin and uppercase",
+        "Emphasis": "Minimalistic, used as a logo/brand mark",
+        "Color": "Black",
+        "Placement": "Top left corner, subtle"
+      },
+      {
+        "Text": "OF PREGNANCY DECREASE.",
+        "Style": "Neutral sans-serif, all caps for 'OF' and 'DECREASE.'; 'PREGNANCY' in blue for emphasis",
+        "Emphasis": "Highlight on 'PREGNANCY' (color blue)",
+        "Color": "'OF' and 'DECREASE.' in black, 'PREGNANCY' in blue",
+        "Placement": "Lower middle, over woman's sari/leg",
+        "Emotion/trigger words": "'PREGNANCY' (high emotional/interest factor)"
+      }
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, authoritative, educational; slight sense of urgency regarding issue discussed",
+    "Visual metaphors or symbols": "Hand gesture may symbolize explanation/teaching; box likely represents the featured fertility product",
+    "Clickbait techniques employed": [
+      "Direct engagement (human eye-contact and gesture to camera)",
+      "Highlighted emotional word ('PREGNANCY')",
+      "Implied benefit/solution (context of fertility)"
+    ],
+    "Brand elements present": [
+      "NORY FOR YOU logo at top left",
+      "Product packaging in hand"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail features a professional woman, likely a doctor or expert, holding a product box, reinforcing the credibility and direct product focus implied by the title ('Nory Fertility Lube Your Secret to Getting Pregnant!'). The office/clinic setting adds authenticity. Text highlight on 'PREGNANCY' connects directly to the video's promise.",
+    "Contrasts or mismatches": "Thumbnail is more informational and serious, while the title uses enthusiastic/secretive language ('Your Secret') and a promotional offer, making the thumbnail less overtly promotional and more authoritative/medical in tone."
+  }
+}

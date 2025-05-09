@@ -1,0 +1,11 @@
+{
+  "title": "Tiger Woods short game practice at Riviera 2019",
+  "thumbnail_path": "thumbnails/w67fO2MrG3A_high.jpg",
+  "title_length": 47,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

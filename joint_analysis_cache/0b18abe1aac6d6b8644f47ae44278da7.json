@@ -1,0 +1,13 @@
+{
+  "title": "Deep Penetration with the \u201cProng\u201d Position: A Guide to Pleasure \ud83c\udf1f",
+  "thumbnail_path": "thumbnails/uC_yGW0H8tc_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

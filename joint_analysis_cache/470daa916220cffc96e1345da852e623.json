@@ -1,0 +1,13 @@
+{
+  "title": "Upbeat Lofi - Deep Focus & Energy for Work [R&B, Neo Soul, Lofi Hiphop]",
+  "thumbnail_path": "thumbnails/THh4fT0O7IY_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

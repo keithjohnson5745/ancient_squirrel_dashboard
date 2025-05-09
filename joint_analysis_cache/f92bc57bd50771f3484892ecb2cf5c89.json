@@ -1,0 +1,12 @@
+{
+  "title": "Lubricating Plastic, Rubber, And Metal Under The Hood",
+  "thumbnail_path": "thumbnails/YXmqrYPQ004_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

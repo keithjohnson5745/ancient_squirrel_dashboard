@@ -1,0 +1,13 @@
+{
+  "title": "What is a vaginal condom and how to use it - By Dr. Tanaya",
+  "thumbnail_path": "thumbnails/P8FNYEIPlkw_high.jpg",
+  "title_length": 58,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

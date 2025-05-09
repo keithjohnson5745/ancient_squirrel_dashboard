@@ -1,0 +1,13 @@
+{
+  "title": "The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!",
+  "thumbnail_path": "thumbnails/NyFSkGMWP5Q_max.jpg",
+  "title_length": 76,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

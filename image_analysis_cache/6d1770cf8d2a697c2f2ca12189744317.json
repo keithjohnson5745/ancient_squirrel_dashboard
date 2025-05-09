@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige (background/wall)": "60%",
+      "White (applicator, text background)": "25%",
+      "Light blue (product label)": "10%",
+      "Skin tone (hands)": "5%"
+    },
+    "Composition type": "Medium shot focused on hands holding a tube and applicator",
+    "Human presence": {
+      "number_of_people": 1,
+      "visible_parts": "Hands only, no face visible",
+      "demographics": "Demographics indeterminable from hands alone"
+    },
+    "Main objects/props featured": [
+      "Tube labeled as fertility lubricant",
+      "Applicator attached to the tube"
+    ],
+    "Background environment": "Plain beige wall, minimal distractions"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": "Screw on applicator to lubricant and fill to 4 grams",
+    "Font characteristics": {
+      "style": "Sans-serif",
+      "emphasis": "Bolded, clear for easy reading",
+      "color": "White with black outline"
+    },
+    "Text placement within frame": "Centered near the middle, slightly above the midpoint",
+    "Emotional/trigger words": [
+      "Fertility",
+      "Lubricant",
+      "4 grams"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Instructional, neutral, informative",
+    "Visual metaphors or symbols": "Direct depiction of product and applicator; no evident metaphors",
+    "Clickbait techniques employed": [
+      "Clear, step-by-step instructional phrasing",
+      "Product shown in use, encouraging curiosity for 'how-to'"
+    ],
+    "Brand elements present": [
+      "Product label readable",
+      "TikTok watermark with handle (@goodcleanlove)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail visually reinforces the title": "The thumbnail shows the exact applicator and lubricant mentioned in the title, with hands demonstrating the process, visually supporting the 'how to use' aspect.",
+    "Contrasts or mismatches": "No apparent mismatch; the thumbnail is instructional and matches the 'how to' tutorial promised by the title."
+  }
+}

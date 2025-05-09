@@ -1,0 +1,12 @@
+{
+  "title": "Dr. Karam Evaluates 5 Common Facial Plastic Surgery Treatments- Are They Worth The Risk?",
+  "thumbnail_path": "thumbnails/46AKbfT3ZZo_high.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

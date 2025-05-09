@@ -1,0 +1,82 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Blue (background, clothing)",
+        "percentage": "55%"
+      },
+      {
+        "color": "White (text, nasal spray, clothing)",
+        "percentage": "20%"
+      },
+      {
+        "color": "Yellow (text, arrow)",
+        "percentage": "10%"
+      },
+      {
+        "color": "Green (text, border)",
+        "percentage": "8%"
+      },
+      {
+        "color": "Various skin tones (subjects)",
+        "percentage": "7%"
+      }
+    ],
+    "Composition type": "Medium shot (features upper bodies of two people and a central product)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: young woman, smiling, playful, slightly seductive expression",
+        "Right: middle-aged woman, smiling, professional/delighted expression"
+      ],
+      "demographics": [
+        "Left: young adult female, fair skin, brown hair",
+        "Right: adult female, medium/dark skin, light brown/blonde hair, wearing medical scrubs"
+      ]
+    },
+    "Main objects/props featured": [
+      "White nasal spray bottle (center, tilted upward, with blue accents, blurred label)",
+      "Large yellow arrow pointing at the spray",
+      "Two women (one on each side of the thumbnail)"
+    ],
+    "Background environment": "Solid blue gradient with a neon green border, no detailed physical setting, clean and bold presentation"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "GET HARD. STAY HARD. ROCK HER WORLD.",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all-uppercase",
+      "emphasis": [
+        "GET HARD. (white, heavy bold)",
+        "STAY HARD. (yellow, heavy bold)",
+        "ROCK HER WORLD. (bright green, heavy bold)"
+      ]
+    },
+    "Text placement within frame": "Top third, spanning left to right, occupying the full width of the image",
+    "Use of emotional/trigger words": [
+      "GET HARD",
+      "STAY HARD",
+      "ROCK HER WORLD"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Upbeat, confident, and energetic; a sense of promise and excitement",
+    "Visual metaphors or symbols": [
+      "Nasal spray bottle is central (representing the key solution/product)",
+      "Large yellow arrow (drawing attention to the nasal spray as the 'answer')"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, all-caps, emotionally charged text",
+      "Sexual innuendo and references (suggestive/trigger phrases)",
+      "Visually attractive and expressive people",
+      "Bright, saturated colors and high contrast design"
+    ],
+    "Brand elements present": [
+      "Medical scrubs with embroidered text indicating credentials, adding authority",
+      "Consistent style likely part of recurring channel branding (font, neon outline)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail's direct, bold text visually matches the title's theme of increased sexual performance and 'rock-hard' results. The prominent nasal spray bottle in the center visually literalizes the 'nasal spray' mentioned in the title, and the excited/attractive expressions of the women suggest positive, pleasurable outcomes, reinforcing the claimed results.",
+    "Contrasts or mismatches": "There is no explicit visual reference to 'ED' (erectile dysfunction) or to a male subject, despite this being the title's focus; the women in the thumbnail (especially the one in medical scrubs) instead suggest authority and sexual satisfaction, indirectly referencing the benefit rather than the problem."
+  }
+}

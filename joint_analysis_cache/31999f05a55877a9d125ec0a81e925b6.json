@@ -1,0 +1,14 @@
+{
+  "title": "Vaseline | 5 Ways To Use This Magical Jelly",
+  "thumbnail_path": "thumbnails/cnPXN-CqGnU_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

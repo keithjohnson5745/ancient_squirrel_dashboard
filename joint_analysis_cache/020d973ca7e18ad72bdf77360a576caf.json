@@ -1,0 +1,14 @@
+{
+  "title": "What is a YEAST infection - and how do I GET RID of it??  |  Dr. Jennifer Lincoln",
+  "thumbnail_path": "thumbnails/erQ6UMDnbWA_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

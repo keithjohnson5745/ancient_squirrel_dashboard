@@ -1,0 +1,13 @@
+{
+  "title": "How a Narcissist is Created",
+  "thumbnail_path": "thumbnails/d79qPeIt1GY_max.jpg",
+  "title_length": 27,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

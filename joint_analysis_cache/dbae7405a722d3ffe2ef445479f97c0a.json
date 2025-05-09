@@ -1,0 +1,12 @@
+{
+  "title": "From HR to Content Writing: My Unlikely Career Shift",
+  "thumbnail_path": "thumbnails/1QPYCqc_ong_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Pre-seed versus Conceive Plus",
+  "thumbnail_path": "thumbnails/uTT2m_YCvbM_max.jpg",
+  "title_length": 29,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.3
+}

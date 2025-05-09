@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "Approximately 40% (background for top text, clothing highlights)",
+      "Black": "Approximately 30% (main background, border, some text)",
+      "Red": "Approximately 10% (banner for headline text)",
+      "Green": "Approximately 10% (emphasis text)",
+      "Other": "10% (skin tones, blue, gray in the photos)"
+    },
+    "Composition type": "Mixed composition: features a medium shot of a woman on the right, two inset photographs (one medium, one wide), and multiple text blocks.",
+    "Human presence": {
+      "Number of people": "Approximately 5 (2 insets with pairs, 1 large female figure)",
+      "Expressions": "Main woman: confident, mildly seductive or composed; inset people: neutral to serious",
+      "Demographics": "Mostly adults: 1 well-dressed woman (possibly Indian), 2 men (one elderly), 1 younger woman, 1 figure walking (gender indistinct)"
+    },
+    "Main objects/props featured": [
+      "Well-dressed woman in saree",
+      "Inset images: nighttime street/road with a walking figure, and a pair (young woman, older man)"
+    ],
+    "Background environment": "Primary background is solid black and yellow, inset image backgrounds include nighttime road scene and indoor setting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "\u092c\u0938 \u092e\u0947\u0902 \u0928\u093f\u0936\u093e \u0915\u0947 \u0917\u094b\u0932\u0947 \u0928\u093e\u092a\u0928\u0947 \u0932\u0917\u093e \u092c\u0942\u0922\u093c\u093e \u0906\u0926\u092e\u0940",
+      "\u092c\u094b\u0932\u0940 \u092f\u0939\u0940 \u0932\u094b\u0917\u0947 \u092f\u093e \u0918\u0930 \u091a\u0932\u094b\u0917\u0947",
+      "\u0938\u091a\u094d\u091a\u0940 \u0918\u091f\u0928\u093e",
+      "\u0930\u094b\u091c \u0930\u093e\u0924 \u092c\u0942\u0922\u093c\u0947 \u0915\u0947 \u0938\u093e\u0925 \u091c\u0902\u0917\u0932 \u092e\u0947\u0902 \u0939\u094b\u0928\u0947 \u0932\u0917\u093e ..."
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif, mostly uppercase, some words in Hindi script",
+      "Emphasis": "High contrast colors (white/red/yellow/green against black/yellow), some text boxed or large for impact",
+      "Color": "Red (banner), yellow (main body), green (emphasis), white (supportive text)"
+    },
+    "Text placement within frame": {
+      "Top": "Red banner headline (main incident statement)",
+      "Below top": "Yellow box with bold black text (dialogue-style phrase)",
+      "Left insets": "White text labels on image ('\u0938\u091a\u094d\u091a\u0940 \u0918\u091f\u0928\u093e')",
+      "Right/center": "Green/yellow story hook lower down"
+    },
+    "Use of emotional/trigger words": [
+      "\u0917\u094b\u0932\u0947 \u0928\u093e\u092a\u0928\u0947 \u0932\u0917\u093e",
+      "\u092c\u0942\u0922\u093c\u093e \u0906\u0926\u092e\u0940",
+      "\u0938\u091a\u094d\u091a\u0940 \u0918\u091f\u0928\u093e",
+      "\u0930\u094b\u091c \u0930\u093e\u0924",
+      "\u091c\u0902\u0917\u0932 \u092e\u0947\u0902 \u0939\u094b\u0928\u0947 \u0932\u0917\u093e"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic, sensational, slightly ominous with hints of scandal or a crime reveal.",
+    "Visual metaphors or symbols": [
+      "Night street: danger, secrecy",
+      "Older man with a young woman: social taboo, potential crime context"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, sensationalist phrasing",
+      "Dialogues implying scandal/controversy",
+      "High-contrast colors to grab attention",
+      "Mysterious/intriguing imagery",
+      "Reference to 'real incident'"
+    ],
+    "Brand elements present": "No overt branding, but stylistic consistency with 'crime story' genre thumbnails (color scheme, multi-image, drama text)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail prominently features Hindi phrases that echo the 'real incident' and Mandi/HP locality from the title. The use of dramatic visuals (street at night, serious expressions, text like '\u0938\u091a\u094d\u091a\u0940 \u0918\u091f\u0928\u093e') and an older man with a young woman aligns directly with the 'crime story' aspect in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No clear mismatch; both thumbnail and title suggest a dramatic, real-life crime or scandal involving an older man and a younger woman, fitting the 'crime story' theme."
+  }
+}

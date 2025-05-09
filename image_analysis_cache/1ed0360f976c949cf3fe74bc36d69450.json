@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "peach/tan (background and border)": "40%",
+      "white (main background)": "40%",
+      "black (text)": "10%",
+      "pink/magenta (sari)": "5%",
+      "olive green (sari)": "3%",
+      "light blue and beige (symbol/graphic)": "2%"
+    },
+    "Composition type": "Medium shot (waist-up image of a woman, positioned at right side of the frame)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Confident, welcoming smile",
+      "demographics": "Apparent adult woman, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "Woman in traditional attire (sari)",
+      "Abstract circular graphic (suggestive of pregnancy or motherhood; upper left)",
+      "Text overlays"
+    ],
+    "Background environment": "Solid color/studio background with a centrally framed text box and designer border. Minimalistic and clean."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "SEX DURING PREGNANCY",
+      "Dr. Supriya Puranik",
+      "2.4M+ Views"
+    ],
+    "Font characteristics": {
+      "SEX DURING PREGNANCY": "Bold, all caps, serif font, black color",
+      "Dr. Supriya Puranik": "Serif font, moderate weight, black color",
+      "2.4M+Views": "Bold, sans-serif font, peach/tan color"
+    },
+    "Text placement": {
+      "SEX DURING PREGNANCY": "Upper left quadrant, large and central",
+      "Dr. Supriya Puranik": "Below title text, left side",
+      "2.4M+Views": "Bottom left, large and prominent"
+    },
+    "Use of emotional/trigger words": "SEX (direct, provocative), PREGNANCY (sensitive topic), 2.4M+ Views (implies popularity/authority)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional yet approachable; aims to reduce stigma and provide authoritative knowledge",
+    "Visual metaphors or symbols": "Circular/abstract graphic suggests a pregnant belly or mother and child, hinting at the theme of pregnancy without explicit imagery",
+    "Clickbait techniques employed": [
+      "Direct mention of taboo/curious topic (sex + pregnancy)",
+      "Authority figure featured (doctor in professional attire)",
+      "Displays impressive view count to signal high interest"
+    ],
+    "Brand elements present": "Doctor's name featured, professional attire, possibly associating with her brand/identity as a medical expert"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail clearly visualizes the searchable/topic words from the title by prominently displaying 'SEX DURING PREGNANCY' in large font, and aligns with the informational/medical context by showing a doctor figure, both elements directly reinforcing the topic.",
+    "Contrasts or mismatches": "No major contrasts; the thumbnail and title are well aligned in both visual style and thematic content. The graphic is tasteful and non-explicit, suitable for a medical discussion."
+  }
+}

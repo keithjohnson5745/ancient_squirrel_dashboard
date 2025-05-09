@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Peach/Coral": "30% (text and some decor elements)",
+      "Soft beige/tan": "25% (walls, shirt of woman)",
+      "Pastel pink": "15% (graphics, decor)",
+      "White": "15% (background, text outline, window frame, light highlights)",
+      "Light green": "10% (baby's outfit)",
+      "Light blue": "5% (baby's eyes, soft decor touches)"
+    },
+    "Composition type": "Medium close-up (waist-up of woman and baby, enough environment to establish context)",
+    "Human presence": {
+      "Number of people": 2,
+      "Descriptions": [
+        {
+          "Type": "adult woman",
+          "Expression": "wide-eyed, slightly exaggerated smile, humorous/knowing expression",
+          "Demographic hints": "Young adult, light-to-medium skin, long brown/blonde hair"
+        },
+        {
+          "Type": "baby",
+          "Expression": "surprised/wide-eyed, mouth slightly open",
+          "Demographic hints": "Infant, fair skin, very light hair"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Baby in green onesie",
+      "Woman holding the baby under the arms",
+      "Crib in the background",
+      "Pastel nursery decorations (flowers, wall art, soft toys)"
+    ],
+    "Background environment": "Softly lit nursery; bright, airy, and pastel-toned with a wooden crib, wall art, and sheer window curtains. Delicate, calming, and clearly themed for a baby."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "THINGS I WISH I KNEW BEFORE",
+      "Having A Baby"
+    ],
+    "Font characteristics": [
+      {
+        "Section": "Left text (THINGS I WISH I KNEW BEFORE)",
+        "Style": "Bold, all-caps sans-serif, block style",
+        "Color": "Solid soft peach/coral, subtle white shadow for contrast",
+        "Emphasis": "High (large, takes up most of left third of frame)"
+      },
+      {
+        "Section": "Main banner (Having A Baby)",
+        "Style": "Handwritten, cursive/script font, mixed case",
+        "Color": "Light gray on pastel pink brushstroke background",
+        "Emphasis": "Moderate to high (large brushstroke, draws attention across lower third)"
+      }
+    ],
+    "Text placement within frame": {
+      "Left": "THINGS I WISH I KNEW BEFORE (stacked, vertical, left third, aligned near window but clear/visible)",
+      "Bottom/Middle": "Having A Baby (centered, brushstroke practice across lower part, with arrow pointing to it from left text)"
+    },
+    "Use of emotional/trigger words": [
+      "WISH",
+      "KNEW",
+      "BEFORE",
+      "Having A Baby"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Relatable, humorous, slightly overwhelmed but positive. The faces (both surprised) add a tongue-in-cheek, honest vibe.",
+    "Visual metaphors or symbols": [
+      "Arrow linking text to baby, emphasizing advice \u2018before having a baby\u2019",
+      "Pacifier symbol (on lower right, next to 'Having A Baby'), reinforcing baby theme",
+      "Brushstroke banner, suggesting informality and personal experience"
+    ],
+    "Clickbait techniques employed": [
+      "Expressive faces indicating surprise and relatability",
+      "Big, bold key phrase ('THINGS I WISH I KNEW BEFORE')",
+      "Direct reference to emotional or stressful experiences",
+      "Inviting handwritten font suggesting a personal, intimate advice style"
+    ],
+    "Brand elements present": [
+      "Consistent pastel color palette (possible channel branding)",
+      "Handwritten/script font (possible signature style)",
+      "Home/nursery environment for authenticity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly echoes the video title with the prominent phrases 'THINGS I WISH I KNEW BEFORE' and 'Having A Baby.' The woman\u2019s knowing, slightly overwhelmed expression along with the baby\u2019s surprised look visually represent the idea of unexpected challenges and surprises, matching the theme of advice for new or expecting moms.",
+    "Contrasts or mismatches between thumbnail and title": "There are no notable mismatches. The thumbnail aligns perfectly with the title, visually and thematically reinforcing the video\u2019s topic of real, candid advice for new mothers."
+  }
+}

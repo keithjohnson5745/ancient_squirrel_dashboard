@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green/Blue gradient background": "50%",
+      "Yellow (text)": "15%",
+      "Red (text box/background)": "10%",
+      "White (text and clothing)": "10%",
+      "Skin tones (person)": "5%",
+      "Blue (props in text and person\u2019s clothes)": "10%"
+    },
+    "Composition type": "Medium shot (person from waist up), Combined with large text elements occupying the left side of the frame",
+    "Human presence": {
+      "Number of people": 1,
+      "Apparent expression": "Neutral, slight smile, confident; engaging through direct eye contact",
+      "Demographics": {
+        "Gender": "Female (adult)"
+      }
+    },
+    "Main objects/props featured": [
+      "Two blue spherical objects used for the letters 'OO' in 'BOOBS'",
+      "Text",
+      "Person (the likely presenter/host)"
+    ],
+    "Background environment": "Solid color gradient (greenish-blue), studio or digitally created; very minimal, keeping focus on foreground elements"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "BOOBS",
+      "PLAY",
+      "- WITH DEMO",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": {
+        "BOOBS": "Bright yellow, uppercase, large, with blue spheres as 'OO'",
+        "PLAY": "White, uppercase, on bold red rectangle for strong emphasis",
+        "- WITH DEMO": "Yellow, uppercase, smaller size, italicized for effect",
+        "Dr. Neha Mehta, COUSULTANT PSYCHOLOGIST": "White and red text on a blue and red background, smaller font at bottom"
+      }
+    },
+    "Text placement within frame": {
+      "BOOBS": "Top left quadrant",
+      "PLAY": "Center left, very large for visual dominance",
+      "- WITH DEMO": "Below main text, left-aligned",
+      "Dr. Neha Mehta, COUSULTANT PSYCHOLOGIST": "Bottom right, over a small blue/red rectangle"
+    },
+    "Use of emotional/trigger words": [
+      "BOOBS",
+      "PLAY",
+      "WITH DEMO"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly provocative but educational, with a professional undertone",
+    "Visual metaphors or symbols": [
+      "Blue spheres symbolizing breasts, replacing 'OO' in 'BOOBS'\u2014a playful and attention-grabbing visual pun"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold, highly visible words ('BOOBS', 'PLAY', 'DEMO')",
+      "Use of a double entendre (words & visual pun)",
+      "Promise of demonstration ('WITH DEMO')",
+      "Bright, contrasting colors for immediate attention",
+      "Presenter pointing at the text, guiding viewer\u2019s attention"
+    ],
+    "Brand elements present": [
+      "'Dr. Neha Mehta' name tag, designation as 'COUSULTANT PSYCHOLOGIST' for credibility"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The phrase '\u0906\u091c \u0938\u0940\u0916 \u0932\u094b\u0902 !' (Learn today!) is mirrored in the explicit promise of explanation and demonstration in the thumbnail texts ('WITH DEMO'). The invitation to learn, combined with visual cues and professional authority, provides cohesion between the title and thumbnail.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is quite direct and visually provocative using Western/English words and imagery, while the title is in Hindi and generic. The thumbnail\u2019s explicit content is much more attention-grabbing and specific compared to the fairly neutral and broad title."
+  }
+}

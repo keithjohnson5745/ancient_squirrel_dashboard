@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (background)": "\u224850%",
+      "Yellow (text highlight)": "\u224810%",
+      "Black (text/bg boxes, glasses, shirt)": "\u224815%",
+      "White (text, text bg box, skin highlights)": "\u224815%",
+      "Skin tones (face/hand)": "\u224810%"
+    },
+    "Composition type": "Medium close-up (showing the upper body, head, and raised hand, prominently framed on the right half of the thumbnail)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to mildly assertive, slightly raised eyebrows, gentle half-smile, direct eye contact with viewer",
+      "Demographics": "Adult, female-presenting, light complexion, blonde hair, glasses"
+    },
+    "Main objects/props featured": [
+      "The person\u2019s raised open palm (gesture to literally 'watch for signs')",
+      "Large black-frame glasses",
+      "Tattoo visible on wrist"
+    ],
+    "Background environment": "Solid, bright blue gradient with no discernible details (designed for visual clarity/focus on subject and text)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "WATCH FOR THESE SIGNS",
+      "MEL ROBBINS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase for main text; thinner sans-serif for branding",
+      "Emphasis": "High contrast using black, white, and yellow; key word 'SIGNS' highlighted in yellow background; 'FOR THESE' on black background with white text",
+      "Color": "Black, white, yellow"
+    },
+    "Text placement within frame": {
+      "Title text": "Top left, occupying over one-third horizontally in three stacked blocks for visibility",
+      "Brand/logo": "Bottom left, small size with glasses icon between 'MEL' and 'ROBBINS'"
+    },
+    "Use of emotional/trigger words": [
+      "WATCH",
+      "SIGNS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Alert, instructive, and urgent\u2014inviting viewers to pay attention for important relationship warning signals",
+    "Visual metaphors or symbols": [
+      "Raised open hand (does double duty as a signal and as a visual metaphor for 'signs' or warning)",
+      "Eyeglasses (metaphor for looking/observing/awareness)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, imperative text ('WATCH FOR THESE SIGNS')",
+      "Vivid color contrast for eye-catching appeal",
+      "Visual cue of raised hand to symbolize 'signs' or counting",
+      "Direct eye contact to foster connection/urgency"
+    ],
+    "Brand elements present": [
+      "MEL ROBBINS name and unique glasses icon"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The person shown (presumably Mel Robbins) appears to be addressing the viewer directly, raising her hand in a way that literally embodies the idea of 'signs' (as if listing or alerting), which matches the video\u2019s topic of identifying 'signs your partner doesn't respect you.' The alert colors and direct language match the educational, warning style suggested by the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no major mismatch; the visual (hand gesture and bold text) closely matches the idea of 'watching for signs,' though the thumbnail does not explicitly reference relationships or respect\u2014these specifics are only provided by the video\u2019s title, not the visuals."
+  }
+}

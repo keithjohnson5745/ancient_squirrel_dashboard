@@ -1,0 +1,47 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light grey-green background": "50%",
+      "bright green (text bubble)": "20%",
+      "white (text)": "15%",
+      "black (text outline)": "5%",
+      "royal blue (woman's suit)": "7%",
+      "red (border)": "3%"
+    },
+    "Composition type": "Medium shot (upper body of woman visible, left third of frame)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Slight smile, confident and approachable demeanor",
+      "demographics": "Adult woman, East Asian appearance, professional attire"
+    },
+    "Main objects/props featured": "Woman in blue suit, large green speech bubble with text",
+    "Background environment": "Simple, soft gradient background (light grey-green), not distracting, helps subject and text stand out"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "WHAT IS THE BEST LUBRICANT FOR MENOPAUSE?",
+    "Font characteristics": {
+      "style": "Bold sans-serif",
+      "emphasis": "All caps, heavy black outline for contrast and readability",
+      "color": "White text with black border, placed on a neon green background shape"
+    },
+    "Text placement within frame": "Right two-thirds of frame, horizontally centered in a large green rounded rectangle bubble",
+    "Use of emotional/trigger words": [
+      "BEST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, reassuring, approachable and informative",
+    "Visual metaphors or symbols": "None obvious, but use of bright green and confident/dressed woman signals health, trust, and expertise",
+    "Clickbait techniques employed": [
+      "Directly addressing a common question",
+      "Use of superlative ('BEST')",
+      "Large, readable text",
+      "Bright colors and strong contrast"
+    ],
+    "Brand elements present": "No explicit logo or brand name, but the professional attire and clarity suggest credibility and authority"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail uses the exact wording of the title's main question in a large, bold format, making it instantly clear what the video will address. The professional woman enhances a sense of trustworthy advice on a sensitive women's health topic.",
+    "Contrasts/mismatches": "No significant contrasts or mismatches. The thumbnail and title are closely aligned in message and tone, both focusing on menopause and lubricant choices."
+  }
+}

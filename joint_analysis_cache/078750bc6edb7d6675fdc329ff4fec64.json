@@ -1,0 +1,12 @@
+{
+  "title": "Steve Harvey: How to avoid  painful sex",
+  "thumbnail_path": "thumbnails/y66kTKRux9s_high.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

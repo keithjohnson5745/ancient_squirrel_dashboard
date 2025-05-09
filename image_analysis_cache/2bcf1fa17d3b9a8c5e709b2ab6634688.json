@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Peach/Light Skin Tone": "30%",
+      "Red": "20%",
+      "Dark Brown/Black": "20%",
+      "White": "15%",
+      "Light Blue": "10%",
+      "Green": "5%"
+    },
+    "Composition type": "Medium shot (medical diagram style, focusing on reproductive organs)",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A (Anatomical illustration, no faces or people depicted)",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Illustration of female reproductive system",
+      "Sectional anatomical diagram showing pelvis and organs",
+      "Labeled anatomical features (uterus, ovaries, adhesions, endometrioma, deposits)"
+    ],
+    "Background environment": "Plain white background for clarity"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "ENDOMETRIOSIS",
+      "ADHESIONS",
+      "ENDOMETRIOMA",
+      "ENDOMETRIAL DEPOSITS",
+      "STAGE 4"
+    ],
+    "Font characteristics": {
+      "Style": "Handwritten sans-serif, bold (especially for ENDOMETRIOSIS headline)",
+      "Emphasis": "Main title is large and bold; sub-labels are smaller and appear hand-written",
+      "Color": "Dark navy/black, except for a brown underline under ENDOMETRIOSIS"
+    },
+    "Text placement within frame": {
+      "ENDOMETRIOSIS": "Top center, very prominent",
+      "ADHESIONS, ENDOMETRIOMA, ENDOMETRIAL DEPOSITS": "Placed near relevant anatomical features",
+      "STAGE 4": "Top right, annotated above the cross-section of organs"
+    },
+    "Use of emotional/trigger words": "No strong emotional or trigger words\u2014focused on neutral medical terms"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, educational, and neutral",
+    "Visual metaphors or symbols": "No overt metaphors, but uses color contrast (red = disease/affected areas) to highlight pathology",
+    "Clickbait techniques employed": "Minimal; relies on direct educational appeal and clear medical illustration rather than sensationalism",
+    "Brand elements present": "None evident (no logos or branding)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail strongly reinforces the video title 'Understanding Endometriosis' by providing clear, labeled medical illustrations explaining what endometriosis is and what it looks like (including stage 4).",
+    "Contrasts or mismatches": "There are no apparent contrasts or mismatches; the thumbnail is highly relevant and effectively aligned with the informational title."
+  }
+}

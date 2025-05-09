@@ -1,0 +1,89 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark green/teal": "40%",
+      "Red": "15%",
+      "Yellow": "10%",
+      "White": "20%",
+      "Skin tones": "10%",
+      "Black (suit/hair)": "5%"
+    },
+    "Composition type": "Medium shot (presenter waist-up on right), overlaid with a wide shot of a person exercising (background, left)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Presenter: neutral/confident, making eye contact, pointing upwards",
+        "Background: Person exercising, face partially visible, focused on exercise"
+      ],
+      "Demographics": [
+        "Presenter: Adult woman, brown hair, medium complexion",
+        "Background: Adult male, beard, fair/medium complexion"
+      ]
+    },
+    "Main objects/props featured": [
+      "Woman in business attire (foreground, right)",
+      "Person exercising (floor bridge pose, background left)",
+      "Red and yellow text panel"
+    ],
+    "Background environment": "Indoors, likely a living room (couch and curtain visible in background, blurred for contrast)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in thumbnail": [
+      "\u091c\u092c\u0930\u094d\u0926\u0938\u094d\u0924 \u0916\u0921\u093c\u093e \u0915\u0930\u0928\u0947 \u0915\u0940",
+      "3 Exercise",
+      "Dr. Neha Mehta",
+      "CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": [
+        "Bold sans-serif (for main Hindi text and '3 Exercise')",
+        "Professional sans-serif (for name/credential in ID box)"
+      ],
+      "Emphasis": [
+        "'3 Exercise' in large, bold yellow letters on a red background",
+        "Hindi text in large white letters"
+      ],
+      "Color": [
+        "White (Hindi text, subtext, and ID text)",
+        "Yellow ('3 Exercise')",
+        "Red (background for '3 Exercise')",
+        "Blue (background for 'Dr. Neha Mehta' box)"
+      ]
+    },
+    "Text placement within frame": [
+      "Hindi and English main text: Top left to center-left",
+      "'3 Exercise': Centered in a red banner in the middle-left",
+      "Dr. Neha Mehta credential: Bottom center"
+    ],
+    "Use of emotional/trigger words": [
+      "\u091c\u092c\u0930\u094d\u0926\u0938\u094d\u0924 (Amazing, powerful)",
+      "'3 Exercise' (uses a number for specificity, draws curiosity)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, authoritative, practical",
+    "Visual metaphors or symbols": [
+      "Presenter\u2019s confident pointing gesture (authority, recommendation)",
+      "Person performing exercise (visual proof, action-orientation)"
+    ],
+    "Clickbait techniques employed": [
+      "Highlighting a specific number ('3 Exercise')",
+      "Bold color contrast (red/yellow) draws attention",
+      "Use of strong adjectives ('\u091c\u092c\u0930\u094d\u0926\u0938\u094d\u0924'), promise of powerful results"
+    ],
+    "Brand elements present": [
+      "Presenter image, name, and credential box (personal branding)",
+      "Consistent color themes (professional and bold for health/wellness topics)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Visually displays both the number and subject of exercises as referenced in the title",
+      "Features a person demonstrating exercise, directly linking to the promise in the title",
+      "Presenter in professional attire reinforces authority suggested by the title's advice"
+    ],
+    "Contrasts or mismatches between thumbnail and title": [
+      "None significant: Thumbnail and title are directly aligned, both promise actionable, strong exercises."
+    ]
+  }
+}

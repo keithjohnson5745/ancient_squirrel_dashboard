@@ -1,0 +1,13 @@
+{
+  "title": "If A Woman TELLS You These 5 Things, WALK AWAY FROM HER! | Jordan Peterson Speech",
+  "thumbnail_path": "thumbnails/Z9GTJuVnc2w_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

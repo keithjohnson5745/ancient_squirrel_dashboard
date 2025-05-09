@@ -1,0 +1,90 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "gradient purple (background)",
+        "percentage": 45
+      },
+      {
+        "color": "peach/coral (product tube)",
+        "percentage": 25
+      },
+      {
+        "color": "light beige/tan (hand/skin)",
+        "percentage": 20
+      },
+      {
+        "color": "white (text bubble, accents)",
+        "percentage": 8
+      },
+      {
+        "color": "teal green (icon on tube)",
+        "percentage": 2
+      }
+    ],
+    "Composition type": "Close-up (focus on hand holding product, tube occupies prominent space)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Hand only, no visible face",
+      "demographics": "Medium to light skin tone, gender not clearly specified"
+    },
+    "Main objects/props featured": [
+      "FERTI\u00b7LILY Conception Gel tube",
+      "Human hand holding tube"
+    ],
+    "Background environment": "Simple, soft gradient purple background with no environmental detail"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FERTI\u00b7LILY Conception Gel... The energy drink for sperm!",
+      "PRODUCT GUIDE",
+      "ardo SWITZERLAND",
+      "FERTI\u00b7LILY CONCEPTION GEL",
+      "SUPPORTS FERTILITY"
+    ],
+    "Font characteristics": [
+      "Sans-serif, rounded and clean for main text",
+      "Uppercase for titles/sub-brands",
+      "Grey or white color for main texts",
+      "Left-aligned inside speech bubble, vertical for PRODUCT GUIDE, brand logo in minimalist lines"
+    ],
+    "Text placement within frame": [
+      "Large speech bubble left-center",
+      "PRODUCT GUIDE vertical left edge",
+      "Ardo SWITZERLAND lower left corner",
+      "Product title/branding on tube"
+    ],
+    "Use of emotional/trigger words": [
+      "energy drink",
+      "supports fertility",
+      "conception"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, energetic, scientific/clinical but friendly",
+    "Visual metaphors or symbols": [
+      "Speech bubble for clear message",
+      "Silhouette of couple on product tube",
+      "Droplet shape with 'Supports Fertility' suggesting life/biology"
+    ],
+    "Clickbait techniques employed": [
+      "\"Energy drink for sperm!\" creates intrigue and interest through humor and analogy",
+      "Bright, attractive colors and large, bold messaging",
+      "Speech bubble and hand give immediacy and human touch"
+    ],
+    "Brand elements present": [
+      "ardo SWITZERLAND logo",
+      "Distinct typography",
+      "Product packaging and design elements highlighted"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The product tube prominently displays 'FERTI\u00b7LILY Conception Gel', directly aligning with the video title.",
+      "Speech bubble highlights unique selling point ('energy drink for sperm'), tying into the focus on sperm-friendliness."
+    ],
+    "Contrasts or mismatches": [
+      "No major contrast or mismatch detected\u2014visuals and text directly reinforce the title\u2019s focus on a conception gel that benefits sperm."
+    ]
+  }
+}

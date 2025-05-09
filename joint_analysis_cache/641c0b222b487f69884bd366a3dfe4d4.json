@@ -1,0 +1,12 @@
+{
+  "title": "If You Build It With 3D Pen, I\u2019ll Buy It!",
+  "thumbnail_path": "thumbnails/gJcAEclfw9k_max.jpg",
+  "title_length": 41,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

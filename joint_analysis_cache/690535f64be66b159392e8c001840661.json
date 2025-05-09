@@ -1,0 +1,13 @@
+{
+  "title": "The Science of Women\u2019s Health: Ob/Gyn Reveals 10 Truths You Need to Know",
+  "thumbnail_path": "thumbnails/7KX2x0d42EE_max.jpg",
+  "title_length": 72,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "title": "PCOS and Infertility",
+  "thumbnail_path": "thumbnails/NaRBLfbvN84_max.jpg",
+  "title_length": 20,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

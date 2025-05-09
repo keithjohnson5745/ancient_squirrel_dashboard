@@ -1,0 +1,81 @@
+{
+  "VISUAL ELEMENTS": {
+    "DominantColors": [
+      {
+        "color": "Black",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Beige",
+        "percentage": 15
+      },
+      {
+        "color": "Light Brown",
+        "percentage": 10
+      },
+      {
+        "color": "Green",
+        "percentage": 5
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      }
+    ],
+    "CompositionType": "Medium shot (waist up), split composition (text/image)",
+    "HumanPresence": {
+      "numberOfPeople": 1,
+      "apparentGender": "Female-presenting",
+      "expression": "Neutral/pleasant, calm",
+      "demographics": "Young adult, light-skinned"
+    },
+    "MainObjectsPropsFeatured": [
+      "Woman seated, folded arms",
+      "Plain short-sleeve top"
+    ],
+    "BackgroundEnvironment": "Indoors, likely a living room or similar home setting, neutral tones, couch visible"
+  },
+  "TEXT ELEMENTS": {
+    "VisibleText": "She Thought No One Would Find Out...",
+    "FontCharacteristics": {
+      "style": "Sans-serif, bold",
+      "emphasis": "High (all text capitalized except 'Out...'), 'No One' in green for additional emphasis",
+      "color": [
+        "White (most text)",
+        "Bright green (No One)"
+      ]
+    },
+    "TextPlacement": "Left half of the frame, vertical stacking; 'No One' centered and larger font size",
+    "EmotionalTriggerWords": [
+      "No One",
+      "Find Out",
+      "Thought"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "OverallEmotionalTone": "Intriguing, suspenseful, slightly dramatic",
+    "VisualMetaphorsOrSymbols": [
+      "Split screen suggests duality or hidden/secret sides",
+      "Woman\u2019s calm and pleasant demeanor contrasted with suspenseful text"
+    ],
+    "ClickbaitTechniquesEmployed": [
+      "Implied secret or scandal",
+      "Teaser question (Would Find Out...) creating curiosity",
+      "Emphasis on 'No One' to amplify drama"
+    ],
+    "BrandElementsPresent": "None overtly visible; style is generic relationship drama"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "VisualReinforcement": [
+      "Woman pictured may represent the protagonist in the title (\u2018She\u2019)",
+      "Text \u2018She Thought No One Would Find Out\u2019 aligns with the idea of a hidden event disrupting a marriage, as described in the title"
+    ],
+    "ContrastsOrMismatches": [
+      "Thumbnail visual is understated and calm, while the title hints at major drama (\u2018One Man Changed Everything\u2019); visual is not overtly dramatic"
+    ]
+  }
+}

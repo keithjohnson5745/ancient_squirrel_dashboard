@@ -1,0 +1,6 @@
+# Target various API key formats
+regex:openai_api_key:.*$==>openai_api_key: "${OPENAI_API_KEY}"
+regex:openai_api_key\s*=\s*['"]sk-[^'"]*['"]=>openai_api_key = os.environ.get("OPENAI_API_KEY")
+regex:openai_api_key\s*=\s*['"]sk-proj-[^'"]*['"]=>openai_api_key = os.environ.get("OPENAI_API_KEY")
+regex:sk-[a-zA-Z0-9]{20,}==>REMOVED_API_KEY
+regex:sk-proj-[a-zA-Z0-9]{20,}==>REMOVED_API_KEY

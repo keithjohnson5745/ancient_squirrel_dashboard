@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black/Dark Grey",
+        "percentage": 35
+      },
+      {
+        "color": "Light Pink",
+        "percentage": 20
+      },
+      {
+        "color": "Light Green",
+        "percentage": 10
+      },
+      {
+        "color": "Light Gray/Purple (shirt)",
+        "percentage": 20
+      },
+      {
+        "color": "White (accents, sink area)",
+        "percentage": 15
+      }
+    ],
+    "Composition type": "Medium shot (shows upper body of person and some surrounding context)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to mildly amused; direct eye contact with camera",
+      "demographics": "Adult male, medium complexion, dark hair"
+    },
+    "Main objects/props featured": [
+      "Aloe vera leaf held by the person",
+      "Modern kitchen elements (sink, faucet, lights)"
+    ],
+    "Background environment": "Indoor kitchen, visible appliances and pendant lights, slightly blurred to keep focus on foreground"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "ALOE IN MY VAGINA?",
+    "Font characteristics": {
+      "ALOE": {
+        "style": "Bold, all uppercase, sans-serif",
+        "emphasis": "Very high (largest text)",
+        "color": "Light green"
+      },
+      "IN MY": {
+        "style": "Bold, all uppercase, sans-serif",
+        "emphasis": "Medium",
+        "color": "White"
+      },
+      "VAGINA?": {
+        "style": "Bold, all uppercase, sans-serif",
+        "emphasis": "Very high (second largest, most prominent with 'ALOE')",
+        "color": "Pink"
+      }
+    },
+    "Text placement within frame": "Text is centered-right, covering much of the right half of the thumbnail, with 'ALOE' upper, 'IN MY' middle, and 'VAGINA?' largest at the bottom",
+    "Use of emotional/trigger words": [
+      "VAGINA?",
+      "ALOE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, provocative, slightly humorous or shocking",
+    "Visual metaphors or symbols": "The aloe leaf is a direct reference to the subject of the title, suggesting a literal or metaphorical use; the kitchen setting may hint at a DIY or home remedy context.",
+    "Clickbait techniques employed": [
+      "Use of a provocative/body-related question",
+      "Bold, oversized text",
+      "Direct reference to intimate anatomy"
+    ],
+    "Brand elements present": "No overt logos or brand imagery, but use of clear, bold text and kitchen setting may be consistent with a vlog or health/lifestyle channel style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The person is holding an aloe leaf, directly referencing 'Raw Aloe' from the title; the large, color-separated text mirrors the full title question and grabs attention.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a mild contrast as the person in the thumbnail is male and the title references 'my vagina', which could create curiosity or confusion (intentional for clickbait). The visual focus on aloe and the kitchen implies a physical demonstration that matches the literal interpretation of the title, even though the specific scenario described is not made explicit in the image."
+  }
+}

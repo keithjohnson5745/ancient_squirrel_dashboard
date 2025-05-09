@@ -1,0 +1,13 @@
+{
+  "title": "Coconut oil for hair | Coconut oil kya karta hai | Kaise use kare |  Dermatologist explains",
+  "thumbnail_path": "thumbnails/JFpEa1xMzPc_max.jpg",
+  "title_length": 91,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Horrifying Life of a Professional Gambling Addict",
+  "thumbnail_path": "thumbnails/6UBQ4noMV68_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "\u224835% (background box, pregnancy test icon, lipstick, and shirt)",
+      "White": "\u224830% (coat, background, pregnancy tests, text box)",
+      "Light grey": "\u224820% (background gradient)",
+      "Skin tones": "\u224810% (visible facial area, hand)",
+      "Black": "\u22485% (text and some line work)"
+    },
+    "Composition type": "Medium close-up (person's face and upper body with props filling a large part of the frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Engaged, slightly surprised or inquisitive, open-mouthed expression",
+      "demographics": "Adult female, light skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Pregnancy tests (three physical tests held in hand)",
+      "Illustration of a pregnancy test",
+      "Medical attire (white coat)"
+    ],
+    "Background environment": "Out-of-focus, plain grey-to-white gradient; nondescript indoor background"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "PREGNANCY TEST",
+      "How early can you test at home?"
+    ],
+    "Font characteristics": {
+      "PREGNANCY TEST": {
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "Strong emphasis (high contrast, large font size, fully capitalized)",
+        "color": "White text on bright pink block"
+      },
+      "How early can you test at home?": {
+        "style": "Bold, sans-serif",
+        "emphasis": "High (large font, placed in a horizontal white band at bottom)",
+        "color": "Black text on white background"
+      }
+    },
+    "Text placement within frame": {
+      "PREGNANCY TEST": "Top left, inside a bright pink rectangle",
+      "How early can you test at home?": "Bottom, full-width white block"
+    },
+    "Use of emotional/trigger words": [
+      "PREGNANCY",
+      "TEST",
+      "How early"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Helpful, reassuring, mildly urgent (curiosity/inquisitive)",
+    "Visual metaphors or symbols": [
+      "Pregnancy test icon (quick visual cue to pregnancy theme)",
+      "Medical attire suggesting authority/trustworthiness"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text with a question to provoke curiosity",
+      "Direct mention of a common worry (timing of testing)",
+      "Facial expression suggesting a 'big reveal' or important information"
+    ],
+    "Brand elements present": [
+      "Consistent pink/white medical color palette",
+      "Possible subtle branding via appearance/attire, but no explicit logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The physical pregnancy tests, medical outfit, and the question in the text directly illustrate the video's focus on early at-home pregnancy testing, matching the timing- and method-related aspects of the title. The expression on the person\u2019s face conveys a sense of anticipation and curiosity, which is aligned with the emotional tone of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail covers the aspect of early pregnancy testing well but does not visually reference 'implantation symptoms'\u2014that part of the title is not symbolized in the imagery."
+  }
+}

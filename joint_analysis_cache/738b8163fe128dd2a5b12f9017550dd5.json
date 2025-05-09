@@ -1,0 +1,13 @@
+{
+  "title": "A Urologist On Improving Erections, No Nut November, and Low Testosterone | Dr. Rena Malik",
+  "thumbnail_path": "thumbnails/KDmEUA7DEOs_max.jpg",
+  "title_length": 90,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

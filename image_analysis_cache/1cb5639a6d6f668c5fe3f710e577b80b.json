@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "30% (motorcycle tank, WD-40 can)",
+      "Silver/Grey": "20% (handlebars, components)",
+      "Yellow": "10% (cable lube tool)",
+      "Skin tone": "10% (hand holding can)",
+      "White": "20% (background and WD-40 label text)",
+      "Red": "5% (arrow, cable lube straw, trigger text)",
+      "Black": "5% (controls, cables)"
+    },
+    "Composition type": "Medium close-up (focuses on motorcycle handlebars and cable area, plus a hand with a spray can)",
+    "Human presence": {
+      "Number of people": 1,
+      "Visible parts": "One hand and partial arm, pale/light skin",
+      "Expressions/demographics": "Expression not visible, only hand shown, adult"
+    },
+    "Main objects/props featured": [
+      "Blue motorcycle (only tank and handlebars visible)",
+      "Hand operating WD-40 spray can",
+      "Cable lube tool attached to motorcycle cable",
+      "Red lubrication straw"
+    ],
+    "Background environment": "Light, out-of-focus, neutral/white wall (possibly a garage or workshop setting)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CABLE LUBE",
+      "TERRIBLE IDEA",
+      "WD-40"
+    ],
+    "Font characteristics": {
+      "CABLE LUBE": {
+        "Style": "Bold, modern sans-serif, uppercase",
+        "Color": "Dark gray",
+        "Emphasis": "Large, left-aligned, visually prominent"
+      },
+      "TERRIBLE IDEA": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Color": "Bright red",
+        "Emphasis": "Very large, top right, paired with red arrow for strong impact"
+      },
+      "WD-40 (on can)": {
+        "Style": "Brand font, sans-serif, bold",
+        "Color": "Yellow and blue"
+      }
+    },
+    "Text placement within frame": {
+      "CABLE LUBE": "Upper left quadrant, taking up about 25% of the width",
+      "TERRIBLE IDEA": "Upper right quadrant, to the right of the hand and arrow",
+      "WD-40": "On spray can, right of center"
+    },
+    "Use of emotional/trigger words": [
+      "TERRIBLE IDEA"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Warning, cautionary, urgent",
+    "Visual metaphors or symbols": [
+      "WD-40 as a symbol for improper tool/product use",
+      "Red arrow and red text to symbolize danger, mistake, or urgency"
+    ],
+    "Clickbait techniques employed": [
+      "Bold trigger phrase ('TERRIBLE IDEA')",
+      "Use of red arrow to draw attention/disapproval",
+      "Contradicting an assumed best practice (lubricating cables)"
+    ],
+    "Brand elements present": [
+      "WD-40 can/branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually demonstrates lubricating motorcycle cables with a familiar product (WD-40) but clearly marks it as a 'TERRIBLE IDEA', reinforcing the 'Stop!' in the title and setting up a warning/correction to a common practice.",
+    "Contrasts or mismatches": "The title says 'STOP! Lube Your Motorcycle Cables', which could initially confuse viewers, but the thumbnail clarifies that it\u2019s about using the wrong product for lubricating cables\u2014prompting curiosity. No major mismatch as both work together to set up a 'don\u2019t do this' message."
+  }
+}

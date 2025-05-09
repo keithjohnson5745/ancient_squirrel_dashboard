@@ -1,0 +1,12 @@
+{
+  "title": "Magpakailanman: Love knows no age | Full Episode",
+  "thumbnail_path": "thumbnails/JqESN3nAu8o_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

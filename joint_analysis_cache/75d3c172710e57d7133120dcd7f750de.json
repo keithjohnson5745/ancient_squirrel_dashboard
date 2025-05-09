@@ -1,0 +1,13 @@
+{
+  "title": "Premature Ejection Problem Solution | Shighrapatan - Early Discharge | Dr. Vijayant Govinda Gupta",
+  "thumbnail_path": "thumbnails/MSQAXDoxo7Y_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

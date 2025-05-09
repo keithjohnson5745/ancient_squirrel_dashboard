@@ -1,0 +1,12 @@
+{
+  "title": "Classical Music for Brain Power, Studying and Concentration - Mozart Effect",
+  "thumbnail_path": "thumbnails/bwHf1QmA6dQ_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

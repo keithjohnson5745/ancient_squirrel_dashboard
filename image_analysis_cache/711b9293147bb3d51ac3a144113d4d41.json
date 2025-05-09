@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light mint green": "45%",
+      "off-white/cream": "45%",
+      "dark green (pants)": "7%",
+      "black (socks)": "2%",
+      "white (sock logo and text)": "1%"
+    },
+    "Composition type": "Medium shot (shows person from approximately the waist down, duplicated side by side)",
+    "Human presence": {
+      "number_of_people": "1 person duplicated side by side",
+      "expressions": "Not visible \u2014 only shows from midsection down",
+      "demographics": "Adult, presumed female, light skin tone (based on context and visible ankles)"
+    },
+    "Main objects/props featured": [
+      "Two lower halves of person wearing grayish-green pants, light socks with 'SAUCONY' branding",
+      "Lady Bird Physical Therapy circular logo"
+    ],
+    "Background environment": "Split solid color background \u2014 left half is light mint green, right half is off-white/cream"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "How foot changes during pregnancy impact your pelvic floor",
+      "Lady Bird PT.com",
+      "LADY BIRD PHYSICAL THERAPY (in logo)",
+      "IB (in logo)",
+      "SAUCONY (on socks)"
+    ],
+    "Font characteristics": {
+      "main title": {
+        "style": "Bold, geometric sans-serif",
+        "emphasis": "Heavy weight, high contrast",
+        "color": "Dark teal"
+      },
+      "logo": {
+        "style": "Classic, all-caps serif (for brand)",
+        "color": "White on teal circle"
+      },
+      "website": {
+        "style": "Medium weight, sans-serif; all lowercase",
+        "color": "White"
+      },
+      "sock brand": {
+        "style": "Athletic logo font",
+        "color": "White"
+      }
+    },
+    "Text placement within frame": {
+      "main title": "Right side, centered vertically",
+      "logo": "Top center, slightly left of middle",
+      "website": "Bottom center, left half",
+      "sock brand": "On foot, bottom of frame"
+    },
+    "Use of emotional/trigger words": "No explicit emotional or trigger words; tone is informative"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, professional, and informative",
+    "Visual metaphors or symbols": "Duplicated lower body implies comparison (change over time or before/after); focus on feet links visually to 'foot changes'",
+    "Clickbait techniques employed": [
+      "Large, bold text for clear readability",
+      "Split composition to suggest a comparison or transformation"
+    ],
+    "Brand elements present": [
+      "Lady Bird Physical Therapy logo",
+      "Website address (LadyBirdPT.com)",
+      "Consistent brand color palette"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually emphasizes the 'foot changes' aspect by showing two identical lower-body images side by side, suggesting comparison or change, directly connecting to the theme of how pregnancy affects feet.",
+    "Contrasts or mismatches": "The pelvic floor aspect is not visually represented (no anatomical cues or symbols), so the thumbnail does not graphically reference that part of the title; the focus is instead on the feet."
+  }
+}

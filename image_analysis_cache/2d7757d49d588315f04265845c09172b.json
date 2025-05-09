@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/off-white (background)": "40%",
+      "Bright blue/teal (person's shirt)": "20%",
+      "Pink (text background)": "10%",
+      "Brown (hair, coconut oil bottle)": "10%",
+      "Pastels (bed/bedding, muted colors)": "20%"
+    },
+    "Composition type": "Medium shot (shows person from chest up with extended hand and featured product, background is visible but slightly out of focus)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Surprised/wide-eyed with pursed lips (suggestive of curiosity, shock, or 'TMI' context)",
+      "Demographics": "Adult woman, light skin tone, long light brown/blonde hair"
+    },
+    "Main objects/props featured": [
+      "Large bottle of 'Fractionated Coconut Oil' (label visible with coconuts and palm trees)",
+      "Stylized black arrow pointing to the bottle"
+    ],
+    "Background environment": "Bright, tidy bedroom with soft decor (bed, pillows, a blurred lamp, and window in the background)"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "MY FAVORITE LUBE",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all caps",
+      "Emphasis": "Heavy weight, strong drop shadow for contrast",
+      "Color": "White text with a thick pink outline and shadow"
+    },
+    "Text placement within frame": "Top right quadrant over the bedroom background, partially covering the bed and wall",
+    "Use of emotional/trigger words": [
+      "FAVORITE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, curious, and slightly provocative; aims to intrigue and amuse.",
+    "Visual metaphors or symbols": [
+      "Large coconut oil bottle as a substitute or symbolic 'lube', which directly references the video topic",
+      "Exaggerated facial expression as a symbol for TMI/embarrassing or 'taboo' question"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claim ('MY FAVORITE LUBE')",
+      "Direct question in the title",
+      "Unusual product used unexpectedly",
+      "Surprised/exaggerated facial expression to draw curiosity"
+    ],
+    "Brand elements present": [
+      "Consistent color pop (pink/white text)",
+      "Possible recurring on-camera host"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail directly shows a coconut oil bottle\u2014referenced in the title's question\u2014with a bold caption ('MY FAVORITE LUBE'), clarifying the video's subject. The host\u2019s expression and the large, playful arrow add intrigue and reinforce the idea of addressing a 'TMI' question.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts; both the thumbnail and title are clear, direct, and thematically linked. The only minor difference is that the thumbnail confidently states 'MY FAVORITE LUBE', while the title poses a question, adding a sense of discovery or explanation to the video itself."
+  }
+}

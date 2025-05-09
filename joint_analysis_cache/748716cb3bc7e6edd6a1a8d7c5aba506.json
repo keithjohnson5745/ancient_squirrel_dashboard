@@ -1,0 +1,13 @@
+{
+  "title": "\u0915\u094d\u092f\u093e \u0932\u0917\u093e\u0928\u093e \u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u093e \u0930\u0939\u0924\u093e \u0939\u0948? in Hindi",
+  "thumbnail_path": "thumbnails/t6AAzVi3IlY_max.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

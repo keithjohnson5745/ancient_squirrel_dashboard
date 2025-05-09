@@ -1,0 +1,13 @@
+{
+  "title": "\u0906\u092a\u0928\u0947 \u092d\u0940 \u0910\u0938\u093e \u0926\u0947\u0916\u093e \u0939\u0948? \u0915\u093f\u0924\u0928\u093e \u0938\u0939\u0940\u2705 - \u0915\u093f\u0924\u0928\u093e \u0917\u0932\u0924\u274c, \u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u0940 video",
+  "thumbnail_path": "thumbnails/PNrmfMSYWuw_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

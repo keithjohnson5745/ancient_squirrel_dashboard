@@ -1,0 +1,13 @@
+{
+  "title": "These 4 foods are unbelievably bad for the \"D\"",
+  "thumbnail_path": "thumbnails/n0VuunTMNlo_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

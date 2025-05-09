@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "tan/light brown (background)": "40%",
+      "white (doctor's coat)": "25%",
+      "red (upper text box)": "15%",
+      "blue (lower text box)": "15%",
+      "black (font and stethoscope)": "5%",
+      "skin tones": "variable, minor"
+    },
+    "composition_type": "Medium shot (doctor visible from mid-torso up, facing forward)",
+    "human_presence": {
+      "count": 1,
+      "expressions": "Neutral, slightly serious. Person is making direct eye contact.",
+      "demographics": "Adult male, Black/African descent, medical professional (doctor\u2019s coat and stethoscope)."
+    },
+    "main_objects_props_featured": [
+      "Person wearing a white doctor's coat and stethoscope",
+      "Text boxes (red and blue)"
+    ],
+    "background_environment": "Plain solid tan/light brown color; no clear environmental cues except the neutral color fill"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "WHY SPMS LEAK OUT OF THE V",
+      "HOW TO TREAT A PERSISTENT CYST"
+    ],
+    "font_characteristics": {
+      "style": "Bold, sans-serif, all-caps",
+      "emphasis": "High (all caps, bold font, heavy use of block background color for increased contrast)",
+      "color": "Text on red box: White; Text on blue box: White"
+    },
+    "text_placement": {
+      "upper_left": "WHY SPMS LEAK OUT OF THE V (red box, top section)",
+      "lower_left": "HOW TO TREAT A PERSISTENT CYST (blue box, bottom section)",
+      "person_on_right": "Doctor on the right side, partially overlapping boxes"
+    },
+    "emotional_trigger_words": [
+      "WHY",
+      "LEAK",
+      "TREAT",
+      "PERSISTENT CYST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Serious, urgent, informative; focuses on health concerns and solutions",
+    "visual_metaphors_or_symbols": [
+      "Doctor in coat and stethoscope symbolizes medical authority and trustworthy advice"
+    ],
+    "clickbait_techniques_employed": [
+      "Use of alarming or attention-grabbing health-related questions",
+      "Highlighting a personal and sensitive topic (\u2018leak out of the V\u2019)",
+      "Simple, high-contrast colors and bold text for instant readability",
+      "Promise of a solution/treatment"
+    ],
+    "brand_elements_present": [
+      "Doctor\u2019s attire (white coat, stethoscope) builds trust and positions channel as medically credible"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": [
+      "Thumbnail repeats the first half of the video title with minor abbreviation ('SPMS' instead of 'SPRMS' and 'V' instead of full word for discretion)",
+      "Doctor figure visually reinforces the health/medical theme implied by the title"
+    ],
+    "contrasts_or_mismatches": [
+      "Thumbnail omits the full wording for 'SPRMS' and 'V' likely due to community guidelines; only includes first two title elements, not the full title",
+      "No explicit visual metaphor for sperm or cysts in the thumbnail for a sensitive, professional approach"
+    ]
+  }
+}

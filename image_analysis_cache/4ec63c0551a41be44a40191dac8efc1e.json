@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 60% (background and most of the subject's clothing)",
+      "White": "Approximately 30% (main text and facial highlights)",
+      "Light Blue": "Approximately 8% (border and some subtext)",
+      "Gray": "Approximately 2% (secondary text and some shading on the subject's face)"
+    },
+    "Composition type": "Medium close-up (head and shoulders of one person fill about half the thumbnail)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/softly confident, slight smile",
+      "Demographics": "Adult male, short dark hair, full beard, light skin tone"
+    },
+    "Main objects/props featured": "Portrait of a man (no visible props)",
+    "Background environment": "Solid black background with light blue border and no discernible physical setting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HOW SMELLS INFLUENCE BEHAVIOR",
+      "HUBERMAN LAB ESSENTIALS"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": {
+        "Main Title": "Large, bold white text",
+        "Subheading": "Smaller, blue sans-serif text for 'HUBERMAN LAB', gray for 'ESSENTIALS'"
+      },
+      "Color": "White (main), Blue (subheading), Gray (secondary subheading)"
+    },
+    "Text placement within frame": {
+      "Main title": "Left side of thumbnail, occupying most of the space",
+      "Subheading": "Bottom left, stacked under the main title"
+    },
+    "Use of emotional/trigger words": [
+      "INFLUENCE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, informative, and slightly personal",
+    "Visual metaphors or symbols": "Direct eye-contact and neutral expression suggest expertise and trustworthiness",
+    "Clickbait techniques employed": [
+      "Strong, direct question/claim in the headline ('How Smells Influence Behavior')",
+      "Use of the present tense to suggest immediate relevance",
+      "Prominent human face for relatability"
+    ],
+    "Brand elements present": [
+      "HUBERMAN LAB"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail emphasizes 'How Smells Influence Behavior,' closely mirroring the title (which is 'How Smell, Taste & Pheromones Shape Behavior | Huberman Lab Essentials'). It uses direct textual repetition with visual focus on the expert, reinforcing authority and the educational nature of the video.",
+    "Contrasts or mismatches": "The thumbnail text highlights only 'smells' and does not mention 'taste' or 'pheromones,' which appear in the video title. This narrows the perceived subject, potentially omitting part of the video\u2019s broader promised content."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Blow - short film",
+  "thumbnail_path": "thumbnails/Swb7MgSgqnw_max.jpg",
+  "title_length": 17,
+  "patterns": [
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.0,
+  "clickbait_score": 0.2
+}

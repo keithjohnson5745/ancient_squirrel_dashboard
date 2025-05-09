@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Cream": "50%",
+      "Dark Teal/Navy": "25%",
+      "White": "15%",
+      "Soft Mint Green": "5%",
+      "Light Brown (hair)": "5%"
+    },
+    "Composition type": "Medium shot (person visible from the waist up, occupies right half of thumbnail)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Female-presenting individual, smiling, direct eye contact",
+      "Demographics": "Adult woman, light skin, long light brown hair"
+    },
+    "Main objects/props featured": [
+      "Smiling woman",
+      "Medical-themed icon (briefcase with a cross, bottom-center-left)"
+    ],
+    "Background environment": "Flat, stylized beige background with subtle line patterns (semi-circular line motifs); clean, uncluttered look"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "Can You Use Lubricant While TTC?",
+    "Font characteristics": {
+      "Style": "Modern sans-serif, clean and bold",
+      "Emphasis": {
+        "\u2018Lubricant\u2019": "Extra emphasis with a different (lighter) background block",
+        "Other text": "White on dark teal/white backgrounds, clear separation between lines"
+      },
+      "Color": "White (on dark teal blocks), black/dark navy (on light background strips)"
+    },
+    "Text placement within frame": "Text is left-aligned, stacked in four distinct blocks occupying the left half of the thumbnail",
+    "Use of emotional/trigger words": [
+      "Lubricant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, friendly, informative; inviting smile and clean design suggest trustworthiness",
+    "Visual metaphors or symbols": [
+      "Medical-themed icon to suggest health or professional advice"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question addressing a common concern (creates curiosity)",
+      "Use of acronym \u2018TTC\u2019 (Trying To Conceive) signals specific audience"
+    ],
+    "Brand elements present": [
+      "Consistent visual identity via color palette and clean design; possible brand familiarity if the presenter is recurring"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text in the thumbnail is a direct, nearly verbatim repetition of the video title, making the subject immediately clear. The inclusion of a smiling, professional-looking woman and the medical icon reinforce the health/educational angle and create a sense of approachability.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major contrasts or mismatches; both clearly communicate the topic in a sensitive and accessible manner."
+  }
+}

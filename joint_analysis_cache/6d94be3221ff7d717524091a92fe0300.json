@@ -1,0 +1,12 @@
+{
+  "title": "Fix 99% of Car SCRATCHES by doing THIS! You will be amazed!! Save Money!!",
+  "thumbnail_path": "thumbnails/cmxiaWLv4Rk_max.jpg",
+  "title_length": 73,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

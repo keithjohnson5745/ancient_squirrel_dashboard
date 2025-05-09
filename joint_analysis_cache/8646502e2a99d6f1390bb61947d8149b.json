@@ -1,0 +1,12 @@
+{
+  "title": "Skin Care Secrets, Fillers, Botox, Acne, Sunscreen - Celeb Dermat Jaishree | FO 208 Raj Shamani",
+  "thumbnail_path": "thumbnails/g93IhHW600U_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

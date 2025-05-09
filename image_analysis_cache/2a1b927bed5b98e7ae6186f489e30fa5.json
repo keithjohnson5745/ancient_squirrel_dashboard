@@ -1,0 +1,85 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "teal_blue": "60%",
+      "white": "25%",
+      "skin_tone": "10%",
+      "maroon/purple": "3%",
+      "grey (stethoscope)": "2%"
+    },
+    "composition_type": "Medium close-up (head and upper shoulders of one person, left side of frame)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, gentle smile, confident and approachable",
+      "demographics": {
+        "gender": "Female",
+        "age_estimation": "Middle-aged adult",
+        "professional_appearance": "Medical doctor"
+      }
+    },
+    "main_objects/props_featured": [
+      "Stethoscope",
+      "White doctor's coat",
+      "Name badge/logo (Sahyadri)"
+    ],
+    "background_environment": "Solid teal-blue color with simple, clean layout; logo on upper right"
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible_in_thumbnail": [
+      "\u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0939\u094b\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u0947\u0915\u094d\u0938 \u0915\u0947 \u092c\u093e\u0926 \u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930 \u0924\u0915 \u0932\u0947\u091f\u0947 \u0930\u0939\u0928\u093e \u091a\u093e\u0939\u093f\u090f ?",
+      "MOTHER CARE",
+      "Dr. Supriya Puranik",
+      "Test Tube Baby Consultant & Practicing Gynaecology Since 20 years",
+      "Sahyadri"
+    ],
+    "font_characteristics": {
+      "main_heading": {
+        "style": "Bold, sans-serif, all-caps (Devanagari script)",
+        "emphasis": "Heavy, white text, high contrast"
+      },
+      "subheading/credential": {
+        "style": "Regular sans-serif, italicized",
+        "color": "White with slight blue tint"
+      },
+      "logo/branding": {
+        "style": "All-caps, sans-serif, small size",
+        "color": "White (Mother Care)",
+        "color_for_Sahyadri": "Red, blue, and grey"
+      }
+    },
+    "text_placement_within_frame": {
+      "main_heading": "Right center, occupying most of the horizontal space",
+      "doctor's_name_credential": "Bottom right",
+      "Mother Care logo": "Top right",
+      "Sahyadri logo": "On lab coat, left lower quadrant"
+    },
+    "use_of_emotional_trigger_words": [
+      "\u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f (Pregnant)",
+      "\u0938\u0947\u0915\u094d\u0938 (Sex)",
+      "\u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930 \u0924\u0915 (How long)",
+      "\u0932\u0947\u091f\u0947 \u0930\u0939\u0928\u093e \u091a\u093e\u0939\u093f\u090f? (Should stay lying down?)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Trustworthy, informative, reassuring, medical authority",
+    "visual_metaphors_or_symbols": [
+      "Doctor in white coat and stethoscope: authority and medical expertise",
+      "Solid color background: clarity, professionalism"
+    ],
+    "clickbait_techniques_employed": [
+      "Direct reference to a sensitive, high-interest health question (fertility, pregnancy)",
+      "Use of numbers/time-related query ('how long to lay down after sex for pregnancy?')",
+      "Shown expert with credentials visible",
+      "Emotional trigger words"
+    ],
+    "brand_elements_present": [
+      "Mother Care logo (top right)",
+      "Doctor's name and credentials",
+      "Sahyadri (hospital or brand logo on lab coat)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "reinforcement": "The thumbnail visually matches the title by clearly presenting a medical doctor (Dr. Supriya Puranik), who is the expert featured in both title and thumbnail. The text in the thumbnail is nearly identical to the full video title, directly reflecting the spoken question that will be addressed.",
+    "contrasts_or_mismatches": "There is strong alignment; no significant mismatch. The professional, clean design and presence of an actual expert in the thumbnail reinforce the trustworthiness promised by the title."
+  }
+}

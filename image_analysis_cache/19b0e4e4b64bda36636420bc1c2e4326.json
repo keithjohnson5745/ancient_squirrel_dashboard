@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "green": "Approximately 45% (background, text boxes, apple, broccoli)",
+      "white": "Approximately 20% (text, coat)",
+      "beige/peach": "Approximately 20% (skin tone of person)",
+      "blue": "Approximately 10% (shirt underneath coat)",
+      "yellow/gold": "Approximately 5% (wheat illustration, necklace)"
+    },
+    "Composition type": "Medium shot (human subject from chest upwards, with objects and text clearly visible in foreground and midground)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly and approachable facial expression",
+      "demographics": "Adult woman, fair skin, long light brown hair, possibly medical professional (wearing white coat and blue scrubs)"
+    },
+    "Main objects/props featured": [
+      "Green apple (illustrated, floating near raised hand)",
+      "Broccoli (illustrated, floating near apple)",
+      "Wheat stalk (illustrated, above text)",
+      "Person wearing white coat and blue shirt"
+    ],
+    "Background environment": "Faded/blurred green background, likely with indistinct images of fruits/vegetables (supports food/nutrition theme)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "FOODS THAT IMPROVE FERTILITY",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all-uppercase",
+      "emphasis": "High, impactful and easy to read (large size, boxy font)",
+      "color": "White text on medium-dark green rectangular backgrounds"
+    },
+    "Text placement within frame": "Three green rectangular blocks stacked vertically on the right half of the thumbnail, aligned left to the apple and broccoli visuals",
+    "Use of emotional/trigger words": [
+      "IMPROVE",
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Optimistic, reassuring, trustworthy (smiling professional and inviting color palette)",
+    "Visual metaphors or symbols": [
+      "Wheat stalk, apple, broccoli symbolize healthy foods/nutrition",
+      "Medical attire symbolizes expertise and trust"
+    ],
+    "Clickbait techniques employed": [
+      "Explicit promise/outcome words ('IMPROVE FERTILITY')",
+      "Bright, clean visuals to attract attention",
+      "Featuring a friendly professional to build trust"
+    ],
+    "Brand elements present": "Implied brand of Dr. Lora Shahine (doctor's presence and attire), but no strong or explicit logo/branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail directly supports the video title by showcasing both fertility-related foods and a medical professional, aligning with 'Fertility Diet' and 'Dr. Lora Shahine' in the title. The phrase 'FOODS THAT IMPROVE FERTILITY' visually echoes the title\u2019s promise.",
+    "Contrasts or mismatches": "No major mismatches; the thumbnail and title are well-aligned. The only minor distinction is that the thumbnail says 'improve fertility' rather than 'help you get pregnant faster,' which is a softer, more general claim."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "30% (background gradient and clothing)",
+      "Blue": "25% (background gradient)",
+      "Black": "20% (shirts, text box, glasses)",
+      "Red/Orange": "10% (gradient on right side and clothing highlights)",
+      "White": "5% (shirt, ripped separation, text outline)",
+      "Skin tones": "10% (faces and arms of subjects)"
+    },
+    "Composition type": "Medium shot (groups of people shown from waist up, focus on faces and expressions, clear separation between two visual themes)",
+    "Human presence": {
+      "number_of_people": 5,
+      "expressions": [
+        "Left group: Smiling, laughing, appearing joyful/entertained",
+        "Center group: Man looks flirtatious/pleased, woman appears sensual/relaxed",
+        "Right figure: Neutral, slightly serious/examining look"
+      ],
+      "demographics": "Adults, both male and female, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "Traditional South Asian clothing (yellow sari, jewelry)",
+      "Glasses (on rightmost male subject)"
+    ],
+    "Background environment": "Digitally enhanced, no specific real-world setting; gradient transitions from blue (left) to red/orange (right), with a torn white separation between groups; no distinct location visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "CHEAP AND VULGAR ?",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, heavy block lettering",
+      "emphasis": "All-caps, thick and high-contrast, adds urgency",
+      "color": "Black font on yellow rectangle, white/black outline for contrast"
+    },
+    "Text placement within frame": "Top-center, occupying the width of the upper third, very prominent",
+    "Use of emotional/trigger words": [
+      "CHEAP",
+      "VULGAR",
+      "Question mark (?) intensifies provocative framing of the statement"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Provocative, sensational, critical",
+    "Visual metaphors or symbols": "Ripped paper effect vertically splits two themes: potentially controversial film scenes on the left vs. critical/analytical individual on the right.",
+    "Clickbait techniques employed": [
+      "Bold, emotionally charged words",
+      "Sensationalized question about morality/quality",
+      "Contrasting imagery (sensuality vs. critical observation)",
+      "Bright atmosphere draws the eye"
+    ],
+    "Brand elements present": "None obvious (no logos or explicit branding visible)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail dramatizes the title's claim by showing images associated with stereotypical glamor or sensationalism (possibly from Bhojpuri cinema), while the right side features a serious-looking commentator. The bold question implies debate or critique on the 'problem' with the Bhojpuri industry described in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "Both are closely aligned: the imagery, text, and emotional tone all support a critical examination as stated in the title. Both suggest controversy and invite viewers for a discussion."
+  }
+}

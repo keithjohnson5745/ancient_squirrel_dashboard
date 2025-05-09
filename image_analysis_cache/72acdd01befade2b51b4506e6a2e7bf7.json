@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "purple": "40%",
+      "blue": "20%",
+      "white": "15%",
+      "black": "15%",
+      "yellow": "5%",
+      "beige/skin tones": "5%"
+    },
+    "Composition type": "Medium close-up (both women shown from chest up, facing each other across the frame)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": "Attentive, engaged, slightly serious but approachable",
+      "demographics": "Both are adult women of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Two microphones (each woman speaking into one)",
+      "Earrings/jewelry on both women"
+    ],
+    "Background environment": "Gradient blend of purple and blue with a soft spotlight effect; blurred and non-descript (studio look)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Dr. Manisha Mehta",
+      "Don\u2019t Plan PREGNANCY Before This !",
+      "Gunjan Taneja"
+    ],
+    "Font characteristics": {
+      "Dr. Manisha Mehta": "Black sans-serif, bold, clean, high contrast from white background tag",
+      "Don\u2019t Plan PREGNANCY Before This !": "Sans-serif, 'Don\u2019t Plan' and 'Before This !' in bold black, 'PREGNANCY' in bold uppercase with yellow highlight for emphasis",
+      "Gunjan Taneja": "Black sans-serif, bold, clean, on a white rounded-rectangle label"
+    },
+    "Text placement within frame": {
+      "Dr. Manisha Mehta": "Bottom left inside a white tag overlay",
+      "Gunjan Taneja": "Bottom right inside a white tag overlay",
+      "Don\u2019t Plan PREGNANCY Before This !": "Centered across the top-middle in a large white box overlapping the two women"
+    },
+    "Use of emotional/trigger words": [
+      "Don\u2019t Plan",
+      "PREGNANCY",
+      "Before This !"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious but supportive and informative, with an undertone of urgency/action (due to 'Don\u2019t Plan' and bold 'Before This!')",
+    "Visual metaphors or symbols": [
+      "Microphones symbolize a podcast or expert interview",
+      "Yellow highlight over 'PREGNANCY' signals importance/urgency"
+    ],
+    "Clickbait techniques employed": [
+      "Commanding phrase ('Don\u2019t Plan... Before This!') creates curiosity",
+      "The use of capitalization and highlight draws immediate attention",
+      "Expert names and faces lend credibility"
+    ],
+    "Brand elements present": [
+      "Host and guest names prominently displayed",
+      "Profile image of Dr. Manisha Mehta as a brand cue"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail visually aligns with the title by clearly showing the two speakers (implying a discussion/interview format), with text focused on 'Pregnancy'\u2014a main keyword from the title.",
+      "The presence of expert names, microphones, and direct eye contact reinforce the 'guide' or 'expert advice' aspect of the title."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail highlights 'PREGNANCY' and general planning, but does not visually depict IVF, egg freezing, or sperm count (specific content in the video title).",
+      "The emotional tone is slightly more urgent in the thumbnail than in the relatively neutral/informative video title."
+    ]
+  }
+}

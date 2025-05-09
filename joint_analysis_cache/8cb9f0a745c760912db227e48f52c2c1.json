@@ -1,0 +1,12 @@
+{
+  "title": "How China Could Retaliate Against U.S. Tariffs",
+  "thumbnail_path": "thumbnails/Tt5AYrS2dNs_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

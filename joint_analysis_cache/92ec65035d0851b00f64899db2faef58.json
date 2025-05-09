@@ -1,0 +1,14 @@
+{
+  "title": "Zucker vs. Kalorien | Was ist das Problem?",
+  "thumbnail_path": "thumbnails/4r4Qg5SPbI4_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

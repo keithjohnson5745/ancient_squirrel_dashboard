@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "25%",
+      "Pink/magenta": "30%",
+      "Lavender/purple": "15%",
+      "Yellow (hoodie, lamp light)": "10%",
+      "Brown/skin tones": "10%",
+      "Black (hair, outlines)": "10%"
+    },
+    "Composition type": "Medium shot (character shown from mid-torso up, clear focus on upper body and face)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Calm, focused, slight smile, direct gaze at laptop",
+      "Demographics": "Appears to be a young Black woman, stylized/animated art"
+    },
+    "Main objects/props featured": [
+      "Laptop (pink, Apple logo visible)",
+      "Desk",
+      "Glasses (large, yellow-tinted frames)",
+      "Desk lamp (pink)",
+      "Chair (pink/red with visible headrest)",
+      "Bracelet"
+    ],
+    "Background environment": "Cityscape at dusk or night with buildings and lights, interior room with large window showing city"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "DEEP FOCUS LOFI",
+    "Font characteristics": {
+      "Style": "Rounded, bold, playful sans-serif",
+      "Emphasis": "All caps, white letters with purple drop shadow",
+      "Color": "White (foreground), purple (shadow, enhances contrast)"
+    },
+    "Text placement within frame": "Right-side, centered within a blue circular background, takes up about one-third of image width",
+    "Emotional/trigger words": [
+      "DEEP",
+      "FOCUS",
+      "LOFI"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, positive, motivating, focused, cozy",
+    "Visual metaphors or symbols": [
+      "City at night = productivity, modern work environment",
+      "Bright lamp and laptop = focus, study/work",
+      "Stylized cozy setting = comfort, warmth"
+    ],
+    "Clickbait techniques employed": [
+      "Large, clear text that communicates the video's purpose",
+      "Bright, saturated color palette",
+      "Relatable/aspirational character (young focused professional/student)"
+    ],
+    "Brand elements present": [
+      "Apple logo on laptop (tech association, aspirational productivity tone)",
+      "Consistent lofi aesthetic (rounded fonts, soft lighting, dreamy cityscape)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": [
+      "Text on thumbnail reinforces 'Deep Focus Lofi' directly (matches title keywords)",
+      "Focused character working on laptop echoes 'Energy for Work' and 'Focus'",
+      "Night city background and cozy desk setting match 'Lofi', 'R&B', and 'Neo Soul' laid-back, late-night vibes"
+    ],
+    "Contrasts or mismatches": "No major mismatches. Thumbnail accurately reflects the title\u2019s promise of upbeat, focused, lofi music for work/study. It does not visually reference 'R&B' or 'Neo Soul' directly, but its aesthetic aligns with modern lo-fi visuals.",
+    "Overall summary": "The thumbnail and title are tightly aligned, promising a specific mood and activity (deep focus, lofi beats for work) through both visual and text cues."
+  }
+}

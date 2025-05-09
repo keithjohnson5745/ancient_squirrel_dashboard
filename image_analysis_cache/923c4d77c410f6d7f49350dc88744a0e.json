@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "30% (shirt, packaging, bottles on shelves)",
+      "Beige/Brown": "20% (walls, shelves)",
+      "White": "15% (product labels and boxes)",
+      "Yellow": "10% (product packaging)",
+      "Gray/Black": "15% (shelves, computer, some product packaging)",
+      "Other colors": "10% (scattered product colors: green, purple, orange, blue)"
+    },
+    "Composition type": "Medium shot (subject is shown from torso up, centered, with shelves and products visible in the background)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to slightly positive, possibly explaining or addressing the viewer",
+      "Demographics": "Adult male, possibly South Asian"
+    },
+    "Main objects/props featured": [
+      "Shelves full of pharmacy or convenience store products (bottles, boxes, tubes, household goods)",
+      "The person in a red sweater",
+      "Visible branded products (but no focus on a specific lubricant product)"
+    ],
+    "Background environment": "Indoor shop or pharmacy, crowded shelves displaying a variety of consumer products and medicines"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "PROLINE",
+      "\u092a\u0947\u091f \u0938\u093e\u092b\u093c",
+      "SCALP",
+      "KAY",
+      "KAYAM"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "PROLINE",
+        "Style": "Bold, sans-serif, uppercase",
+        "Color": "Navy blue",
+        "Placement": "Center of the person's chest (on sweater)"
+      },
+      {
+        "Text": "\u092a\u0947\u091f \u0938\u093e\u092b\u093c",
+        "Style": "Bold, simple, sans-serif (Devanagari)",
+        "Color": "Black on yellow, red outlines",
+        "Placement": "Product packaging hanging on the right"
+      },
+      {
+        "Text": "SCALP",
+        "Style": "Caps, sans-serif",
+        "Color": "White on blue",
+        "Placement": "Product packaging, right side"
+      },
+      {
+        "Text": "KAY",
+        "KAYAM": {
+          "Style": "All-caps, sans-serif",
+          "Color": "Red",
+          "Placement": "Product labels, right side"
+        }
+      }
+    ],
+    "Text placement within frame": "Most text is on object packaging in the background, except 'PROLINE' which is centered on the person\u2019s chest",
+    "Use of emotional/trigger words": "No directly emotional or clickbait words in visible thumbnail text"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Neutral, informational, slightly approachable due to the setting and the speaker's expression",
+    "Visual metaphors or symbols": "Presence in a shop or pharmacy could symbolize trust, expertise, or everyday advice; however, there are no direct visual cues for 'vaginal lubricant'",
+    "Clickbait techniques employed": "None apparent in the thumbnail alone (no bold text, highlighted props, or exaggerated facial expressions)",
+    "Brand elements present": [
+      "PROLINE (on clothing)",
+      "Various product brands visible on the shelves (e.g., KAY, SCALP, KAYAM)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail shows a person in what appears to be a pharmacy or shop setting, suggesting expertise and a context related to products/medicines, which is relevant to the topic of vaginal lubricants. The instructional posture of the speaker also aligns with the educational intent indicated by the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no explicit visual reference to vaginal lubricants in the thumbnail (e.g., no lubricant bottles or packaging highlighted), and none of the visible product labels clearly relate to the subject. The connection is indirect and relies on the assumed expertise of the person in the setting rather than direct visual cues."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Soft blue/gray (background and text boxes)": "40%",
+      "Brown/tan (person\u2019s skin, plush toy)": "25%",
+      "Black (hair, clothing)": "20%",
+      "White (bed/linens, highlights)": "10%",
+      "Muted colors (toy accents, jeans)": "5%"
+    },
+    "Composition type": "Medium close-up shot; main subject (a woman) is shown seated and leaning forward, partially in profile.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Person appears very distraught, covering her face and part of her eyes; strong emotional distress is clear.",
+      "Demographics": "Adult woman, with medium-dark skin, long curly hair, wearing casual clothes."
+    },
+    "Main objects/props featured": [
+      "Stuffed animal (plush toy) being held close to face",
+      "Bed (person is seated on it)"
+    ],
+    "Background environment": "Soft-focus bedroom or domestic setting with a soft, neutral color palette, possibly natural light through a window."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "Recurrent miscarriage: What to do next + the tests & treatments to know",
+    "Font characteristics": {
+      "Style": "Serif font; appears to be formal and readable, with italic and bold emphasis for certain keywords.",
+      "Emphasis": "\u2018Recurrent miscarriage:\u2019 is bolded and italicized; the rest is standard italic script.",
+      "Color": "Dark brown or black text on a light blue box background."
+    },
+    "Text placement within frame": "Text appears in three light blue rectangular boxes, stacked towards the lower center/left of the frame, partially covering the lower part of the subject and extending across the image.",
+    "Use of emotional/trigger words": [
+      "Recurrent miscarriage",
+      "tests",
+      "treatments",
+      "What to do next"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Somber, empathetic, and supportive; seeks to convey understanding and offer hope/tangible help after a painful experience.",
+    "Visual metaphors or symbols": [
+      "Stuffed animal/toy representing loss and connection to motherhood or childhood.",
+      "Body language (head in hands) symbolizing grief and vulnerability."
+    ],
+    "Clickbait techniques employed": [
+      "Directly addressing a distressing problem (\u2018Recurrent miscarriage\u2019)",
+      "Offering solutions (\u2018What to do next\u2019, \u2018the tests & treatments to know\u2019)",
+      "Emotional visual of a grieving person to drive empathy and attention"
+    ],
+    "Brand elements present": "No explicit brand logos or watermarks visible."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "Yes. The image of a distressed woman holding a stuffed toy deeply underscores the topic of miscarriage and emotional aftermath, matching the title's focus on what to do after recurrent miscarriage.",
+    "Contrasts/mismatches": "No major mismatches. Both title and thumbnail are serious, empathetic, and solution-oriented in tone."
+  }
+}

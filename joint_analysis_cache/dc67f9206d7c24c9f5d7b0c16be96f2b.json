@@ -1,0 +1,13 @@
+{
+  "title": "9 Haircare Products That Will Destroy Your Hair",
+  "thumbnail_path": "thumbnails/rxU8lsF_gXM_max.jpg",
+  "title_length": 47,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

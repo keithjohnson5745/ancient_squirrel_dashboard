@@ -1,0 +1,13 @@
+{
+  "title": "PTEN Tool Review: WD-40 EZ-Reach Straw and Specialist GEL Lube",
+  "thumbnail_path": "thumbnails/36EoJlTwWW4_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

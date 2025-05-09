@@ -1,0 +1,14 @@
+{
+  "title": "Ed Sheeran, Bruno Mars, Dua Lipa, Adele, Maroon 5, Rihanna, The Weeknd - Billboard Top 50 This Week",
+  "thumbnail_path": "thumbnails/xhrE4M8J3FU_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

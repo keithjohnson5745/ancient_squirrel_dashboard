@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Warm tan/golden background (fairy lights and wall)": "40%",
+      "Brown/gingerbread elements": "20%",
+      "Skin tones (subject)": "15%",
+      "Black (shirt graphic)": "10%",
+      "White/light pink (products and text)": "10%",
+      "Additional accent colors (silver, purple, blue from objects)": "5%"
+    },
+    "Composition type": "Medium shot (torso and head of subject, objects in each hand clearly visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Direct eye contact, slightly open mouth in a surprised/interested/explanatory expression",
+      "Demographics": "Young woman, light skin, brunette"
+    },
+    "Main objects/props featured": [
+      "Decorated Vaseline jar",
+      "Pink EOS Cashmere Body Wash bottle",
+      "Exfoliating glove/scrubber",
+      "Gingerbread figure pillows",
+      "T-shirt with a grayscale portrait"
+    ],
+    "Background environment": "Warmly lit, cozy indoor space decorated with string lights and themed gingerbread pillows, likely a living room or bedroom"
+  },
+  "TEXT ELEMENTS": {
+    "Transcription": "10 ESSENTIAL HYGIENE TIPS",
+    "Font characteristics": {
+      "Style": "Bold, all-caps, sans-serif",
+      "Emphasis": "Strong emphasis via capitalization and thickness",
+      "Color": "White",
+      "Shadow/Outline": "None visible"
+    },
+    "Text placement within frame": "Split: '10 ESSENTIAL' on top left, 'HYGIENE TIPS' on top right; both positioned above and around the central figure",
+    "Use of emotional/trigger words": [
+      "ESSENTIAL",
+      "TIPS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, approachable, helpful; slight sense of urgency or importance",
+    "Visual metaphors or symbols": [
+      "Grooming/hygiene products symbolize cleanliness and self-care",
+      "Gingerbread decorations suggest warmth, comfort, and a personal/homey touch"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold numbered list ('10 ESSENTIAL')",
+      "Directly addressing viewer need ('HYGIENE TIPS')",
+      "Central focus on host with surprised/explanatory expression suggesting secrets or revelations",
+      "Featuring recognizable product brands to build trust"
+    ],
+    "Brand elements present": [
+      "Visible product logos: Vaseline, EOS",
+      "Prominent style for listicle video"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail visually reinforces the title by explicitly showing hygiene products, a knowledgeable host, and the phrase '10 ESSENTIAL HYGIENE TIPS'\u2014strongly tying visual and text cues to the video's promise of practical advice.",
+    "Contrasts or mismatches": "The title uses slightly casual, playful language ('ur mom should've taught you', 'wish I knew sooner'), but the thumbnail text is more formal and direct. The visual mood remains inviting and friendly, which aligns with the approachable spirit of the title\u2014even if the thumbnail is a bit more straightforward."
+  }
+}

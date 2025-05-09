@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 40% (background, shirt, text boxes)",
+      "Pink/Magenta": "Approximately 25% (test, text box, lips)",
+      "Yellow": "Approximately 10% (pills)",
+      "Skin tone/Beige": "Approximately 15% (face, hair)",
+      "Black": "Approximately 5% (text, background objects)",
+      "Blue": "Approximately 5% (test strip, shirt)",
+      "Other/accents": "Less than 1% (other small decor details)"
+    },
+    "Composition type": "Medium shot (single subject visible from chest up, positioned on right side of the frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Slight smile, alert and approachable, appears inviting or reassuring",
+      "demographics": "Adult female, light skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test illustration (overlaid, stylized, pink and blue)",
+      "Illustrated yellow capsules/pills (lower right)",
+      "Plain indoor environment (bedroom/office furniture in background)"
+    ],
+    "Background environment": "Typical home interior, bright and uncluttered, with neutral colors (grey, white, beige) and some visible furniture (bed, dresser, closet doors)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "how to get PREGNANT",
+      "what do you do?"
+    ],
+    "Font characteristics": {
+      "how to get PREGNANT": {
+        "style": "Bold, sans-serif, lowercase for 'how to get', uppercase for 'PREGNANT'",
+        "emphasis": "High (large white text on pink background, uppercase 'PREGNANT' for impact)",
+        "color": "White"
+      },
+      "what do you do?": {
+        "style": "Bold, sans-serif, all lowercase except for 'do'",
+        "emphasis": "High (large, black text on white background)",
+        "color": "Black"
+      }
+    },
+    "Text placement within frame": {
+      "how to get PREGNANT": "Top-left corner, occupying about one-third of the image",
+      "what do you do?": "Lower left, centered horizontally on a white bar across the bottom"
+    },
+    "Use of emotional/trigger words": [
+      "PREGNANT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, approachable. The use of bright colors and a friendly face creates a sense of accessibility and trust.",
+    "Visual metaphors or symbols": [
+      "Pregnancy test (universal symbol for discussions about conception and pregnancy)",
+      "Pills/capsules (implies advice or medical/health-related tips related to fertility)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question ('what do you do?') to provoke curiosity",
+      "Large, bold text summarizing the video's core promise ('how to get PREGNANT')",
+      "Bright, high-contrast color palette to attract attention",
+      "Relatable human face to foster connection"
+    ],
+    "Brand elements present": "No explicit branding (logos, channel names, or unique design trademarks) visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly mirrors the video's core topic, with very large text stating 'how to get PREGNANT' that matches the focus of the title. Visuals such as the pregnancy test and pills reinforce the medical/fertility context promised by 'Fertility Doctor Explains...'. The approachable image of a doctor-like figure matches the idea of professional, trustworthy advice.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches; the content is highly aligned. The thumbnail doesn't overtly mention 'naturally faster', but the visual implication of naturalness (smiling person, light environment) and the directness of the question partially cover this nuance."
+  }
+}

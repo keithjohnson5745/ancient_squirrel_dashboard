@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light green": "40%",
+      "white": "30%",
+      "light blue/turquoise": "25%",
+      "natural browns/greens (herbs/wood)": "5%"
+    },
+    "Composition type": "Medium/wide shot (flat composition)",
+    "Human presence": {
+      "number of people": 0,
+      "expressions": "N/A",
+      "demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Mortar and pestle with green herbs",
+      "Herbal ingredients (leaves, roots, seeds)",
+      "Two circular logos with a multicolored star and text"
+    ],
+    "Background environment": "Simple gradient background shifting from light turquoise/green to white, with a white rectangular area framing the herbs and logos."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "STAR TEAM FIGHTERS TRAINING"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "All caps, large font size",
+      "color": "White"
+    },
+    "Text placement within frame": "Centrally placed in the lower half of the thumbnail, aligned in two lines.",
+    "Use of emotional/trigger words": [
+      "TEAM",
+      "FIGHTERS",
+      "TRAINING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, instructional, professional",
+    "Visual metaphors or symbols": [
+      "Mortar and pestle symbolize traditional herbal/ayurvedic medicine",
+      "Team logos suggest a sense of organization/unity"
+    ],
+    "Clickbait techniques employed": [
+      "Use of all caps for urgency",
+      "Words like 'FIGHTERS' and 'TRAINING' add a sense of action/preparation"
+    ],
+    "Brand elements present": [
+      "Star logo on both sides",
+      "Consistent use of color scheme linked to team/brand identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The visuals support the Ayruvedic product and training theme (herbs, mortar, brand logos), echoing the 'PRODUCT KNOWLEDGE AND EXPERIENCE' part of the title.",
+    "Contrasts or mismatches": "The thumbnail text ('STAR TEAM FIGHTERS TRAINING') emphasizes a team and training angle more than 'product knowledge and experience.' The herbal image visually ties to Ayurveda but the term 'fighters' may introduce ambiguity, as it is not commonly associated with Ayurvedic knowledge alone."
+  }
+}

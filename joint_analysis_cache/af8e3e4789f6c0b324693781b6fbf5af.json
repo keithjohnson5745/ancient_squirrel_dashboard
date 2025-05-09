@@ -1,0 +1,14 @@
+{
+  "title": "Why Men Get an Enlarged Prostate and How to Treat BPH Symptoms",
+  "thumbnail_path": "thumbnails/DxaBOn8mY10_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

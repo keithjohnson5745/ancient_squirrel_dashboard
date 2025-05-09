@@ -1,0 +1,13 @@
+{
+  "title": "\u092a\u094d\u0930\u0947\u0917\u0928\u0947\u0902\u0938\u0940 \u0915\u0947 \u0932\u093f\u090f \u0938\u092e\u094d\u092c\u0928\u094d\u0927 \u092c\u0928\u093e\u0928\u0947 \u0915\u093e \u0938\u092c\u0938\u0947 \u0938\u0939\u0940 \u0926\u093f\u0928 | Ovulation Calculator in Hindi | Dr Supriya Puranik",
+  "thumbnail_path": "thumbnails/u1Bh3xkJ9oE_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

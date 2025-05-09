@@ -1,0 +1,13 @@
+{
+  "title": "Extracting the spicy chemical in black pepper",
+  "thumbnail_path": "thumbnails/YGZddY3R1pU_max.jpg",
+  "title_length": 45,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

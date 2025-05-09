@@ -1,0 +1,12 @@
+{
+  "title": "How childhood trauma affects health across a lifetime | Nadine Burke Harris | TED",
+  "thumbnail_path": "thumbnails/95ovIJ3dsNk_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

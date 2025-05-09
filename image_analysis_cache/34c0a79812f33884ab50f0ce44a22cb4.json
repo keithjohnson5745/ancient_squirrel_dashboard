@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant_colors": {
+      "Black": "60%",
+      "Orange": "15%",
+      "Gray/Silver": "15%",
+      "Beige/Skin tones": "10%"
+    },
+    "Composition_type": "Medium shot (subject shown from waist up, clear view of the safe mechanism and the person)",
+    "Human_presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, engaged, making eye contact with the camera",
+      "demographics": "Adult male, light skin, bald, short beard"
+    },
+    "Main_objects_props_featured": [
+      "Partially open safe (exposed interior mechanism)",
+      "Man interacting with the safe mechanism",
+      "Tools/components attached to the inside of the safe",
+      "Text and logo on the left"
+    ],
+    "Background_environment": "Indoor setting, likely in a workshop or retail environment, visible black display wall with mounted electronics and tools. Safe occupies central right part of frame."
+  },
+  "TEXT ELEMENTS": {
+    "Visible_text": [
+      "G",
+      "UARDIAN SAFE & LOCK",
+      "WHAT'S INSIDE A SAFE AND HOW DOES IT WORK"
+    ],
+    "Font_characteristics": {
+      "Main_text": {
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "High, due to boldness and capitalization",
+        "color": "Orange"
+      },
+      "Logo_text": {
+        "style": "Bold, metallic, serif and sans-serif mixture (for 'GUARDIAN')",
+        "emphasis": "Logo has heavy emphasis through color and key symbol",
+        "color": "Gray/silver with drop shadow"
+      }
+    },
+    "Text_placement_within_frame": {
+      "Logo": "Top left",
+      "Main_text": "Vertically stacked on left half, center-aligned",
+      "SAFE & LOCK": "Smaller, beneath 'GUARDIAN' in logo"
+    },
+    "Emotional/trigger_words": [
+      "WHAT'S INSIDE",
+      "HOW DOES IT WORK"
+    ],
+    "Notes": "Text is clear, legible, and separated from the visual action for maximum impact."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Curious, investigative, informative; slight seriousness conveyed by expression and technical subject",
+    "Visual_metaphors_or_symbols": [
+      "Safe's interior exposed as a literal reveal, embodying the idea of discovering secrets",
+      "Key shape in the logo reinforcing security/safe theme"
+    ],
+    "Clickbait_techniques_employed": [
+      "Direct questioning ('WHAT'S INSIDE...') taps into curiosity gap",
+      "Visual demonstration of a safe's insides, rarely seen by typical viewers"
+    ],
+    "Brand_elements_present": [
+      "Guardian Safe & Lock logo",
+      "Consistent use of corporate colors (orange/black/gray)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually_reinforces_title": "Yes\u2014the thumbnail shows a person physically opening and pointing to the internal mechanism of a safe, perfectly matching the title\u2019s promise to show 'What\u2019s Inside a Safe' and to explain 'How Does It Work'.",
+    "Contrasts_or_mismatches": "None\u2014the visual and textual elements align closely with the video's stated topic and intent."
+  }
+}

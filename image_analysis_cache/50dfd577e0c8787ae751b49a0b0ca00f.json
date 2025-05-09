@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light purple": "60%",
+      "White": "20%",
+      "Pink": "10%",
+      "Green (from broccoli)": "3%",
+      "Red/Orange (fire, no smoking sign)": "4%",
+      "Other (skin tone, stethoscope)": "3%"
+    },
+    "Composition type": "Close-up of a woman (left) with a midshot layout, facing forward, with graphic and text elements on the right and top.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, friendly and inviting.",
+      "Demographics": "Adult female (appears Caucasian), long blonde hair, wearing a white coat and stethoscope (suggesting medical professional)."
+    },
+    "Main objects/props featured": [
+      "Woman with stethoscope",
+      "Fire emoji",
+      "Broccoli emoji",
+      "No smoking emoji",
+      "Sperm cell graphics (swimming toward a pink ovum/egg)"
+    ],
+    "Background environment": "Solid gradient light purple background, soft and clean design, with a lighter purple overlay banner behind the main text."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "10 WAYS TO BOOST MALE FERTILITY",
+      "premom"
+    ],
+    "Font characteristics": {
+      "10 WAYS TO BOOST MALE FERTILITY": {
+        "Style": "Bold, sans-serif, all uppercase",
+        "Emphasis": "High, central and large",
+        "Color": "Medium purple"
+      },
+      "premom": {
+        "Style": "Brand logo, lowercase, simple sans-serif",
+        "Emphasis": "Low",
+        "Color": "Black"
+      }
+    },
+    "Text placement": {
+      "10 WAYS TO BOOST MALE FERTILITY": "Centered in the right half, across a horizontal banner",
+      "premom": "Bottom-left corner, small"
+    },
+    "Emotional/trigger words": [
+      "BOOST"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, hopeful, and professional. The smiling medical expert, bright colors, and supportive icons create a reassuring and approachable vibe.",
+    "Visual metaphors or symbols": [
+      "Fire emoji (energy, vitality, possibly libido)",
+      "Broccoli emoji (healthy food/nutrition)",
+      "No smoking emoji (healthy habits/avoidance)",
+      "Sperm and egg graphic (direct symbol of fertility and reproduction)"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('10 ways') promises actionable tips and completeness",
+      "Bold text and bright background increase visibility",
+      "Use of emojis and symbols draws attention and signals content is easy to understand",
+      "Medical professional appearance for credibility"
+    ],
+    "Brand elements present": [
+      "Premom logo (bottom left)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly supports the title: It promises '10 ways to boost male fertility' and visually represents this with sperm/egg graphics (linking to fertility), a medical expert (implying authoritative advice), and illustrative emojis for diet (broccoli), habits (no smoking), and vitality (fire). The summary text almost matches the video title, connecting the thumbnail and title closely.",
+    "Contrasts or mismatches": "There are no significant mismatches. The thumbnail is highly aligned with the title and topic."
+  }
+}

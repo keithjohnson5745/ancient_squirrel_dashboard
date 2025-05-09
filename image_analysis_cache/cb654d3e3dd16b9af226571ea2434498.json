@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue/grey": "70%",
+      "White": "15%",
+      "Black": "10%",
+      "Navy blue": "5%"
+    },
+    "Composition type": "Medium close-up shots (webinar grid format, head and shoulders of participants, with a digital background)",
+    "Human presence": {
+      "Number of people": 7,
+      "Expressions": "Neutral to slight interest/concentration, typical of professional/academic discussion",
+      "Demographics": "Mixed gender, adult professionals from varied ethnic backgrounds, generally formal attire (including western suits and a traditional Middle Eastern headdress)"
+    },
+    "Main objects/props featured": [
+      "Seven live video tiles of participants",
+      "Logos and digital background visuals (stylized bank/financial building, icons of shields, digital symbols)"
+    ],
+    "Background environment": "Uniform digital background featuring the CIBAFI logo, name in English and Arabic, white-and-blue motif, translucent icons related to finance (shields, buildings), professional/virtual event setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "General Council for Islamic Banks and Financial Institutions",
+      "CIBAFI Webinar on: The Digital Momentum: Impact on Islamic Banks and Guidelines for Adaptability",
+      "Andrew Cunningham",
+      "Rachid Ettaai",
+      "Hilal Houssain",
+      "Haroon Shahban",
+      "Okan Acar / Kuveyt T\u00fcrk - Dijital Bankacilik ve \u00d6deme Sistemleri",
+      "Azleena Binti Idris",
+      "Dr. Abdellah Belatik",
+      "General Council for Islamic Banks and Financial Institutions",
+      "CIBAFI"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, clean and professional",
+      "Emphasis": "Bold for names and organization title, regular for other text",
+      "Color": "Primarily navy blue and white, with some use of gold/orange for branding"
+    },
+    "Text placement within frame": {
+      "Organization titles/logos": "Upper part of each participant's background",
+      "Webinar title": "Centered near the top of backgrounds",
+      "Participant names": "Lower third within each individual tile"
+    },
+    "Use of emotional/trigger words": [
+      "Impact",
+      "Guidelines",
+      "Adaptability",
+      "Digital Momentum"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, serious, educational; suggesting expertise and information sharing",
+    "Visual metaphors or symbols": [
+      "Digital icons (shields, bank symbol/building) representing security, finance, digital transformation"
+    ],
+    "Clickbait techniques employed": "None; thumbnail is informational and straightforward, aimed at a professional/audience interested in webinars or Islamic finance",
+    "Brand elements present": [
+      "CIBAFI logo and name prominently displayed",
+      "Repeated mention of the organization for brand reinforcement",
+      "Color palette and background align with corporate branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Visuals of a digital panel with multiple speakers and digital financial imagery directly reflect the nature of an online webinar on digital transformation in Islamic banking. The repeated display of the event\u2019s full title, combined with professional appearances, aligns perfectly with a webinar about adaptability and impact.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches: the content, participants, and branding all sync with the described topic; however, the digital/technological aspect is only subtly suggested through background icons, not \u2018dynamic\u2019 digital effects."
+  }
+}

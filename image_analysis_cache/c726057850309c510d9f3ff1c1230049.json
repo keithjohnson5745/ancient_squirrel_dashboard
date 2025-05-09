@@ -1,0 +1,102 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Navy Blue",
+        "percentage": 35
+      },
+      {
+        "color": "Yellow",
+        "percentage": 25
+      },
+      {
+        "color": "Green",
+        "percentage": 15
+      },
+      {
+        "color": "Sky Blue",
+        "percentage": 15
+      },
+      {
+        "color": "Red",
+        "percentage": 5
+      },
+      {
+        "color": "Black",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Split composition (medium/close-up of a woman on right, wide shot of man and bicycle on left)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        {
+          "person": 1,
+          "expression": "Surprised/shocked (woman on right)"
+        },
+        {
+          "person": 2,
+          "expression": "Man turned away, urinating (implied)"
+        }
+      ],
+      "demographics": [
+        {
+          "person": 1,
+          "approximate": "Female adult, medium skin, brown hair"
+        },
+        {
+          "person": 2,
+          "approximate": "Male adult, light skin, athletic build (shown from back)"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Woman in navy medical scrubs",
+      "Man in yellow cycling outfit and helmet",
+      "Road bicycle",
+      "Red curved arrow"
+    ],
+    "Background environment": [
+      "Outdoor setting with grass, wooden fence, trees, and sky (left side)",
+      "Solid yellow color block (behind woman, right side)"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "CAN'T STOP PEEING?\nHERE'S WHY!",
+    "Font characteristics": {
+      "style": "Sans-serif, bold, all capitals",
+      "emphasis": "High contrast, very large font size for main phrase, medium for sub-phrase",
+      "color": "White text on navy blue background",
+      "effects": "Drop shadow for emphasis"
+    },
+    "Text placement within frame": {
+      "main_text": "Upper left quadrant (CAN'T STOP PEEING?) spanning across the upper middle",
+      "sub_text": "Below main text, upper middle left (HERE'S WHY!)"
+    },
+    "Use of emotional/trigger words": [
+      "CAN'T STOP",
+      "PEEING",
+      "WHY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, attention-grabbing, slightly humorous/shocking",
+    "Visual metaphors or symbols": [
+      "Man positioned as if urinating outdoors symbolizes uncontrolled urination",
+      "Red arrow directs attention to the man (emphasizes the urination issue)"
+    ],
+    "Clickbait techniques employed": [
+      "Large, provocative question in text",
+      "Surprised/exaggerated facial expression",
+      "Bright contrasting colors",
+      "Visual implication of an embarrassing/relatable issue"
+    ],
+    "Brand elements present": [
+      "Medical scrubs (suggests video is by a healthcare professional, but no clear logo/brand name visible)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually represents the primary symptom (urinary frequency/urgency) associated with BPH by showing a man about to urinate, paired with a surprised medical professional, directly linking to the video topic of 'Why Men Get an Enlarged Prostate and How to Treat BPH Symptoms.' The text reiterates the symptom in a way that is immediate and relatable.",
+    "Contrasts or mismatches": "The thumbnail is slightly more casual/humorous (with its outdoor urination and playful arrow) than the formal and medical video title, potentially making the video seem more accessible and less clinical than the title suggests."
+  }
+}

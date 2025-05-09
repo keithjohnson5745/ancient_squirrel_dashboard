@@ -1,0 +1,13 @@
+{
+  "title": "I Couldn\u2019t Believe What She Wanted Me to Do With That Jar\u2026  | A True Infidelity Story",
+  "thumbnail_path": "thumbnails/RmKRpavXqc0_max.jpg",
+  "title_length": 85,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

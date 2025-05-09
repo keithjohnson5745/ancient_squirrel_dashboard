@@ -1,0 +1,78 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Gray/Black": "60% (background and frame border)",
+      "Yellow": "15% (highlighted 'MEN CAN'T' text)",
+      "White": "20% (main text 'RESIST WOMEN WHO DISCONNECT')",
+      "Beige/Light Sepia": "5% (skin and background color of the person)"
+    },
+    "Composition type": "Medium close-up (portrait of one man on the right side, text on the left)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/serious, engaged, intellectual",
+      "Demographics": {
+        "Gender": "Male",
+        "Apparent age": "Older adult",
+        "Ethnicity": "Not explicitly clear, but a white/European appearance"
+      }
+    },
+    "Main objects/props featured": [
+      "Portrait of a distinguished older man with glasses, suit, and tie"
+    ],
+    "Background environment": "Grainy, gray, textured/aged effect suggesting an old document or blackboard, abstract and nondescript"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "MEN CAN'T",
+      "RESIST WOMEN WHO DISCONNECT",
+      "Carl.G Jung"
+    ],
+    "Font characteristics": {
+      "MEN CAN'T": {
+        "Style": "Bold, sans-serif, uppercase, shadowed",
+        "Emphasis": "High (large font, yellow color)",
+        "Color": "Yellow with black outline"
+      },
+      "RESIST WOMEN WHO DISCONNECT": {
+        "Style": "Bold, sans-serif, uppercase, shadowed",
+        "Emphasis": "High (large font, block letters, central placement)",
+        "Color": "White with black outline"
+      },
+      "Carl.G Jung": {
+        "Style": "Serif or semi-serif, mixed case, not bold",
+        "Emphasis": "Low (smaller font, placed in lower left)",
+        "Color": "White with black outline"
+      }
+    },
+    "Text placement within frame": {
+      "MEN CAN'T": "Top left, above other main text",
+      "RESIST WOMEN WHO DISCONNECT": "Central left (left-center), largest section of text",
+      "Carl.G Jung": "Bottom left corner, smallest text"
+    },
+    "Use of emotional/trigger words": [
+      "CAN'T",
+      "RESIST",
+      "DISCONNECT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, authoritative, intriguing; evokes a sense of psychological insight or advice",
+    "Visual metaphors or symbols": [
+      "Portrait of an intellectual figure (implying authority, wisdom)",
+      "Grainy background (vintage or 'profound' feel, association with history/psychology)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, dramatic, emotionally charged language ('CAN'T RESIST')",
+      "Promise of forbidden or counter-intuitive knowledge ('WOMEN WHO DISCONNECT')",
+      "Implied expert source (image and mention of Carl Jung)"
+    ],
+    "Brand elements present": [
+      "Use of a historical/psychological authority figure (associating wisdom/trust)",
+      "Consistent vintage/serious aesthetic"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail features bold text emphasizing the irresistible nature of certain women and the act of 'disconnecting,' which echoes the video's theme. The inclusion of an image resembling Carl Jung aligns with the mention in the title, lending psychological credibility and intrigue.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail text uses 'DISCONNECT' while the title uses 'Break Away,' which are similar in meaning but not identical; otherwise, the elements are highly consistent. The image of an older male intellectual may not visually suggest women or relationships directly, but it reinforces the idea of analysis or authority."
+  }
+}

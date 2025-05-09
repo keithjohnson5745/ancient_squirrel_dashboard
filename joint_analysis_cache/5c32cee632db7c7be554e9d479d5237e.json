@@ -1,0 +1,14 @@
+{
+  "title": "4 Secrets of female satisfaction by Dr. Neha Mehta",
+  "thumbnail_path": "thumbnails/6yh6NkUCsc8_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.8
+}

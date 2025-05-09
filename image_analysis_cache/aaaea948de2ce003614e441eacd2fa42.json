@@ -1,0 +1,98 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "White",
+        "percentage": 35
+      },
+      {
+        "color": "Black",
+        "percentage": 25
+      },
+      {
+        "color": "Tan/Beige",
+        "percentage": 15
+      },
+      {
+        "color": "Green (plants/outdoors)",
+        "percentage": 10
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      },
+      {
+        "color": "Yellow (border in inset)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (main figures), with a close-up inset",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Main male (center): Smiling, relaxed, friendly demeanor",
+        "Main female (left): Smiling, pleasant demeanor",
+        "Inset image (top right): 1 adult male, surprised or expressive look"
+      ],
+      "demographics": [
+        "Adult male (bald, muscular build, tattooed)",
+        "Adult female (long hair, tan/olive skin, fashionable dress)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Large ornate double door entrance",
+      "Porch with rocking chairs",
+      "Canned drink in male's hand",
+      "Patterned doormat"
+    ],
+    "Background environment": "Upscale house exterior with symmetrical architecture, manicured lawn, large windows, and decorative elements. Sunny, well-maintained suburb/rural residential setting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\"BLACK RIFLE COFFEE CO.\" (on man's shirt)"
+    ],
+    "Font characteristics": [
+      {
+        "context": "T-shirt print",
+        "style": "Block sans serif",
+        "emphasis": "Bold, uppercase",
+        "color": "Black (on olive/tan fabric)"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "context": "T-shirt",
+        "placement": "Center torso of male figure"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "None in the thumbnail image text"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Aspiration, success, comfort, luxury, casual happiness. The tone projects wealth and an inviting, fulfilled personal life.",
+    "Visual metaphors or symbols": [
+      "Large ornamental front door and spacious porch: wealth/prosperity",
+      "Inset expressive face: notoriety/fame or attention-drawing personality"
+    ],
+    "Clickbait techniques employed": [
+      "Bright inset with surprised expression as attention magnet",
+      "Prominent display of happy couple in luxurious setting",
+      "Implied promise of behind-the-scenes look at lifestyle and wealth"
+    ],
+    "Brand elements present": [
+      "\"Black Rifle Coffee Co.\" on man's shirt (brand placement)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Depicts a man and woman outside an impressive house, referencing 'wife', 'houses', 'lifestyle', and 'net worth' from the title.",
+      "The prominent, smiling couple visually supports the title's claim of family and affluence.",
+      "Inset of the man's expressive face helps establish the video is about his personal/famous life."
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "Title mentions '3 children', but no children are visible in the thumbnail.",
+      "References to 'cars' and other aspects of luxury are not visually depicted."
+    ]
+  }
+}

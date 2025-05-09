@@ -1,0 +1,12 @@
+{
+  "title": "You Can\u2019t Fix Your Posture (Here\u2019s Why)",
+  "thumbnail_path": "thumbnails/yUSyMqDUkv8_max.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Stop Wasting Time! Smart & Easy Way to Plan Your Travel Itinerary - E1",
+  "thumbnail_path": "thumbnails/T05dMhczGiA_max.jpg",
+  "title_length": 70,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

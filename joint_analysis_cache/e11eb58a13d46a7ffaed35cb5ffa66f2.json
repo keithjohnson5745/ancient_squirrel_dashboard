@@ -1,0 +1,14 @@
+{
+  "title": "7 Hygiene Mistakes To Avoid | Dermatologist Tips",
+  "thumbnail_path": "thumbnails/1YUP7eX6EIk_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

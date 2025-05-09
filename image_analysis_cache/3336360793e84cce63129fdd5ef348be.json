@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 55% - background and text areas",
+      "Black": "Approximately 30% - text, doctor\u2019s clothing, border, hat",
+      "Red": "Approximately 7% - word 'RISK'",
+      "Skin tones": "Approximately 8% - doctor's visible face and arm",
+      "Blue/Navy": "Approximately 5% - doctor's scrubs"
+    },
+    "Composition type": "Medium close-up (features person from chest upwards, occupying left side of frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/confident, slight smile",
+      "Demographics if apparent": "Adult male, appears to be a medical professional (scrubs and surgical cap visible)"
+    },
+    "Main objects/props featured": [
+      "Doctor in scrubs and surgical cap"
+    ],
+    "Background environment": "Plain white background with thick black border, emphasizing text and subject"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "5 PROCEDURES NOT WORTH THE RISK",
+      "FROM A FACIAL PLASTIC SURGEON",
+      "KaramMD"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "Strong emphasis on the word 'RISK' (large, red block background, uppercase letters); the number '5' and keywords are bolded for impact; main body text is all uppercase for urgency and authority",
+      "Color": "Mostly black, with 'RISK' in white text on a red block"
+    },
+    "Text placement within frame": {
+      "'5'": "Upper center",
+      "'PROCEDURES NOT WORTH THE RISK'": "Centered in the right half, stacked",
+      "'FROM A FACIAL PLASTIC SURGEON'": "Small, under main text",
+      "'KaramMD'": "Upper right corner"
+    },
+    "Use of emotional/trigger words": [
+      "NOT WORTH THE RISK",
+      "RISK"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, authoritative, cautionary",
+    "Visual metaphors or symbols": [
+      "'RISK' in a red box suggests danger or warning, attracting caution"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claim ('NOT WORTH THE RISK')",
+      "Direct numerical framing ('5 PROCEDURES')",
+      "Authority visual (doctor in scrubs)",
+      "Highlighting risk/danger (red, uppercase word 'RISK')"
+    ],
+    "Brand elements present": [
+      "KaramMD (channel/brand name, likely personal branding of the doctor)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly echoes the video's title by listing '5 procedures' and using the phrase 'NOT WORTH THE RISK,' amplifying the idea of danger or caution suggested in the title. The doctor's presence underscores medical authority and expertise, visually cementing that the source is legitimate and professional.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment\u2014no notable mismatch. However, the thumbnail text is a bit stronger by saying 'NOT WORTH THE RISK' (an absolute), whereas the title poses it as a question ('Are They Worth The Risk?'), which is softer and more open-ended."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "EXCESSIVE Handcare Routine. #dermreacts #skincare #asmr",
+  "thumbnail_path": "thumbnails/N-us3nIYzF4_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

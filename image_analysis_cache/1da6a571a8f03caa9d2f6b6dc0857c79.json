@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light mint green background": "60%",
+      "White (text, lab coat, sperm illustrations)": "20%",
+      "Teal/green (text boxes)": "12%",
+      "Yellow (specimen cup lid, emoji face)": "6%",
+      "Skin tones (human face/hands)": "2%"
+    },
+    "Composition type": "Medium shot (shows upper torso and face of a person holding an object, with clear emphasis on the face and hand-held object).",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slight smile, friendly and inviting demeanor.",
+      "Demographics": "Presumed adult woman, fair skin, long brown hair, likely professional (doctor/lab coat visible)."
+    },
+    "Main objects/props featured": [
+      "Specimen/sample cup with yellow lid (held up, center focus). Illustrated sperm symbols on the cup for emphasis.",
+      "Thinking face emoji (upper left corner)."
+    ],
+    "Background environment": "Solid/light mint green color, minimalistic and distraction-free."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (exact transcription)": "HOW TO UNDERSTAND YOUR SEMEN ANALYSIS",
+    "Font characteristics": {
+      "Style": "Sans-serif, bold, all uppercase.",
+      "Emphasis": "Strong emphasis through size, capitalization, and color contrast.",
+      "Color": "White font on teal/green rectangular backgrounds."
+    },
+    "Text placement within frame": "Left half of the thumbnail, centrally stacked in three large blocks.",
+    "Use of emotional/trigger words": [
+      "HOW TO",
+      "UNDERSTAND",
+      "YOUR SEMEN ANALYSIS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, educational, slightly playful and approachable due to the emoji and color choice.",
+    "Visual metaphors or symbols": [
+      "Thinking face emoji \u2013 symbolizes curiosity or confusion, suggesting the video addresses questions.",
+      "Sperm illustrations \u2013 visually anchor the context of 'semen analysis.'"
+    ],
+    "Clickbait techniques employed": [
+      "Direct educational promise ('HOW TO UNDERSTAND...'),",
+      "Large, bold text for readability and instant subject identification.",
+      "Emoji for emotional relatability/curiosity inducement.",
+      "Clear imagery of the relevant medical container."
+    ],
+    "Brand elements present": [
+      "The presence of the host in professional attire (may suggest channel consistency/authority but no overt logo or brand name visible)."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail highlights the medical context (semen analysis) with an actual specimen cup, sperm icons, and instructional text, all closely matching the educational promise of the title. The doctor's presence suggests authority, and the emoji signals common confusion, aligning with viewers' likely mindset.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches. The thumbnail is highly literal, visually supporting the title\u2019s promise of explanation and expertise. Possible minor contrast: The playful emoji slightly lightens an otherwise clinical topic."
+  }
+}

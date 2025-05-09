@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40% (background, suit)",
+      "Olive green": "30% (background gradient, center right)",
+      "White": "15% (text, shirt, sweater)",
+      "Bright green": "10% (text highlight)",
+      "Red": "3% (tie, poppy pin)",
+      "Beige": "2% (skin tone)"
+    },
+    "Composition type": "Medium close-up (shows the head and shoulders of a single person)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, composed, thoughtful",
+      "Demographics": "Adult male, light-skinned, middle-aged, short hair and beard"
+    },
+    "Main objects/props featured": [
+      "Person in suit and tie with a visible poppy pin on the lapel"
+    ],
+    "Background environment": "Abstract, blended gradient from dark (left) to olive green/yellow (right), neutral/non-distracting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "A PERSON HOW",
+      "TRULY LOVES YOU",
+      "WILL ASK YOU",
+      "4 QUESTION...",
+      "~JORDAN PETERSON"
+    ],
+    "Font characteristics": {
+      "Main text": {
+        "Style": "Bold, uppercase, distressed/rough",
+        "Emphasis": "High, with 'TRULY LOVES YOU' and '4 QUESTION' in bright green, rest in white",
+        "Color": "White and bright green",
+        "Font type": "Sans-serif, heavy weight"
+      },
+      "Attribution": {
+        "Style": "Serif, italic",
+        "Color": "White",
+        "Font type": "Classic serif",
+        "Emphasis": "Low"
+      }
+    },
+    "Text placement within frame": "Main text takes up the entire left two-thirds of the image, aligned left and roughly center vertically. Attribution (~JORDAN PETERSON) is in the lower left corner.",
+    "Use of emotional/trigger words": [
+      "TRULY LOVES YOU",
+      "ASK YOU",
+      "4 QUESTION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, motivational, contemplative",
+    "Visual metaphors or symbols": [
+      "Poppy pin (often symbolizes remembrance, possibly respect and seriousness)"
+    ],
+    "Clickbait techniques employed": [
+      "'A PERSON WHO TRULY LOVES YOU...' - direct address to viewer's emotions and relationships",
+      "Numbered curiosity ('4 QUESTION...') - implies specific, actionable insights",
+      "Ellipsis ('...') - cliffhanger/uncertainty prompts the viewer to click to learn more"
+    ],
+    "Brand elements present": [
+      "Photo of Jordan Peterson (public persona)",
+      "His name is attached to the quote"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly displays a condensed version of the title using emphatic, readable text, and includes a serious portrait of Jordan Peterson, reinforcing credibility and a motivational tone.",
+    "Any contrasts or mismatches between thumbnail and title": [
+      "The thumbnail text reads 'A PERSON HOW TRULY LOVES YOU WILL ASK YOU 4 QUESTION...' which contains a grammatical error ('how' should likely be omitted, and 'QUESTION' should be plural). The title is grammatically correct.",
+      "Thumbnails omits 'Motivation' which appears in the video title."
+    ]
+  }
+}

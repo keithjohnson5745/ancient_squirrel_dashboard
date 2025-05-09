@@ -1,0 +1,14 @@
+{
+  "title": "9 Years of Camera Setting Knowledge in 29 Minutes",
+  "thumbnail_path": "thumbnails/vu5ohljtB-A_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "40%",
+      "Purple": "30%",
+      "White": "15%",
+      "Blue": "10%",
+      "Red/Green Accents": "5%"
+    },
+    "Composition type": "Split-screen, close-up on the right (female presenter), illustrated medium shot on the left (pregnant figure with icons)",
+    "Human presence": {
+      "number_of_people": 1,
+      "gender": "female (adult)",
+      "expressions": "neutral/friendly smile",
+      "demographics": "adult, light skin, brunette, possibly medical professional"
+    },
+    "Main objects/props featured": [
+      "Female presenter (real photo)",
+      "Illustration of pregnant figure with hands on belly",
+      "Heart icon on belly",
+      "Four circular icons: steak (red X), barbell (green check), water bottle (green check), cigarette/alcohol (red X)"
+    ],
+    "Background environment": "Gradient pink-purple with blue on far left, clean and digital style"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "TIPS FOR FIRST TRIMESTER",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Highly emphasized via capitalization, color blocks, and bold weights",
+      "color": {
+        "TIPS FOR FIRST": "White on dark blue/navy background",
+        "TRIMESTER": "White on bright pink/magenta background"
+      }
+    },
+    "Text placement": "Lower third of the thumbnail, split into two blocks",
+    "Emotional/trigger words": [
+      "TIPS",
+      "FIRST",
+      "TRIMESTER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, informative, positive, and encouraging",
+    "Visual metaphors/symbols": [
+      "Heart shape on belly: love/care for pregnancy",
+      "Check marks and Xs: dos and don\u2019ts",
+      "Illustrated icons: actionable tips"
+    ],
+    "Clickbait techniques employed": [
+      "Bold text for immediate clarity",
+      "Check marks/X symbols for instant advice cues",
+      "Female presenter for trust and personal connection"
+    ],
+    "Brand elements present": "No explicit branding; presenter could be a recognizable host/doctor for regular viewers"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly visualizes 'first trimester' through the pregnant figure, while the icons quickly communicate 'tips' and 'do\u2019s/don\u2019ts' matching the promise of 'everything you need to know.' The presence of a doctor-like figure connects with 'from a fertility doctor' in the title.",
+    "Contrasts/mismatches": "The thumbnail does not visually specify 'doctor' credentials (no lab coat, stethoscope, or name badge), but the professional appearance and tone are consistent with medical expertise. The word 'everything' from the title is broader than what the thumbnail alone suggests (which implies select actionable tips)."
+  }
+}

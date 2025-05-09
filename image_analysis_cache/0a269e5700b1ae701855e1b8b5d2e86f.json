@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light pink (background)",
+        "percentage": 50
+      },
+      {
+        "color": "Bright magenta/pink (text, illustrations)",
+        "percentage": 20
+      },
+      {
+        "color": "Skin tones (person, illustration)",
+        "percentage": 10
+      },
+      {
+        "color": "Black (microphone, illustration outlines, headset)",
+        "percentage": 10
+      },
+      {
+        "color": "Aqua blue (shirt)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot (right side: woman from chest up, microphone and headset, facing to left) combined with illustrated elements (left side and bottom third), split illustrative and photographic composition.",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Slight smile, attentive or conversational, neutral to positive demeanor",
+      "demographics": "Adult female, light skin, straight brown hair, blue eyes"
+    },
+    "Main objects/props featured": [
+      "Large podcast-style microphone",
+      "Headset worn by the woman",
+      "Illustration of a woman lying in bed (top left)",
+      "Cartoon images representing eggs, petri dish, test tube, speculum, and uterus"
+    ],
+    "Background environment": "Solid light pink color, no detailed environmental background."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "EGG RETRIEVAL RECOVERY",
+    "Font characteristics": {
+      "style": "All uppercase, bold, sans-serif",
+      "emphasis": "Very heavy boldness, strong drop shadow/outline for contrast, highly legible",
+      "color": "Bright pink/magenta with white background boxes"
+    },
+    "Text placement within frame": "Top left to middle, occupying about 40% of the image width and arranged in three stacked lines",
+    "Use of emotional/trigger words": [
+      "RECOVERY"
+    ],
+    "Analysis": "The word 'RECOVERY' evokes reassurance and hope, relevant to viewers seeking help post-procedure; 'EGG RETRIEVAL' are niche-specific and factual, not highly emotional."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, professional, supportive, and hopeful",
+    "Visual metaphors or symbols": [
+      "Resting woman represents post-procedure recovery",
+      "Icons of ovary, egg, and test tube symbolize fertility, IVF, and medical process"
+    ],
+    "Clickbait techniques employed": [
+      "Large, attention-grabbing text",
+      "Bright colors and clear visual contrast",
+      "Direct illustration of the topic",
+      "Positioning a human face with an expressive look to create connection"
+    ],
+    "Brand elements present": "No direct logos or branding aside from consistent color/style typical of health or fertility content; inclusion of professional recording setup hints at an established show or podcast."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail text matches the video topic with the phrase 'EGG RETRIEVAL RECOVERY.' The illustration of a person in bed and medical icons directly relate to the 'recover fast' and 'egg retrieval' aspects in the title. The presence of a knowledgeable interviewer/presenter hints at expert tips, aligning with 'Top Tips' in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail emphasizes the recovery process but does not explicitly mention the 'Top Tips' or episode number from the title. While recovery is the visual focus, the idea of 'fast' recovery and actionable tips is not directly depicted; there's more focus on the supportive aspect than the urgency implied in 'recover fast.'"
+  }
+}

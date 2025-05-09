@@ -1,0 +1,13 @@
+{
+  "title": "The Mind Of A Covert Narcissist | What To Look For",
+  "thumbnail_path": "thumbnails/oSreHEd64-E_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "\u0916\u0921\u093c\u093e \u0924\u094b \u0939\u094b\u0924\u093e \u0939\u0948 \u092a\u0930 \u091c\u0932\u094d\u0926\u0940 \u0939\u0940 \u0922\u0940\u0932\u093e \u092a\u0921\u093c \u091c\u093e\u0924\u093e \u0939\u0948? \u0915\u094d\u092f\u093e \u0915\u0930\u0942\u0902?",
+  "thumbnail_path": "thumbnails/DmT1kHvmUME_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

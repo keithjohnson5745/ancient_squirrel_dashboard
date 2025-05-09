@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Light Pink": "60%",
+      "White": "15%",
+      "Beige/Yellow (bottle liquid)": "10%",
+      "Red/Pink (bottle cap)": "5%",
+      "Blue (bottle cap)": "5%",
+      "Black (text and logo)": "5%"
+    },
+    "Composition Type": "Medium shot (focus on two bottles in the center of the frame)",
+    "Human Presence": {
+      "Number of People": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main Objects/Props Featured": [
+      "Two clear bottles containing a pale yellow liquid labeled 'FLAXSEED PERSONAL LUBE', one with a red/pink cap, one with a blue cap"
+    ],
+    "Background Environment": "A digitally rendered soft pink background with white sparkling and swirling heart motifs, giving a whimsical, gentle tone"
+  },
+  "TEXT ELEMENTS": {
+    "All Text Visible": [
+      "Flaxseed Personal Lube",
+      "FLAXSEED PERSONAL LUBE",
+      "(indistinct logo text on bottle labels)"
+    ],
+    "Font Characteristics": {
+      "Main Title": {
+        "Style": "Decorative serif (with curls)",
+        "Emphasis": "Very bold, all uppercase or title case",
+        "Color": "Black"
+      },
+      "Bottle Label": {
+        "Style": "Simple sans serif",
+        "Emphasis": "All uppercase",
+        "Color": "Black on white label"
+      }
+    },
+    "Text Placement": {
+      "\u2018Flaxseed\u2019": "Top center, above the bottles",
+      "\u2018Personal Lube\u2019": "Bottom center, below the bottles",
+      "'FLAXSEED PERSONAL LUBE'": "On each bottle\u2019s label"
+    },
+    "Use of Emotional/Trigger Words": [
+      "Personal (suggests intimacy/individual use)",
+      "Lube (clear and direct, potentially provocative for curiosity/clickbait)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Inviting, light, slightly whimsical (pink, hearts), direct yet gentle approach to a sensitive topic",
+    "Visual Metaphors or Symbols": [
+      "Hearts and sparkles in background symbolize affection or intimacy",
+      "Bottles clearly showing homemade/natural product aligns with DIY/health-conscious themes"
+    ],
+    "Clickbait Techniques Employed": [
+      "Direct naming of unconventional homemade product sparks curiosity",
+      "Bold and clear labeling eliminates ambiguity",
+      "Bright, inviting background draws attention"
+    ],
+    "Brand Elements Present": [
+      "Consistent use of font for recognizability",
+      "Product labels (includes a logo/emblem, though details are not readable)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement": "The thumbnail visually reinforces the title by showing exactly what the video describes: homemade personal lubricant labeled \u2018FLAXSEED PERSONAL LUBE\u2019, making the topic clear and unmistakable; background hearts support the personal/intimate theme.",
+    "Contrasts or Mismatches": "There are no obvious mismatches; the imagery and text are highly consistent with the video title. The design is direct, leaving little room for confusion or ambiguity."
+  }
+}

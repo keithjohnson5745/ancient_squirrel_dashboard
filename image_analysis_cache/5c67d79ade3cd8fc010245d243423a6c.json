@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "70% (background, safe surface)",
+      "Gray": "15% (safe dial, handle)",
+      "White": "8% (text and safe details)",
+      "Yellow": "5% (text)",
+      "Red": "2% (text highlight)"
+    },
+    "Composition type": "Close-up shot",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": "Electronic Sentry safe keypad and handle",
+    "Background environment": "All-black matte/metallic safe door, no visible environment beyond the safe"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Mr. Locksmith",
+      "7 MILLION VIEWS!",
+      "OPEN SENTRY SAFES IN 5 SECONDS!"
+    ],
+    "Font characteristics": {
+      "Mr. Locksmith": "Rounded, blue and white logo-style, includes a lock icon in the word \u201cLock\u201d",
+      "7 MILLION VIEWS!": "Very bold, all caps, italicized, red text with black outline for emphasis",
+      "OPEN SENTRY SAFES IN 5 SECONDS!": "Very bold, all caps, sans-serif; 'OPEN SENTRY SAFES' in white, 'IN 5 SECONDS!' in bright yellow; block shadowed for emphasis"
+    },
+    "Text placement within frame": {
+      "Mr. Locksmith": "Top left corner, small",
+      "7 MILLION VIEWS!": "Top right, diagonal banner, large and overlaid",
+      "OPEN SENTRY SAFES IN 5 SECONDS!": "Bottom half, large, spanning most of the lower third"
+    },
+    "Emotional/trigger words": [
+      "OPEN",
+      "5 SECONDS",
+      "7 MILLION VIEWS!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sensational, urgent, and authoritative; conveys expertise and a sense of breakthrough or secret",
+    "Visual metaphors or symbols": "Safe keypad as a symbol of security; the bold, urgent text suggests easy and fast bypassing of security",
+    "Clickbait techniques employed": [
+      "Time-based challenge ('IN 5 SECONDS!') implies ease and immediacy",
+      "Large view count ('7 MILLION VIEWS!') as social proof",
+      "Superlative/emphatic language ('OPEN', 'IN 5 SECONDS!')"
+    ],
+    "Brand elements present": "'Mr. Locksmith' logo in top left with lock icon"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The safe and close-up of its keypad directly reference the title\u2019s subject ('Open Sentry Safe'). The bold claim in both the thumbnail text ('IN 5 SECONDS!') and the video title emphasize speed and technique.",
+    "Contrasts or mismatches": "No apparent mismatches; the thumbnail and title are highly aligned, both visually and textually reinforcing the claim of quickly opening a Sentry safe."
+  }
+}

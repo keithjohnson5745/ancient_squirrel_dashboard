@@ -1,0 +1,13 @@
+{
+  "title": "How Soon After An Abortion Can You Get Pregnant?",
+  "thumbnail_path": "thumbnails/ZJJFSCG4rDs_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

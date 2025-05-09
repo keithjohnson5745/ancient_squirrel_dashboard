@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approximately 60% (background and scrubs)",
+      "Yellow": "About 10% (text)",
+      "Green": "Around 8% (cucumber)",
+      "White": "Around 8% (text, bottle, jacuzzi foam)",
+      "Red/Orange": "Around 8% (fire effect, prohibition sign)",
+      "Brown/Wood tones": "Around 6% (hot tub siding, hair highlights)"
+    },
+    "Composition type": "Medium shot (person visible from upper torso), composite layout with multiple floating props.",
+    "Human presence": {
+      "Number": 1,
+      "Expression": "Thinking or skeptical with a raised eyebrow and finger to chin, slightly pursed lips",
+      "Demographics": "Adult woman, medium skin tone, blonde/light brown wavy hair, medical scrubs"
+    },
+    "Main objects/props": [
+      "Woman in scrubs (possibly a doctor)",
+      "Large cucumber with fire effect",
+      "Hot tub or jacuzzi",
+      "White pump bottle with a red prohibition sign (circle/slash)"
+    ],
+    "Background environment": "Solid light-to-medium blue gradient, suggesting a clinical or clean context with a cut-out jacuzzi and objects overlaid."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "NEVER DO THIS",
+    "Font characteristics": {
+      "Style": "Bold, all-caps sans-serif",
+      "Emphasis": "Thick black outline with yellow (NEVER) and white (DO THIS) fill, highly contrasted for visibility",
+      "Color": "Yellow for 'NEVER', white for 'DO THIS'"
+    },
+    "Text placement": "Top central portion of the frame, stretching from left to right third.",
+    "Emotional/trigger words": [
+      "NEVER",
+      "DO THIS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Warning/urgent, slightly humorous or provocative, educational",
+    "Visual metaphors or symbols": [
+      "Cucumber (commonly a visual euphemism for a penis)",
+      "Burning/fire effect (danger, harm)",
+      "Prohibition sign (do not, forbidden)",
+      "Hot tub and lotion bottle (hints at behaviors to avoid)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold warning words ('NEVER DO THIS')",
+      "Curiosity gap with mysterious props (cucumber, burning, hot tub, lotion)",
+      "Use of visual metaphors",
+      "Exaggeration and dramatic effects (fire, prohibitive symbols)"
+    ],
+    "Brand elements present": [
+      "Person in medical scrubs (projecting authority, possibly a recurring persona or doctor/expert on the channel)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforcement": "The visuals use euphemisms (cucumber for penis), danger/fire effects, and common objects (lotion, hot tub) to illustrate actions/things related to the video topic and align with the title's warning about what NOT to do with one's penis.",
+    "Contrasts/mismatches": "The thumbnail is playful and uses visual innuendo, while the title is direct and explicit. The thumbnail avoids showing anything graphic, instead employing humor and metaphor (burning cucumber, prohibition symbols). Both elements combine to create intrigue and clarity without being inappropriate for YouTube guidelines."
+  }
+}

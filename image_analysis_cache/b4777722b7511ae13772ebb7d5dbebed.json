@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "30%",
+      "Pink": "25%",
+      "Peach/tan (skin tones and suit)": "20%",
+      "White (shirt, text)": "15%",
+      "Black/dark (jacket, hair, eyeglasses)": "10%"
+    },
+    "Composition type": "Medium shot (shows upper body of both individuals, straight-on)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: serious, thoughtful (glasses, suit, looking off-frame)",
+        "Right: serious, slightly tense or contemplative (formal attire, looking at camera)"
+      ],
+      "demographics_if_apparent": [
+        "Left: Adult male, medium-dark skin, black hair",
+        "Right: Adult male, light skin, reddish-blond hair, beard"
+      ]
+    },
+    "Main_objects/props_featured": [
+      "Eyeglasses (on left person)",
+      "Formal jacket/suits",
+      "Text covering central background"
+    ],
+    "Background environment": "Softly blurred pastel clouds, abstract and non-specific (conveys a sense of thought and introspection rather than an actual location)"
+  },
+  "TEXT ELEMENTS": {
+    "All_text_visible_in_thumbnail": "\"THAT MAY EXPLAIN WHY THE ROYAL FAMILY GOT FED UP WITH HIM\"",
+    "Font_characteristics": {
+      "style": "Bold, all-caps sans-serif",
+      "emphasis": "Very bold, white color with dark shadowing for contrast",
+      "color": "White, with a subtle dark outline/shadow"
+    },
+    "Text_placement_within_frame": "Center, occupying most of the upper and mid portion between the two figures",
+    "Use_of_emotional/trigger_words": [
+      "\"FED UP\" (strongly emotive, implies frustration/conflict)",
+      "\"THE ROYAL FAMILY\" (high-profile, evokes curiosity and controversy)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Serious, dramatic, analytical, with undertones of conflict and intrigue.",
+    "Visual_metaphors_or_symbols": [
+      "Clouds in the background: Suggest introspection, psychological analysis, or emotional burden"
+    ],
+    "Clickbait_techniques_employed": [
+      "Bold direct quote implies insider knowledge or controversy",
+      "Dramatic choice of wording (\"fed up\") to trigger curiosity",
+      "High-profile figure (implied prince/royalty) attracts attention",
+      "Facial expressions\u2014seriousness to imply depth/importance"
+    ],
+    "Brand_elements_present": "No clear brand logos, but visual style (formal, expert + celebrity focus) hints at psychiatry/interview/analysis channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How_the_thumbnail_visually_reinforces_the_title": "The inclusion of two serious-looking men, one who appears to be a psychiatrist or analyst and one who is recognizable as a public figure (presumably Prince Harry), directly visualizes the 'psychiatrist breaks it down' concept. The quote relating to the royal family directly supports the theme of 'The Real Reason Harry Can\u2019t Move On,' suggesting analysis and internal/external conflict.",
+    "Any_contrasts_or_mismatches_between_thumbnail_and_title": "The only slight contrast is that the thumbnail heavily emphasizes family conflict and dissatisfaction ('fed up with him'), whereas the title promises an explanation about Harry's inability to move on\u2014suggesting personal struggle\u2014so the focus could seem more on external blame in the thumbnail than internal psychological reasons."
+  }
+}

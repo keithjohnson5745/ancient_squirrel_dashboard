@@ -1,0 +1,13 @@
+{
+  "title": "What's the REAL Calorie Burn of Sex?|Dr.Sunil Jindal",
+  "thumbnail_path": "thumbnails/1dZt3qLkguI_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

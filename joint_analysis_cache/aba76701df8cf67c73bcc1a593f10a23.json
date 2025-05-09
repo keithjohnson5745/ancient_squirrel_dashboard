@@ -1,0 +1,13 @@
+{
+  "title": "Husband Announced He Was Leaving Me At Our Daughter's Graduation, But Started Screaming When I...",
+  "thumbnail_path": "thumbnails/N-BWOKvjlwI_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

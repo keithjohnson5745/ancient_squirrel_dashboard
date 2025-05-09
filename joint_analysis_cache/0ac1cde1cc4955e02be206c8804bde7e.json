@@ -1,0 +1,12 @@
+{
+  "title": "Massive 'No Kings' protest expected to rain on Donald Trump's (military) parade",
+  "thumbnail_path": "thumbnails/_vwhKYDuOsw_max.jpg",
+  "title_length": 79,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

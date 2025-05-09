@@ -1,0 +1,14 @@
+{
+  "title": "When do I need to stop running during pregnancy?",
+  "thumbnail_path": "thumbnails/jITTY0vL-Tw_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "question",
+    "superlative",
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.55
+}

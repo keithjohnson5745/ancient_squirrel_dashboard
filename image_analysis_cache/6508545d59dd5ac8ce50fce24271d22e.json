@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "40%",
+      "Purple": "30%",
+      "Green/Teal": "15%",
+      "Skin tones (cartoon, brown and beige)": "8%",
+      "Pink (clothes and condom illustration)": "5%",
+      "Yellow/orange (condom illustration)": "2%"
+    },
+    "Composition type": "Medium shot (cartoon person from waist up with classroom background, focus is evenly split between character and visual props)",
+    "Human presence": {
+      "Number of people": 1.5,
+      "// (one full character, one partial person in frame - only their hand and part of arm shown on right edge)) //": "Cartoon style, gender is ambiguous but likely female-presenting based on clothing and hair, with friendly, expressive facial expression (smiling, open eyes); ethnicity is not specifically rendered, stylized and inclusive design"
+    },
+    "Main objects/props featured": [
+      "Cartoon person presenting",
+      "Classroom chalkboard/screen",
+      "Diagrams/pictures of external condom, internal condom, dental dam",
+      "Text blocks"
+    ],
+    "Background environment": "Classroom (green chalkboard or display, presentation screen, classroom floor visible at bottom), simple/clean design"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "STI PREVENTION BEYOND CONDOMS",
+      "HEALTH CLASS PRESENTATION DAY",
+      "SAFER SEX LATEX BARRIERS",
+      "EXTERNAL CONDOM",
+      "INTERNAL CONDOM",
+      "DENTAL DAM",
+      "amaze"
+    ],
+    "Font characteristics": {
+      "Main title (STI PREVENTION BEYOND CONDOMS)": "Handwritten/childlike print, all uppercase, white, no shadow, playful and casual, on purple blocks",
+      "Other on-screen text (HEALTH CLASS PRESENTATION DAY, SAFER SEX LATEX BARRIERS, EXTERNAL CONDOM, INTERNAL CONDOM, DENTAL DAM)": "Clean, all-caps, sans-serif; white for headings; smaller; easy to read",
+      "Brand (amaze)": "Lowercase, bold sans-serif, thick purple letters, bottom right"
+    },
+    "Text placement": {
+      "Main title": "Left side, taking up nearly half the frame, three separate stacked purple blocks",
+      "Supporting/context text": "Top right (chalkboard), and smaller within the display/presentation",
+      "Brand logo": "Bottom right corner"
+    },
+    "Use of emotional/trigger words": [
+      "PREVENTION",
+      "BEYOND",
+      "SAFER SEX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, inviting, and educational; friendly, non-intimidating, approachable cartoon style",
+    "Visual metaphors or symbols": [
+      "Classroom scene (suggests learning, school-based education)",
+      "Items like condoms and dental dams as literal symbols of sexual health tools",
+      "Animated character as a relatable peer or educator"
+    ],
+    "Clickbait techniques employed": [
+      "\"Beyond Condoms\" (curiosity, implies new/unusual info)",
+      "Bright, contrasting colors (attracts attention)",
+      "Expressive cartoon faces (relatability, friendliness)",
+      "Simple, bold text for fast comprehension"
+    ],
+    "Brand elements present": [
+      "\"amaze\" logo in purple (recognizable series/brand)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "Strongly aligned: The main title 'STI PREVENTION BEYOND CONDOMS' is the largest text, identical to the video title, and visually dominant. The classroom setting and demonstration board showing multiple STI prevention tools (external/internal condom, dental dam) directly illustrate 'beyond condoms.' The friendly cartoon style lowers barriers to learning about sensitive topics.",
+    "Contrasts or mismatches": "None apparent. The thumbnail and title are consistent. The presence of both condom illustrations and a dental dam supports the idea that the content is about more than just condoms, matching 'beyond' in the title."
+  }
+}

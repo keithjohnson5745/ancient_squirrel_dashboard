@@ -1,0 +1,12 @@
+{
+  "title": "Doctors Explain 7 SIMPLE ways to INCREASE her pleasure feat. Dr. Kelly Casperson",
+  "thumbnail_path": "thumbnails/VCbmgTicOik_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

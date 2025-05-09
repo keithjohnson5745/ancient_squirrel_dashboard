@@ -1,0 +1,13 @@
+{
+  "title": "Dealing with grief | Sally 08 | In Therapy with Alex Howard",
+  "thumbnail_path": "thumbnails/L_Jmt-gTX1Q_max.jpg",
+  "title_length": 59,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

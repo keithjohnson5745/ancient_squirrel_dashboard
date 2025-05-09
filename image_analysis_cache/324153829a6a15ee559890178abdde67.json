@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "30% (bike frame, t-shirt logo, background panel)",
+      "Green": "20% (text banner at bottom)",
+      "Black": "20% (t-shirt, tools, chain, oil bottle nozzle)",
+      "Silver/Grey": "20% (bike chain, tools on wall, some background panels)",
+      "Blue": "5% (tools, bike stand parts)",
+      "White": "5% (text, text background, some chain highlights)"
+    },
+    "Composition type": "Composite shot; left side is a medium shot of a person working on a bike, right side is a close-up of a bike chain being lubed, separated by an angled white line.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Concentrated/focused, partially visible face looking at bike components.",
+      "Demographics": "Adult male, light skin, short blond/light brown hair."
+    },
+    "Main objects/props featured": [
+      "Red road bicycle mounted on a repair stand",
+      "Bicycle chain and drivetrain",
+      "Lubricant applicator bottle",
+      "Variety of bike tools hanging on a pegboard"
+    ],
+    "Background environment": "Bike workshop or technical garage; visible organized tool wall and workbench setup."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "GCN TECH",
+      "HOW TO LUBE A CHAIN"
+    ],
+    "Font characteristics": {
+      "GCN TECH": "Modern sans-serif, bold, white and red, all caps, left side and bottom corner.",
+      "HOW TO LUBE A CHAIN": "Modern sans-serif, heavy bold, mostly white (except HOW TO, which is in smaller lighter green), all caps, placed on a green banner at the bottom."
+    },
+    "Text placement within frame": {
+      "GCN TECH": "Bottom left corner, within a red panel.",
+      "HOW TO LUBE A CHAIN": "Bottom center, in large white/green letters on a green background."
+    },
+    "Use of emotional/trigger words": [
+      "LUBE A CHAIN"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Instructive, practical, approachable; the image feels helpful and DIY-focused.",
+    "Visual metaphors or symbols": "Close-up of chain being lubed visually represents step-by-step guidance; clean tools and workshop suggest expertise and professionalism.",
+    "Clickbait techniques employed": [
+      "Split-scene composition for visual interest",
+      "Bold, direct instructional text",
+      "Close-up action shot creates a sense of specificity and technique"
+    ],
+    "Brand elements present": [
+      "GCN logo on t-shirt and thumbnail panel",
+      "Consistent GCN brand colors (red, black, white, green for 'how to' guides)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail shows exactly what the title describes: a detailed how-to demonstration of bike chain lubrication. The presence of both the mechanic and a close-up of the chain being oiled directly supports the promise of practical, guided instruction.",
+    "Any contrasts or mismatches between thumbnail and title": "No mismatches; both the title and thumbnail are tightly aligned and reinforce each other. The text in the thumbnail even mirrors the key terms of the video title."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "VISUAL ELEMENTS": {
+    "DominantColors": {
+      "White": 45,
+      "Blue": 20,
+      "Pink/Rose": 15,
+      "Burgundy/Maroon": 10,
+      "Skin tones": 10
+    },
+    "CompositionType": "Composite: Medium shot (doctor), close-up (product), background (couple in close pose)",
+    "HumanPresence": {
+      "NumberOfPeople": 3,
+      "Expressions": [
+        "Woman in sari: Friendly, approachable expression, direct eye contact",
+        "Background couple: Intimate, focused on each other"
+      ],
+      "Demographics": [
+        "Woman in sari: Middle-aged, South Asian",
+        "Couple: Young adults, male and female"
+      ]
+    },
+    "MainObjectsProps": [
+      "Smiling female doctor in sari",
+      "Couple in intimate pose (background, partially faded)",
+      "Lubricant bottle on roses (in circular inset)"
+    ],
+    "BackgroundEnvironment": "Bedroom setting (with bed, pillows, soft lighting, muted colors)"
+  },
+  "TEXT ELEMENTS": {
+    "TextVisible": [
+      "MOTHER CARE",
+      "S*X \u0915\u0947 \u0932\u093f\u090f Natural Lubricant",
+      "Sperm & Conception-Friendly Lubricants",
+      "Dr. Supriya Puranik",
+      "Test Tube Baby Consultant & Practicing Gynaecology"
+    ],
+    "FontCharacteristics": [
+      "Bold sans-serif and serif fonts",
+      "S*X text is larger, bold, and maroon",
+      "Natural Lubricant: maroon, bold, slightly smaller than S*X text",
+      "Sperm & Conception-Friendly Lubricants: White on blue gradient background, all uppercase initial letters",
+      "Professional/tidy font for doctor's name and title"
+    ],
+    "TextPlacementWithinFrame": [
+      "Top left: MOTHER CARE logo",
+      "Upper center-left: S*X \u0915\u0947 \u0932\u093f\u090f Natural Lubricant",
+      "Center-left: Sperm & Conception-Friendly Lubricants (blue box)",
+      "Bottom left: Dr. Supriya Puranik and her titles"
+    ],
+    "EmotionalTriggerWords": [
+      "S*X",
+      "Natural",
+      "Lubricant",
+      "Conception",
+      "Friendly"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "OverallEmotionalTone": "Reassuring, informative, slightly provocative but professional",
+    "VisualMetaphorsOrSymbols": [
+      "Roses (symbolizing intimacy or romance)",
+      "Lubricant bottle (directly relates to video topic)"
+    ],
+    "ClickbaitTechniquesEmployed": [
+      "Use of asterisk in 'S*X' to bypass censorship and draw attention",
+      "Blurring couple in intimate pose for curiosity and emotional engagement",
+      "Bold, direct text summarizing video topic"
+    ],
+    "BrandElementsPresent": [
+      "Mother Care logo",
+      "Doctor's name and professional credentials"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "VisualReinforcementOfTitle": "The thumbnail directly addresses the video's topic by including the words 'Natural Lubricant' and 'Sperm & Conception-Friendly Lubricants,' mirroring the title language. The background couple image visually references intimacy, tying into the video's subject. The doctor in the thumbnail increases credibility and trust.",
+    "ContrastsOrMismatches": "No major mismatches. The thumbnail is aligned with the title, though the use of 'S*X' with an asterisk is slightly more provocative and aimed at grabbing attention compared to the more clinical tone of the full video title."
+  }
+}

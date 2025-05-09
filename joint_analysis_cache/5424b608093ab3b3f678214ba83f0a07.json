@@ -1,0 +1,13 @@
+{
+  "title": "Lawrence: Trump's stupidity has power so you can always feel the danger of that stupidity",
+  "thumbnail_path": "thumbnails/ypky5SEoEJQ_max.jpg",
+  "title_length": 89,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

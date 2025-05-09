@@ -1,0 +1,13 @@
+{
+  "title": "How does Bluetooth Work?",
+  "thumbnail_path": "thumbnails/1I1vxu5qIUM_max.jpg",
+  "title_length": 24,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Is it safe to use a Lubricant when trying for pregnancy?| Dr. Anjali Kumar | Maitri",
+  "thumbnail_path": "thumbnails/_SP0lxYS_Pk_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

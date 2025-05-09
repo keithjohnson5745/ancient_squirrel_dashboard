@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige (skin tone and background)": "40%",
+      "Dark brown/black (hair, eyebrows, text)": "25%",
+      "Blue/teal (outfit, tear highlights)": "20%",
+      "White (background, text boxes)": "10%",
+      "Yellow (star, trash bin)": "5%"
+    },
+    "Composition type": "Close-up, centered on a single illustrated character's face (frontal portrait).",
+    "Human presence": {
+      "number_of_people": 1,
+      "description": "Illustrated young woman with short dark hair, fair skin, and a sad/anxious facial expression. Animated tears are streaming down her face.",
+      "demographics": "Female-presenting, appears to be portraying a known fictional character."
+    },
+    "Main objects/props featured": [
+      "Illustrated female face (central)",
+      "Ratings and social media-like graphic overlays (stars, thumbs up/down, trash can)",
+      "Text labels (i.e., names, scores, social comments)"
+    ],
+    "Background environment": "Minimalist, pale/light background with horizontal white planks, overlaid with various review/interaction boxes."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "LORD FARQUAAD",
+      "Mute her",
+      "2K",
+      "1.6/10",
+      "2.2M",
+      "Snow Brown",
+      "13K",
+      "20%"
+    ],
+    "Font characteristics": {
+      "LORD FARQUAAD": {
+        "style": "Handwritten/marker, uppercase, bold, black",
+        "emphasis": "High, playful/distorted"
+      },
+      "Other text (ratings, comments)": {
+        "style": "Sans-serif, clean, straightforward",
+        "emphasis": "Varies: Bolded for numbers and stats",
+        "color": "Primarily black or white for contrast"
+      }
+    },
+    "Text placement within frame": {
+      "LORD FARQUAAD": "Upper left, large",
+      "Mute her": "Upper right, inside a comment-style box",
+      "1.6/10": "Left center in review box with star",
+      "2.2M": "Right center in dark dislike box",
+      "Snow Brown": "Lower left in a like/comment box",
+      "20% (with trash can icon)": "Lower right in rating box"
+    },
+    "Emotional/trigger words": [
+      "Mute her",
+      "1.6/10",
+      "2.2M (dislikes)",
+      "20% (trash can)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Negative, shaming, and mocking. The visual tone is bleak, emphasizing disappointment, ridicule, and a fall from grace, as indicated by the exaggerated tears and harsh ratings/comments.",
+    "Visual metaphors or symbols": [
+      "Trash can with 20%: Implies 'trashy' or low value.",
+      "Tears: Symbolize sadness or humiliation.",
+      "Star rating (1.6/10), massive dislike counts: Represent overwhelming public rejection.",
+      "'LORD FARQUAAD' label: A reference to mock the character's appearance."
+    ],
+    "Clickbait techniques employed": [
+      "Exaggerated negative imagery (crying character)",
+      "Inflated negative statistics (e.g., 2.2M dislikes)",
+      "Provocative, meme-like labeling ('Snow Brown', 'LORD FARQUAAD')",
+      "Emotionally charged comment overlay ('Mute her')"
+    ],
+    "Brand elements present": "None overt; style is more meme-driven and sensational."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail strongly supports the title, using visual cues (tears, extremely poor ratings, mocking nicknames, and negative interactions) to visually dramatize the notion that the subject's 'life is ruined,' as the title states.",
+    "Contrasts or mismatches": "No major contrasts; both thumbnail and title convey the theme of public downfall and intense criticism. Both use hyperbolic, clickbait approaches to exaggerate negativity and attract attention."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "name": "Teal green background",
+        "percentage": 40
+      },
+      {
+        "name": "Brown/Beige (left person\u2019s sweater, skin tones)",
+        "percentage": 20
+      },
+      {
+        "name": "White (text, collar, facial highlights)",
+        "percentage": 25
+      },
+      {
+        "name": "Yellow (border, 'LIED' box, lower box, glasses)",
+        "percentage": 10
+      },
+      {
+        "name": "Black (microphone, headphones, text shadow)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (head and shoulders of two people with central text overlay)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Left: Appears nervous or surprised, mouth tense, wide eyes, hand touching neck",
+        "Right: Calm, neutral face, looking straight ahead"
+      ],
+      "demographics": [
+        "Left: Appears to be a middle-aged woman, lighter skin, brown hair, glasses, wearing over-ear headphones",
+        "Right: Appears to be a middle-aged woman, medium-tan skin, short gray hair, gold hoop earrings, white shirt"
+      ]
+    },
+    "Main objects/props featured": [
+      "Microphone (in front of left person)",
+      "Large glasses (worn by left person)",
+      "Headphones (worn by left person)"
+    ],
+    "Background environment": "Solid teal-green color with a thin yellow border; no detailed environment, focus is on the foreground subjects and text"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "THEY",
+      "LIED",
+      "ABOUT HORMONE REPLACEMENT",
+      "with DR. SHARON MALONE",
+      "MBB"
+    ],
+    "Font characteristics": [
+      {
+        "text": "THEY",
+        "style": "Bold, all caps, white, sans-serif, drop shadow"
+      },
+      {
+        "text": "LIED",
+        "style": "Bolder, all caps, black text on yellow rectangle, sans-serif"
+      },
+      {
+        "text": "ABOUT HORMONE REPLACEMENT",
+        "style": "Bold, all caps, white, staggered layout"
+      },
+      {
+        "text": "with DR. SHARON MALONE",
+        "style": "Handwritten/italic, black on yellow rectangle"
+      },
+      {
+        "text": "MBB",
+        "style": "Small, black, concise serif, next to a brain graphic"
+      }
+    ],
+    "Text placement within frame": [
+      "Central and left-aligned: 'THEY LIED ABOUT HORMONE REPLACEMENT' occupies the middle space, staggered over both faces",
+      "Bottom left: 'with DR. SHARON MALONE' in a yellow box",
+      "Upper left: 'MBB' logo"
+    ],
+    "Use of emotional/trigger words": [
+      "LIED",
+      "THEY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Dramatic, urgent, confrontational; suggests controversy or a hidden truth",
+    "Visual metaphors or symbols": [
+      "Dramatic expressions emphasizing tension/surprise (left person) and seriousness (right person)",
+      "'LIED' in a contrasting colored box highlights deception or misinformation"
+    ],
+    "Clickbait techniques employed": [
+      "Use of emotionally charged/inflammatory word ('LIED')",
+      "The implication of controversy or hidden knowledge",
+      "Facial expressions showing strong emotion"
+    ],
+    "Brand elements present": [
+      "MBB logo with brain icon (top left)",
+      "Yellow brand color as border and text accent"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail\u2019s text 'THEY LIED ABOUT HORMONE REPLACEMENT' dramatically echoes the video title\u2019s promise to reveal 'The Truth.' Visually, the nervous expression on the left and the serious expression on the right imply emotional stakes and credibility, hinting a major revelation.",
+    "Contrasts or mismatches": "No overt mismatch; the thumbnail is fully aligned with the video's title. Both suggest an expos\u00e9 or myth-busting discussion involving Dr. Sharon Malone. The thumbnail amplifies the sensational angle of the title (\u2018Feel Better Now!\u2019) by visually stressing misinformation."
+  }
+}

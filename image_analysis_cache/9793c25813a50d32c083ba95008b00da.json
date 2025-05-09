@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark purple": "Approximately 60% (background)",
+      "White": "Approximately 20% (large text and shirt logo)",
+      "Orange": "Approximately 10% (highlighted words)",
+      "Skin tones": "Approximately 8% (face and arm of the individual)",
+      "Black": "Approximately 2% (shirt)"
+    },
+    "Composition type": "Medium shot (upper body of one person, right side)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, friendly and approachable",
+      "Demographics": "Adult male, light skin, brown hair"
+    },
+    "Main objects/props featured": "The person (Matthew Hussey), text-heavy layout, shirt with partial name text",
+    "Background environment": "Abstract, deep purple/gradient, no discernible physical environment"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "EVERYTHING CHANGES WHEN YOU\u2019RE NO LONGER AVAILABLE TO AN AVOIDANT",
+      "MATTHEW HUSSEY"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, all-caps sans-serif for main message; smaller, bold sans-serif for name",
+      "Emphasis": "Alternating white and bright orange for key words ('CHANGES', 'AVAILABLE', 'AVOIDANT'), creating contrast and focus",
+      "Color": "White and bright orange for highlight",
+      "Text placement within frame": {
+        "Main message": "Centered, covering roughly 2/3 of the thumbnail vertically, aligned left",
+        "Creator name": "Bottom left, smaller font size, in two colors: 'MATTHEW' in white, 'HUSSEY' in orange"
+      },
+      "Emotional/trigger words": [
+        "CHANGES",
+        "NO LONGER",
+        "AVAILABLE",
+        "AVOIDANT"
+      ]
+    },
+    "THEMATIC ELEMENTS": {
+      "Overall emotional tone": "Empowering, insightful, direct, and slightly urgent (emphasis on change and self-worth)",
+      "Visual metaphors or symbols": "Contrasting color on key words suggests transformation and focus on change; smiling person suggests positive outcome/support",
+      "Clickbait techniques employed": [
+        "All-caps, impactful headline",
+        "Highlighting emotionally charged words",
+        "Direct appeal to relationship struggles (avoidant partners)"
+      ],
+      "Brand elements present": [
+        "Prominent inclusion of creator\u2019s name ('MATTHEW HUSSEY')",
+        "Consistent style (color scheme, layout) likely matching creator's brand"
+      ]
+    },
+    "THUMBNAIL-TITLE RELATIONSHIP": {
+      "Visual reinforcement": "The thumbnail nearly exactly replicates the video title, with visual highlights on the most emotionally impactful words, reinforcing the promise of a significant shift if the viewer changes their behavior in relationships. The friendly smiling face of Matthew Hussey visually signals support and positivity, aligning with the title's implication of life improvement.",
+      "Contrasts or mismatches": "No significant contrast or mismatch found; the thumbnail text and visual tone are directly supportive of the video's title. Both focus on change and empowerment regarding relationship dynamics."
+    }
+  }
+}

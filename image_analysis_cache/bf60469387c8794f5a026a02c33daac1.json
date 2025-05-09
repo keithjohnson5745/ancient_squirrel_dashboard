@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple/Blue gradient": "40%",
+      "Pink/Purple overlay": "25%",
+      "Yellow (text)": "10%",
+      "Red (background for title banner/text)": "10%",
+      "White (text and clothing highlights)": "10%",
+      "Black (microphones, hair, text)": "5%"
+    },
+    "Composition type": "Medium shot (two people, from waist up, facing each other across a table or studio)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Man appears engaged or thoughtful (hand near mouth, looking towards the woman)",
+        "Woman looks serious and attentive (focused on conversation, facing the man)"
+      ],
+      "Demographics": [
+        "Man: young adult, medium complexion, short hair, light facial hair",
+        "Woman: adult, medium complexion, straight dark hair, wearing traditional Indian attire"
+      ]
+    },
+    "Main objects/props featured": [
+      "Two microphones (one for each person)",
+      "Studio-style headsets and table setup"
+    ],
+    "Background environment": "Digitally composited; left side features a pink-tinted, semi-blurred image of a couple lying on a bed (suggestive theme), right side is a smooth purple-blue gradient, podcast branding at the top right. Both people are outlined with a white stroke for emphasis."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0938\u0947\u0915\u094d\u0938 \u0915\u0948\u0938\u0947 \u0915\u0930\u0924\u0947 \u0939\u0948",
+      "Dr. Neha",
+      "\u0938\u0947 \u091c\u092c \u0932\u0921\u093c\u0915\u094b\u0902 \u0928\u0947 \u092a\u0942\u091b\u093e",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST",
+      "RT REAL TALK Podcast"
+    ],
+    "Font characteristics": [
+      "Bold, sans-serif fonts for main title and guest\u2019s name",
+      "Bright yellow and white colors to create contrast and emphasis",
+      "Red banner for main topic\u2014heightens urgency and grabs attention",
+      "Blue background with white/yellow for Dr. Neha\u2019s name",
+      "All caps and larger font for key topic words"
+    ],
+    "Text placement within frame": [
+      "Top third: main topic/question (in a large, red rectangular banner)",
+      "Middle: guest's name and subtitle (centered, large)",
+      "Bottom center: Expert\u2019s name and occupation badge",
+      "Top right: Podcast brand logo and the word 'Podcast'"
+    ],
+    "Use of emotional/trigger words": [
+      "Sex (\u0938\u0947\u0915\u094d\u0938)",
+      "How to do (\u0915\u0948\u0938\u0947 \u0915\u0930\u0924\u0947 \u0939\u0948)",
+      "When boys asked (\u0938\u0947 \u091c\u092c \u0932\u0921\u093c\u0915\u094b\u0902 \u0928\u0947 \u092a\u0942\u091b\u093e)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly sensational, educational, candid. The expressions and color choices suggest an open but serious conversation about a sensitive or taboo topic.",
+    "Visual metaphors or symbols": [
+      "Faded couple in bed: symbolizes the topic of sex and relationships",
+      "Microphones and podcast layout: signifies an expert interview or open Q&A format"
+    ],
+    "Clickbait techniques employed": [
+      "Big, bold, and bright headline on a red banner",
+      "Explicit reference to the topic of sex",
+      "Curiosity-driven question format",
+      "Professional expert\u2019s presence (increases credibility)",
+      "Facial expressions of engaged discussion"
+    ],
+    "Brand elements present": [
+      "RT REAL TALK Podcast logo in top right",
+      "Dr. Neha Mehta\u2019s professional title and badge"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail visually anchors the video title by repeating the key question in large text",
+      "Features Dr. Neha Mehta, directly tying to the host/expert mentioned in the title",
+      "Images of both a male interviewer and the expert reflect the Q&A/dialogue format implied by the title"
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail is more visually explicit (background image of a couple in bed) than the relatively clinical or podcast-y tone of the title",
+      "Uses the word 'Sex' in Hindi script and openly highlights it, matching the provocative approach of the title"
+    ]
+  }
+}

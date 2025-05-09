@@ -1,0 +1,12 @@
+{
+  "title": "Emsella review by a pelvic floor PT",
+  "thumbnail_path": "thumbnails/A7T4FbMg7lo_max.jpg",
+  "title_length": 35,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

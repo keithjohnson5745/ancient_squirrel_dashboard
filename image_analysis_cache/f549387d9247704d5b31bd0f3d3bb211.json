@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/navy background": "50%",
+      "Skin tones (left, center, right)": "25%",
+      "Red (arrows)": "10%",
+      "Yellow (banana/text highlight)": "10%",
+      "White (text, highlights)": "5%"
+    },
+    "Composition type": "Composite (medium shot of two people + close-up of banana/prop)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: torso of shirtless person, no face visible (body language suggests among 'before' or unhealthy)",
+        "Right: woman with hand on chin, skeptical/thoughtful expression"
+      ],
+      "Demographics": [
+        "Left: adult male, light to medium skin",
+        "Right: adult female, medium skin, blonde/light brown hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Rotten/sagging banana (visually central)",
+      "Large red arrows",
+      "Shirtless man (partial body)",
+      "Woman in blue shirt (right)"
+    ],
+    "Background environment": "Solid dark blue gradient with no discernible environmental context"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "THIS IS DESTROYING YOUR TESTOSTERONE (& MAKING YOU SOFT)",
+    "Font characteristics": {
+      "Style": "All caps sans-serif, bold",
+      "Emphasis": "White text with 'TESTOSTERONE' in bright yellow",
+      "Color": "White, yellow (highlighted word)",
+      "Effect": "Clean, strong visual impact"
+    },
+    "Text placement within frame": {
+      "Main text": "Top right quadrant",
+      "Subtext": "Beneath main text, smaller font"
+    },
+    "Use of emotional/trigger words": [
+      "DESTROYING",
+      "TESTOSTERONE",
+      "SOFT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgency, concern, slight alarm/motivation with an undertone of embarrassment or fear",
+    "Visual metaphors or symbols": [
+      "Rotten, limp banana as a symbol of 'softness' or low testosterone/male performance",
+      "Red arrows for drawing attention and guiding viewer eyes"
+    ],
+    "Clickbait techniques employed": [
+      "Use of strong emotional/trigger words",
+      "Visual metaphor with banana",
+      "Prominent, bold text",
+      "Facial expression (confusion/concern)",
+      "Partial body shot suggesting physical consequence"
+    ],
+    "Brand elements present": "No clear, strong brand logo present; doctor's name on blue shirt is visible but not fully legible, indicating authority"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually highlights the concept of things that \u2018kill\u2019 testosterone with the limp banana (symbolizing weakness/softness), arrows indicating cause/effect from unhealthy body to symbol and strong highlighted text matching keywords from the title (\u2018testosterone\u2019, \u2018soft\u2019). Woman's concerned/thoughtful look further emphasizes message.",
+    "Contrasts or mismatches": "The thumbnail specifically focuses on one food (the banana) and body image, while the title refers broadly to seven \u2018testosterone killers\u2019; this creates curiosity but also a minor disconnect between the list aspect of the title and the banana-focused visual."
+  }
+}

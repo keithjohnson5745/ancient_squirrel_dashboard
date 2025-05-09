@@ -1,0 +1,81 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "50% (whiteboard background)",
+      "Skin tones": "15% (face and hands of person)",
+      "Navy blue": "20% (person's scrubs/shirt)",
+      "Black": "10% (text on whiteboard, hair)",
+      "Red": "5% (highlighted text)",
+      "Other": "a hint of green (plant in background) and beige (wall/window frame)"
+    },
+    "Composition type": "Medium shot (waist-up of a person standing to the left, large whiteboard with text occupies majority of frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Engaged, neutral to slightly pleasant (explanatory hand gesture, direct eye contact with camera)",
+      "Demographics": "Adult male, likely Asian descent, grey hair"
+    },
+    "Main objects/props featured": [
+      "Whiteboard with dense handwritten notes",
+      "Person in navy blue medical scrubs",
+      "Marker(s) used for writing",
+      "Ring on person's left hand"
+    ],
+    "Background environment": "Indoor office/clinic setting, includes a large window (natural light), partial view of green plant, visible shelves and another room or desk area."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "COLLAGEN SUPPLEMENTS",
+      "WHAT YOU NEED TO KNOW BEFORE STARTING",
+      "- DERMIS, TENDON, LIGAMENTS AND BONE",
+      "- CARTILAGE, VITREOS BODY, NUCLEUS PULPOSUS",
+      "- SKIN, VESSEL WALLS, RETICULAR FIBERS",
+      "- BASAL LAMINA, EPITHELIAL LAYER BASEMENT MEMBRANE",
+      "TYPE V - LUNG, CORNEA, HAIR, FETAL MEMBRANE, BONES",
+      "- BONE HEALTH",
+      "HYDROLYSATE - LOWER MOLECULAR NT",
+      "HYDROLYSATE - FISH DERIVED - PLASMA",
+      "STRUCTURED COLLAGEN",
+      "VIT C, HA",
+      "8 WKS",
+      "BONE BROTH",
+      "SALMON, CHICKEN",
+      "AA",
+      "EGG"
+    ],
+    "Font characteristics": {
+      "Style": "Handwritten (marker pen on whiteboard)",
+      "Emphasis": {
+        "Red text": "Used for headings, important terms and draw attention",
+        "Black text": "Main content, lists",
+        "Blue text": "Minor details, right side"
+      },
+      "Color": "Black, red, and blue markers",
+      "Weight": "Bold marker strokes"
+    },
+    "Text placement within frame": {
+      "Major headings": "Top of whiteboard, large and centered",
+      "Main points": "Left-to-center of board in bulleted list",
+      "Highlighted/colored text": "Center-bottom for emphasis",
+      "Additional notes": "Right side of whiteboard in smaller handwriting"
+    },
+    "Use of emotional/trigger words": [
+      "WHAT YOU NEED TO KNOW BEFORE STARTING",
+      "LOWER MOLECULAR",
+      "PLASMA"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, slightly urgent (due to red highlighted sections and 'before starting' language)",
+    "Visual metaphors or symbols": "Whiteboard full of handwritten notes implies education/expertise, personal touch vs digital graphics enhances authenticity/trust",
+    "Clickbait techniques employed": [
+      "Capitalized and red-highlighted warning ('WHAT YOU NEED TO KNOW BEFORE STARTING') creates urgency/fear of missing out",
+      "Direct address to viewer",
+      "Professional attire/setting to imply authority"
+    ],
+    "Brand elements present": "Person in medical scrubs (conveys expertise), likely a doctor, personalized background but no specific logos"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail shows a medical professional in front of a detailed whiteboard, clearly emphasizing an educational breakdown about collagen supplements \u2014 exactly what the title promises ('what you need to know before starting'). The direct, somewhat cautionary tone of the board's heading directly supports the title's focus on essential pre-knowledge.",
+    "Any contrasts or mismatches between thumbnail and title": "The title uses animal emojis (pig, cow, fish, egg) to highlight the sources or types of collagen, while the thumbnail board only briefly references sources (e.g., 'fish derived,' 'bone broth,' 'chicken,' 'egg') and does not include those visual emojis/animals, so the playful/graphic aspect of the title is less visually reinforced."
+  }
+}

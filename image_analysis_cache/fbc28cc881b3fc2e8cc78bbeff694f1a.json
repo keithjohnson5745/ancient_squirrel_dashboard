@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Deep Red": "35%",
+      "Gold/Yellow": "20%",
+      "Brown (skin tones)": "15%",
+      "Green": "10%",
+      "White": "10%",
+      "Accents of Purple/Blue and Pink": "10%"
+    },
+    "Composition type": "Close-up",
+    "Human presence": {
+      "number_of_people": "1 person clearly visible (child or young adolescent girl), with a partial hand of a second person on the right side",
+      "expressions": "Downcast/serious, eyes lowered, somber and pensive expression",
+      "demographics": "Young girl, likely South Asian, dressed as a bride (cultural attire)"
+    },
+    "Main objects/props featured": [
+      "Traditional bridal clothing",
+      "Gold jewelry and forehead chain",
+      "Nose ring",
+      "Colorful flowers and decorative items",
+      "Red and gold veil"
+    ],
+    "Background environment": "Mostly out of focus, but another person in green traditional attire and some floral decorations are visible suggesting a wedding or ceremonial setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Born to Obey"
+    ],
+    "Font characteristics": {
+      "style": "Sans-serif, bold",
+      "emphasis": "Heavy bold for visibility and impact",
+      "color": "White"
+    },
+    "Text placement within frame": "Lower left",
+    "Use of emotional/trigger words": [
+      "Born",
+      "Obey"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Somber, serious, and thought-provoking; evokes empathy and concern",
+    "Visual metaphors or symbols": [
+      "Bridal attire on a visibly young girl underscores the theme of child marriage",
+      "Downcast eyes symbolize obedience/submission",
+      "Rich ceremonial visuals contrast with the implied lack of agency"
+    ],
+    "Clickbait techniques employed": [
+      "Provocative wording ('Born to Obey')",
+      "Emotional imagery evoking injustice",
+      "Focus on child-bride theme to arouse curiosity or shock"
+    ],
+    "Brand elements present": [
+      "White circular logo with diagonal slashes ('W//') in top left corner"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The close-up of the young bride, with her ornate dress and downcast, somber expression, directly aligns with the video's theme of child marriage ('Child marriage in Nepal: From bride at 14 to young mother'). The phrase 'Born to Obey' in bold further echoes the title's focus on loss of agency and forced circumstances faced by young girls.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong reinforcement\u2014no major contrasts; both the thumbnail and title are unified in their message and emotional tone, emphasizing the issue of child marriage and societal expectations."
+  }
+}

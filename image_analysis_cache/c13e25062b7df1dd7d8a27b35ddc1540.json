@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 50% (background wall, top, and text fill)",
+      "Light blue": "Approximately 20% (text outline, pillows)",
+      "Pink/Peach": "Approximately 15% (floral decorations on border)",
+      "Skin tone": "Approximately 10% (person)",
+      "Green": "Approximately 5% (leaf elements, some pillow colors)"
+    },
+    "Composition type": "Medium shot (shows upper body and face of a single person)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Friendly, inviting, slight smile",
+      "Demographics (if apparent)": "Adult female, glasses, medium skin tone, black hair"
+    },
+    "Main objects/props featured": [
+      "Person (main subject)",
+      "Glasses (worn by subject)",
+      "Floral decorations (illustrated on border)",
+      "Bedding/pillows visible at the bottom"
+    ],
+    "Background environment": "Light-colored wall with floral print/decorative stickers on both sides. Simple bedroom or home setting."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "Gumamit ka na ba ng BABY OIL pampadulas?",
+    "Font characteristics": {
+      "Style": "Handwritten/comic style, bold, uppercase and lowercase mixed",
+      "Emphasis": "Heavy outline, alternating colors\u2014red inner color with a blue outline",
+      "Color": "Red text with thick light blue outline"
+    },
+    "Text placement within frame": "Top right quadrant, occupying about one third of the right side of the thumbnail, layered on empty space to the right of the subject",
+    "Use of emotional/trigger words": [
+      "BABY OIL"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, approachable, relatable, slightly playful due to the styling and direct question",
+    "Visual metaphors or symbols": "Open hand gesture (as if presenting or inviting), floral border suggesting gentleness/care",
+    "Clickbait techniques employed": [
+      "Direct question addressed to viewer",
+      "Large, colorful, outlined text",
+      "Product name (BABY OIL) highlighted"
+    ],
+    "Brand elements present": "No explicit brand logos present but the inclusion of 'BABY OIL' refers to a commonly known product type"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly quotes the theme and phrase of the title, instantly connecting them. The person\u2019s open-hand presents or invites attention to the text.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no significant mismatches; both thumbnail and title use the same wording/concept and visually support each other."
+  }
+}

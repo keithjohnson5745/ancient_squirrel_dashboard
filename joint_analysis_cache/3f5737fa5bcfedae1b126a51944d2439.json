@@ -1,0 +1,13 @@
+{
+  "title": "YOU SMELL- how to improve your personal hygiene | Come Curious",
+  "thumbnail_path": "thumbnails/SAyI_9rvu2g_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

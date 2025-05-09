@@ -1,0 +1,12 @@
+{
+  "title": "John Oliver Loved Watching Will Ferrell Not Break Character While His Cut SNL Sketch Bombed Again",
+  "thumbnail_path": "thumbnails/RCunT46vxmg_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

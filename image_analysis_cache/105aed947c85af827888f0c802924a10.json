@@ -1,0 +1,90 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Deep purple",
+        "percentage": 70
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Blue",
+        "percentage": 5
+      },
+      {
+        "color": "Cream",
+        "percentage": 3
+      },
+      {
+        "color": "Pale yellow",
+        "percentage": 2
+      }
+    ],
+    "Composition type": "Product collage (wide shot, no human presence, objects arranged across the frame)",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": "N/A",
+      "demographics": "N/A"
+    },
+    "Main objects/props": [
+      "Estradiol vaginal cream tube",
+      "Estring estradiol vaginal ring (packaging)",
+      "Estradiol Vagifem product blister pack",
+      "Text and branding elements"
+    ],
+    "Background environment": "Solid deep purple background with no scene or setting, making the medical products and text visually pop"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Estradiol Vaginal Cream USP 0.01%",
+      "Each gram contains 0.1mg estradiol in a moisturizing base",
+      "Estring (estradiol vaginal ring) 2mg",
+      "Once for 90 days",
+      "Estradiol Vagifem",
+      "10 mcg Vaginal Film-Coated Tablet Hormone Replacement Therapy",
+      "SIMPLE HORMONES for Menopause with Steve Goldring The Hormone Pharmacist",
+      "Vaginal Estrogen for EVERYONE?"
+    ],
+    "Font characteristics": [
+      "Main text ('Vaginal Estrogen for EVERYONE?'): Large, bold, sans-serif, white",
+      "Brand text ('SIMPLE HORMONES...'): Simple sans-serif, colored (pink for 'SIMPLE', teal for 'HORMONES'), medium size",
+      "Product packaging text: Standard medical product font (small, blue/purple/black/white, sans-serif)",
+      "'Estradiol Vagifem' label: Bold, purple background with white text",
+      "'Estring': Green and red stylized font on product label"
+    ],
+    "Text placement": [
+      "Main question at bottom center",
+      "Branding upper right",
+      "Product descriptions on/near each medical product"
+    ],
+    "Emotional/trigger words": [
+      "EVERYONE?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, authoritative, slightly provocative",
+    "Visual metaphors/symbols": "Prescription and over-the-counter vaginal estrogen products serve as direct, literal symbols for menopause therapy discussion",
+    "Clickbait techniques": [
+      "Large, bold question ('Vaginal Estrogen for EVERYONE?') to provoke curiosity",
+      "Use of 'EVERYONE' in all-caps for urgency and universality",
+      "Grouping of multiple recognizable products to attract viewers searching for solutions"
+    ],
+    "Brand elements present": [
+      "SIMPLE HORMONES logo and branding",
+      "Host's name (Steve Goldring, The Hormone Pharmacist)",
+      "Distinct product designs instantly recognizable to target audience"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail directly shows multiple forms of vaginal estrogen, visually supporting the title's focus on 'Vaginal ESTROGEN for EVERY menopausal woman'.",
+      "The large central text question mirrors and abbreviates the video's title, teasing the content."
+    ],
+    "Contrasts/mismatches": [
+      "The thumbnail does not reference the 'FDA says NO WAY' portion of the title, omitting any negative or cautionary imagery.",
+      "Looks purely informative/curious rather than critical, missing an indication of FDA resistance."
+    ]
+  }
+}

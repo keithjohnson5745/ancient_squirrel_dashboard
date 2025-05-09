@@ -1,0 +1,11 @@
+{
+  "title": "Should You Use Olive Oil as a Personal Lubricant?",
+  "thumbnail_path": "thumbnails/2th2arguQW0_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

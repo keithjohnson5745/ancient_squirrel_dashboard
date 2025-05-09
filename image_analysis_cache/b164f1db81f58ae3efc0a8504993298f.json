@@ -1,0 +1,92 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "Black",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 30
+      },
+      {
+        "color": "Blue",
+        "percentage": 10
+      },
+      {
+        "color": "Yellow",
+        "percentage": 5
+      },
+      {
+        "color": "Red",
+        "percentage": 7
+      },
+      {
+        "color": "Light Brown (skin/hair)",
+        "percentage": 8
+      }
+    ],
+    "composition_type": "Medium shot (shows speaker from waist up and large projected brain image)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, confident, possibly educating or explaining",
+      "demographics": "Adult female, light complexion, brown/blonde hair"
+    },
+    "main_objects_props_featured": [
+      "Presenter with microphone",
+      "Large projected image of a human brain (colorful illustration)",
+      "TED logo"
+    ],
+    "background_environment": "Dark/black stage with large white circle projection showing a detailed brain illustration"
+  },
+  "TEXT ELEMENTS": {
+    "text_visible": "How to hack your brain when you're in pain\nTED",
+    "font_characteristics": [
+      {
+        "section": "Main Title",
+        "style": "Sans-serif, bold, all lowercase except 'TED'",
+        "emphasis": "High (large white text with drop shadow for contrast)",
+        "color": "White"
+      },
+      {
+        "section": "TED Logo",
+        "style": "Sans-serif, bold, all uppercase",
+        "emphasis": "Very high (red circular background, white text)",
+        "color": "White on red"
+      }
+    ],
+    "text_placement_within_frame": [
+      {
+        "section": "Main Title",
+        "placement": "Right-center, overlaid on the brain projection, taking up significant vertical space"
+      },
+      {
+        "section": "TED Logo",
+        "placement": "Bottom-right corner"
+      }
+    ],
+    "emotional_trigger_words": [
+      "hack",
+      "pain"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Empowering, optimistic, instructional",
+    "visual_metaphors_symbols": [
+      "Brain diagram represents cognitive and neurological focus",
+      "'Hacking' symbolized by the technical appearance and instructional stance of the speaker"
+    ],
+    "clickbait_techniques_employed": [
+      "Direct address ('how to hack') promises insider knowledge or secrets",
+      "Use of 'pain' appeals to viewers facing a personal or relatable struggle"
+    ],
+    "brand_elements_present": [
+      "TED logo",
+      "TED's visual language (speaker + subject illustration on a dark stage)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": "The thumbnail strongly reinforces the title; it shows a speaker gesturing toward a brain illustration with the main text ('How to hack your brain when you\u2019re in pain') overlaid, visually driving home the literal idea of understanding and altering brain functions to manage pain.",
+    "contrasts_or_mismatches": "No major mismatches; both the title and the thumbnail focus on the brain and self-help/intervention for pain, with the TED brand signaling authority and high production value."
+  }
+}

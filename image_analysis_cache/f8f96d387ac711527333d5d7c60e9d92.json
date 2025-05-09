@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "\u2248 50% (background, clean open space)",
+      "Magenta/Pink": "\u2248 10% (text box, pregnancy test tip)",
+      "Teal/Green": "\u2248 20% (woman\u2019s shirt)",
+      "Brown/Beige": "\u2248 10% (skin tones)",
+      "Gray": "\u2248 10% (pants, shadow, soft background gradients)"
+    },
+    "Composition type": "Split composition with medium shot of a pregnant woman on the right and a close-up of hands holding a pregnancy test on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Woman is softly smiling, expression appears calm, confident, slightly reflective.",
+      "Demographics": "Adult woman, likely Black, appears pregnant."
+    },
+    "Main objects/props featured": [
+      "Pregnancy test (held by hand, left side)",
+      "Pregnant woman (right side, hands on belly)"
+    ],
+    "Background environment": "Clean, light, mostly white background with soft gradients. No detailed location context, suggesting a neutral or studio setting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "The Fertility Lessons",
+      "I LEARNED TOO LATE",
+      "FERTILITY COACH SOPHIE"
+    ],
+    "Font characteristics": {
+      "The Fertility Lessons": "Serif, elegant and formal, black, standard weight",
+      "I LEARNED TOO LATE": "Bold, sans-serif, uppercase, white letters on a magenta background for high emphasis",
+      "FERTILITY COACH SOPHIE": "All caps, serif, black, smaller size, less emphasis"
+    },
+    "Text placement within frame": {
+      "The Fertility Lessons": "Upper left, slightly centered horizontally",
+      "I LEARNED TOO LATE": "Middle left, large magenta box overlaps the hand and test and part of the main title",
+      "FERTILITY COACH SOPHIE": "Lower left, underneath the main text block"
+    },
+    "Use of emotional/trigger words": [
+      "LEARNED TOO LATE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reflective, cautionary, empathetic\u2014suggests wisdom gained through experience and possibly regret or warning.",
+    "Visual metaphors or symbols": [
+      "Pregnancy test as a symbol of conception/fertility journey",
+      "Pregnant woman signifies positive outcome (but with cautionary message)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold emotional statement ('I LEARNED TOO LATE')",
+      "Prominent use of contrast in text color and size to guide attention",
+      "Direct connection to major life events (conception, pregnancy, fertility)"
+    ],
+    "Brand elements present": [
+      "FERTILITY COACH SOPHIE (channel/facilitator)",
+      "Professional, clean aesthetic associated with coaching/education"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image of a pregnancy test and a pregnant woman directly illustrates the subject matter of conception and fertility. The phrase 'I LEARNED TOO LATE', emphasized in magenta, visually aligns with the regretful, cautionary spirit present in the title ('5 Things I Wish I Knew Before Trying to Conceive').",
+    "Any contrasts or mismatches between thumbnail and title": "There is a high level of cohesion; both communicate personal lessons and knowledge around conception. The image suggests a successful pregnancy but is paired with a regretful message, amplifying the cautionary intent. The only minor contrast is a lack of direct reference to the '5 things' aspect, which could hint at content specificity."
+  }
+}

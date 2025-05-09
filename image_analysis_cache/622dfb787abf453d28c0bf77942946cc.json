@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Yellow",
+        "percentage": "15"
+      },
+      {
+        "color": "Black",
+        "percentage": "25"
+      },
+      {
+        "color": "White",
+        "percentage": "20"
+      },
+      {
+        "color": "Skin tones",
+        "percentage": "15"
+      },
+      {
+        "color": "Teal/Cyan (background gradient)",
+        "percentage": "15"
+      },
+      {
+        "color": "Bright swimwear colors (turquoise, pink, coral, green)",
+        "percentage": "10"
+      }
+    ],
+    "Composition type": "Composite thumbnail: medium close-up of a man's surprised face on the right, with an inset medium shot group photo (man + women) on left.",
+    "Human presence": {
+      "Number of people": 6,
+      "Description": "1 bald man with surprised/shocked facial expression (foreground, right). 5 younger adults (1 shirtless fit man, 4 women in bikinis) posed closely together, smiling/laughing (left inset).",
+      "Demographics": "Variety of young women and a fit man (likely 20s), bald man appears older (30s\u201340s), various skin tones (light to tan)."
+    },
+    "Main objects/props featured": [
+      "Rectangular yellow frame inset (group photo)",
+      "Selfie stick (held by group)"
+    ],
+    "Background environment": "Gradient teal/blue on right, neutral outdoor (possibly backyard or poolside) in inset photo on left."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "WHAT ACTUALLY MATTERS",
+    "Font characteristics": {
+      "WHAT ACTUALLY": {
+        "Style": "Bold, sans-serif, all caps",
+        "Color": "Bright yellow with black shadow/outlining"
+      },
+      "MATTERS": {
+        "Style": "Bold, sans-serif, all caps",
+        "Color": "White with a black outline"
+      }
+    },
+    "Text placement": "Top center, occupying top quarter of thumbnail; 'WHAT ACTUALLY' is above 'MATTERS', left-aligned.",
+    "Emotional/trigger words": [
+      "ACTUALLY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Bold, attention-grabbing, playful, slightly sensational; expressions suggest surprise, fun, confidence.",
+    "Visual metaphors/symbols": [
+      "Fit, shirtless man surrounded by women in bikinis = desirability, social proof",
+      "Surprised man's face = 'big reveal' or debunking expectations"
+    ],
+    "Clickbait techniques employed": [
+      "Surprised reaction face",
+      "Bold, oversized text with emotional trigger ('ACTUALLY')",
+      "Group of attractive people, party setting (implying success/desirability)",
+      "Inset photo with bright border calling extra attention"
+    ],
+    "Brand elements present": null
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The thumbnail visualizes the video's main question: a fit, attractive man is surrounded by women, spotlighting the physical type implied in 'What Women REALLY Want in a Physique.' The addition of the text 'WHAT ACTUALLY MATTERS' and the surprised man suggests challenging common beliefs.",
+    "Contrasts or mismatches": "The thumbnail supports the title closely; both play on stereotypes about attraction but hint at a more nuanced answer ('actually matters' vs. superficial assumptions). No major mismatch is present, but the provocative imagery and text are designed to maximize curiosity and clicks."
+  }
+}

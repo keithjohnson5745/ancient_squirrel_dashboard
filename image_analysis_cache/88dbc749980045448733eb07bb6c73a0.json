@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tone": "35%",
+      "Blue (tank top, yoga mat)": "25%",
+      "White (sports bra, text box backgrounds)": "15%",
+      "Light brown/wood (floor and easel)": "15%",
+      "Black (hair, some text, microphone)": "5%",
+      "Neutral beige (wall)": "5%"
+    },
+    "Composition type": "Medium close-up (single subject visible from mid-chest up, centered in frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to friendly, engaging with camera (slight smile, direct eye contact)",
+      "Demographics": "Young adult woman of South Asian descent (based on hair, skin tone, features)"
+    },
+    "Main objects/props featured": [
+      "Person (main subject, likely the video's speaker)",
+      "Yoga mat (blue, in background)",
+      "Tripod or easel (in corner)",
+      "Microphone clipped to subject's tank top"
+    ],
+    "Background environment": "Indoor room, likely a home or studio with wood flooring, light-colored walls, window bringing in natural light, minimal decor"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "10 THINGS TO DO IF YOU ARE Trying to Conceive",
+      "10. START FOLIC ACID SUPPLEMENTS",
+      "9. QUIT SMOKING",
+      "8. CUT BACK ON ALCOHOL",
+      "7. CLEAN UP YOUR DIET"
+    ],
+    "Font characteristics": {
+      "General style": "Sans-serif, simple, easy to read",
+      "Emphasis": {
+        "Trying to Conceive": "Bold, larger size, pink/red color, italicized/emphasized",
+        "Other text": "Standard weight, black or dark gray"
+      },
+      "Color": {
+        "Main header": "Black for most text, bright pink/red for 'Trying to Conceive'",
+        "Numbered list": "Black text on white rounded-corner boxes"
+      }
+    },
+    "Text placement within frame": {
+      "Header": "Top center of frame, overlaid above the subject's head",
+      "List items": "Stacked vertically along left to center of frame, each item in its own box"
+    },
+    "Use of emotional/trigger words": [
+      "Trying to Conceive"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, supportive, informative, friendly",
+    "Visual metaphors or symbols": [
+      "Healthy lifestyle props (yoga mat, workout attire) symbolizing wellness/preparation"
+    ],
+    "Clickbait techniques employed": [
+      "\"10 Things to Do\" -- numbered list promises clear actionable value",
+      "\"Trying to Conceive\" -- appeals directly to a niche audience",
+      "Direct eye contact/approachable presenter increases relatability",
+      "Bright, bold text highlights the main topic"
+    ],
+    "Brand elements present": "None overt; may be personal branding via presenter's style"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail shows a healthy, approachable person in a home fitness/wellness setting\u2014directly resonant with the subject of preparing to conceive. Text overlays list clear action steps, mirroring the structure of the video title ('10 things to do if you are Trying To Conceive'), with the main phrase emphasized in bold color.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The visual tone (healthy, positive, supportive) and the clear actionable steps both strongly align with the title message about trying to get pregnant."
+  }
+}

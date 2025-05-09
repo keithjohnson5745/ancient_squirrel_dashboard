@@ -1,0 +1,13 @@
+{
+  "title": "Skore Lubricants",
+  "thumbnail_path": "thumbnails/T-eLaRk510s_max.jpg",
+  "title_length": 16,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

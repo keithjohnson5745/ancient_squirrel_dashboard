@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "reddish-brown": "35% (left panel)",
+      "beige/cream": "30% (center background)",
+      "teal/green": "35% (right panel)"
+    },
+    "Composition type": "Medium close-up (single person, upper body and face prominent, centered)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, inviting",
+      "demographics_if_apparent": "Adult female-presenting, light-to-medium skin, brown curly hair, wearing glasses, likely 30s-40s"
+    },
+    "Main objects/props featured": "Person in the center, wearing a blue patterned top, glasses; no additional props present.",
+    "Background environment": "Solid color blocks (reddish-brown left, beige center, teal right), no environmental context. 'Adam & Eve' logo above person's head."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "BEST LUBES FOR ANAL SEX",
+      "Adam & Eve www.adamandeve.com",
+      "Savvy SEX IN 60 SECONDS with Dr. Jenni"
+    ],
+    "Font characteristics": {
+      "BEST LUBES FOR ANAL SEX": "Bold sans-serif, uppercase, cream/yellowish text, 'SEX' larger for emphasis",
+      "Adam & Eve": "Classic serif, black, elegant with a red apple graphic",
+      "www.adamandeve.com": "Lowercase sans-serif, black",
+      "Savvy SEX": "Large white serif, 'SEX' all caps and bold, 'Savvy' title case",
+      "IN 60 SECONDS": "Small white sans-serif block letters",
+      "with Dr. Jenni": "Script-like, white, mimics handwriting"
+    },
+    "Text placement": {
+      "BEST LUBES FOR ANAL SEX": "Left side panel, vertically centered",
+      "Adam & Eve logo/url": "Top center, above subject\u2019s head",
+      "Savvy SEX...": "Right side panel, upper and mid, vertically stacked"
+    },
+    "Emotional/trigger words": [
+      "BEST",
+      "SEX",
+      "Savvy"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, approachable, and positive; aims to normalize and ease discussion about a sensitive topic.",
+    "Visual metaphors or symbols": "Apple (Adam & Eve) as a symbol of sexuality/temptation; bright colors and smiling face imply safety and trust.",
+    "Clickbait techniques employed": [
+      "Trigger word 'SEX' in large bold font for immediate attention.",
+      "'BEST' as a top-list superlative.",
+      "Promise of speed/efficiency with 'IN 60 SECONDS'."
+    ],
+    "Brand elements present": [
+      "Adam & Eve logo and URL",
+      "Series branding: 'Savvy SEX IN 60 SECONDS with Dr. Jenni'"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail repeats the title nearly verbatim ('BEST LUBES FOR ANAL SEX'), directly referencing the video\u2019s subject. The smiling, trustworthy presenter alongside clear and bold text signals that the video will be informative and approachable.",
+    "Contrasts or mismatches": "No major contrasts; however, visually there is no direct depiction of lube products or explicit sexual imagery\u2014everything is suggestive/educational rather than graphic, aligning with the friendly expert theme, not with sensationalism."
+  }
+}

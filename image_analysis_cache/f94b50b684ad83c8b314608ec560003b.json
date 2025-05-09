@@ -1,0 +1,70 @@
+{
+  "visual_elements": {
+    "dominant_colors": {
+      "soft teal/light blue": "40%",
+      "white": "30%",
+      "light wood/tan": "10%",
+      "denim blue (jeans)": "10%",
+      "skin tones": "5%",
+      "accent colors (red on model, turquoise cup)": "5%"
+    },
+    "composition_type": "Medium shot (shows upper half of two people, focus on seated person with object, staged interaction)",
+    "human_presence": {
+      "number_of_people": 2,
+      "expressions": "The person on the right is smiling, engaged, and demonstrating something. The person on the left (mostly off-frame, only torso visible) appears to be attentive.",
+      "demographics_if_apparent": "Adults, likely women (based on hairstyle and context), one has light brown curly hair and light skin, other has long dark blond/light brown hair."
+    },
+    "main_objects_props_featured": [
+      "Anatomical model of a pelvis, being held and demonstrated",
+      "Large turquoise/yellow cup with straw (background, less important)",
+      "Office chair, desk, and small side table"
+    ],
+    "background_environment": "Professional, clinical setting (likely a physical therapy or medical office), with window blinds, minimal decor, and natural light."
+  },
+  "text_elements": {
+    "all_text_visible": [
+      "Emsella review by a pelvic floor PT",
+      "Lady Bird Physical Therapy"
+    ],
+    "font_characteristics": {
+      "main_title": {
+        "style": "Bold, geometric sans-serif",
+        "emphasis": "Large, all lowercase except 'PT', very prominent",
+        "color": "White"
+      },
+      "brand_name": {
+        "style": "Serif, elegant",
+        "emphasis": "Smaller, bottom left, uppercase 'Lady Bird', 'Physical Therapy' in a lighter weight",
+        "color": "White"
+      }
+    },
+    "text_placement_within_frame": {
+      "main_title": "Takes up the entire left half of the thumbnail, centered vertically and horizontally",
+      "brand": "Bottom left corner"
+    },
+    "emotional_trigger_words": [
+      "review"
+    ],
+    "PT": "The word 'review' signals valuable, first-hand information from an expert, which may prompt viewers to trust and click."
+  },
+  "thematic_elements": {
+    "overall_emotional_tone": "Welcoming, trustworthy, professional, educational. Calm and accessible due to soft colors, casual attire, and smiling interaction.",
+    "visual_metaphors_or_symbols": [
+      "Pelvic model symbolizes expertise, education, and health focus.",
+      "Professional setting reinforces trust and legitimacy."
+    ],
+    "clickbait_techniques_employed": [
+      "Expert review (by pelvic floor PT) adds social proof/credibility.",
+      "Direct, practical topic signals clear value.",
+      "Friendly faces and demonstration hint at an approachable breakdown of a complex topic."
+    ],
+    "brand_elements_present": [
+      "Lady Bird Physical Therapy logo and name in corner",
+      "Color palette and office setting reinforce clinical/medical brand"
+    ]
+  },
+  "thumbnail_title_relationship": {
+    "how_thumbnail_reinforces_title": "Thumbnail directly shows a pelvic floor physical therapist (PT) interacting with a pelvic model, clearly alluding to an expert review on a pelvic floor-related device (Emsella). The visual of the pelvis model, clinical office, and professional context establishes authority and expertise as promised in the title.",
+    "contrasts_or_mismatches": "No significant mismatches. The presence of the pelvic model (rather than the Emsella device itself) might lead some viewers to expect a focus on education rather than a device demo, but the PT context is strongly aligned."
+  }
+}

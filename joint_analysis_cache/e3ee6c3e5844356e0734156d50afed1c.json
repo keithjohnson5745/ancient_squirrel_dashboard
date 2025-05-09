@@ -1,0 +1,13 @@
+{
+  "title": "Skincare Mistakes Everyone Makes (And How To Fix Them)",
+  "thumbnail_path": "thumbnails/K74OBLT0-yg_max.jpg",
+  "title_length": 54,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

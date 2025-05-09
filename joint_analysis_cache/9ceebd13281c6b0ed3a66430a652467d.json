@@ -1,0 +1,13 @@
+{
+  "title": "\u092c\u091a\u094d\u091a\u0947\u0926\u093e\u0928\u0940 \u092e\u0947\u0902 \u0907\u0928\u094d\u092b\u0947\u0915\u094d\u0936\u0928 (PID) \u0915\u0947 \u0915\u093e\u0930\u0923, \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u0907\u0932\u093e\u091c | PELVIC INFLAMMATORY DISEASE BEST TREATMENT",
+  "thumbnail_path": "thumbnails/Vd1mlWmas9s_high.jpg",
+  "title_length": 97,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

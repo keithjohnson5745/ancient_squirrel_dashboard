@@ -1,0 +1,43 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Turquoise/aqua blue (water)": "50%",
+      "Dark green (vegetation, left)": "15%",
+      "Black/grey (rock walls, shadows)": "20%",
+      "Skin tones": "10%",
+      "White (waterfall, text)": "5%"
+    },
+    "Composition type": "Close-up/Medium shot (foregrounded selfie-style)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both individuals are smiling, appearing happy and engaged",
+      "Demographics (apparent)": "One man, one woman; both adults, likely in their 20s or 30s"
+    },
+    "Main objects/props featured": "The two people (themselves), turquoise water, waterfall in background/no visible props",
+    "Background environment": "Outdoor, natural setting with a vibrant, turquoise river/pool, high mossy jungle cliffs, and a central waterfall"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "COSTA RICA\nTRAVEL GUIDE",
+    "Font characteristics": {
+      "Style": "Serif, bold and formal for 'COSTA RICA', smaller all-caps serif for 'TRAVEL GUIDE'",
+      "Emphasis": "Strong, high-contrast due to white color and bold thickness",
+      "Color": "White, with a possible drop shadow for contrast",
+      "Lines": "Horizontal lines above and below 'TRAVEL' for added emphasis"
+    },
+    "Text placement within frame": {
+      "\u2018COSTA RICA\u2019": "Dominates upper/central area, over the waterfall",
+      "'TRAVEL GUIDE'": "Below main title, aligned horizontally, flanking the people\u2019s heads"
+    },
+    "Use of emotional/trigger words": "'COSTA RICA', 'TRAVEL', 'GUIDE' are functional, tourism-positive; not overtly urgent or clickbait within the thumbnail itself"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, adventurous, inviting, authentic (friendly smiling faces in an exotic setting)",
+    "Visual metaphors or symbols": "Waterfall and jungle symbolize Costa Rica\u2019s natural beauty and adventure; the close selfie suggests a personal, relatable travel experience",
+    "Clickbait techniques employed": "Eye-catching visuals (clear happy faces, bright colors), exotic location, direct labeling as a 'Guide', relatable personal image",
+    "Brand elements present": "No strong channel brand logos present, but the consistent professional style suggests travel vlogging branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The natural setting, waterfall, and happy travelers visually confirm the travel and Costa Rica context mentioned in the title; the overlay text 'TRAVEL GUIDE' aligns with '12 Essential Costa Rica Travel Tips'.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail appears to be more about the experience (traveling as a couple in Costa Rica) and may not visually indicate the '12 tips' or 'must-watch before you go' urgency; there are no visual cues for list/tip format, just the destination and positive vibe."
+  }
+}

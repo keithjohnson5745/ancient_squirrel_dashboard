@@ -1,0 +1,11 @@
+{
+  "title": "BREAKING: Democrats score VICTORY we\u2019ve WAITED FOR",
+  "thumbnail_path": "thumbnails/Klm61KokM2g_high.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

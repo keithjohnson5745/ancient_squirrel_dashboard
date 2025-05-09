@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Tan (skin tones & coconut)": 30,
+      "Light blue/gray (background wall)": 25,
+      "Brown (coconut shell)": 20,
+      "White (shirt & text)": 15,
+      "Blue (bottle cap, label accent)": 10
+    },
+    "Composition type": "Medium close-up (framed from mid-torso up, focused on person holding items, surrounded by graphic elements)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, informative (mouth slightly open, direct eye contact with viewer)",
+      "Demographics": "Young adult, likely female, medium skin tone, purple hair, facial piercings"
+    },
+    "Main objects/props featured": [
+      "Plastic bottle with blue cap (likely meant to represent coconut oil)",
+      "Spray bottle (possibly a commercial lubricant)",
+      "Coconut graphic",
+      "Hand squeezing lubricant-like substance (side of frame)"
+    ],
+    "Background environment": "Neutral indoor setting (vertical lines suggest a wall or curtain), overlaid with a large, cut-open coconut graphic"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Coconut oil as lube?",
+      "BUT A LOT OF PEOPLE USE COCONUT OIL",
+      "Nutshell"
+    ],
+    "Font characteristics": {
+      "Coconut oil as lube?": {
+        "Style": "Bold, all-caps, sans-serif",
+        "Emphasis": "High (white text on red background, drop shadow)",
+        "Color": "White"
+      },
+      "BUT A LOT OF PEOPLE USE COCONUT OIL": {
+        "Style": "Bold, all-caps, sans-serif",
+        "Emphasis": "Medium (white text with black outline shadow)",
+        "Color": "White/Black"
+      },
+      "Nutshell": {
+        "Style": "Medium, sans-serif, branded logo style",
+        "Color": "White"
+      }
+    },
+    "Text placement within frame": {
+      "Coconut oil as lube?": "Top center, large text box",
+      "BUT A LOT OF PEOPLE USE COCONUT OIL": "Lower center, overlaid on person\u2019s torso",
+      "Nutshell": "Top right, small logo"
+    },
+    "Use of emotional/trigger words": [
+      "Lube",
+      "Coconut oil",
+      "People use"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, somewhat provocative, informative, with a direct and attention-grabbing vibe",
+    "Visual metaphors or symbols": [
+      "Coconut (represents coconut oil)",
+      "Hand squeezing gelatinous substance (reference to lubricant use)"
+    ],
+    "Clickbait techniques employed": [
+      "Sensational question (implies surprise or taboo)",
+      "Visual innuendo (hand squeezing viscous liquid)",
+      "Direct address of unusual topic"
+    ],
+    "Brand elements present": [
+      "\u2018Nutshell\u2019 logo (top right corner)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly visualizes the video\u2019s title by showing coconut imagery, a bottle (implied coconut oil), the text 'Coconut oil as lube?', and a literal depiction of a lubricant-like fluid, making the connection between the concept and visuals immediate and explicit.",
+    "Contrasts or mismatches": "No significant mismatches; the visuals and title are closely aligned for maximum clarity and engagement. Both use the provocative question to drive curiosity."
+  }
+}

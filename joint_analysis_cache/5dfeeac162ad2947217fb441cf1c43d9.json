@@ -1,0 +1,13 @@
+{
+  "title": "Why these goggles are everywhere",
+  "thumbnail_path": "thumbnails/qxnr2ZaDasc_max.jpg",
+  "title_length": 32,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

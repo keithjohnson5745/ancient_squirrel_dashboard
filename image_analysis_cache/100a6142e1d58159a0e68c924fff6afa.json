@@ -1,0 +1,89 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "White",
+        "percentage": 40
+      },
+      {
+        "color": "Blue (various shades)",
+        "percentage": 25
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 20
+      },
+      {
+        "color": "Red (arrow)",
+        "percentage": 10
+      },
+      {
+        "color": "Black (text outline, shadows)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (showing upper body and hand of woman, full product in foreground)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slightly pleasant expression",
+      "demographics": "Adult woman, light skin, long brown hair"
+    },
+    "Main objects/props featured": [
+      "Hand raised with nails visible",
+      "Vaseline (petroleum jelly) container",
+      "Large red and white arrow pointing from Vaseline to hand"
+    ],
+    "Background environment": "Plain light grey/white gradient background, no discernible environment"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "NAIL HACKS",
+      "Vaseline pure petroleum jelly original"
+    ],
+    "Font characteristics": [
+      {
+        "text": "NAIL HACKS",
+        "style": "Tall, bold, sans-serif, all uppercase, black with white fill and thick outline",
+        "emphasis": "High visual impact, meant to grab attention"
+      },
+      {
+        "text": "Vaseline pure petroleum jelly original",
+        "style": "Vaseline brand label font, standard sans-serif",
+        "emphasis": "Normal branding"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "NAIL HACKS",
+        "placement": "Top left, spanning nearly the entire top width"
+      },
+      {
+        "text": "Vaseline pure petroleum jelly original",
+        "placement": "On Vaseline container label, bottom left area"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "HACKS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Helpful, practical, slightly curious with a subtle hint of excitement (due to the word 'HACKS' and bold visuals)",
+    "Visual metaphors or symbols": [
+      "Red arrow: draws urgent attention from product to hand, symbolizing transformation or cause/effect",
+      "Vaseline container: represents the surprising or 'hack' element"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, oversized text to catch attention",
+      "'HACKS' keyword implying secret/unknown tips",
+      "Red arrow creates a sense of motion/importance, points audience visually",
+      "Direct gaze and clear hand gesture to focus attention on the 'nail' topic"
+    ],
+    "Brand elements present": [
+      "Vaseline branded container (suggests recognizable mainstream product)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The image focuses on a hand (nails) and Vaseline, a typical household product not usually associated with nail care, suggesting 'unexpected' hacks. The large text 'NAIL HACKS' visually echoes the video's topic.",
+    "Contrasts or mismatches": "The thumbnail does not explicitly refer to '5' hacks or strongly visualize 'unexpectedness' outside the surprising use of Vaseline. The emphasis is more on a single standout hack/product (Vaseline) than a variety."
+  }
+}

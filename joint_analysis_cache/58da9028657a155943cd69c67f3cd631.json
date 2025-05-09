@@ -1,0 +1,13 @@
+{
+  "title": "The New Era of Alpha Males",
+  "thumbnail_path": "thumbnails/G90Tnk8zHQI_max.jpg",
+  "title_length": 26,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

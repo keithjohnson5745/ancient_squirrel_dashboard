@@ -1,0 +1,13 @@
+{
+  "title": "Remember Rachel Zegler? Her Life Is Ruined Now",
+  "thumbnail_path": "thumbnails/6M920su2hds_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

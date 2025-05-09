@@ -1,0 +1,12 @@
+{
+  "title": "Improving Fertility in Men with Poor Sperm Count | Jesse Mills, MD | UCLAMDChat",
+  "thumbnail_path": "thumbnails/KO2S_gqSTh0_max.jpg",
+  "title_length": 79,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.35
+}

@@ -1,0 +1,14 @@
+{
+  "title": "22 Boyfriends | Crowd Work | Stand Up Comedy | Ft @Harshgujral",
+  "thumbnail_path": "thumbnails/MwsHgn_jdIY_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

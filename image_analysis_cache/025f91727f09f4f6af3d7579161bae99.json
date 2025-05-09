@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "30%",
+      "Green": "10% (plant in background)",
+      "Purple/Pink": "15% (Pregnitude box)",
+      "Blue": "10% (PreSeed box)",
+      "White": "20% (text overlay, product boxes)",
+      "Dark brown/black": "15% (background, hair, shirt)"
+    },
+    "Composition type": "Medium shot (upper body of a single individual, person centered in frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, happy, open and enthusiastic demeanor",
+      "Demographics": "Adult woman"
+    },
+    "Main objects/props featured": [
+      "Pregnitude supplement box",
+      "Pre-Seed lubricant box"
+    ],
+    "Background environment": "Indoor room with neutral decor\u2014visible plant in a planter, wall art, and additional faint objects; muted lighting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Pregnitude",
+      "Pre-Seed",
+      "Fertility Products"
+    ],
+    "Font characteristics": {
+      "Pregnitude and Pre-Seed": "Standard product packaging fonts, sans-serif, professional, legible",
+      "Fertility Products": "Large, handwritten script-style font, white, flowing with flourishes; high emphasis"
+    },
+    "Text placement within frame": {
+      "Pregnitude": "On product box, left side, held by woman",
+      "Pre-Seed": "On product box, center, held by woman",
+      "Fertility Products": "Large overlay across bottom half of image, front and center"
+    },
+    "Use of emotional/trigger words": [
+      "Fertility"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, hopeful, supportive\u2014inviting to viewers looking for help with fertility",
+    "Visual metaphors or symbols": [
+      "Arrow illustrations"
+    ],
+    "Clickbait techniques employed": [
+      "Direct product display",
+      "Presenter's enthusiasm",
+      "Handwritten text overlay",
+      "Use of arrows to highlight items"
+    ],
+    "Brand elements present": [
+      "Pregnitude packaging",
+      "Pre-Seed packaging"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly visualizes the title by showing the actual products (Pregnitude, Pre-Seed) mentioned and the presenter who presumably experienced their use, signaling authenticity and relevance to 'Products We Used to Get Pregnant.' Large overlay text ('Fertility Products') and arrows guide the viewer to focus on what's relevant.",
+    "Contrasts or mismatches": "There is strong alignment between the thumbnail and title. The only minor mismatch is the overlayed text says 'Fertility Products' rather than the more specific 'Products We Used to Get Pregnant', but this does not detract from overall coherence."
+  }
+}

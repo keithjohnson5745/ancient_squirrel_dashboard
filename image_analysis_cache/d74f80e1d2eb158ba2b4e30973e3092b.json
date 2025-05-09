@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (background, bedding, some text)",
+      "Light blue": "30% (woman's clothing)",
+      "Skin tones": "15% (woman's visible flesh/tone)",
+      "Black": "10% (text and shadow)",
+      "Red": "5% (highlight box for 'WATCH THIS')"
+    },
+    "Composition type": "Medium shot (focus on torso and partial face of a woman lying down, hands on her stomach)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Partial, woman appears content or thoughtful (smile, relaxed pose), face only partially visible",
+      "demographics": "Adult female, likely of reproductive age, light to medium skin tone, dark hair"
+    },
+    "Main objects/props featured": [
+      "Pregnant or potentially pregnant woman",
+      "Bed (white bedding)",
+      "Blue striped shirt (suggesting comfort, casual setting)"
+    ],
+    "Background environment": "Indoor, soft-focus bedroom scene, white/neutral bedding, calm atmosphere"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Thinking About Getting Pregnant?",
+      "WATCH THIS"
+    ],
+    "Font characteristics": {
+      "Thinking About Getting Pregnant?": {
+        "style": "Serif, bold, high contrast",
+        "emphasis": "Strong, eye-catching",
+        "color": "White"
+      },
+      "WATCH THIS": {
+        "style": "Sans-serif, all caps, bold",
+        "emphasis": "Very high (due to color contrast and all caps, placed in a red rectangle)",
+        "color": "White text on red background"
+      }
+    },
+    "Text placement": {
+      "Thinking About Getting Pregnant?": "Left side, taking up upper/middle left corner vertically stacked",
+      "WATCH THIS": "Bottom left, under main text, inside red rectangle"
+    },
+    "Emotional/trigger words": [
+      "Thinking About",
+      "Getting Pregnant",
+      "WATCH THIS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, reassuring, cautionary/informative",
+    "Visual metaphors or symbols": [
+      "Hands on stomach (symbolizing pregnancy/intention to conceive)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question to viewer (relatable pain point)",
+      "Imperative 'WATCH THIS' in bold red for urgency",
+      "Emphasis on knowledge or secrets to be revealed"
+    ],
+    "Brand elements present": "No obvious logo, but use of bold text box/call to action is common in authoritative/health content"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail depicts a woman in a gentle moment, hand on stomach, which directly connects to pregnancy and prepares the viewer for preconception advice. The text clearly addresses viewers who are considering pregnancy, matching the video title's subject.",
+    "Contrasts or mismatches": "There is a close match; both focus on pregnancy planning. The thumbnail\u2019s softness (in imagery) complements the informative and preparatory tone of the title. No significant mismatch observed."
+  }
+}

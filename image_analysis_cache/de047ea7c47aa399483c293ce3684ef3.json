@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Hot pink": "35%",
+      "White": "30%",
+      "Beige/tan (background)": "20%",
+      "Black": "10%",
+      "Blue (in sperm/egg icon)": "5%"
+    },
+    "Composition type": "Medium close-up (shows head and shoulders of a woman on the right, icons and text on left)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Slightly smiling, approachable and friendly",
+      "Demographics": "Adult woman, light skin, blonde hair, likely in her 30s or 40s"
+    },
+    "Main objects/props featured": [
+      "Illustration of an egg and sperm",
+      "Calendar icon with highlighted days",
+      "Large text and colored box"
+    ],
+    "Background environment": "Neutral gradient background (beige/tan), visually unobtrusive, subject stands out"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "TTC\nHow to get pregnant",
+    "Font characteristics": [
+      {
+        "Text": "TTC",
+        "Style": "Bold, sans-serif",
+        "Emphasis": "Uppercase, white on hot pink background",
+        "Color": "White"
+      },
+      {
+        "Text": "How to get pregnant",
+        "Style": "Bold, smooth sans-serif",
+        "Emphasis": "Lowercase except 'How', black on white background",
+        "Color": "Black"
+      }
+    ],
+    "Text placement within frame": [
+      "\u2018TTC\u2019 (top left inside pink box)",
+      "\u2018How to get pregnant\u2019 (bottom across the width, separated by a white bar)"
+    ],
+    "Use of emotional/trigger words": [
+      "How to get pregnant",
+      "TTC"
+    ],
+    "Notes": "\u2018How to get pregnant\u2019 is direct and addresses a common, highly-searched concern."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, encouraging, informative, approachable",
+    "Visual metaphors or symbols": [
+      "Egg/sperm icon (symbolizing conception/fertility)",
+      "Calendar (implying timing or planning)"
+    ],
+    "Clickbait techniques employed": [
+      "Highly specific direct question (How to get pregnant)",
+      "Bright, contrasting colors to draw attention",
+      "Personal approach (smiling person creates trust/familiarity)"
+    ],
+    "Brand elements present": [
+      "Consistent use of hot pink and white for text/elements",
+      "Potential brand personality in the visual/style and presence of the creator"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": [
+      "Shows key concepts from title with icons (egg/sperm, calendar for timing/fertility) and large direct text",
+      "Image of a woman likely evokes a sense of relatability and expertise"
+    ],
+    "Contrasts or mismatches": [
+      "No significant contrasts; the visual style, symbols, and text all align directly with the video title's promise"
+    ]
+  }
+}

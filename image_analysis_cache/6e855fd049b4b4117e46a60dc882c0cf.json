@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approximately 50% (background and text accents)",
+      "White": "Approximately 40% (left background, text)",
+      "Peach/Salmon": "Approximately 8% (woman's top)",
+      "Skin tone": "Approximately 2% (subject's face, arms)",
+      "Other": "Very minor presence of black/brown (hair, glasses)"
+    },
+    "Composition type": "Medium close-up shot (shoulders and head of woman, filling right half)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Soft smile, friendly expression",
+      "Demographics": "Adult woman, light skin tone, wearing glasses, brown hair"
+    },
+    "Main objects/props featured": "Woman with glasses, wearing peach top; no props visible",
+    "Background environment": "Plain, solid blue background on right; solid white with blue graphics on left"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "It's All in Your Head",
+      "PODCAST",
+      "Living with Porn Addiction",
+      "MedCircle"
+    ],
+    "Font characteristics": {
+      "It's All in Your Head": "Script/cursive font, white, italicized, on a solid blue background strip",
+      "PODCAST": "All uppercase, bold sans-serif, blue, capitalized for emphasis, with microphone icon",
+      "Living with Porn Addiction": "Simple sans-serif, blue, large, left-aligned, highly readable",
+      "MedCircle": "Sans-serif, blue, normal weight, accompanied by a circular 'M' logo"
+    },
+    "Text placement within frame": {
+      "Top left": "It's All in Your Head (within blue strip)",
+      "Underneath top left": "PODCAST with microphone icon",
+      "Middle left": "Living with Porn Addiction (large, dominant)",
+      "Bottom left": "MedCircle logo and text"
+    },
+    "Use of emotional/trigger words": [
+      "Porn Addiction"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, inviting, informative \u2014 the subject is smiling gently, not distressed",
+    "Visual metaphors or symbols": "Microphone icon denotes 'Podcast'; smiling human face for relatability and openness",
+    "Clickbait techniques employed": "Addressing taboo/attention-grabbing topic ('Porn Addiction'), inclusion of a woman's perspective (relatively less common in public discourse), large readable text",
+    "Brand elements present": "MedCircle logo and consistent blue/white branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The title specifies 'A Woman\u2019s Experience,' and the thumbnail clearly features a woman as the focal point, visually establishing a personal account/perspective. The large text directly references 'Porn Addiction,' matching the topic in the title. The woman\u2019s gentle demeanor helps communicate a thoughtful, first-person narrative rather than shock or shame.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail text says 'Living with Porn Addiction' (a present-tense, ongoing focus) while the video title ('A Woman's Experience') frames it as an individual case study or narrative\u2014both are closely related, but the title is more narrative while the thumbnail text is general/informative. Nonetheless, both are largely harmonious and supportive of each other."
+  }
+}

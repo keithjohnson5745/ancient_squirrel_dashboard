@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue (bottle and cap)": "30%",
+      "Skin tones (hand and face)": "25%",
+      "Gray (background)": "35%",
+      "White (text and logo)": "10%"
+    },
+    "Composition type": "Medium close-up; single person in focus, holding an object towards the camera (shallow depth of field).",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Person's face is partially obscured by the supplement bottle; not much visible emotion, but gesture implies seriousness or informative intent.",
+      "Demographics": "Adult male, light/medium skin, wearing glasses, wedding ring visible."
+    },
+    "Main objects/props featured": [
+      "Supplement bottle labeled 'DHEA 25mg'",
+      "Person holding bottle",
+      "Subtle branding/logo in top right corner"
+    ],
+    "Background environment": "Blurry, neutral, gray background; minimal distractions to focus attention on main subject and object."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DHEA 25 mg",
+      "Promotes Optimal Hormone Levels*",
+      "NON GMO",
+      "100 CAPSULES DIETARY SUPPLEMENT",
+      "OTC supplement raises testosterone, estrogen??",
+      "SIMPLE HORMONES",
+      "with Steve Goldring",
+      "The Hormone Pharmacist"
+    ],
+    "Font characteristics": {
+      "Main text (bottom)": "Large, bold sans-serif, all lowercase except abbreviations, white for maximum contrast",
+      "Bottle label": "Standard sans-serif, medium size, white on dark blue for readability",
+      "Logo and channel info": "Modern/clean sans-serif, smaller size, mix of teal/green and white"
+    },
+    "Text placement within frame": {
+      "Main question text": "Lower third, prominent and centered, overlaying person\u2019s chest",
+      "Supplement label": "On the object held in foreground, readable",
+      "Channel logo/info": "Upper right corner, smaller and less intrusive"
+    },
+    "Use of emotional/trigger words": [
+      "raises",
+      "testosterone",
+      "estrogen",
+      "OTC supplement",
+      "??"
+    ],
+    "Trigger words highlight": "'raises', 'testosterone', 'estrogen' signal potential health benefits or controversy, '??' adds curiosity/uncertainty for clickbait."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, provocative, scientifically informative",
+    "Visual metaphors or symbols": "Supplement bottle as a focal point symbolizes easy accessibility and actionable health change; the direct gesture emphasizes a call-to-action or promise.",
+    "Clickbait techniques employed": [
+      "Leading question with double question marks to provoke curiosity",
+      "Reference to popular hormones associated with health and vitality",
+      "OTC implies accessibility and immediate benefit"
+    ],
+    "Brand elements present": [
+      "Channel logo 'SIMPLE HORMONES'",
+      "Channel host's name",
+      "Tagline ('The Hormone Pharmacist')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly shows DHEA, the subject of the video title, reinforcing the focus on OTC supplements and hormone benefits. The question in the thumbnail mirrors the video title's promise of hormone boosts and related health advantages.",
+    "Contrasts or mismatches": "The thumbnail emphasizes 'testosterone, estrogen' specifically, while the title also highlights menopause symptoms and bone strength. The thumbnail visual does not depict menopause or bone health directly.",
+    "Synergy": "Both the text and visuals build curiosity about whether an OTC supplement like DHEA can significantly influence hormones, supporting the theme of the video."
+  }
+}

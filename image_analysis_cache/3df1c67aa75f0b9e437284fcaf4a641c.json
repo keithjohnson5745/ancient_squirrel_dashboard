@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Red": "30% (mainly from the large rose in the background and text accent)",
+      "Black/Gray": "35% (background and shadows)",
+      "Yellow": "10% (main text color)",
+      "White": "15% (woman's sweater and some text)",
+      "Skin tones": "10% (woman's face and neck)",
+      "Other minor colors": "Subtle greens in the leaves behind the rose"
+    },
+    "Composition type": "Medium shot, with a close-up of a woman's face occupying the right side of the thumbnail and the rose/text on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Gender/presentation": "Female (based on hairstyle and facial features, likely in her late teens or early twenties)",
+      "Expression": "Neutral to slightly pouty expression; direct gaze at the camera",
+      "Demographics": "Appears to be young adult, possibly of mixed or ambiguous ethnicity"
+    },
+    "Main objects/props featured": [
+      "Large red rose (background center-left)",
+      "Young woman (foreground right)"
+    ],
+    "Background environment": "Blurred leafy and floral background dominated by a red rose; color palette is dark and muted except for the rose and face."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "ISINAGAD Ni BAYAW",
+      "SIGE LANG, HABANG WALA ANG MISIS MO! LAKI PALA!"
+    ],
+    "Font characteristics": {
+      "ISINAGAD Ni": "Bold sans-serif, uppercase, yellow with black drop shadow (main attention grabber)",
+      "BAYAW": "Bold sans-serif, uppercase, red with heavy white and black outlining for emphasis",
+      "SIGE LANG, ... LAKI PALA!": "All caps, white sans-serif, with black outline, smaller, less emphasis"
+    },
+    "Text placement": {
+      "Top left": "ISINAGAD Ni",
+      "Mid left": "BAYAW",
+      "Bottom left": "SIGE LANG, HABANG WALA ANG MISIS MO! LAKI PALA!"
+    },
+    "Emotional/trigger words": [
+      "ISINAGAD",
+      "BAYAW",
+      "LAKI PALA!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Suggestive, dramatic, and slightly provocative due to the phrases used and the intense gaze of the person in the thumbnail.",
+    "Visual metaphors/symbols": [
+      "Red rose (traditionally symbolizes romance, passion, or seduction)"
+    ],
+    "Clickbait techniques employed": [
+      "Emphasized keywords in bold/red/yellow",
+      "Suggestive and teasing language",
+      "Use of an attractive person with direct eye contact",
+      "Incomplete context to provoke curiosity"
+    ],
+    "Brand elements present": "No clear logo or brand watermark visible."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The use of strong, suggestive text in the thumbnail (\"ISINAGAD Ni BAYAW\" and the follow-up line) visually and thematically aligns with the title \"SAGAD / FULL\", emphasizing extremes and pushing limits.",
+    "Contrasts or mismatches": "The title itself is vague ('SAGAD / FULL'), while the thumbnail text is more explicit and provocative. The content of the thumbnail strongly suggests personal or scandalous drama, which may or may not be directly evident from the title alone."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "white": "approx. 70% (background and most panels)",
+      "red": "approx. 15% (main title, accent text, props)",
+      "black": "approx. 10% (title text, borders, animal outlines, bike outlines)",
+      "yellow": "approx. 2% (arrows pointing to animals)",
+      "brown": "approx. 3% (bull and ox images)"
+    },
+    "Composition type": "Wide shot, collage-like with both text blocks and illustrative images. The visual hierarchy creates a centered, attention-focused layout.",
+    "Human presence": "None. No humans are depicted; only animals (ox, bull) and objects (tricycle, bicycle).",
+    "Main objects/props featured": [
+      "Large, bold text blocks",
+      "Photo of an ox",
+      "Photo of a bull",
+      "Tricycle illustration",
+      "Bicycle illustration",
+      "Yellow arrows",
+      "Boxed labels"
+    ],
+    "Background environment": "Plain white background for maximum contrast with text and images."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "HIGH YIELD ANTIDEPRESSANTS REVIEW",
+      "FLUOXETINE first line med for BULIMIA",
+      "OX",
+      "BULL",
+      "MNEMONICS!",
+      "\u201cA Tricycle is a Small Bicycle\u201d",
+      "Tricyclic Antidepressant Overdose = Sodium Bicarbonate"
+    ],
+    "Font characteristics": {
+      "Title ('HIGH YIELD ANTIDEPRESSANTS REVIEW')": "Bold, blocky, sans-serif, with distressed texture (for 'HIGH YIELD' and 'REVIEW'), 'ANTIDEPRESSANTS' is all-caps, larger, in red, underlined.",
+      "Subtexts and labels": "Simple sans-serif, regular and bold mix, smaller size, red for emphasis or select medical/mnemonic terms.",
+      "Mnemonics": "Bold, all-caps, italicized and in red for prominence."
+    },
+    "Text placement within frame": {
+      "Central": "HIGH YIELD ANTIDEPRESSANTS REVIEW (largest text, centrally aligned)",
+      "Bottom Left": "FLUOXETINE/OX/BULL panel",
+      "Bottom Center": "MNEMONICS!",
+      "Bottom Right": "Tricycle/Bicycle panel"
+    },
+    "Use of emotional/trigger words": [
+      "HIGH YIELD"
+    ],
+    "Emphasis on keywords": [
+      "ANTIDEPRESSANTS",
+      "MNEMONICS!",
+      "Tricycle",
+      "Bicycle",
+      "Sodium Bicarbonate"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confident, urgent, academic. Conveys authority and strategic test-prep.",
+    "Visual metaphors or symbols": [
+      "Ox + Bull to mnemonic \u2018FLUOXETINE\u2019 (OX, BULL as memory cues)",
+      "Tricycle vs. Bicycle as a mnemonic for 'Tricyclic Antidepressants'"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claims: 'HIGH YIELD' appeals to exam/test-takers",
+      "Color emphasis: Red highlights for urgency and importance",
+      "Promise of mnemonics: Simplifies complex topic for students"
+    ],
+    "Brand elements present": "No explicit brand logos; but design style aligns with educational/medical review channels."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": [
+      "Thumbnail emphasizes 'ANTIDEPRESSANTS REVIEW' boldly, directly mirroring the title.",
+      "Use of pharmacology mnemonics and exam-related language ('HIGH YIELD', 'MNEMONICS!') matches the promise of memorization strategies in the title.",
+      "Visual mnemonics (Ox/Bull, Tricycle/Bicycle) reinforce the idea of proven memory aids for exams."
+    ],
+    "Contrasts or mismatches": [
+      "None apparent; visual content and textual cues are in strong alignment with the video title\u2019s focus on antidepressant review and mnemonic strategies."
+    ]
+  }
+}

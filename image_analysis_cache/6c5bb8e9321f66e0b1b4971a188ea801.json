@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "White",
+        "approximate_percentage": "60%"
+      },
+      {
+        "color": "Muted Peach/Salmon (used for text and clothing)",
+        "approximate_percentage": "30%"
+      },
+      {
+        "color": "Skin tone",
+        "approximate_percentage": "8%"
+      },
+      {
+        "color": "Dark Brown (hair)",
+        "approximate_percentage": "2%"
+      }
+    ],
+    "Composition type": "Medium shot, side-on view of a person seated in a yoga pose.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to calm, focused expression, demonstrating yoga.",
+      "demographics": "Adult woman, light skin tone, dark hair tied back."
+    },
+    "Main objects/props featured": [
+      "Person performing a yoga pose",
+      "Wearing wireless earbuds/headphones",
+      "No visible props (mat implied but not shown)"
+    ],
+    "Background environment": "Plain white background, minimalist with no visible environment or decor."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "FERTILITY YOGA",
+    "Font characteristics": {
+      "style": "Bold, uppercase, sans-serif",
+      "emphasis": "Heavy emphasis through font weight and size",
+      "color": "Muted peach/salmon, matching the leggings of the person"
+    },
+    "Text placement within frame": "Large text on the left, aligned vertically and horizontally to dominate the left half of the thumbnail.",
+    "Emotional/trigger words": [
+      "FERTILITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, hopeful, supportive, and health-focused.",
+    "Visual metaphors or symbols": [
+      "Yoga pose suggesting mindfulness, relaxation, and wellness",
+      "Matching text and clothing color hinting at harmony/balance"
+    ],
+    "Clickbait techniques employed": [
+      "Use of large, clear, relevant keywords ('FERTILITY YOGA')",
+      "Clean, approachable imagery indicating clear value proposition",
+      "Directly addressing a sensitive, emotional topic (fertility)"
+    ],
+    "Brand elements present": "No explicit logos or branding. Cohesive color scheme may suggest a brand identity."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail clearly supports the title, showing a woman performing a yoga pose (matching the 'Yoga' theme) and using the words 'FERTILITY YOGA' to directly reference the video's topic of yoga for fertility.",
+    "Contrasts or mismatches": "No apparent mismatches. Both title and thumbnail focus on fertility and yoga, and both employ direct language and visual representation."
+  }
+}

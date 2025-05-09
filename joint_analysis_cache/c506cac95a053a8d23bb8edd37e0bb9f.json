@@ -1,0 +1,13 @@
+{
+  "title": "PCOD/PCOS - \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948? | All about PCOD/PCOS- Causes, Symptoms & Treatment | Dr. Supriya Puranik",
+  "thumbnail_path": "thumbnails/Zrwzv3-SP7c_max.jpg",
+  "title_length": 99,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

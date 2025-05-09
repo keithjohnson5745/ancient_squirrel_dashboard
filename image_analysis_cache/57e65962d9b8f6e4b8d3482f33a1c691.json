@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light purple/lavender background",
+        "percentage": 50
+      },
+      {
+        "color": "Skin tones (beige/tan)",
+        "percentage": 25
+      },
+      {
+        "color": "Yellow (text, arrow)",
+        "percentage": 10
+      },
+      {
+        "color": "Black (text background and outlines)",
+        "percentage": 10
+      },
+      {
+        "color": "Rainbow (clothing stripes\u2014yellow, navy, pink, purple, orange)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Close-up of a person's face, with two inset images showing \"before and after\" jawlines.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Demonstrative/suggestive (person has lips pursed, lightly touching lower face/jowl area, looking at the viewer)",
+      "demographics": "Adult female, fair skin, light hair, wearing colorful striped clothing"
+    },
+    "Main objects/props featured": [
+      "Person\u2019s face (left side of frame)",
+      "Inset side-by-side close-up images of lower face/jawlines (center and right)",
+      "Yellow curved arrow pointing from left image to right image"
+    ],
+    "Background environment": "Abstract, geometric, purple gradient with white geometric/tech patterns; no real-world background elements."
+  },
+  "TEXT ELEMENTS": {
+    "Transcription": "HOW TO FIX SAGGY JOWLS",
+    "Font characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "Capitalized, 'SAGGY JOWLS' highlighted in yellow-on-black box for extra focus",
+      "color": "'HOW TO FIX' in black text on white with black border; 'SAGGY JOWLS' in yellow text on black background"
+    },
+    "Text placement within frame": "'HOW TO FIX' at top-right, 'SAGGY JOWLS' below and more prominent. Text occupies roughly the upper right quadrant.",
+    "Use of emotional/trigger words": [
+      "'FIX' suggests positive change/solutions",
+      "'SAGGY JOWLS' highlights an insecurity/problem, acting as a trigger phrase"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Helpful, encouraging, slightly urgent (solution-oriented for a common aesthetic concern)",
+    "Visual metaphors or symbols": [
+      "Before/after images illustrate transformation/improvement",
+      "Yellow arrow signifies 'improvement' or 'change'"
+    ],
+    "Clickbait techniques employed": [
+      "Bold claim to 'fix' a visible problem",
+      "Before/after comparison for dramatic effect",
+      "Bright colors and strong contrast",
+      "Highlighting insecurity by naming the specific issue"
+    ],
+    "Brand elements present": "None directly visible, but inclusion of a recognizable individual may serve as implicit branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually demonstrates the title\u2019s promise by showing a dermatologist indicating the problem area on her own face and providing an illustrative before/after visual, directly aligning with the 'How to Get Rid of Sagging Jowls' message.",
+    "Contrasts/mismatches": "No significant mismatches; both the thumbnail and title are highly congruent, clearly targeting viewers concerned about sagging jowls and seeking expert advice."
+  }
+}

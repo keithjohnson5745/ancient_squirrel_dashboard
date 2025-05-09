@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige": "40% (background behind text and part of the human illustration)",
+      "Grayish Blue": "40% (main background color)",
+      "Pink": "10% (clothing and skin tones of the illustrated human figure)",
+      "Brown/Red": "8% (hair of illustrated woman)",
+      "Black": "2% (main text)"
+    },
+    "Composition type": "Medium shot (focus on a seated pregnant woman, upper body visible)",
+    "Human presence": {
+      "Number": 1,
+      "Type": "Illustrated woman",
+      "Expression": "Soft, gentle smile; eyes closed (relaxed/content)",
+      "Demographics": "Adult, pregnant, light skin, long brown/red hair"
+    },
+    "Main objects/props featured": [
+      "Illustrated pregnant woman with hands on her belly",
+      "Large beige text box for main message"
+    ],
+    "Background environment": "Simple, gradient gray-blue; generic and non-distracting. No discernible scene or setting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "IS LUBRICANT SAFE FOR BABY MAKING SEX ?",
+      "MALPANI INFERTILITY CLINIC",
+      "We make IVF stress-free by making you an expert patient!"
+    ],
+    "Font characteristics": {
+      "Main question": {
+        "Style": "Bold, sans-serif, all uppercase",
+        "Emphasis": "High contrast, thick weight",
+        "Color": "Black",
+        "Background": "Beige rounded rectangle"
+      },
+      "Clinic/logo section": {
+        "Style": "Regular, sans-serif (all caps for 'MALPANI INFERTILITY CLINIC'); italic for slogan",
+        "Color": "Black",
+        "Background": "White box"
+      }
+    },
+    "Text placement within frame": {
+      "Main question": "Centered left, dominating the left and center parts of the thumbnail in a large beige box",
+      "Clinic/logo": "Top right, small and unobtrusive",
+      "Slogan": "Directly beside logo, top right"
+    },
+    "Use of emotional/trigger words": [
+      "SAFE",
+      "BABY MAKING SEX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, approachable, slightly playful (due to illustration and pastel colors), and informative",
+    "Visual metaphors or symbols": "Pregnant woman symbolizes conception and fertility; visually links to the topic of 'baby making'.",
+    "Clickbait techniques employed": [
+      "Direct and provocative question ('IS LUBRICANT SAFE FOR BABY MAKING SEX?')",
+      "Bold typeface and contrast colors to grab attention",
+      "Curiosity gap (encourages viewer to click for answer)"
+    ],
+    "Brand elements present": [
+      "MALPANI INFERTILITY CLINIC logo and tagline"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title with a direct question about lubricant safety during conception, paired with an illustration of a pregnant woman, clearly linking to fertility and 'chances of conceiving'.",
+    "Contrasts/mismatches": "The thumbnail text uses slightly more casual phrasing ('BABY MAKING SEX') compared to the more clinical phrasing in the title ('chances of conceiving'), potentially aiming to be more approachable or eye-catching, but the topics are strongly aligned. Both focus squarely on the link between lubricant and conception."
+  }
+}

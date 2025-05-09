@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink/magenta background": "65%",
+      "White (clothing, text)": "15%",
+      "Skin tones": "10%",
+      "Black (scarf, eyeglasses)": "5%",
+      "Multicolored (scarf, icon accent)": "5%"
+    },
+    "Composition type": "Medium close-up of the main subject, with additional details (text, inset image) to the right",
+    "Human presence": {
+      "Number of people": 2,
+      "Main person": {
+        "Description": "Older woman, smiling warmly, light skin, glasses, brightly patterned scarf, direct eye contact with camera.",
+        "Expression": "Friendly, inviting, energetic"
+      },
+      "Secondary person": {
+        "Description": "Inset circular photo, appears to be a middle-aged woman, smiling",
+        "Expression": "Welcoming"
+      }
+    },
+    "Main objects/props featured": [
+      "Eyeglasses",
+      "Colorful scarf",
+      "Circular inset headshot"
+    ],
+    "Background environment": "Solid pink/magenta gradient background, clean and distraction-free"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "2.1.21",
+      "SEXUALLY SPEAKING",
+      "An Evening with Dr. Ruth",
+      "MODERATED BY",
+      "UW's Dr. Pepper Schwartz",
+      "THE GRADUATE SCHOOL OFFICE OF PUBLIC LECTURES UNIVERSITY OF WASHINGTON"
+    ],
+    "Font characteristics": {
+      "SEXUALLY SPEAKING": "Bold, all caps, sans-serif, light pink for emphasis",
+      "Other text": "Sans-serif, white/light pink, some small caps (MODERATED BY), clear and easy to read"
+    },
+    "Text placement": {
+      "Top right": "Date ('2.1.21')",
+      "Upper-middle right": "'SEXUALLY SPEAKING' (dominant, larger size)",
+      "Middle right": "'An Evening with Dr. Ruth'",
+      "Lower right": "Moderator details & circular photo",
+      "Bottom right": "Institution branding"
+    },
+    "Emotional/trigger words": [
+      "SEXUALLY",
+      "SPEAKING",
+      "An Evening"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Warm, welcoming, educational, slightly playful but professional",
+    "Visual metaphors or symbols": [
+      "Bright, lively colors and smiling faces evoke approachability and positivity",
+      "Clean background symbolizes clarity and focus on the subject"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, prominent topic word ('SEXUALLY') draws interest",
+      "Featuring a well-known figure (Dr. Ruth) implies expert/celebrity content",
+      "Promise of a special event ('An Evening with...') suggests exclusivity"
+    ],
+    "Brand elements present": [
+      "University of Washington 'W' logo",
+      "Graduate School/Office of Public Lectures branding",
+      "Professional moderator\u2019s title and photo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail features Dr. Ruth as the clear focus, supporting the title's promise of an evening with her. The warm, friendly image and prominent 'SEXUALLY SPEAKING' text directly echo the video\u2019s title and discussion theme.",
+    "Contrasts/mismatches": "No significant mismatch. The thumbnail is aligned with the title: both convey a professional-yet-accessible talk about sexuality, featuring Dr. Ruth. The design is direct and not sensationalized."
+  }
+}

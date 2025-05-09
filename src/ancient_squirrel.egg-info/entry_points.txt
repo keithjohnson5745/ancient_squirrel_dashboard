@@ -1,0 +1,3 @@
+[console_scripts]
+ancient-analyze = ancient_squirrel.cli.analyze:main
+ancient-dashboard = ancient_squirrel.cli.dashboard:main

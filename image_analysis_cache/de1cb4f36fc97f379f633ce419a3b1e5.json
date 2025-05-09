@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Grass green": "Approximately 35%",
+      "Black (clothing)": "Approximately 25%",
+      "Sandy white/beige (bunker)": "Approximately 25%",
+      "Sky blue": "Approximately 5%",
+      "Dark blue/black (sign)": "Approximately 10%"
+    },
+    "Composition type": "Medium shot, rear view",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Not visible, subject is facing away from the camera",
+      "Demographics": "Adult male, athletic build, outfitted in golf attire"
+    },
+    "Main objects/props featured": [
+      "Golf club (held by subject)",
+      "Sand bunker",
+      "Grassy golf course area",
+      "Large signage in the background"
+    ],
+    "Background environment": "Outdoor golf course, with manicured grass, sand bunker, and a billboard/sign in the distance"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in thumbnail": "No clearly legible main text, though there is partial, blurred, or unreadable text on a background sign",
+    "Font characteristics": {
+      "Style": "N/A (no clear title text, only small informational text on sign)",
+      "Emphasis": "N/A",
+      "Color": "Mostly white text on a dark blue/black sign"
+    },
+    "Text placement within frame": "Text is on the billboard in the upper left background; no prominent overlay text",
+    "Use of emotional/trigger words": "None apparent"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Focused, calm, athletic. The image conveys concentration and practice.",
+    "Visual metaphors or symbols": [
+      "The golfer in the practice bunker visually symbolizes preparation, mastery, and sportsmanship."
+    ],
+    "Clickbait techniques employed": [
+      "Use of a famous athlete (implicit, not visually identified by face)",
+      "Action shot suggests skill demonstration"
+    ],
+    "Brand elements present": [
+      "Golf course environment",
+      "Branded sign in background, possible event branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly illustrates the video's subject\u2014a golfer practicing a short game shot from a bunker, consistent with the title 'Tiger Woods short game practice at Riviera 2019'. The location and activity match the title's promise.",
+    "Contrasts or mismatches": "There are no major mismatches. The thumbnail does not show Tiger Woods' face, which might reduce immediate celebrity recognition, but otherwise aligns well with the title focused on skill demonstration rather than identity."
+  }
+}

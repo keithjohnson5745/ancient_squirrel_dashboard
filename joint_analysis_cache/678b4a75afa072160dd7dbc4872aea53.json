@@ -1,0 +1,13 @@
+{
+  "title": "Evolutionary Mistakes Still Inside Your Body",
+  "thumbnail_path": "thumbnails/qbdOhMzRAnM_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

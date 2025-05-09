@@ -1,0 +1,83 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal green (background)": "40%",
+      "White (text and highlights)": "20%",
+      "Yellow (outlines around faces, shirt)": "15%",
+      "Red (TSP logo, scarf, edges)": "10%",
+      "Brown/tan (skin tones, shirt)": "10%",
+      "Black (hair, undershirts, text shadow)": "5%"
+    },
+    "Composition type": "Close-up to medium shot composite (four faces and upper bodies, collage style)",
+    "Human presence": {
+      "Number of people": 4,
+      "Expressions": [
+        "Leftmost: Excited/happy, wide-eyed grin",
+        "Middle left: Smiling, open-mouthed laughter",
+        "Middle right: Serious/confused, frowning",
+        "Rightmost: Wide smile, slightly manic or intense expression"
+      ],
+      "Demographics": "All apparently male, appearing to be in their 20s-40s, South Asian"
+    },
+    "Main objects/props featured": [
+      "Human faces",
+      "Animated icons: like/thumbs up, heart, share, chat bubble",
+      "A pair of feet behind the central character (suggesting hostel/room environment, humor)",
+      "TSP logo in upper left corner"
+    ],
+    "Background environment": "Textured teal/green background, cartoon-style icons, white outline around main faces, no detailed scenery"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u092a\u091f\u0928\u093e HOSTEL",
+      "IN \u092a\u0941\u0923\u0947",
+      "EP05: RAATON RAAT VIRAL"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "\u092a\u091f\u0928\u093e HOSTEL",
+        "Style": "Blocky, bold, uppercase (HOSTEL); Devanagari for Hindi; High contrast white with black shadow, attention-grabbing"
+      },
+      {
+        "Text": "IN \u092a\u0941\u0923\u0947",
+        "Style": "Smaller, script-like Devanagari for '\u092a\u0941\u0923\u0947', also white/bold"
+      },
+      {
+        "Text": "EP05: RAATON RAAT VIRAL",
+        "Style": "Tall, capital sans-serif, white, high emphasis, placed on a black/red banner"
+      }
+    ],
+    "Text placement within frame": [
+      "'\u092a\u091f\u0928\u093e HOSTEL IN \u092a\u0941\u0923\u0947' is centered at the top-middle",
+      "EP05: RAATON RAAT VIRAL is at the bottom, full width",
+      "Icons and TSP logo decorate corners and edges"
+    ],
+    "Use of emotional/trigger words": [
+      "'VIRAL' (evokes curiosity, internet culture)",
+      "'EP05' (episodic, continuity)",
+      "Hindi/informal style for '\u0930\u093e\u0924\u094b\u0902-\u0930\u093e\u0924' (overnight, sudden virality, adds intrigue)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Humorous, energetic, dramatic, with a social or youth-oriented vibe",
+    "Visual metaphors or symbols": [
+      "Icons of social media reactions (like, heart, share, chat) symbolize virality",
+      "Feet-in-background implies hostel life, relatable chaos",
+      "Arrow and outlines direct viewer attention"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic facial expressions",
+      "Inclusion of 'VIRAL' and social media iconography",
+      "Montage/collage of multiple recognizable faces from the show",
+      "Promise of humorous or unexpected scenario (overnight fame)"
+    ],
+    "Brand elements present": [
+      "TSP logo (upper left corner)",
+      "Consistent typography/style and color scheme typical of TSP web series"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Central placement of '\u092a\u091f\u0928\u093e HOSTEL IN \u092a\u0941\u0923\u0947' visually matches the series/title. All main cast members' expressive faces hint at chaos and 'going viral'. Social media icons and word 'VIRAL' reinforce the concept of something spreading quickly online. The casual hostel vibe (feet in background, informal faces) matches expectations for a youth/hostel drama set far from home.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatch. Both highlight the same central theme of hostel life, humor, and sudden virality. All elements visually and textually match the video title's promise of an overnight viral event in the context of the series."
+  }
+}

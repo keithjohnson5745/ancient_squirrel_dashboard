@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple": "Approx. 30% (background, test tube caps, border)",
+      "Black": "Approx. 20% (microphone, suit jacket, shadows)",
+      "White": "Approx. 20% (shirt, text, test tube labels)",
+      "Yellow": "Approx. 10% (text emphasis, test tube cap)",
+      "Green": "Approx. 8% (test tube cap)",
+      "Red": "Approx. 5% (label text, lipstick)",
+      "Skin tones": "Approx. 7% (faces)"
+    },
+    "Composition type": "Close-up (faces and objects dominate the frame; background intentionally out-of-focus)",
+    "Human presence": {
+      "Number": 2,
+      "Expressions": [
+        "Left person: Neutral/pleasant, slight smile",
+        "Right person: Speaking, engaged, slight smile"
+      ],
+      "Demographics": [
+        "Left: Adult male, middle-aged",
+        "Right: Adult female, likely mid-30s to 40s"
+      ]
+    },
+    "Main objects/props featured": [
+      "Three labeled blood test tubes (with colored caps: purple, yellow, green, reading 'Testosterone (Pooled Sample, No. 1/2/3)')",
+      "Microphone (right foreground\u2014signifying a podcast/interview setting)"
+    ],
+    "Background environment": "Out-of-focus rack of blood test tubes (medical/laboratory context); purple gradient overlay framing the thumbnail"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "WHAT EVERY MAN SHOULD KNOW",
+      "Testosterone (Pooled Sample, No. 1)",
+      "Testosterone (Pooled Sample, No. 2)",
+      "Testosterone (Pooled Sample, No. 3)"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "WHAT EVERY MAN SHOULD KNOW",
+        "Style": "Bold, sans-serif",
+        "Emphasis": "The phrase 'SHOULD KNOW' is highlighted in bright yellow, rest in white",
+        "Color": "'SHOULD KNOW' in yellow; rest in white"
+      },
+      {
+        "Text": "Testosterone (Pooled Sample, No. X)",
+        "Style": "Sans-serif, regular",
+        "Emphasis": "Important word 'Testosterone' in red for both test tubes; rest in black",
+        "Color": "'Testosterone' in red; rest in black text"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "Text": "WHAT EVERY MAN SHOULD KNOW",
+        "Location": "Top center, large and prominent"
+      },
+      {
+        "Text": "Testosterone (Pooled Sample, No. X)",
+        "Location": "On the labels of the three diagonally-arranged test tubes, center of image"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "WHAT EVERY MAN SHOULD KNOW"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, informative, slightly urgent (suggesting importance and relevance for men)",
+    "Visual metaphors or symbols": [
+      "Blood test tubes as a visual metaphor for medical testing, scientific approach",
+      "Highlighted yellow text signaling urgency or crucial information"
+    ],
+    "Clickbait techniques employed": [
+      "All-caps, bold headline with direct address ('WHAT EVERY MAN SHOULD KNOW')",
+      "Use of medical props to suggest credibility and expertise",
+      "Inclusion of two professionals to suggest a serious, expert interview/discussion"
+    ],
+    "Brand elements present": "No explicit brand logos, but professional photography and set-up suggest established channel. Theme may align with medical or educational influencer channels."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The presence of two apparent experts (one male, one female, with a podcast mic) matches the 'explained by the #1 Urologist' and provides an interviewer-expert visual dynamic.",
+      "Test tubes labeled 'Testosterone' directly reinforce the scientific and medical approach implied in the title.",
+      "The headline 'WHAT EVERY MAN SHOULD KNOW' visually signals that the content is an 'ultimate guide', matching the comprehensive promise of the title."
+    ],
+    "Contrasts or mismatches": [
+      "No major contrasts; the thumbnail tightly aligns with the video title, both emphasizing male health, expert explanation, and testosterone."
+    ]
+  }
+}

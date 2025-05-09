@@ -1,0 +1,51 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "approx. 40% (background wall, desk)",
+      "Green": "approx. 25% (product boxes and labels)",
+      "Yellow/mustard": "approx. 15% (sweater of subject)",
+      "Black": "approx. 15% (hair, pants, shadows)",
+      "Beige/brown": "approx. 5% (skin tone, wall art accents)"
+    },
+    "Composition type": "Medium close-up shot (subject shown from mid-torso up)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Smiling, approachable, neutral to positive demeanor",
+      "Demographics": "Appears to be a young-adult female with long dark hair"
+    },
+    "Main objects/props featured": [
+      "Two product boxes (vaginal moisturizer, brand: Good Clean Love)",
+      "Desk surface",
+      "Framed wall art (abstract design, top left corner)"
+    ],
+    "Background environment": "Simple, clean indoor setting with a white wall and minimal decor. Focus is kept on the individual and products."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in thumbnail": "can look a little bit intimidating",
+    "Font characteristics": {
+      "Style": "Sans-serif, rounded and clear",
+      "Emphasis": "All lower-case, moderate weight",
+      "Color": "White with black shadow for contrast"
+    },
+    "Text placement within frame": "Upper central portion, directly above subject\u2019s head",
+    "Emotional/trigger words": [
+      "intimidating"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, educational, reassuring. The subject's smile and approachable pose mitigate anxiety around the topic.",
+    "Visual metaphors or symbols": "None overt\u2014direct product demonstration and a friendly face reinforce trust.",
+    "Clickbait techniques employed": [
+      "Use of emotional language ('intimidating') to tap into viewers' insecurities or uncertainty",
+      "Friendly human presence to create relatability and trust",
+      "Clear product display for transparency"
+    ],
+    "Brand elements present": [
+      "Product packaging (Good Clean Love) prominently displayed"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "Direct correlation. The thumbnail shows someone holding vaginal moisturizer boxes, which aligns exactly with the video's title about wanting to try this product and uncertainty about usage.",
+    "Contrasts or mismatches": "No major mismatches. The approachable, informative visual matches the intended supportive nature of the title. The only mild disconnect is the lack of explicit focus on the applicator itself in the image, but the product is shown, and the expression ('can look a little bit intimidating') cues the title\u2019s theme of uncertainty."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/cream": "40% (background)",
+      "Light pink": "15% (text background and accent)",
+      "Red": "10% (text background and accent)",
+      "Brown/tan": "15% (skin tone of the individual and pregnant belly)",
+      "Yellow": "10% (shirt of the person)",
+      "Black": "10% (hair, text, and some outlines)"
+    },
+    "Composition type": "Medium shot (showing upper body of a smiling person on the right; photo of a pregnant belly in center-left quadrant)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Wide smile, hands on cheeks, excited/surprised expression",
+      "Demographics": "Adult woman, medium-dark skin tone, braided hair"
+    },
+    "Main objects/props featured": [
+      "Smiling woman",
+      "Photo of a pregnant belly (not the same person, appears inserted/collaged)",
+      "Text boxes"
+    ],
+    "Background environment": "Interior setting, blurred/living space with soft lighting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "EARLY SIGNS",
+      "OF PREGNANCY",
+      "BEFORE",
+      "MISSED PERIOD"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase",
+      "Emphasis": "Strong use of capitalization and color contrast, alternating white and black text",
+      "Color": "White or black font on red and pink backgrounds",
+      "Drop shadow": "Used for additional emphasis/contrast"
+    },
+    "Text placement within frame": [
+      "Left side, arranged vertically in four boxes; 'OF PREGNANCY' and 'MISSED PERIOD' are in colored boxes for emphasis"
+    ],
+    "Emotional/trigger words": [
+      "PREGNANCY",
+      "MISSED PERIOD",
+      "EARLY SIGNS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Excited, positive, informative, encouraging",
+    "Visual metaphors or symbols": [
+      "Pregnant belly (directly symbolizes pregnancy, connects visually with the theme of 'early signs')"
+    ],
+    "Clickbait techniques employed": [
+      "Use of all-caps urgent language",
+      "Highlighted words in colored boxes",
+      "Facial expression of surprise/excitement",
+      "Visuals of a pregnant belly to trigger curiosity"
+    ],
+    "Brand elements present": "No overt channel branding present; consistent use of color and design for medical/informational theme"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Clear image of a pregnant belly directly matches the video's topic about pregnancy",
+      "The excited expression on the woman's face suggests surprise at discovering a sign of pregnancy, reinforcing the idea of 'early signs' as described in the title",
+      "Key words ('OF PREGNANCY', 'MISSED PERIOD') are visually highlighted to match the title's focus"
+    ],
+    "Contrasts or mismatches": [
+      "The pregnancy belly shown is a late-stage pregnancy, while the title and video content are about 'early' signs before a missed period. This could be seen as slightly misleading or overly dramatic for clickbait effect."
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "How Chocolate Is Made",
+  "thumbnail_path": "thumbnails/VLMWq5nfvlk_max.jpg",
+  "title_length": 21,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

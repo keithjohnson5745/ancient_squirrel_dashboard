@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (lab coats, background cabinets)",
+      "Beige/Tan": "20% (skin tones)",
+      "Light Brown/Dark Blonde": "10% (hair)",
+      "Dark Grey/Black": "10% (counter, background objects, shirts)",
+      "Purple gradient": "15% (text background box)",
+      "Blue": "5% (background object)"
+    },
+    "Composition type": "Medium shot",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both individuals have neutral to slight, approachable smiles. They appear friendly and open.",
+      "Demographics (apparent)": "Young adult females"
+    },
+    "Main objects/props featured": "Two people in white lab coats, microphones clipped to coats, visible buttons/pins, kitchen or lab-like background (countertops, a blue object, a coffee machine)",
+    "Background environment": "Indoors, likely a kitchen or demonstration area (cabinets, counter, appliance visible). Background is slightly blurred to emphasize the foreground subjects."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "HOW TO GET STAINS OUT OF SHEETS",
+      "ASTROGLIDE"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold, all-caps for main text.",
+      "Emphasis": "Bold, high contrast, large font size for main message.",
+      "Color": "Main text: White with purple gradient background. Brand text: White, italicized with stylized underline."
+    },
+    "Text placement within frame": {
+      "Main message": "Top left quadrant, in a large purple box.",
+      "Brand/logo": "Bottom left corner, small"
+    },
+    "Use of emotional/trigger words": [
+      "STAINS",
+      "OUT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, helpful, approachable. The presence of lab coats gives a sense of authority and expertise.",
+    "Visual metaphors or symbols": "Lab coats symbolize expertise/scientific approach; clean and bright background suggests cleanliness.",
+    "Clickbait techniques employed": [
+      "Directly answering a common problem/question",
+      "Large, bold text conveys urgency and solution",
+      "Faces with approachable expressions to build trust"
+    ],
+    "Brand elements present": [
+      "ASTROGLIDE logo in bottom corner",
+      "Subtle branding through color choices (purple, associated with Astroglide)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The clear, bold text in the thumbnail closely matches the instructional nature of the video title, promising practical advice on stain removal. The lab coats and demonstration setting strengthen the perception of expert instruction.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail text says 'STAINS' generally, while the title specifically mentions 'LUBE STAINS'. The thumbnail avoids the word 'lube' entirely, likely aiming for broader appeal and reduced embarrassment/trigger factor. This can create a slight mismatch for viewers searching specifically for 'lube' stain solutions, but increases clickability for a wider audience."
+  }
+}

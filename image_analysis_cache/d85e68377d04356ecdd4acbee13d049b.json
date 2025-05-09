@@ -1,0 +1,81 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 75% (background and lower half)",
+      "White": "Approximately 15% (main title and handwritten notes)",
+      "Light Blue/Cyan": "Approximately 5% (highlighted text)",
+      "Yellow": "Approximately 2% (handwritten label)",
+      "Orange/Red": "Approximately 3% (underline and circular diagrams)",
+      "Green": "Approximately <1% (diagram element)"
+    },
+    "Composition type": "Medium shot of a digital chalkboard divided horizontally; the top third contains a bold title and the lower part features handwritten notes and a diagram.",
+    "Human presence": "No people present.",
+    "Main objects/props featured": [
+      "Handwritten clinical features and blood type notes",
+      "Simple biochemical/structural diagram with label 'N-acetyl galactosamine'",
+      "Bullet points as stars"
+    ],
+    "Background environment": "Solid black, mimicking a chalkboard or digital whiteboard."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "TYPE 2 LEUKOCYTE ADHESION DEFICIENCY & BOMBAY BLOOD TYPE",
+      "USMLE STEP 1",
+      "* Short Stature",
+      "* mental retardation",
+      "* Bombay blood type",
+      "N-acetyl galactosamine"
+    ],
+    "Font characteristics": [
+      {
+        "Section": "Top Title",
+        "Style": "Bold, all-caps, sans-serif",
+        "Emphasis": "Very high (large, white, glowing)",
+        "Color": "White with a glowing effect"
+      },
+      {
+        "Section": "USMLE STEP 1",
+        "Style": "Bold, all-caps, sans-serif",
+        "Emphasis": "High (large, glowing)",
+        "Color": "Light blue/cyan"
+      },
+      {
+        "Section": "Handwritten notes",
+        "Style": "Cursive/script style, mimicking handwriting",
+        "Emphasis": "Moderate",
+        "Color": "White for main notes, underlined in red, yellow for diagram label"
+      }
+    ],
+    "Text placement within frame": [
+      "Top portion: Main title spans entire width",
+      "Directly below: Subtitle 'USMLE STEP 1'",
+      "Mid-lower left: Three bulleted handwritten features",
+      "Mid-right: Handwritten yellow label near diagram"
+    ],
+    "Use of emotional/trigger words": [
+      "Short Stature",
+      "mental retardation"
+    ],
+    "Comment": "Words chosen are clinical and factual, aimed at grabbing attention of medical students."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, academic, and direct; targeted at students preparing for a high-stakes exam.",
+    "Visual metaphors or symbols": [
+      "Handwritten notes and diagrams evoke the look of board exam preparation or medical teaching.",
+      "Star bullet points emphasize key clinical findings."
+    ],
+    "Clickbait techniques employed": [
+      "All-caps and glowing title for strong visibility",
+      "Direct mention of 'USMLE STEP 1' for exam-focused audience",
+      "Highlighting rare topics ('Bombay blood type', 'Type 2 Leukocyte Adhesion Deficiency') to intrigue viewers"
+    ],
+    "Brand elements present": [
+      "Glowing, bold title text style common in medical education channels",
+      "Digital handwritten/whiteboard motif associated with tutorial/explanatory content"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail exactly mirrors the video title, presenting both 'Type 2 Leukocyte Adhesion Deficiency' and 'Bombay blood type' in the main text. Key features listed in the notes (short stature, mental symptoms, blood type) directly reference lecture points likely covered in the video. The inclusion of 'USMLE STEP 1' situates the topic as exam-relevant.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts or mismatches. Thumbnail and title are in strong alignment. However, the thumbnail could be viewed as dense and technical, possibly less engaging for the general public but perfectly suited for the medical student audience."
+  }
+}

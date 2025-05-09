@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Lavender/purple gradient background": "70%",
+      "White (text & lab coat)": "15%",
+      "Blonde hair/light skin (person)": "10%",
+      "Green (olive oil bottle)": "3%",
+      "Transparent (clear plastic bottle)": "2%"
+    },
+    "Composition type": "Medium shot (single person from waist up, centered left)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Surprised or inquisitive (mouth open, eyes looking at bottle in hand)",
+      "Demographics": "Adult woman, light complexion, long blonde hair"
+    },
+    "Main objects/props featured": [
+      "Glass bottle (appears to be olive oil with pour spout)",
+      "Plastic bottle (appears to contain clear liquid, possibly lubricant or water)"
+    ],
+    "Background environment": "Solid pastel purple/lavender gradient with floating question marks and product/category names; no realistic background, studio-style graphic"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BEST LUBRICANT FOR PREGNANCY",
+      "NATURAL SALIVA?",
+      "WATER BASED?",
+      "COCONUT OIL?",
+      "premom"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif, modern and clean, all caps for main headline",
+      "Emphasis": "Primary headline (BEST LUBRICANT FOR PREGNANCY) is largest and most prominent",
+      "Color": "Vivid purple for headline and question text; white for question marks; black/purple for 'premom' logo"
+    },
+    "Text placement within frame": {
+      "Headline at top center": "BEST LUBRICANT FOR PREGNANCY",
+      "Questions scattered around": "Top right (NATURAL SALIVA?), center right (WATER BASED?), bottom right (COCONUT OIL?)",
+      "Brand logo": "Bottom right corner"
+    },
+    "Use of emotional/trigger words": [
+      "BEST",
+      "PREGNANCY",
+      "?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inquisitive, friendly, trustworthy, and somewhat playful (due to open expression and use of question marks)",
+    "Visual metaphors or symbols": [
+      "Floating question marks (confusion or decision making)",
+      "Person holding two types of bottles (representing choices/options)"
+    ],
+    "Clickbait techniques employed": [
+      "Use of 'BEST' in headline",
+      "Question marks implying uncertainty/need for expert advice",
+      "Directly addressing an important topic for target audience (pregnancy/fertility)"
+    ],
+    "Brand elements present": [
+      "Premom logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail's text ('BEST LUBRICANT FOR PREGNANCY' and named options) directly corresponds to the video's topic about fertility lubricants. The visual of a woman holding two bottles emphasizes making a choice between different lubricant types, which matches the title's comparison of fertility lubricants.",
+    "Contrasts or mismatches": "The thumbnail uses the phrase 'FOR PREGNANCY' while the video title references 'TTC' (trying to conceive); this is closely related but slightly different wording. The video title promises to inform viewers about what is 'safe' before buying\u2014while the thumbnail visually and textually stresses confusion and option comparison, it doesn\u2019t explicitly mention 'safety.' Overall, both thumbnail and title are strongly aligned in theme and message."
+  }
+}

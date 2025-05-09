@@ -1,0 +1,13 @@
+{
+  "title": "Sweet Jazz Music at Cherry Blossom Coffee Shop \ud83c\udf38 Relaxing Jazz Music for Relieve Stress & Anxiety",
+  "thumbnail_path": "thumbnails/2TsnQjEMgCI_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

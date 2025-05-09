@@ -1,0 +1,12 @@
+{
+  "title": "Veritasium: What Everyone Gets Wrong About AI and Learning \u2013 Derek Muller Explains",
+  "thumbnail_path": "thumbnails/0xS68sl2D70_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

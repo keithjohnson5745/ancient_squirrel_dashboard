@@ -1,0 +1,13 @@
+{
+  "title": "\u0932\u0921\u093c\u0915\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u091c\u0930\u0942\u0930\u0940 \u0935\u093f\u0921\u093f\u0913",
+  "thumbnail_path": "thumbnails/nR8Ss-cTsH4_max.jpg",
+  "title_length": 25,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

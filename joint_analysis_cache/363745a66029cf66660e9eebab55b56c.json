@@ -1,0 +1,12 @@
+{
+  "title": "\u2018United around what?\u2019 Bernie Sanders scoffs at Schumer's claim Democrats are in lockstep",
+  "thumbnail_path": "thumbnails/GX2qXatQOhQ_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

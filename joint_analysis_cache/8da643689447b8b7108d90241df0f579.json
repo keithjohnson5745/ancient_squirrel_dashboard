@@ -1,0 +1,12 @@
+{
+  "title": "Access Tools Car Opening Kit Demonstration | Guardian Answers Episode #4",
+  "thumbnail_path": "thumbnails/3o0uLd-qry4_max.jpg",
+  "title_length": 72,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "pink": "60%",
+      "white": "10%",
+      "navy blue": "10%",
+      "red": "10%",
+      "brown/wood": "10%"
+    },
+    "Composition type": "Medium shot (torso and head of a woman visible, sitting position)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Friendly, slight smile, approachable",
+      "demographics": "Adult woman, brown skin tone, short black hair, wearing a sari"
+    },
+    "Main objects/props featured": [
+      "Woman (presumed to be Dr. Supriya Puranik) in traditional attire",
+      "Text blocks"
+    ],
+    "Background environment": "Wood-textured panel background (suggests indoor, office or clinical setting)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u092a\u094d\u0930\u0947\u0917\u0928\u0947\u0902\u0938\u0940 \u0915\u0947 \u0932\u093f\u090f \u0938\u092e\u094d\u092c\u0928\u094d\u0927 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0938\u092c\u0938\u0947 \u0938\u0939\u0940 \u0926\u093f\u0928",
+      "Dr. Supriya Puranik",
+      "Gynaecologist, Obstetrician, IVF Specialist."
+    ],
+    "Font characteristics": {
+      "style": "Simple, sans-serif (Hindi text is bold, English text is semi-bold/regular)",
+      "emphasis": "Hindi text is largest and boldest, with white color on saturated pink background; Dr. Supriya Puranik is bold and white, credentials are regular and white",
+      "color": "White for all text",
+      "contrast": "High contrast with background"
+    },
+    "Text placement within frame": {
+      "large_Hindi_text": "Left side, occupying most of the circle/semicircle area",
+      "English_text": "Below the Hindi text, left-aligned",
+      "Visual separation": "Text occupies left two-thirds, portrait occupies right third"
+    },
+    "Use of emotional/trigger words": [
+      "\u092a\u094d\u0930\u0947\u0917\u0928\u0947\u0902\u0938\u0940 (Pregnancy)",
+      "\u0938\u092c\u0938\u0947 \u0938\u0939\u0940 \u0926\u093f\u0928 (Most correct day/right day)",
+      "\u0938\u092e\u094d\u092c\u0928\u094d\u0927 (Relation = sex)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, professional, and supportive",
+    "Visual metaphors or symbols": [
+      "Circular and curved lines evoke ideas of cycles, fertility, or the ovulation process"
+    ],
+    "Clickbait techniques employed": [
+      "Promise of specific, 'correct' information to improve chances of pregnancy",
+      "Directly addresses a common concern with a definitive solution",
+      "Prominent medical authority for credibility"
+    ],
+    "Brand elements present": [
+      "Doctor's name and credentials prominently featured",
+      "Distinctive use of pink, often associated with women\u2019s health and fertility topics"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "Thumbnail visually reinforces the title by repeating the main subject (\u2018\u092a\u094d\u0930\u0947\u0917\u0928\u0947\u0902\u0938\u0940 \u0915\u0947 \u0932\u093f\u090f \u0938\u092e\u094d\u092c\u0928\u094d\u0927 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0938\u092c\u0938\u0947 \u0938\u0939\u0940 \u0926\u093f\u0928\u2019) in bold, large text. The image of the doctor matches the name in the title, establishing her authority and credibility. The circular, ovulation-inspired graphics further reinforce the subject matter.",
+    "Contrasts or mismatches": "No significant mismatch\u2014thumbnail text and visual style directly match the title's promise and authoritative tone. Both focus on timing sex for pregnancy, with clear cues to trustworthiness (doctor\u2019s imagery) and helpfulness."
+  }
+}

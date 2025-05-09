@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple (background and overlay)": "40%",
+      "Red (text background highlight)": "20%",
+      "Yellow (text)": "12%",
+      "White (text, coat)": "10%",
+      "Skin tones": "8%",
+      "Green (sari, clothing)": "5%",
+      "Black (hair, clothes)": "5%"
+    },
+    "Composition type": "Composite/Collage. Top half contains large text, lower half includes three cropped photos of women and a portrait-style image of a woman (likely Dr. Neha Mehta) on the right.",
+    "Human presence": {
+      "Number of people": "Four visible women",
+      "Expressions": "Three women face away or to the side, generally neutral or slightly alluring expressions; one woman (front, right) smiles gently, making direct eye contact (engaging/confident)",
+      "Demographics": "Adult women of apparent South Asian (Indian) descent"
+    },
+    "Main objects/props featured": "Traditional Indian clothing (sari/blouse), stethoscope (worn by Dr. Neha Mehta, indicating medical/psychological authority).",
+    "Background environment": "Upper background is a purple gradient with orange accents; lower backgrounds are a mix of outdoors (greenery, street) and a blue flat color for the right-side portrait."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\u092c\u0921\u093c\u0940 \u0909\u092e\u094d\u0930 \u0915\u0940 \u0914\u0930\u0924\u0947\u0902 \u0939\u0948 \u092a\u0938\u0902\u0926 \u092a\u091f\u093e\u0928\u0947 \u0915\u0940 \u091f\u094d\u0930\u093f\u0915 \u0926\u0947\u0916\u094b\nDr. Neha Mehta\nCONSULTANT PSYCHOLOGIST\nPSYCHOLOGY SEEKHO WITH DR NEHA MEHTA",
+    "Font characteristics": {
+      "Main Hindi text": "Bold, all caps, sans-serif with thick white outline; key phrase ('\u092a\u091f\u093e\u0928\u0947 \u0915\u0940 \u091f\u094d\u0930\u093f\u0915 \u0926\u0947\u0916\u094b') is yellow with red background for high contrast.",
+      "English text": "'Dr. Neha Mehta' is white, bold, all caps on blue background. 'CONSULTANT PSYCHOLOGIST' is magenta, all caps. 'PSYCHOLOGY SEEKHO...' is partially serif, regular weight."
+    },
+    "Text placement": {
+      "Main Hindi text": "Centrally located, top half of image, large size.",
+      "English text ('Dr. Neha Mehta')": "Lower right, within blue box on white coat.",
+      "Logo and tagline": "Upper right corner."
+    },
+    "Emotional/trigger words": [
+      "\u092a\u0938\u0902\u0926",
+      "\u092a\u091f\u093e\u0928\u0947",
+      "\u091f\u094d\u0930\u093f\u0915",
+      "Trick",
+      "Like",
+      "Impress",
+      "Older Women"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Attention-grabbing, slightly provocative, promising secrets/tips. Mixes curiosity with assurance (expert presence).",
+    "Visual metaphors/symbols": "Women in traditional attire (relates to the topic); stethoscope (signals authority in psychology/medicine). Mixed-age representations support the 'older women' theme.",
+    "Clickbait techniques employed": [
+      "Bold, highlighted text promising secrets/tips ('\u091f\u094d\u0930\u093f\u0915 \u0926\u0947\u0916\u094b')",
+      "Images of women in alluring or non-standard poses for curiosity appeal",
+      "Explicit reference to desirable attribute ('\u092c\u0921\u093c\u0940 \u0909\u092e\u094d\u0930 \u0915\u0940 \u0914\u0930\u0924\u0947\u0902')"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta name/title",
+      "PSYCHOLOGY SEEKHO logo and tagline"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "Thumbnail highlights Hindi phrases about liking older women and tricks/tips for impressing them, visually reinforced by images of (adult) women and the presence of an authority figure suggesting advice. The audience is cued that both topic (older women) and practical guidance (tricks/hacks) will be covered.",
+    "Contrasts/mismatches": "The imagery is more provocative than the title (title is practical/educational, thumbnail has slight clickbait/curiosity visual cues). The presence of the psychologist (Dr. Neha Mehta) might indicate seriousness/authority that slightly contrasts with the informal, sensational angle of the visual and textual elements."
+  }
+}

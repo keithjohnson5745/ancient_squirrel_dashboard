@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "Approximately 45% (background gradient, shirt, text boxes, '5')",
+      "White": "Approximately 20% (text, pregnancy test stick, outlining)",
+      "Purple": "Approximately 15% (pregnancy test accent, text boxes)",
+      "Beige/Skin tones": "Approximately 15% (face and arms)",
+      "Yellow (emoji)": "Approximately 5%"
+    },
+    "Composition type": "Medium close-up (single person, upper body visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, direct gaze at the camera, mild/encouraging demeanor",
+      "Demographics": "Adult woman, light skin, long straight brown hair, appears to be in her late 30s or 40s"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test (held by the woman, clear and central prop)"
+    ],
+    "Background environment": "Flat, solid gradient (light pink to white); no detailed environment, minimal distractions\u2014focus on subject and text"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "5",
+      "TIPS FOR GETTING PREGNANT AT 40 & OLDER"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase (except for the number '5')",
+      "Emphasis": "Heavy bolding, use of color blocking (pink and purple background boxes with white text)",
+      "Color": "White for main text, set against alternating pink and purple boxed backgrounds; large pink '5'",
+      "Other": "Yellow shocked face emoji ('\ud83d\ude2f') adds visual emphasis and emotion"
+    },
+    "Text placement within frame": {
+      "5": "Top left corner",
+      "TIPS FOR": "Upper right, top of the text block",
+      "GETTING": "Middle right, in purple box",
+      "PREGNANT": "Middle right, in pink box",
+      "AT 40 & OLDER": "Bottom right, in purple box"
+    },
+    "Use of emotional/trigger words": [
+      "TIPS",
+      "GETTING PREGNANT",
+      "AT 40 & OLDER",
+      "\ud83d\ude2f (shocked face emoji, implies surprise, challenge, or urgency)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, encouraging, supportive; hints of challenge or surprise (reinforced by emoji)",
+    "Visual metaphors or symbols": [
+      "Pregnancy test: Directly symbolizes the process/result of getting pregnant",
+      "Shocked face emoji: Represents surprise, urgency or emotional relevance of the topic"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text highlighting a numbered list ('5 Tips'), universally known to attract viewers",
+      "Shocked emoji for emotional intrigue",
+      "Mention of an age ('40 & Older') to target a specific, sensitive demographic"
+    ],
+    "Brand elements present": "None overt (no logos); style is clinical yet approachable, possibly building personal branding around the expert figure"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The large '5 Tips' headline, the visual presence of a woman holding a pregnancy test, and reference to 'AT 40 & OLDER' visually reinforces the promise of the title\u2014'Pregnancy After 40: Expert TIPS For SUCCESS.' The person is plausibly the expert, looking confident and relatable. The shocked emoji matches the heightened interest or concern the topic may generate.",
+    "Contrasts or mismatches": "There are no significant mismatches. The only subtle difference is the title\u2019s explicit mention of 'Dr Lora Shahine' (the expert) while the thumbnail relies on personal branding/recognizability rather than a name. Otherwise, they are well aligned."
+  }
+}

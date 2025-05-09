@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple gradient (background)": "50%",
+      "Yellow (text)": "20%",
+      "White (text and coat)": "15%",
+      "Black (text background box)": "10%",
+      "Blue/Red (nameplate bar)": "3%",
+      "Skin tone (person)": "2%"
+    },
+    "Composition type": "Medium shot (waist-up of person, ample space for text)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Confident/engaging (direct eye contact, slight smile, pointing gesture)",
+      "Demographics": "Adult female, South Asian appearance (based on context and naming) dressed in a white coat"
+    },
+    "Main objects/props featured": [
+      "Person (Dr. Neha Mehta) in white coat",
+      "Large bold text blocks"
+    ],
+    "Background environment": "Abstract gradient background (purple to brown); no discernible real-world setting"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (exact transcription)": [
+      "1 \u0918\u0902\u091f\u093e \u0915\u0930\u0928\u0947 \u0915\u093e Stamina",
+      "\u0910\u0938\u0947 \u092c\u0928\u093e\u092f\u0947",
+      "Dr. Neha Mehta",
+      "CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, block-style fonts",
+      "Emphasis": "Very high on the word 'Stamina' (large, white on black background); '1 \u0918\u0902\u091f\u093e', '\u0915\u0930\u0928\u0947 \u0915\u093e', '\u0910\u0938\u0947 \u092c\u0928\u093e\u092f\u0947' in yellow for high visibility",
+      "Color": "'Stamina': white on black; Other main text: yellow; Nameplate: white/yellow text on blue/red bar"
+    },
+    "Text placement within frame": {
+      "Top left": "'1 \u0918\u0902\u091f\u093e \u0915\u0930\u0928\u0947 \u0915\u093e'",
+      "Center": "'Stamina' in a large black rectangle",
+      "Lower center": "'\u0910\u0938\u0947 \u092c\u0928\u093e\u092f\u0947' in yellow",
+      "Bottom right": "Nameplate with 'Dr. Neha Mehta' and designation"
+    },
+    "Emotional/trigger words": [
+      "'Stamina'",
+      "'\u0910\u0938\u0947 \u092c\u0928\u093e\u092f\u0947' (how to achieve/make)'",
+      "'1 \u0918\u0902\u091f\u093e' (1 hour: implies fast results, urgency)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, instructional, and trustworthy (supported by professional attire and authoritative text presentation)",
+    "Visual metaphors or symbols": "White coat as a symbol of expertise/medical authority; pointing gesture may indicate encouragement or a direct call to action",
+    "Clickbait techniques employed": [
+      "Bold emphasis on 'Stamina' (a desirable attribute)",
+      "'1 \u0918\u0902\u091f\u093e' (impleis quick, clear gain/time-bound promise)",
+      "Direct gaze and pointing to engage viewer",
+      "Use of a professional title/credentials to assure credibility"
+    ],
+    "Brand elements present": [
+      "'Dr. Neha Mehta' name and designation",
+      "Consistent color scheme and font style suggest channel identity/branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title by showing 'Stamina' prominently, plus the phrase '\u0910\u0938\u0947 \u092c\u0928\u093e\u092f\u0947' aligns with the '\u0915\u0948\u0938\u0947 \u092c\u0922\u093c\u093e\u090f\u0902' (how to increase) in the title, and the image of a credible professional (Dr. Neha Mehta) supports the authority expected by the audience.",
+    "Contrasts or mismatches": "The thumbnail text mentions '1 \u0918\u0902\u091f\u093e \u0915\u0930\u0928\u0947 \u0915\u093e Stamina' (Stamina for 1 hour), which is slightly more specific than the general '\u0918\u0930 \u092c\u0948\u0920\u0947 stamina \u0915\u0948\u0938\u0947 \u092c\u0922\u093c\u093e\u090f\u0902?' (How to increase stamina at home?) in the title\u2014potentially narrowing the focus to a particular duration, but both align on the overall promise to improve stamina."
+  }
+}

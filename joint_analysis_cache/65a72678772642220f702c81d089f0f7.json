@@ -1,0 +1,13 @@
+{
+  "title": "The ins and outs of egg freezing, from how the process works to how much it costs | 60 Minutes",
+  "thumbnail_path": "thumbnails/KjPWVhodrMU_max.jpg",
+  "title_length": 94,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

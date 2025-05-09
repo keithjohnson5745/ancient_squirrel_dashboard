@@ -1,0 +1,11 @@
+{
+  "title": "Animation for insertion of Mirena IUD",
+  "thumbnail_path": "thumbnails/aVZoH0Pda-4_high.jpg",
+  "title_length": 37,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

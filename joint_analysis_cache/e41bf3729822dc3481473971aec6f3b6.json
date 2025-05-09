@@ -1,0 +1,13 @@
+{
+  "title": "\u274c Never use oil based lubricants during sexual intercourse | Dr.Deepa Ganesh | Cosmetic Gynecologist",
+  "thumbnail_path": "thumbnails/vk1Q-AcvQr8_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,99 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Pink",
+        "percentage": 30
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Beige/Light Skin Tone",
+        "percentage": 20
+      },
+      {
+        "color": "Blonde/Light Yellow (hair)",
+        "percentage": 15
+      },
+      {
+        "color": "Black (text and tablet icon)",
+        "percentage": 10
+      },
+      {
+        "color": "Aqua/Light Blue (shirt)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (shows head and upper torso of the woman)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Slight smile, welcoming and confident expression, direct eye contact",
+      "demographics": "Adult, female-presenting, light complexion, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Woman (main focus)",
+      "Graphic of a digital tablet with a menstrual/fertility tracking app interface"
+    ],
+    "Background environment": "Neutral, blurred beige/brown indoor background, non-distracting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CYCLE tracking",
+      "Get Pregnant Naturally and FASTER"
+    ],
+    "Font characteristics": [
+      {
+        "text": "CYCLE tracking",
+        "style": "Bold, sans-serif",
+        "emphasis": "CYCLE in uppercase, bold",
+        "color": "White on bright pink"
+      },
+      {
+        "text": "Get Pregnant Naturally and FASTER",
+        "style": "Bold, sans-serif",
+        "emphasis": "'FASTER' in all caps",
+        "color": "Black on white"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "CYCLE tracking",
+        "placement": "Top left, inside pink box"
+      },
+      {
+        "text": "Get Pregnant Naturally and FASTER",
+        "placement": "Bottom third, on a white bar"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "Naturally",
+      "FASTER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, approachable, and encouraging; offers hopefulness and expertise",
+    "Visual metaphors or symbols": [
+      "Tablet with tracking app symbolizes using technology for cycle monitoring",
+      "Pink color and droplet symbols evoke ideas of menstruation, reproductive health, and femininity"
+    ],
+    "Clickbait techniques employed": [
+      "All-caps for emphasis ('CYCLE', 'FASTER')",
+      "Use of active emotional words and promises ('Get Pregnant Naturally and FASTER')",
+      "Direct, smiling human face to build trust and relatability"
+    ],
+    "Brand elements present": "No explicit logos, but the thumbnail style (bold colors, clear text, direct address) suggests a personal or health/medical brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "Thumbnail text directly uses keywords from the title ('Cycle tracking', 'Get Pregnant Naturally and FASTER'), immediately connecting to viewers searching for fertility or pregnancy help.",
+      "Image of a digital tracking app and droplets visually reinforces the idea of cycle/fertility tracking mentioned in the title.",
+      "Presence of a woman could suggest expertise, relatability, or trustworthiness in health advice, matching the supportive approach implied in the title."
+    ],
+    "Any contrasts or mismatches between thumbnail and title": [
+      "Thumbnail is highly aligned with the topic and promise of the title; minimal to no mismatch apparent.",
+      "Thumbnail does not mention 'TTC' or 'apps' explicitly in text, but visually shows them through the tracking app illustration."
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "We Got Sanskars In The Womb: Part 1: Subtitles English: BK Shivani",
+  "thumbnail_path": "thumbnails/RGLqyN1Znno_max.jpg",
+  "title_length": 66,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,97 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Brown",
+        "approximate_percentage": 40
+      },
+      {
+        "color": "Orange",
+        "approximate_percentage": 20
+      },
+      {
+        "color": "Yellow/Gold",
+        "approximate_percentage": 15
+      },
+      {
+        "color": "Black",
+        "approximate_percentage": 10
+      },
+      {
+        "color": "White",
+        "approximate_percentage": 10
+      },
+      {
+        "color": "Dark Red (hair)",
+        "approximate_percentage": 5
+      }
+    ],
+    "Composition type": "Split screen (close-up of fruit on the left, medium shot of woman on the right)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Engaged, speaking, focused, hand gestures implying explanation or emphasis",
+      "demographics": "Adult woman, dark skin, glasses, maroon hair"
+    },
+    "Main objects/props featured": [
+      "Pile of round brown fruits (left side)",
+      "Woman in yellow blazer, glasses (right side)"
+    ],
+    "Background environment": "Left: plain background behind the fruits. Right: indoor, possibly a TV studio set with shelves and decor (books, flowers, pottery, wall art), orange wall"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "W y k e NIGERIA",
+      "TVC",
+      "Fruit Therapist Reveals Fruits To Boost Women's Libido"
+    ],
+    "Font characteristics": {
+      "main_text": {
+        "style": "Serif or similar, regular",
+        "emphasis": "Medium-bold, italicized",
+        "color": "White",
+        "background": "Orange, geometric shape"
+      },
+      "logo_texts": {
+        "Wyke Nigeria": {
+          "style": "Decorative",
+          "color": "Orange and Purple",
+          "placement": "Top left, round logo"
+        },
+        "TVC": {
+          "style": "Bold, sans-serif",
+          "color": "White",
+          "placement": "Top right"
+        }
+      }
+    },
+    "Text placement within frame": [
+      "Main headline: bottom diagonal orange banner",
+      "Logo (Wyke Nigeria): top left corner",
+      "TVC logo: top right corner"
+    ],
+    "Use of emotional/trigger words": [
+      "Reveals",
+      "Boost",
+      "Libido"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, professional, mildly sensationalist. Implies helpfulness and a promise of personal benefit.",
+    "Visual metaphors or symbols": [
+      "The pile of fruit visually represents the 'miracle fruit' referenced in the title."
+    ],
+    "Clickbait techniques employed": [
+      "Use of the word 'Reveals' implies secrecy or special knowledge.",
+      "Reference to boosting libido (a sensitive/personal subject).",
+      "Highlighted therapist 'expert'."
+    ],
+    "Brand elements present": [
+      "Wyke Nigeria logo",
+      "TVC channel branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail shows the 'miracle fruit' discussed in the title, and features a professional-looking woman labeled as a 'Fruit Therapist', directly linking visual content to the video's promise.",
+    "Contrasts or mismatches": "The thumbnail is visually less sensational or flashy compared to the word 'Miracle Fruit' in the title. The title uses the word 'REVEALED!' (all-caps, with exclamation), adding more drama than the image alone conveys."
+  }
+}

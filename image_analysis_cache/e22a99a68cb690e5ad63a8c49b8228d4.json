@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue gradient background": "45%",
+      "Yellow (text, arrows, flames)": "15%",
+      "Black (text outline, some clothing)": "15%",
+      "White (text, text outline, smoke)": "10%",
+      "Brown/Beige (woman\u2019s hair, oats)": "8%",
+      "Purple (eggplant)": "5%",
+      "Red (meat, 'FAKE' text)": "2%"
+    },
+    "Composition type": "Composite/montage, medium shot (woman from waist up), close-up on food items",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Confused/skeptical, raised eyebrows, open mouth, gesturing (palm up)",
+      "Demographics": "Adult female, medium skin tone, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Woman in black medical/nurse attire",
+      "Large flaming eggplant (center, visual emphasis, smoke effects)",
+      "Assorted raw meats (top right), labeled 'FAKE'",
+      "Pile of oats (bottom right)",
+      "Two bright yellow arrows (pointing from foods towards flaming eggplant)"
+    ],
+    "Background environment": "Solid blue gradient with digitally added flames and smoke effects around the eggplant"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "AVOID AT ALL COST",
+      "FAKE"
+    ],
+    "Font characteristics": {
+      "AVOID AT ALL COST": {
+        "Style": "Bold, all uppercase, sans-serif, thick black outline",
+        "Color": "Yellow ('AVOID'), White ('AT ALL COST')"
+      },
+      "FAKE": {
+        "Style": "Bold, all uppercase, sans-serif",
+        "Color": "White, on a solid red background"
+      }
+    },
+    "Text placement": {
+      "AVOID AT ALL COST": "Top left to center, spanning across the width",
+      "FAKE": "Overlaid on top of meat (top right)"
+    },
+    "Emotional/trigger words": [
+      "AVOID",
+      "COST",
+      "FAKE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, alarmist, and slightly sensational; invokes concern or fear about everyday foods",
+    "Visual metaphors or symbols": [
+      "Flaming eggplant: danger/burnout/harm to 'D', with eggplant often used as innuendo for male health",
+      "'FAKE' in red: warning/danger about processed or unidentified meats"
+    ],
+    "Clickbait techniques employed": [
+      "Bold warning text ('AVOID AT ALL COST')",
+      "Bright, contrasting colors for emphasis",
+      "Visible confusion/skepticism in human expression",
+      "Use of arrows to direct attention",
+      "'FAKE' as a shocking label",
+      "Eggplant/flames as attention-grabbing metaphors"
+    ],
+    "Brand elements present": [
+      "Likely presenter/host used as a personal brand (scrubs may imply medical/nutritional expertise)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually supports the title's claim that certain foods are 'unbelievably bad' for the 'D' (commonly understood as innuendo for male health) by featuring foods (meat, oats, eggplant) with dramatic emphasis (fire, 'FAKE' label, alarmed facial expression), all implying harm. The large flaming eggplant visually hints at the double meaning.",
+    "Contrasts or mismatches": "There is strong alignment between the alarmist title and the thumbnail warning visuals. However, the thumbnail does not specifically enumerate '4 foods' as per the title, though it shows three (meat, oats, eggplant), and the meaning of 'D' relies on innuendo rather than explicit naming."
+  }
+}

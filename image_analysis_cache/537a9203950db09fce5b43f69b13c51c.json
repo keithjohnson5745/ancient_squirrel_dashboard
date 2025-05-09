@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "50% (background, paper sheets)",
+      "Light blue": "20% (test strips, packaging, pregnancy test handle)",
+      "Pink": "10% (text bubble, test cap, subtle lines on tests)",
+      "Black": "10% (notebook rings, written text, test lines)",
+      "Other": "10% (clear/metallic from plastic test parts, some grey shadows)"
+    },
+    "Composition type": "Medium shot (flat lay style, showing objects on a tabletop from above)",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "Not applicable",
+      "Demographics": "Not apparent"
+    },
+    "Main objects/props featured": [
+      "Fertility test strips (multiple, labeled and organized)",
+      "Clearblue pregnancy test",
+      "Pink-capped digital fertility monitor",
+      "Notebook/diary with handwritten entries",
+      "Blue foil packaging"
+    ],
+    "Background environment": "A clean, bright desk or table surface, predominantly white, minimal distractions"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "FERTILITY DIARY",
+      "CYCE #3",
+      "TTC",
+      "PERIOD",
+      "REC 1",
+      "PEAK",
+      "Clearblue",
+      "Pregnant"
+    ],
+    "Font characteristics": {
+      "FERTILITY DIARY": {
+        "Style": "Handwritten/casual, sans-serif",
+        "Emphasis": "Bold, all-caps, black lettering",
+        "Color": "Black",
+        "Background": "Soft pink circle with dashed border"
+      },
+      "Handwritten notes": {
+        "Style": "Printed handwriting",
+        "Emphasis": "Simple, unembellished",
+        "Color": "Black or dark blue ink",
+        "Placement": "Notebook pages"
+      },
+      "Product branding (Clearblue)": {
+        "Style": "Brand logo, sans-serif",
+        "Emphasis": "Professional, blue",
+        "Color": "Blue"
+      }
+    },
+    "Text placement within frame": {
+      "Decorative main text": "Upper left corner, overlaid on pink circle",
+      "Handwritten notes": "Centered, main background area (open notebook)",
+      "Brand text": "Lower right (on test device)"
+    },
+    "Use of emotional/trigger words": [
+      "FERTILITY",
+      "DIARY",
+      "PEAK",
+      "Pregnant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, organized, encouraging\u2014suggests a calm, systematic approach to fertility tracking",
+    "Visual metaphors or symbols": [
+      "Diary and test strips symbolize personal journey and scientific tracking",
+      "Tests and peak markings imply success and vigilance"
+    ],
+    "Clickbait techniques employed": [
+      "Shows lots of test strips and result visuals (implying expertise and a 'method')",
+      "Use of words like 'FERTILITY DIARY' (personal, relatable, intriguing, appeals to those seeking fertility advice/hope)",
+      "Visual clarity and organization (suggests the viewer will get strategies and clear steps)"
+    ],
+    "Brand elements present": [
+      "Clearblue logo (visible on digital pregnancy test)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The inclusion of a fertility diary, labeled test strips, and branded pregnancy test directly illustrate the process of tracking fertility, matching the video\u2019s promise to explain how the creator tracked cycles and achieved pregnancy quickly. The presence of 'FERTILITY DIARY' visually supports the step-by-step journey implied in the title.",
+    "Contrasts or mismatches between thumbnail and title": "No strong contrast; the thumbnail matches the title well by visually representing tracking and testing. The claim of 'INSTANTLY' in the title is not overtly emphasized in the thumbnail, which focuses more on the process and organization, not the immediate result."
+  }
+}

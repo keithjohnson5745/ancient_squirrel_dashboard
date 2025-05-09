@@ -1,0 +1,12 @@
+{
+  "title": "I Built a Trampoline Park in My House!",
+  "thumbnail_path": "thumbnails/2lBkf3RupBQ_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

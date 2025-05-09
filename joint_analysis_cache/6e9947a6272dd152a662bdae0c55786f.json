@@ -1,0 +1,13 @@
+{
+  "title": "\ud83d\udcca How to Build Excel Interactive Dashboards",
+  "thumbnail_path": "thumbnails/MTlQvyNQ3PM_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

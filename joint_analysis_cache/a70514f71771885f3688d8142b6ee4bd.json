@@ -1,0 +1,13 @@
+{
+  "title": "Get Pregnant FAST: OB/GYN Tips for Optimizing TTC!",
+  "thumbnail_path": "thumbnails/4Wnte1pmNg0_high.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

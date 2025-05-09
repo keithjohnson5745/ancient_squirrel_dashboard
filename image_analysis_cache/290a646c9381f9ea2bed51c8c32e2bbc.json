@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40%",
+      "Bright Yellow": "20%",
+      "White": "15%",
+      "Skin tones": "15%",
+      "Light Blue": "5%",
+      "Coral/Red (shirt)": "3%",
+      "Orange (shirt)": "2%"
+    },
+    "Composition type": "Combination of a close-up (man's surprised face on right) and an inset medium shot (smiling couple on left, holding a pregnancy test)",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": "One man with shocked/surprised expression, couple with happy/smiling expressions",
+      "Demographics": "All adults, South Asian appearance"
+    },
+    "Main objects/props featured": [
+      "Pregnancy test held by woman in inset image",
+      "Eyeglasses on the close-up man",
+      "Watch on man's wrist"
+    ],
+    "Background environment": "Main background is mostly dark/black with yellow glow; inset is a light, homey interior (bookshelves, soft furnishings)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "FERTILITY SECRETS REVEALED!",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "High\u2014'SECRETS REVEALED' in all caps, larger, bright yellow; 'FERTILITY' in all caps, white",
+      "Color": "'FERTILITY' (white); 'SECRETS REVEALED!' (bright yellow)"
+    },
+    "Text placement": "Top left corner, aligned left, stacked over the inset image.",
+    "Emotional/trigger words": [
+      "SECRETS",
+      "REVEALED"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Excited, dramatic, and positive (shocked face, happy couple, promise of secret knowledge)",
+    "Visual metaphors or symbols": [
+      "Pregnancy test symbolizes fertility and conception",
+      "Surprised face suggests information that is unexpected or groundbreaking"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold, dramatic text",
+      "Bright colors drawing attention",
+      "Over-the-top facial expression",
+      "Promise of hidden knowledge/secrets"
+    ],
+    "Brand elements present": "No explicit branding; style may be consistent with health or advice channels"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually supports the title's subject\u2014fertility and pregnancy\u2014by showing a happy couple reacting to a pregnancy test (symbolizing success in getting pregnant), and the bold text directly references the promise of learning new ways to improve fertility.",
+    "Contrasts/mismatches": "There is no direct reference to 'foods' in the thumbnail (no food images or icons), so the exact strategy (3 foods) from the title is not visually depicted, but the thematic connection is clear."
+  }
+}

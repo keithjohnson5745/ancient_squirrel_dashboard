@@ -1,0 +1,49 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 60% (background, man's shirt, text background)",
+      "White": "Approximately 35% (text, side background, highlights on face)",
+      "Blue": "Approximately 5% (outline and text of 'HUBERMAN LAB')"
+    },
+    "Composition type": "Split composition: close-up portrait on the right side, bold text on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, direct gaze at the camera (serious and confident).",
+      "Demographics": "Adult male, light skin tone, dark hair and beard."
+    },
+    "Main objects/props featured": [
+      "Person's face (focus on head and shoulders)",
+      "Text elements"
+    ],
+    "Background environment": "Solid black on the left half (text area); solid white on the right half (behind the person). The divided background visually separates the information and the portrait."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "USING LIGHT FOR HEALTH",
+      "HUBERMAN LAB"
+    ],
+    "Font characteristics": {
+      "Style": "All-uppercase sans-serif, clean and modern.",
+      "Emphasis": "Very bold, thick font for main message. 'HUBERMAN LAB' has slightly thinner letters, with blue color and a rectangular outline for distinction.",
+      "Color": "White for main text; blue for 'HUBERMAN LAB' and its border."
+    },
+    "Text placement": {
+      "Main message": "Occupies the majority of the left half, centered and stacked in three lines.",
+      "Brand box": "'HUBERMAN LAB' positioned at the bottom center of the left half, within a blue-outlined rectangle."
+    },
+    "Emotional/trigger words": [
+      "USING",
+      "HEALTH"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Scientific, authoritative, serious, and trustworthy.",
+    "Visual metaphors or symbols": "Sharp division between black and white may symbolize contrast (possibly metaphoric for light and darkness or clarity). The direct gaze of the individual reinforces authority and credibility.",
+    "Clickbait techniques employed": "Bold, clear language focused on actionable value ('USING LIGHT FOR HEALTH'). Contrasting colors, direct gaze, and minimal distractions draw attention.",
+    "Brand elements present": "'HUBERMAN LAB' branding is clear and distinct; the well-composed portrait signals expertise and consistency with the channel's theme."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail echoes the title by stating a condensed version of its message ('USING LIGHT FOR HEALTH') in large, easy-to-read text. The inclusion of the expert's face visually signals a science-based, expert discussion, matching the podcast style alluded to in the title.",
+    "Contrasts or mismatches": "The thumbnail text simplifies the title and does not specify 'Sunlight, Blue Light & Red Light' or the podcast episode number, potentially omitting key specifics that some viewers may seek. However, the overall theme and authoritative feel are clearly reinforced."
+  }
+}

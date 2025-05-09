@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40%",
+      "Black": "25%",
+      "Red": "15%",
+      "Dark Blue/Navy": "10%",
+      "Light Gray/Gray gradient": "10%"
+    },
+    "Composition type": "Medium shot (person shown from torso up, alongside bold text)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slight frown, neutral or mildly disappointed, direct eye contact with viewer, gesture of pointing at the text",
+      "Demographics": "Adult female, light skin, brown hair"
+    },
+    "Main objects/props featured": [
+      "Person (dressed in black scrubs, possibly indicating medical or professional context)",
+      "Large bold text blocks"
+    ],
+    "Background environment": "Plain light gray gradient, clean and uncluttered, designed for high readability and focus on the subject and text"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "SKINCARE MISTAKES TO AVOID",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": {
+        "SKINCARE": "White text, black background, high contrast",
+        "MISTAKES": "White text on a strong red background, intense emphasis",
+        "TO AVOID": "White text, black outline and drop-shadow for impact, slightly distressed texture"
+      },
+      "Color": {
+        "White (main text),": "",
+        "Black (background and outlines)": "",
+        "Red (background for emphasis on 'MISTAKES')": ""
+      }
+    },
+    "Text placement within frame": {
+      "Top": "'SKINCARE'",
+      "Middle": "'MISTAKES' (centered, most highlighted)",
+      "Bottom": "'TO AVOID'",
+      "Relationship to Subject": "Text occupies left and center; person on the right, visually linked by her pointing gesture"
+    },
+    "Use of emotional/trigger words": [
+      "MISTAKES",
+      "AVOID"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, cautionary, informative; communicates a warning or education about common problems",
+    "Visual metaphors or symbols": [
+      "Pointing gesture reinforces 'pay attention!' or 'look here!'",
+      "Red block behind 'MISTAKES' signals alert/danger"
+    ],
+    "Clickbait techniques employed": [
+      "Use of urgency ('MISTAKES', 'AVOID')",
+      "Promise of insider knowledge (implies there are common errors you might not know you're making)",
+      "Direct address ('Everyone Makes') in title"
+    ],
+    "Brand elements present": [
+      "Professional attire (black scrubs labeled 'FIGS'), visually signaling expertise",
+      "Consistent bold color palette often used in educational/medical YouTube content"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail text ('SKINCARE MISTAKES TO AVOID') closely matches and supports the video title ('Skincare Mistakes Everyone Makes (And How To Fix Them)'), emphasizing the topic of correcting common errors.",
+      "The facial expression and pointing gesture from the person engage curiosity/concern, complementing the cautionary theme of the title."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail text focuses more on 'avoidance' rather than directly on 'how to fix' mistakes, which is promised in the full title. However, the overlap makes the connection clear."
+    ]
+  }
+}

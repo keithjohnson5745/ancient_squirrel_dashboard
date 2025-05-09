@@ -1,0 +1,13 @@
+{
+  "title": "Understand Your Semen Analysis Results- Dr Lora Shahine",
+  "thumbnail_path": "thumbnails/P_zTni4nGXI_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

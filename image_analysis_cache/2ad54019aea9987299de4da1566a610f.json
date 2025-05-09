@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "brown (skin tones, background)": "\u02dc55%",
+      "beige/tan (cosmetic sample)": "\u02dc10%",
+      "white (product packaging, text outline)": "\u02dc10%",
+      "blue (shirts, product packaging)": "\u02dc10%",
+      "black (hair, text, product packaging)": "\u02dc10%",
+      "green (serum bottle label)": "\u02dc5%"
+    },
+    "Composition type": "Combination of close-up (background face with hyperpigmentation) and medium shots (two doctors/hosts in the foreground).",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": "Left: neutral/confident, pointing gesture. Right: smiling, enthusiastic (arms outstretched).",
+      "demographics_if_apparent": "Both appear to be adult males, likely doctors, with light-to-medium complexion, dark hair/beard, wearing medical scrubs."
+    },
+    "Main objects/props featured": [
+      "Three skincare product bottles/tubes (one with 'FADE AWAY' label visible)",
+      "Cosmetic sample smear",
+      "Two people in scrubs"
+    ],
+    "Background environment": "Extreme close-up of a person\u2019s cheek with visible dark spots/hyperpigmentation, acting as an illustrative example."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "FADE DARK SPOTS",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Strong drop shadow; white fill with black outline for contrast",
+      "color": "White with black border"
+    },
+    "Text placement within frame": "Centered at the top, across the upper part of the thumbnail.",
+    "Use of emotional/trigger words": [
+      "FADE",
+      "DARK SPOTS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Optimistic, professional, and encouraging, with an educational/instructive feel.",
+    "Visual metaphors or symbols": "Close-up of skin with dark spots symbolizes the problem; highlighted products symbolize the solution.",
+    "Clickbait techniques employed": [
+      "Bold, direct statement (FADE DARK SPOTS)",
+      "Close-up 'problem' imagery for relatability",
+      "Featured products as 'secret' or 'recommended' solutions",
+      "Doctor/authority figures as guides"
+    ],
+    "Brand elements present": [
+      "Distinctive blue scrubs (likely signature attire for channel)",
+      "Product packaging with visible labels (e.g. 'MAELOVE FADE AWAY')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail uses a graphic close-up of dark spots, products labeled for fading/brightening, and authoritative figures (doctors), all of which visually reinforce the title\u2019s promise of an 'ultimate routine for dark spots'. Text in the thumbnail directly echoes the main solution ('FADE DARK SPOTS') described in the title.",
+    "Contrasts or mismatches": "No notable mismatches. The visual and text elements of the thumbnail are closely aligned with the language and intent of the video title, offering a clear and direct synergy."
+  }
+}

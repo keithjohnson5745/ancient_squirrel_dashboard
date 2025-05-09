@@ -1,0 +1,12 @@
+{
+  "title": "Does lubricant affect chances of pregnancy ?",
+  "thumbnail_path": "thumbnails/cHQZMt97HKQ_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

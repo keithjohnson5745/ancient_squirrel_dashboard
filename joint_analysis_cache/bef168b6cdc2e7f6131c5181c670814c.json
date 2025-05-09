@@ -1,0 +1,12 @@
+{
+  "title": "Our Trying To Conceive Journey-7 Months of Footage",
+  "thumbnail_path": "thumbnails/KQJxDGN0_Gg_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

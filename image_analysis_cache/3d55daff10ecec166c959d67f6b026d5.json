@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Orange/Yellow": "35% (juice stream, juice in glass, orange outline, some background tint)",
+      "Red": "15% (text 'STOP', 'clown' emoji's hair and nose, some fruits on juice pack)",
+      "Black/Dark Grey": "25% (background, text shadow, right edge shadow)",
+      "White": "10% (text, juice pack, clown emoji face)",
+      "Purple": "10% (man's shirt)",
+      "Beige/Brown": "5% (table surface, skin tone)"
+    },
+    "Composition type": "Medium close-up: one person occupies the right half in focus, objects (juice, clown emoji) and text on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to serious, index finger raised in a warning gesture.",
+      "Demographics": "Young adult male"
+    },
+    "Main objects/props featured": [
+      "Glass of juice (orange or mixed fruit)",
+      "Juice carton (pouring juice into glass, 'Juice' written on pack)",
+      "Clown emoji (placed in front of the glass)"
+    ],
+    "Background environment": "Blurred kitchen setting with visible counter and some faint shapes, right side uses a vivid orange cutout to highlight the person."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "STOP DRINKING THIS",
+    "Font characteristics": {
+      "Style": "Bold, uppercase sans-serif",
+      "Emphasis": "'STOP' in bright red with a strikethrough 'O' (\u00d8) for effect, 'DRINKING THIS' in white with black drop shadow.",
+      "Color": "'STOP' in red, 'DRINKING THIS' in white."
+    },
+    "Text placement within frame": "'STOP' occupies top left, 'DRINKING THIS' below it, left-of-center.",
+    "Use of emotional/trigger words": "'STOP', 'DRINKING' (imperative; warning/alert tone)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, warning, and confrontational; designed to provoke curiosity and concern.",
+    "Visual metaphors or symbols": [
+      "Clown emoji (suggesting foolishness or being 'fooled' for drinking juice)",
+      "Pouring juice (focuses attention on what should be stopped)"
+    ],
+    "Clickbait techniques employed": [
+      "Imperative warning in bold ('STOP DRINKING THIS')",
+      "Bright, contrasting colors for urgency",
+      "Emotional gesture (raised finger)",
+      "Clown emoji to imply viewers are being deceived"
+    ],
+    "Brand elements present": "None explicit, though the person in the thumbnail has personal branding value. No explicit channel logos or icons."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces the title": "The thumbnail strongly reinforces the video's title. The visual command 'STOP DRINKING THIS' directly supports the promised 'DARK Truth about Fruit Juices.' The glass and carton of juice represent the subject matter, and the clown emoji suggests foolishness, aligning with the video's claim of exposing a hidden or overlooked truth.",
+    "Contrasts or mismatches": "There is no explicit reference in the thumbnail to the 'court case' or the creator's personal stake alluded to in the title. The thumbnail focuses exclusively on the juice/consumer deception part, not on legal or personal aspects."
+  }
+}

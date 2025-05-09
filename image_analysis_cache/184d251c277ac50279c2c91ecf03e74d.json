@@ -1,0 +1,124 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Dark blue/navy",
+        "percentage": 40
+      },
+      {
+        "color": "White",
+        "percentage": 20
+      },
+      {
+        "color": "Beige/tan (skin tone)",
+        "percentage": 20
+      },
+      {
+        "color": "Light grey (jacket)",
+        "percentage": 10
+      },
+      {
+        "color": "Yellow",
+        "percentage": 7
+      },
+      {
+        "color": "Black",
+        "percentage": 3
+      }
+    ],
+    "Composition type": "Medium close-up (shows upper body of a man on the right, with a close-up of hands holding a measuring tape on the left)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, neutral/confident demeanor",
+      "demographics": "Older adult male, possibly of South Asian descent, wears glasses and a suit jacket"
+    },
+    "Main objects/props featured": [
+      "Man in suit (probably the doctor mentioned)",
+      "Measuring tape (held in hand, with fingers visible)"
+    ],
+    "Background environment": "Solid dark blue gradient behind the man, photographic close-up of hands and measuring tape on jeans in the left half"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "PENIS SHRINKAGE",
+      "\u0915\u094d\u092f\u093e \u0906\u092a\u0915\u093e \u0932\u093f\u0902\u0917 \u0938\u093f\u0915\u0941\u0921\u093c \u0930\u0939\u093e \u0939\u0948 ?",
+      "\u0915\u0940\u091c\u093f\u090f \u092f\u0939 \u0909\u092a\u093e\u092f",
+      "Dr. Deepak Kelkar (MD)"
+    ],
+    "Font characteristics": [
+      {
+        "text": "PENIS SHRINKAGE",
+        "style": "Bold, all caps, sans-serif",
+        "emphasis": "High (white on black and black on white, outlined for contrast)",
+        "color": "White/black"
+      },
+      {
+        "text": "\u0915\u094d\u092f\u093e \u0906\u092a\u0915\u093e \u0932\u093f\u0902\u0917 \u0938\u093f\u0915\u0941\u0921\u093c \u0930\u0939\u093e \u0939\u0948 ?",
+        "style": "Very bold, large, sans-serif with black drop shadow",
+        "emphasis": "Very high",
+        "color": "White (with black outline)"
+      },
+      {
+        "text": "\u0915\u0940\u091c\u093f\u090f \u092f\u0939 \u0909\u092a\u093e\u092f",
+        "style": "Bold, sans-serif, in a highlighted box",
+        "emphasis": "Medium-high",
+        "color": "Black text on yellow background"
+      },
+      {
+        "text": "Dr. Deepak Kelkar (MD)",
+        "style": "Bold, sans-serif",
+        "emphasis": "Medium",
+        "color": "White"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "PENIS SHRINKAGE",
+        "placement": "Top left corner"
+      },
+      {
+        "text": "\u0915\u094d\u092f\u093e \u0906\u092a\u0915\u093e \u0932\u093f\u0902\u0917 \u0938\u093f\u0915\u0941\u0921\u093c \u0930\u0939\u093e \u0939\u0948 ?",
+        "placement": "Center left"
+      },
+      {
+        "text": "\u0915\u0940\u091c\u093f\u090f \u092f\u0939 \u0909\u092a\u093e\u092f",
+        "placement": "Below main Hindi text, inside yellow box"
+      },
+      {
+        "text": "Dr. Deepak Kelkar (MD)",
+        "placement": "Bottom left"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "Shrinkage",
+      "\u0915\u094d\u092f\u093e \u0906\u092a\u0915\u093e",
+      "\u0938\u093f\u0915\u0941\u0921\u093c \u0930\u0939\u093e \u0939\u0948",
+      "\u0909\u092a\u093e\u092f"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Concern mixed with reassurance; authoritative/trustworthy vibe from presenter",
+    "Visual metaphors or symbols": [
+      "Measuring tape implies measurement and physical change (shrinkage)",
+      "Smiling/gesturing doctor represents solution and expertise"
+    ],
+    "Clickbait techniques employed": [
+      "Direct, provocative question targeting insecurities",
+      "Use of the word 'Shrinkage' and anatomical references",
+      "Promise of a solution ('\u0915\u0940\u091c\u093f\u090f \u092f\u0939 \u0909\u092a\u093e\u092f' = 'Do this remedy')"
+    ],
+    "Brand elements present": [
+      "Doctor's name and credentials (Dr. Deepak Kelkar MD), potential for personal/medical branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail uses literal reference to shrinkage with measuring tape and bold mention of 'Penis Shrinkage'",
+      "Hindi text exactly matches question from the title",
+      "Presence of a credible doctor visually reinforces the promise of expert advice"
+    ],
+    "Contrasts or mismatches": [
+      "No major contrast: imagery and text are closely aligned with the title\u2019s provocative and medical themes"
+    ]
+  }
+}

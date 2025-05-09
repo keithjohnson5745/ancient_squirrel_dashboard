@@ -1,0 +1,13 @@
+{
+  "title": "What Happens If You ONLY Drink WATER For 72 Hours?",
+  "thumbnail_path": "thumbnails/e-Pbd-01FzQ_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

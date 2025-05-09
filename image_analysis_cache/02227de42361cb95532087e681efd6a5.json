@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Bright yellow": "25% (main headline)",
+      "Blue gradient": "35% (background, left side)",
+      "Pink/Purple gradient": "35% (background, right side)",
+      "White": "5% (text, doctor's coat)",
+      "Other accent colors": "Small areas of red, green, blue, yellow (condom wrappers)"
+    },
+    "Composition type": "Medium shot (human subject upper body, text and graphics prominently featured)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to slight smile, approachable and professional demeanor",
+      "Demographics": "Appears to be an adult woman of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Colorful condom packets (top right, 4 items in different colors)",
+      "A woman in a white coat (presumably Dr. Neha Mehta)"
+    ],
+    "Background environment": "Artificial gradient background with a mix of blue (left) shifting to magenta/purple (right); no physical setting is depicted"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "CONDOM",
+      "\u0915\u093f\u0924\u0928\u0947 \u0924\u0930\u0939 \u0915\u0947 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902?",
+      "\u0915\u094c\u0928 \u0938\u093e \u091a\u0941\u0928\u0947\u0902 ?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif for main headline ('CONDOM'), clean simple sans-serif for other text",
+      "Emphasis": "Yellow color and all caps for 'CONDOM', white and large for Hindi text, white on black for trigger/question text",
+      "Color": [
+        "Yellow (CONDOM)",
+        "White (Hindi text and name/credential)",
+        "Black background (for '\u0915\u094c\u0928 \u0938\u093e \u091a\u0941\u0928\u0947\u0902 ?')",
+        "Red stripe (behind name/credential)"
+      ]
+    },
+    "Text placement": {
+      "Headline": "Top left, occupying largest area ('CONDOM')",
+      "Hindi question": "Middle left (below headline)",
+      "Follow-up/choice question": "Lower left, in a black rectangle",
+      "Name/title": "Bottom right, near the person"
+    },
+    "Use of emotional/trigger words": [
+      "CONDOM",
+      "'\u0915\u094c\u0928 \u0938\u093e \u091a\u0941\u0928\u0947\u0902 ?' (Which one to choose?) adds a sense of curiosity and decision-making",
+      "\u0915\u093f\u0924\u0928\u0947 \u0924\u0930\u0939 \u0915\u0947 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902? (How many types are there?) adds informational/educational intrigue"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, approachable, slightly clinical, safe/educational",
+    "Visual metaphors or symbols": [
+      "Colorful condom packets symbolize product diversity",
+      "White coat and name/title reinforce expertise"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold headline",
+      "Direct reference to sex-ed topic",
+      "Question format to induce curiosity",
+      "Image of professional (trust, authority)",
+      "Bright, contrasting colors"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta name and title",
+      "Consistent use of professional attire"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail directly reinforces the title with the visual of condom packets, the word 'CONDOM' in bold, and explicit questions about types and selection. The presence of a doctor figure matches the 'Full detail video | Dr Neha Mehta' in the title, supporting the educational promise.",
+    "Contrasts/Mismatches": "There are no apparent contrasts or mismatches. The thumbnail and title are well-aligned in both topic and tone, both emphasizing informative content on condom types in India."
+  }
+}

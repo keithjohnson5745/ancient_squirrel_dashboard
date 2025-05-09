@@ -1,0 +1,12 @@
+{
+  "title": "Another You - Daniel Effiong, Chioma Okafor, Inem King - Latest Nigerian Movie  Full Movie",
+  "thumbnail_path": "thumbnails/gLs0F5QQ3p4_max.jpg",
+  "title_length": 90,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

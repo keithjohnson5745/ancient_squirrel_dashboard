@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink gradient background": "Approx. 60%",
+      "White (text)": "Approx. 15%",
+      "Yellow/orange (name bar)": "Approx. 10%",
+      "Light blue (woman\u2019s dress)": "Approx. 10%",
+      "Brown (hair/skin tone)": "Approx. 5%"
+    },
+    "Composition type": "Medium close-up of a single woman centered in the frame; face and upper torso visible.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Warm, smiling, approachable expression.",
+      "Demographics": "Adult female, light to medium skin tone, brown hair."
+    },
+    "Main objects/props featured": "The woman (presumably Dr. Anna Cabeca) is the main subject; no additional props are visible except her jewelry.",
+    "Background environment": "Soft, pink/purple gradient with a faint vignette; upper right has a butterfly-like minimalist logo."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "7 Ways to Balance Your Hormones Naturally",
+      "Dr. Anna Cabeca"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif",
+      "Emphasis": "Heavy weight for visibility",
+      "Color": {
+        "Main title": "White",
+        "Name bar": "White text on bright yellow/orange background"
+      }
+    },
+    "Text placement within frame": {
+      "Main title": "Occupies left half and center area, mostly covering the woman\u2019s shoulder and chest",
+      "Name": "Bottom left, in a colored bar"
+    },
+    "Emotional/trigger words": [
+      "Naturally"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, caring, welcoming, and trustworthy.",
+    "Visual metaphors or symbols": [
+      "Butterfly logo (upper right) evoking transformation",
+      "Soft, glowing background suggests health/wellness"
+    ],
+    "Clickbait techniques employed": [
+      "List format ('7 Ways...')",
+      "Promise of straightforward, actionable advice ('Naturally')",
+      "Professional authority featured ('Dr.')"
+    ],
+    "Brand elements present": [
+      "Butterfly logo (suggestive of channel/brand identity)",
+      "Presenter\u2019s name in a highlighted bar"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail repeats the exact title in a large, easily readable font, directly reinforcing the video\u2019s message. The warm, health-focused color scheme and the presenter\u2019s reassuring demeanor visually convey a sense of wellness and expertise.",
+    "Contrasts or mismatches": "There are no apparent mismatches. The visual and textual elements are consistent with the topic of health and natural hormone balancing."
+  }
+}

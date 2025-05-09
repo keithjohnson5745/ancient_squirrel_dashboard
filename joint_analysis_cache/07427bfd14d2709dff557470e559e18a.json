@@ -1,0 +1,13 @@
+{
+  "title": "Use These 6 Foods Hacks To Heal The Body, Starve Cancer & Burn Fat | Dr. William Li",
+  "thumbnail_path": "thumbnails/6myFF-Lf3iY_max.jpg",
+  "title_length": 83,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

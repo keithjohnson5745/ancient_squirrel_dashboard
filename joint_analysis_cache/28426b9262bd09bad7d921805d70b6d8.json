@@ -1,0 +1,11 @@
+{
+  "title": "Hear the scary moment air traffic controllers tell plane they lost radar",
+  "thumbnail_path": "thumbnails/YwhgkyjVVHU_max.jpg",
+  "title_length": 72,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

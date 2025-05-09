@@ -1,0 +1,12 @@
+{
+  "title": "Menopause Explained: Hormones, Glucose & What You Can Do",
+  "thumbnail_path": "thumbnails/yHPJcL_K0ys_high.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

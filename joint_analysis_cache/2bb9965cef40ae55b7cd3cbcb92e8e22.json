@@ -1,0 +1,12 @@
+{
+  "title": "\u0910\u0938\u0947 \u092e\u0938\u093e\u091c \u0915\u0930\u0947\u0902 | \u092c\u0941\u0922\u093c\u093e\u092a\u0947 \u092e\u0947\u0902 \u091c\u0935\u093e\u0928\u0940 \u0915\u093e \u090f\u0939\u0938\u093e\u0938 | @studywithmeekta",
+  "thumbnail_path": "thumbnails/HYWNgyJUGhM_high.jpg",
+  "title_length": 61,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

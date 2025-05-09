@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "Approx. 60% (background gradient from deep to bright blue)",
+      "white": "Approx. 15% (text and bottle highlights)",
+      "pink": "Approx. 5% (cap and label of the baby oil bottle)",
+      "yellow": "Approx. 10% (large arrow)",
+      "skin tone/light brown": "Approx. 10% (woman's face and hand)",
+      "maroon/burgundy": "Approx. 5% (woman's shirt)"
+    },
+    "Composition type": "Medium shot (showing one person from chest up, large focus on a product bottle, plus prominent text and arrow)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Neutral and pleasant, slight smile, direct eye contact with camera",
+      "demographics": "Adult woman, light to medium skin tone, long brown hair, approximate age young adult"
+    },
+    "Main objects/props featured": [
+      "Large Johnson's baby oil bottle (centered)",
+      "Large yellow arrow (pointing from text to the bottle)",
+      "Single human pointing at the bottle"
+    ],
+    "Background environment": "Solid blue gradient background with a light glow/halo effect behind the bottle and the person for emphasis"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text (transcription)": [
+      "soft skin",
+      "Johnson's",
+      "baby oil",
+      "aceite para bebes",
+      "locks in up to 10X more moisture*",
+      "no parabens, phthalates or dyes",
+      "20 FL OZ (591 mL)"
+    ],
+    "Font characteristics": {
+      "soft skin": {
+        "style": "Bold, sans-serif, high contrast, block-style",
+        "emphasis": "All lower case, white text with thick black outline",
+        "color": "White with black border"
+      },
+      "Product label text": {
+        "style": "Various sans-serif and handwritten-script typefaces",
+        "emphasis": "Brand in blue script, key claims in pink and white block letters",
+        "color": "Primarily blue, pink and white"
+      }
+    },
+    "Text placement within frame": {
+      "soft skin": "Top left to middle left, vertically stacked",
+      "Product label": "On the baby oil bottle, center of image"
+    },
+    "Use of emotional/trigger words": [
+      "soft skin",
+      "locks in up to 10X more moisture*",
+      "no parabens, phthalates or dyes"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, clean, trustworthy, and inviting. Highlights benefits and safety.",
+    "Visual metaphors or symbols": [
+      "Large arrow signaling attention and benefits",
+      "Glow/halo effect around main elements suggesting purity or transformation"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, short benefit phrase ('soft skin')",
+      "Direct visual of popular product",
+      "Presenter directly pointing at product",
+      "Use of numbers/claims ('10X more moisture')"
+    ],
+    "Brand elements present": [
+      "Johnson's baby oil bottle with clear logo and packaging"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail uses a large image of baby oil (matching the 'baby oil' in the title) and the phrase 'soft skin,' directly linking to the product's benefit and the video's promise about 'benefits for skin.' The person points at the product, emphasizing trust and recommendation.",
+    "Contrasts or mismatches": "The thumbnail only features a single benefit (soft skin), while the title references five benefits. It focuses visually on one main claim rather than suggesting multiple advantages."
+  }
+}

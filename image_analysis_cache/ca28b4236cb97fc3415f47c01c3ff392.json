@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40% (bed background, clothing)",
+      "Black": "20% (background, some clothing)",
+      "Yellow": "10% (arrow, 'FAKING' text)",
+      "Beige/skin tones": "20% (visible skin of three women)",
+      "Green": "5% (shirt of woman on left)",
+      "Blue": "5% (background gradient, shirt of woman on right)"
+    },
+    "Composition type": "Composite/Medium shot (two women shown from the waist up on either side, with a close-up of a woman in bed in the center)",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Woman on left: smiling, direct eye contact",
+        "Woman in center (in bed): eyes closed, mouth open, suggestive expression (implied ecstasy or pleasure)",
+        "Woman on right: smiling, friendly, direct eye contact"
+      ],
+      "Demographics (if apparent)": [
+        "Woman on left: appears to be South Asian, adult",
+        "Woman in center: white, adult",
+        "Woman on right: white, adult, short blonde hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Bed and pillow in the center",
+      "Yellow curved arrow pointing to woman in bed"
+    ],
+    "Background environment": "Gradient blue/black geometric pattern with a white bed in the center"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "Is she FAKING it ???",
+    "Font characteristics": {
+      "Style": "Bold sans-serif, uppercase except for 'it'",
+      "Emphasis": "'FAKING' is in bold yellow for high emphasis, other text is white",
+      "Color": "'FAKING' in yellow, all other words in white"
+    },
+    "Text placement": "Top center of frame, spanning most of width",
+    "Emotional/trigger words": [
+      "FAKING",
+      "???"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Provocative, curious, playful with an undertone of sexual innuendo",
+    "Visual metaphors or symbols": [
+      "Woman in bed with suggestive expression = orgasm/faking orgasm",
+      "Yellow arrow accentuates/questioning focus",
+      "'FAKING' highlighted to provoke curiosity"
+    ],
+    "Clickbait techniques employed": [
+      "Intriguing question",
+      "Large, bold text",
+      "Emphasized keywords (FAKING)",
+      "Facial expressions conveying drama/pleasure",
+      "Central suggestive image"
+    ],
+    "Brand elements present": "No explicit branding visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How thumbnail visually reinforces title": "The central visual of a woman in bed with a suggestive expression directly aligns with the video's subject about 'faking it' (orgasm), while the other two women are presumably hosts or guests, visually supporting the show/discussion aspect. The question in the thumbnail text mirrors the video's interrogative title.",
+    "Contrasts or mismatches": "No major mismatches; both thumbnail and title use provocative language and imagery to signal the video's topic is about sexual authenticity and 'faking it'. The tone is consistent."
+  }
+}

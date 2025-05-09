@@ -1,0 +1,11 @@
+{
+  "title": "Dress better without trying harder",
+  "thumbnail_path": "thumbnails/_NXYpEMEZPc_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.25
+}

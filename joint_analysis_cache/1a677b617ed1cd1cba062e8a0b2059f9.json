@@ -1,0 +1,13 @@
+{
+  "title": "Curly hair routine testing drugstore products! #curlyhair #curlyhairproducts",
+  "thumbnail_path": "thumbnails/f9sigygOS-s_max.jpg",
+  "title_length": 76,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

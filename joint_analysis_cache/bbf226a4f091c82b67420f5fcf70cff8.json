@@ -1,0 +1,11 @@
+{
+  "title": "The Hunt for America's Smartest Killer",
+  "thumbnail_path": "thumbnails/wkVygetgeRY_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.25
+}

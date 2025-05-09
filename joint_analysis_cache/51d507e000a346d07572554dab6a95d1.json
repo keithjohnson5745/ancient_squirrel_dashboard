@@ -1,0 +1,13 @@
+{
+  "title": "Inside Antarctica\u2019s Secret Whale War | Dhruv Rathee",
+  "thumbnail_path": "thumbnails/1FhSGOhBu1s_max.jpg",
+  "title_length": 51,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.8
+}

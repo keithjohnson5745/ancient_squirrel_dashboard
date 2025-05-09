@@ -1,0 +1,13 @@
+{
+  "title": "\u0932\u0921\u093c\u0915\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0915\u092e\u093e\u0932 \u0915\u0940 \u091a\u0940\u091c",
+  "thumbnail_path": "thumbnails/OmKGSsqiK6s_max.jpg",
+  "title_length": 25,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "FACE OFF | ALEX G VS ZEINAB HARAKE",
+  "thumbnail_path": "thumbnails/yU4vHpFdBJ0_max.jpg",
+  "title_length": 34,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

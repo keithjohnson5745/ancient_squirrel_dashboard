@@ -1,0 +1,11 @@
+{
+  "title": "What I spent at a cubing store",
+  "thumbnail_path": "thumbnails/ggPqN1DUy0Y_max.jpg",
+  "title_length": 30,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

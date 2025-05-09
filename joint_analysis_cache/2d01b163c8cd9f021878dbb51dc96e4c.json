@@ -1,0 +1,13 @@
+{
+  "title": "The Horrifying Last Moments Of Orca Trainer Sam Collins",
+  "thumbnail_path": "thumbnails/DMaZQU3312g_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

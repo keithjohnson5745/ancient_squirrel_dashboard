@@ -1,0 +1,49 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40% (background, clothing)",
+      "Light beige/white": "30% (background wall, shirt)",
+      "Skin tones": "20% (face, hands)",
+      "Pink/purple": "2% (text highlight)",
+      "Yellow": "2% (text highlight)",
+      "Other minor": "6% (desk, jewelry, hair highlights)"
+    },
+    "Composition type": "Medium close-up (subject's upper body and face are central and prominent)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to slightly serious, possibly explanatory or warning; mouth slightly open, hand raised (gesturing)",
+      "Demographics": "Adult woman, medium complexion, long dark hair"
+    },
+    "Main objects/props featured": "Office chair (background), white desk (foreground), possible jewelry (bracelet)",
+    "Background environment": "Plain light-colored wall with subtle lines or paneling, suggesting an office or professional indoor setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\u0938\u0947\u0915\u094d\u0938 \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u092f\u0947 \u0915\u092d\u0940 \u092e\u0924 \u0932\u0947\u0928\u093e",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, modern and clean",
+      "Emphasis": "Certain words highlighted in color ('\u0938\u0947\u0915\u094d\u0938' in pink/purple, '\u092e\u0924' in yellow), the rest in white",
+      "Color": "White, pink/purple, yellow"
+    },
+    "Text placement within frame": "Centered horizontally, positioned in the lower-middle part of the frame over a semi-transparent black background strip",
+    "Use of emotional/trigger words": [
+      "\u0938\u0947\u0915\u094d\u0938",
+      "\u092e\u0924",
+      "\u0915\u092d\u0940 \u092e\u0924 \u0932\u0947\u0928\u093e"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, cautionary, intriguing (due to the use of 'never do this' language and highlighted words)",
+    "Visual metaphors or symbols": "Raised hand and direct gaze of the subject suggest warning or emphasis; text emphasis reinforces the warning theme",
+    "Clickbait techniques employed": [
+      "Bold trigger keyword ('\u0938\u0947\u0915\u094d\u0938')",
+      "'Never do this' style phrase ('\u0915\u092d\u0940 \u092e\u0924 \u0932\u0947\u0928\u093e')",
+      "Text highlight for curiosity",
+      "Direct address of sensitive or universal topic"
+    ],
+    "Brand elements present": "No explicit brand logos, but the color scheme and style may be consistent with the creator\u2019s usual branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text in the thumbnail is nearly identical to the video title, directly echoing the message and subject. The use of the same urgent warning phrase in both elements creates consistency and reinforces the video's theme of caution or avoidance during a sensitive activity. The subject's expressive gesture and direct eye contact add to the warning, making the thumbnail visually and emotionally aligned with the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There are no major contrasts or mismatches; the thumbnail and title reinforce each other both visually and textually. The only minor difference is the addition of #Shorts in the title for platform categorization, which is not present on the thumbnail."
+  }
+}

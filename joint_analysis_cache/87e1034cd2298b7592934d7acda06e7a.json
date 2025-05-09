@@ -1,0 +1,12 @@
+{
+  "title": "Get Rid of Dry Skin with Vaseline Facial",
+  "thumbnail_path": "thumbnails/ZpfMqs6OdwE_max.jpg",
+  "title_length": 40,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

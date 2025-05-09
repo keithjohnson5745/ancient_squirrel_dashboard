@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approx. 60% (ocean, basketball court, pools, shadows on ship)",
+      "White": "Approx. 25% (cruise ship structure, text overlay)",
+      "Beige/Yellow": "Approx. 10% (deck areas, warm lighting on ship)",
+      "Green": "Approx. 3% (mini-golf/park area)",
+      "Other accent colors": "Approx. 2% (red, purple, used in props and lights)"
+    },
+    "Composition type": "Wide shot (aerial, top-down view of the cruise ship's upper decks, showing expansive layout and surrounding ocean)",
+    "Human presence": {
+      "Number of people": "Not clearly visible (could be present as small figures, but not identifiable)",
+      "Expressions": "N/A (people not distinguishable)",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Large cruise ship (central, dominant feature)",
+      "Basketball court (clearly marked with lines and logos)",
+      "Mini-golf course or park area (colorful, landscaped with props)",
+      "Pools (some visible, blue water)",
+      "Marquee structure/funnel stack (top center of ship)",
+      "Ocean (background, surrounding ship)"
+    ],
+    "Background environment": "Open ocean, ship is surrounded by deep blue water; no land visible."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BUSINESS INSIDER",
+      "BIG BUSINESS"
+    ],
+    "Font characteristics": {
+      "BUSINESS INSIDER": "Sans-serif, all caps, thinner weight, white",
+      "BIG BUSINESS": "Sans-serif, all caps, bold with strong emphasis, white"
+    },
+    "Text placement within frame": {
+      "BUSINESS INSIDER": "Bottom left corner, smaller size above 'BIG BUSINESS'",
+      "BIG BUSINESS": "Bottom left corner, large bold letters, overlaps slightly with ship's foreground"
+    },
+    "Use of emotional/trigger words": [
+      "BIG BUSINESS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Awe-inspiring, luxurious, impressive scale. Conveys a sense of grandiosity and sophistication.",
+    "Visual metaphors or symbols": [
+      "Gigantic ship as symbol of scale and enterprise",
+      "Recreational facilities as symbols of luxury and high operational cost"
+    ],
+    "Clickbait techniques employed": [
+      "Dramatic aerial shot to evoke curiosity",
+      "Showcasing luxury and scale to intrigue viewers about costs",
+      "Bold, large font for 'BIG BUSINESS' to emphasize importance"
+    ],
+    "Brand elements present": [
+      "Business Insider logo",
+      "Distinctive cruise ship branding/logos on court/pools (suggesting Royal Caribbean, but not named here)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces the title by": [
+      "Showing a vast, extravagant cruise ship, visually hinting at high operational costs",
+      "Highlighting multiple expensive features (sports courts, pools, recreation areas) that support the video's focus on daily expenses"
+    ],
+    "Contrasts or mismatches": [
+      "No explicit mention of the $1 million figure or specific cost elements in the thumbnail; focus is more on scale and luxury",
+      "No text about money or 'cost' except for 'BIG BUSINESS', so direct link to financial detail is more implied than explicit"
+    ]
+  }
+}

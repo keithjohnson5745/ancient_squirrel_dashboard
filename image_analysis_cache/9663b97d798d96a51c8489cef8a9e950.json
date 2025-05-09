@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal Green": "20%",
+      "Light Purple/Grey": "30%",
+      "Black": "20%",
+      "Skin Tones": "15%",
+      "White": "10%",
+      "Muted Pink": "5%"
+    },
+    "Composition type": "Medium shot (side view of a woman lying on a mat, showing most of her body but not a full wide shot)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, relaxed, looking at the camera",
+      "Demographics": "Adult female, light skin tone, brown hair"
+    },
+    "Main objects/props featured": [
+      "Exercise mat (gray)",
+      "Foam yoga block or pillow between knees",
+      "Woman in athletic clothing (white sports bra, black leggings)"
+    ],
+    "Background environment": "Plain indoor setting with a bare beige wall, carpet or textured floor; no other objects visible"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "BETTER",
+      "than",
+      "KEGELS"
+    ],
+    "Font characteristics": {
+      "BETTER": {
+        "Style": "Bold, sans-serif (all caps)",
+        "Emphasis": "High (large size, green color)",
+        "Color": "Teal green"
+      },
+      "than": {
+        "Style": "Rounded, lowercase, sans-serif",
+        "Emphasis": "Medium (contrasting colors, smaller size, set on rounded rectangle background)",
+        "Color": "Grey text on light grey/purple background"
+      },
+      "KEGELS": {
+        "Style": "Bold, sans-serif (all caps)",
+        "Emphasis": "Very high (extra-large, fills bottom part of thumbnail, partially transparent under the subject)",
+        "Color": "White, partially translucent"
+      }
+    },
+    "Text placement within frame": {
+      "BETTER": "Top left, large",
+      "than": "Below 'BETTER', mid-upper left",
+      "KEGELS": "Bottom, spanning entire width behind the woman"
+    },
+    "Use of emotional/trigger words": [
+      "BETTER",
+      "KEGELS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, empowering, and energetic (the subject is smiling and relaxed, large bold text conveys confidence)",
+    "Visual metaphors or symbols": "Exercise mat and yoga block visually reinforce physical/fitness theme and suggest 'a move' as mentioned in the title",
+    "Clickbait techniques employed": [
+      "Bold, competitive language ('BETTER than KEGELS!') suggests superiority/controversy",
+      "Large, clear text grabs attention",
+      "Smiling, relatable face increases approachability",
+      "Casual at-home setting suggests ease of participation"
+    ],
+    "Brand elements present": "No overt logos; style (color palette, large text overlaid on image, exercise setting) may be consistent with fitness channel branding"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually emphasizes comparision ('BETTER than KEGELS!') with bold, prominent text and the image of a woman demonstrating an exercise move, which aligns exactly with the title's promise of a '3-in-1 move that's BETTER than Kegels.' The yoga block props and setting support the 'exercise' context.",
+    "Contrasts or mismatches": "No significant contrast or mismatch\u2014both thumbnail and title focus on presenting an alternative to Kegels in a relatable, authoritative manner."
+  }
+}

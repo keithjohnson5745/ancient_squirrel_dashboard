@@ -1,0 +1,11 @@
+{
+  "title": "Matt Is Going Through Some Changes | Matthew Steven Rife",
+  "thumbnail_path": "thumbnails/GGSizNwj90k_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.3
+}

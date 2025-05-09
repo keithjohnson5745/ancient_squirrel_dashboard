@@ -1,0 +1,13 @@
+{
+  "title": "Graduate Stevie Wolfe's Inspiring Story of Triumph in Recovery,  Beyond Addiction Podcast EP 121",
+  "thumbnail_path": "thumbnails/1SSO2V6_aWc_max.jpg",
+  "title_length": 96,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

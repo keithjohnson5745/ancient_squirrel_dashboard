@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue (background)": "40%",
+      "Orange (clothing and arm of character)": "20%",
+      "Light pink (skin tone, tray cloth)": "10%",
+      "Brown (feces)": "10%",
+      "Green (sickly face, fumes/smell)": "10%",
+      "Yellow (text background)": "5%",
+      "Red (text background)": "5%"
+    },
+    "Composition type": "Medium shot (cartoon character framed from chest up, side profile, facing left foreground)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Distressed/disgusted expression, cheeks puffed, greenish face, widened eyes, frown",
+      "Demographics": "Animated male character, mid-toned skin, black hair, no specific age/ethnicity indicated"
+    },
+    "Main objects/props featured": [
+      "Tray/table with two plates (each with cartoonish feces on it, emitting green fumes)",
+      "Character in orange prison-like uniform",
+      "Tray with pink napkin under feces",
+      "Dripping green liquid from tray"
+    ],
+    "Background environment": "Simple, stylized blue setting suggesting an institutional or prison interior (solid colors, no detailed elements)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\"WORSE THAN DEATH\"",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase",
+      "Emphasis": "Black font for 'WORSE THAN', white font with red background for 'DEATH'",
+      "Color": "Black and white text; yellow and red rectangular backgrounds for contrast"
+    },
+    "Text placement within frame": "Top right quadrant, overlaying background; 'WORSE THAN' in yellow box above 'DEATH' in red box",
+    "Use of emotional/trigger words": [
+      "\"WORSE THAN DEATH\""
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intense discomfort, disgust, and shock (emphasized by green face, cartoon feces, and harsh wording)",
+    "Visual metaphors or symbols": [
+      "Cartoon feces: represents squalid, degrading prison conditions",
+      "Green fumes: suggests bad odor and uncleanliness",
+      "Green, sick face: metaphor for extreme revulsion or suffering"
+    ],
+    "Clickbait techniques employed": [
+      "Use of hyperbolic/emotional phrase 'WORSE THAN DEATH'",
+      "Shocking/disturbing imagery (feces, sick character)",
+      "Bright, contrasting colors to grab attention"
+    ],
+    "Brand elements present": "No explicit logos or standard YouTuber icons, but style is reminiscent of popular animated documentary channels"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually amplifies the video title\u2019s implication that El Chapo's prison experience is extremely harsh by showing exaggeratedly unpleasant food/prison conditions and a character suffering as a result.",
+    "Contrasts or mismatches": "There is a match in tone (extreme suffering/discomfort), but the thumbnail uses a cartoon style and humor to depict a horrific experience, which may contrast with actual prison conditions implied by the documentary-style title. The use of a cartoon character, rather than an explicit likeness of El Chapo, makes it more generic/symbolic."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approximately 40% (bottle and text area)",
+      "Skin tones": "Approximately 20% (person's face and hand)",
+      "Black/Dark tones": "Approximately 30% (shirt, chair, some background areas)",
+      "Neutral/Beige": "Approximately 10% (background and table)"
+    },
+    "Composition type": "Medium close-up shot",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Serious, assertive\u2014mouth slightly open, possibly mid-sentence",
+      "Demographics": "Adult male, medium complexion, dark hair"
+    },
+    "Main objects/props featured": [
+      "Blue Parachute coconut oil bottle (clearly visible logo and product design)",
+      "Plain table surface (foreground)"
+    ],
+    "Background environment": "Neutral blurred indoor space with hints of light and furniture; not distracting from the subject"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "Scam Part 28 Coconut Oil \ud83e\udd65",
+    "Font characteristics": {
+      "Style": "Bold, clear sans-serif",
+      "Emphasis": "Strong emphasis with black font on a white background card",
+      "Color": "Black text on white box",
+      "Emoji": "Coconut emoji at end for emphasis"
+    },
+    "Text placement within frame": "Centered on the lower-middle part of the thumbnail in a white rounded rectangle, highly readable",
+    "Use of emotional/trigger words": [
+      "Scam",
+      "Part 28",
+      "Coconut Oil"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Alert, investigative, possibly accusatory. The word 'Scam' and the presenter\u2019s expression create a sense of urgency or concern.",
+    "Visual metaphors or symbols": "The coconut emoji reinforces the subject. The direct display of a branded product signals scrutiny or critique.",
+    "Clickbait techniques employed": [
+      "Use of the word 'Scam' to trigger curiosity or alarm",
+      "Numbered series ('Part 28') to imply ongoing revelations",
+      "Direct product call-out to attract affected viewers"
+    ],
+    "Brand elements present": [
+      "Visible Parachute Coconut Oil logo and branding on the bottle"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail prominently features the Parachute Coconut Oil bottle and includes the phrase 'Scam Part 28 Coconut Oil \ud83e\udd65', directly tying the image to the video\u2019s title and suggesting that this is one in a series exposing product-related issues.",
+    "Any contrasts or mismatches between thumbnail and title": "No apparent contrast or mismatch\u2014the thumbnail and title are strongly aligned, both focusing on Parachute Coconut Oil and the notion of a 'scam' as part of an ongoing investigative series."
+  }
+}

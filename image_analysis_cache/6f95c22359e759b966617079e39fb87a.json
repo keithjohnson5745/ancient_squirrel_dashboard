@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light Blue": "60%",
+      "Purple": "25%",
+      "White": "10%",
+      "Pink/Red Accents": "5%"
+    },
+    "Composition type": "Wide shot featuring both product imagery and text information.",
+    "Human presence": {
+      "Number of people": "None photographed, but one illustrated couple (stylized drawing) on the product packaging and a stylized logo with three figures (women) in the top right.",
+      "Expressions": "Neutral, as shown in illustrations only.",
+      "Demographics": "Adults (one couple, male and female shown on package), women (three stylized women in logo)."
+    },
+    "Main objects/props featured": [
+      "PregaHope Gel tube",
+      "PregaHope Gel box with illustrated couple"
+    ],
+    "Background environment": "Soft light blue gradient with faint capsule/oval illustrations in the background, contributing to a clinical, gentle, and health-focused feel."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "PregaHope",
+      "Fertility Friendly Lubricant",
+      "Fertility Friendly Lubricant for HER and HIM",
+      "Prega News",
+      "Expert Pregnancy Care Partner",
+      "pH 7",
+      "Supports Sperm Viability",
+      "50g",
+      "PregaHope",
+      "Prega News",
+      "PregaHappy"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "PregaHope, Fertility Friendly Lubricant, Fertility Friendly Lubricant for HER and HIM",
+        "Style": "Clean, modern sans serif (possibly custom for branding), bold for emphasis",
+        "Emphasis": "Strong emphasis on 'Fertility Friendly', 'HER and HIM' (all caps, bold)",
+        "Color": "Purple (main font), red (emphasis on smaller headline 'Fertility Friendly Lubricant')"
+      },
+      {
+        "Text": "Expert Pregnancy Care Partner & tagline",
+        "Style": "Small, thin sans serif",
+        "Color": "Purple or dark grey"
+      }
+    ],
+    "Text placement within frame": {
+      "PregaHope logo & Fertility Friendly Lubricant": "Top left quadrant",
+      "Main headline": "Lower left to center",
+      "Product information": "On product packaging to the right",
+      "Prega News logo and tagline": "Top right"
+    },
+    "Use of emotional/trigger words": [
+      "Hope",
+      "Fertility",
+      "Friendly",
+      "Expert",
+      "Care",
+      "Partner",
+      "HER and HIM"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, professional, hopeful, inclusive and supportive for couples seeking fertility assistance.",
+    "Visual metaphors or symbols": [
+      "Illustrated couple on box (togetherness, support)",
+      "Soft gradients/symbolic capsules in the background (medical, health context)",
+      "Three women in the logo (community, care, guidance)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large text with phrases like 'HER and HIM' to suggest inclusivity",
+      "Repetition of 'Fertility Friendly' to immediately address target audience",
+      "Visual emphasis on the product, hinting at a solution"
+    ],
+    "Brand elements present": [
+      "PregaHope logo",
+      "Prega News logo and tagline",
+      "Distinct brand color palette (purple, blue, white)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail visually reinforces the title by featuring the PregaHope product packaging prominently, repeatedly using the phrase 'Fertility Friendly Lubricant', and integrating the Prega News Expert Pregnancy Care Partner branding, all of which match the words in the video title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; the thumbnail and title are highly aligned in message. Both focus on the product's fertility-support function and its affiliation with the 'Prega News' expert brand."
+  }
+}

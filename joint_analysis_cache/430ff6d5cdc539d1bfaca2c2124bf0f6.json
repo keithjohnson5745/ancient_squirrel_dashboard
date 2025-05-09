@@ -1,0 +1,13 @@
+{
+  "title": "Doctor explains the Symptoms and Stages of SYPHILIS (STI)",
+  "thumbnail_path": "thumbnails/ZpCu4YiQ13U_max.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

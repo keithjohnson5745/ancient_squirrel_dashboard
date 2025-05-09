@@ -1,0 +1,111 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "Light Pink (background wall)",
+        "percentage": 40
+      },
+      {
+        "color": "Black (clothing, hair)",
+        "percentage": 25
+      },
+      {
+        "color": "Beige/Light Brown (clothing, hair)",
+        "percentage": 15
+      },
+      {
+        "color": "Muted Green (text, plants, hair accent)",
+        "percentage": 10
+      },
+      {
+        "color": "White (text, highlights, clothing)",
+        "percentage": 10
+      }
+    ],
+    "composition_type": "Medium shot, straight-on composition",
+    "human_presence": {
+      "number_of_people": 3,
+      "positions": "Two women (left and right), one man (center)",
+      "expressions": "Serious/confident, direct gazes at the camera",
+      "demographics": {
+        "genders_apparent": "Two female-presenting (left, right), one male-presenting (center)",
+        "ethnicity": "Not explicitly stated (African descent apparent)"
+      }
+    },
+    "main_objects_props_featured": [
+      "Three people as central focus",
+      "Decorative indoor plant/background leaves"
+    ],
+    "background_environment": "Indoors, pastel pink panelled wall, large purple/pink tropical plant leaves"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "MS FILMS PRESENTS",
+      "SONIA UCHE      MAURICE SAM      PEARL WATS",
+      "TWO GIRLS",
+      "SHOWING ON MAURICE SAM TV"
+    ],
+    "font_characteristics": [
+      {
+        "text": "MS FILMS PRESENTS",
+        "style": "Bold, sans-serif, all uppercase, white on black background",
+        "emphasis": "Medium",
+        "color": "White (on black block)"
+      },
+      {
+        "text": "SONIA UCHE      MAURICE SAM      PEARL WATS",
+        "style": "Small caps, sans-serif, white",
+        "emphasis": "Low",
+        "color": "White"
+      },
+      {
+        "text": "TWO GIRLS",
+        "style": "Ornate, serif, all uppercase, custom font with cut-out silhouette graphic, large",
+        "emphasis": "Very high",
+        "color": "White"
+      },
+      {
+        "text": "SHOWING ON MAURICE SAM TV",
+        "style": "Sans-serif, white",
+        "emphasis": "Medium",
+        "color": "White (with YouTube red play icon)"
+      }
+    ],
+    "text_placement_within_frame": [
+      "Top left (MS FILMS PRESENTS)",
+      "Above main title (actor names, centered)",
+      "Center (main title 'TWO GIRLS', largest)",
+      "Bottom left (YouTube and channel text)"
+    ],
+    "emotional_trigger_words": [
+      "TWO GIRLS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Dramatic, serious, confident, mature",
+    "visual_metaphors_symbols": [
+      "The central male flanked by two confident women visually links to the title 'Two Girls'",
+      "Silhouette of two figures inside the 'O' in 'TWO' references the movie's main theme"
+    ],
+    "clickbait_techniques_employed": [
+      "Clear, direct eye contact to draw viewer in",
+      "Central composition with bold, engaging title",
+      "Use of celebrity/actor names for recognition",
+      "Professional, high-quality photography"
+    ],
+    "brand_elements_present": [
+      "MS FILMS logo/presented by",
+      "YouTube/MAURICE SAM TV branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": [
+      "Thumbnail shows exactly two women and one man, aligning with the title's reference to 'TWO GIRLS'",
+      "Names of featured actors in the thumbnail match those in the title",
+      "Graphical element (silhouette of two girls in the title) reinforces the focus on the central characters"
+    ],
+    "contrasts_or_mismatches": [
+      "None apparent; the thumbnail accurately represents the title and its content focus"
+    ]
+  }
+}

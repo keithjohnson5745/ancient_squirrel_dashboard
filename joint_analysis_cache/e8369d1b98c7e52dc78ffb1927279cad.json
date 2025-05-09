@@ -1,0 +1,12 @@
+{
+  "title": "When a B-17 Tail Fell With a Gunner Inside",
+  "thumbnail_path": "thumbnails/ftC82XScxV4_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.25
+}

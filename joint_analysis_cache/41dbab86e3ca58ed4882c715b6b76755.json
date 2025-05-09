@@ -1,0 +1,14 @@
+{
+  "title": "When to have sex to fall pregnant (faster)",
+  "thumbnail_path": "thumbnails/6uAKpMzDTqk_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

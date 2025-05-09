@@ -1,0 +1,13 @@
+{
+  "title": "Why does sperm come out in the urine ? Sperm leakage in the urine explained",
+  "thumbnail_path": "thumbnails/8bda969k0N0_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

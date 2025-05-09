@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Navy blue": "60% (background, shirt)",
+      "Red": "20% (condom, large red 'X', 'Killer' text)",
+      "White": "15% (text, signature)",
+      "Skin-tone": "5% (face and hand of the person)"
+    },
+    "Composition type": "Medium close-up (waist up view of single individual in center, with prominent props and text on both sides)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, thoughtful, possibly concerned (neutral gaze, lips closed, hand pointing upward as if making a point)",
+      "Demographics": "Middle-aged male, medium complexion, glasses, mustache"
+    },
+    "Main objects/props featured": [
+      "Red condom (left side, close-up view)",
+      "Large red 'X' (right side above text)",
+      "Man in scrubs (center, foreground)"
+    ],
+    "Background environment": "Solid dark navy blue, no environmental detail or context, clean and clinical vibe"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "sex lubricant",
+      "Killer",
+      "Dr. Sunil Jindal",
+      "REPRODUCTIVE MEDICINE SPECIALIST"
+    ],
+    "Font characteristics": {
+      "\u201csex lubricant\u201d": "Bold, sans-serif, all lowercase, white color (top left of frame)",
+      "\u201cKiller\u201d": "Medium weight, sans-serif, red color (bottom right quadrant)",
+      "Signature & title": "Script/cursive, white, stylized (bottom left corner, small size)"
+    },
+    "Text placement within frame": {
+      "\u201csex lubricant\u201d": "Top left",
+      "\u201cKiller\u201d": "Right center",
+      "Red 'X'": "Directly above 'Killer', draws attention",
+      "Signature & title": "Bottom left corner"
+    },
+    "Use of emotional/trigger words": [
+      "sex",
+      "Killer"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary, serious, authoritative; suggests danger or warning via the red 'X' and the word 'Killer'",
+    "Visual metaphors or symbols": [
+      "Red 'X' as symbol of danger, caution, or wrongness",
+      "Condom as visual cue for sexual health context"
+    ],
+    "Clickbait techniques employed": [
+      "Use of the provocative word 'sex'",
+      "Dramatic word 'Killer' in bold red next to a red 'X'",
+      "Authority figure pointing, inviting curiosity/concern"
+    ],
+    "Brand elements present": [
+      "Doctor\u2019s name and credentials (Dr. Sunil Jindal, Reproductive Medicine Specialist)",
+      "Hospital branding ('Jindal Hospital', on clothing)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly echoes the title by displaying the words 'sex lubricant' and 'Killer' as prominent text, underscoring the provocative and cautionary angle. The visual of the condom and authoritative figure (doctor) supports the medical/sexual health theme. The red 'X' and the word 'Killer' amplify the warning/danger aspect signaled in the title.",
+    "Contrasts or mismatches": "No major mismatch. The elements of the thumbnail are consistent with the video's title, emphasizing both educational aspect (via the doctor's presence) and sensational/cautionary aspect (via the text and imagery)."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "white": "Approximately 60% (background)",
+      "black": "Approximately 20% (text and illustration lines)",
+      "red/pink": "Approximately 15% (highlighted text and on lubricant tube)",
+      "beige/tan": "Approximately 5% (illustration detail)"
+    },
+    "Composition type": "Mixed \u2014 Illustration on the left (close-up style technical drawing), product photograph on the lower right (medium-shot), text dominates the center and top.",
+    "Human presence": "No actual humans present; left-side line drawing symbolically represents anatomy (possibly vaginal canal and instrument).",
+    "Main objects/props featured": [
+      "Line drawing of an anatomical or technical cross-section with a spiral/rod",
+      "Tube of 'Lubic Lubricating Jelly'",
+      "Box for the same product"
+    ],
+    "Background environment": "Plain white with a thin red border framing the entire thumbnail."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0930\u093e\u0924 \u092e\u0947\u0902 \u0921\u094d\u0930\u093f\u0932 \u0915\u0930\u0924\u0947 \u0938\u092e\u092f",
+      "\u0925\u094b\u0921\u093c\u093e \u0938\u093e \u092f\u0939 \u0915\u094d\u0930\u0940\u092e \u0932\u0917\u093e\u0913",
+      "\u0926\u0930\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u094b\u0917\u093e \u0914\u0930 \u0935\u094b \u0939\u094b\u0917\u093e",
+      "100%",
+      "LUBRICATING JELLY STERILE",
+      "Lubic",
+      "WATER SOLUBLE & SAFE, IDEAL FOR GENERAL LUBRICATING NEEDS",
+      "NEXON"
+    ],
+    "Font characteristics": {
+      "Hindi text": "Bold, sans-serif style, black color with key phrases in bright red/pink for emphasis. Large, eye-catching.",
+      "English/product text": "Simple sans-serif on product packaging; 'Lubic' in pink, main details in black/pink/gray.",
+      "Numbers/percent": "'100%' in large red, bold font."
+    },
+    "Text placement within frame": "Hindi text centered and top, taking up most of upper half; '100%' at lower left; product name/details on product itself at lower right.",
+    "Use of emotional/trigger words": [
+      "\u0926\u0930\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u094b\u0917\u093e (pain will not happen)",
+      "100%",
+      "\u0925\u094b\u0921\u093c\u093e \u0938\u093e \u092f\u0939 \u0915\u094d\u0930\u0940\u092e \u0932\u0917\u093e\u0913 (apply a little of this cream)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, practical, slightly clinical but with a promise of relief and guaranteed success.",
+    "Visual metaphors or symbols": "Line drawing likely symbolizes a medical/sexual scenario discreetly; lubricant packaging as a clear solution.",
+    "Clickbait techniques employed": [
+      "Large, bold claims ('100%', 'pain will not happen')",
+      "Bold color contrast to highlight instructions",
+      "Direct call to action ('apply a little of this cream')"
+    ],
+    "Brand elements present": [
+      "Lubic (product name)",
+      "NEXON (brand/manufacturer)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "Directly supports the title's information about lubricant gel, its usage during intercourse, and its benefits for pain relief. Shows the actual product mentioned and uses direct language matching the instructional/solution tone of the video.",
+    "Contrasts or mismatches": "No significant mismatch; both clearly address the same topic. The technical/medical illustration is somewhat abstract, which could confuse viewers unfamiliar with anatomy, but matches the sensitive/educational intent."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "All about [What is Big Data] ?",
+  "thumbnail_path": "thumbnails/rsOSrEbK7sU_max.jpg",
+  "title_length": 30,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

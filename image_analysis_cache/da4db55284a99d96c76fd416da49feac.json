@@ -1,0 +1,99 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Bright red": "about 40% (background on left/top and borders)",
+      "Yellow": "about 25% (background of illustration on right)",
+      "White": "about 15% (background of clinic logo and some wall in photo)",
+      "Skin tones": "about 10% (human face and cartoon face)",
+      "Blue/cyan": "about 5% (hair on cartoon, accent lines, shirt)",
+      "Black (text/lines)": "about 5%"
+    },
+    "Composition type": "Split composition, half graphic/illustration and half photographic. Uses a close-up photo for the lower left and flat graphic/illustration for the right.",
+    "Human presence": {
+      "Number of people": 1,
+      "Photo": {
+        "Visible person": 1,
+        "Expression": "Smiling, seems relaxed and approachable",
+        "Demographics": "Adult male, dark hair, glasses, medium/dark skin tone"
+      },
+      "Illustration": {
+        "Cartoon face": 1,
+        "Expression": "Wide-eyed, neutral or slightly uneasy, blue hair",
+        "Demographics": "Ambiguous cartoon character"
+      }
+    },
+    "Main objects/props featured": [
+      "Photograph of a man (possible doctor/personality)",
+      "Cartoon face with exaggerated eyes and blue hair",
+      "Clinic logo (top right)"
+    ],
+    "Background environment": "Plain indoor (photo section); flat yellow/white for graphic section"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Losing Erection ? Due to stress..",
+      "Dr Shahs Clinic",
+      "Male Infertility & Sexual Health",
+      "MY ANXIETY TAKES NO BREAKS",
+      "Zi Zou"
+    ],
+    "Font characteristics": {
+      "Losing Erection ? Due to stress..": {
+        "Style": "Large, bold, serif (likely Times or similar)",
+        "Color": "White",
+        "Emphasis": "Very strong, all caps style on first letters",
+        "Placement": "Top left/middle, covers nearly half of the thumbnail"
+      },
+      "Dr Shahs Clinic": {
+        "Style": "Sans-serif, professional",
+        "Color": "Blue",
+        "Emphasis": "Medium",
+        "Placement": "Top right, logo section"
+      },
+      "Male Infertility & Sexual Health": {
+        "Style": "Sans-serif, smaller",
+        "Color": "Pink/purple",
+        "Emphasis": "Low",
+        "Placement": "Below clinic name, top right"
+      },
+      "MY ANXIETY TAKES NO BREAKS": {
+        "Style": "Handwritten/cartoonish, playful",
+        "Color": "Blue, purple, yellow, pink (words emphasized by color change and underline)",
+        "Emphasis": "Strong on 'NO BREAKS'",
+        "Placement": "Top and bottom of yellow illustration section"
+      },
+      "Zi Zou": {
+        "Style": "Signature style, small, handwritten",
+        "Color": "Black",
+        "Placement": "Bottom right"
+      }
+    },
+    "Use of emotional/trigger words": [
+      "Losing Erection",
+      "stress",
+      "ANXIETY",
+      "NO BREAKS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Anxious but supportive; highlights both the problem and its emotional burden but offsets with the approachable look of the photo and bright color scheme.",
+    "Visual metaphors or symbols": [
+      "Cartoon face with wild blue hair and wide eyes to symbolize anxiety or stress",
+      "Bright colors to evoke urgency or draw attention to a sensitive issue"
+    ],
+    "Clickbait techniques employed": [
+      "Direct emotional appeal ('Losing Erection? Due to stress..')",
+      "Use of big, easy-to-read text and bright alarming colors",
+      "Mix of cartoon and real person to humanize and normalize the topic"
+    ],
+    "Brand elements present": [
+      "Dr Shahs Clinic logo and full clinic name",
+      "Consistent color palette (red, yellow, blue) likely for branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the title by using explicit text about 'losing erection due to stress' and including both an anxious cartoon and the smiling expert, directly linking the topic of erectile dysfunction and anxiety.",
+    "Contrast/mismatch": "There is little to no mismatch. The thumbnail combines the clinical/educational with an emotional, relatable visual (cartoon anxiety face) making it clear the content is about performance anxiety and how it can affect erections.",
+    "Summary": "The thumbnail strongly matches and supports the video\u2019s title, adds visual entertainment, and eases a potentially embarrassing subject with humor and a professional presence."
+  }
+}

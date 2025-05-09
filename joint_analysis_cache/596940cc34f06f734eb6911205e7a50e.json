@@ -1,0 +1,14 @@
+{
+  "title": "Shocking Truth about PCOD & Low Sex Drive|Dr.Sunil Jindal|Jindal Hospital Meerut",
+  "thumbnail_path": "thumbnails/eBdj4h_nG0c_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "emotional_trigger",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.8,
+  "clickbait_score": 0.8
+}

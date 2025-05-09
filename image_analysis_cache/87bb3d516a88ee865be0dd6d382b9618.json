@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink/Purple gradient background": "60%",
+      "Yellow (text and outlines)": "15%",
+      "White (text, speech bubbles, question marks)": "10%",
+      "Orange (speech bubble borders)": "8%",
+      "Black (text, clothing)": "7%"
+    },
+    "Composition type": "Medium shot - the main subject (a woman) is visible from the waist-up, slightly turned, surrounded by speech bubbles and bold text.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Thoughtful, pondering (hand on chin, looking upwards)",
+      "Demographics": "Adult woman, long hair, medium complexion"
+    },
+    "Main objects/props featured": [
+      "Speech bubbles with oil names",
+      "Question marks",
+      "Large bold text"
+    ],
+    "Background environment": "Solid color gradient (pink to purple), minimalistic; no realistic setting, fully graphic/illustrated."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0938\u0930\u0938\u094b\u0902",
+      "\u0928\u093e\u0930\u093f\u092f\u0932",
+      "\u091c\u0948\u0924\u0942\u0928",
+      "\u0924\u093f\u0932",
+      "\u0915\u094c\u0928\u0938\u093e Oil \u0915\u0930\u0947\u0917\u093e \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u095c\u093e ?",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, block lettering; high contrast.",
+      "Emphasis": "Mix of white and yellow for highlighting main words ('Oil' and '\u0915\u0930\u0947\u0902\u0917\u0947' in bright yellow), some text (names of oils) in navy/black.",
+      "Color": "Yellow, white, black/navy, accented by orange speech bubbles. Yellow used for emphasis."
+    },
+    "Text placement within frame": {
+      "Speech bubbles (top, above the woman)": [
+        "\u0938\u0930\u0938\u094b\u0902",
+        "\u0928\u093e\u0930\u093f\u092f\u0932",
+        "\u091c\u0948\u0924\u0942\u0928",
+        "\u0924\u093f\u0932"
+      ],
+      "Main question (right-hand side, vertical center)": "\u0915\u094c\u0928\u0938\u093e Oil \u0915\u0930\u0947\u0917\u093e \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u095c\u093e ?",
+      "Name & designation (bottom right corner)": "Dr. Neha Mehta, COUSULTANT PSYCHOLOGIST"
+    },
+    "Use of emotional/trigger words": [
+      "Best"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity, dilemma, decision-making; invites the viewer to resolve confusion.",
+    "Visual metaphors or symbols": [
+      "Question marks around the woman signify confusion/uncertainty.",
+      "Speech bubbles represent possible oil choices."
+    ],
+    "Clickbait techniques employed": [
+      "Boldly posed question with heightened consequence ('\u0915\u094c\u0928\u0938\u093e Oil \u0915\u0930\u0947\u0917\u093e \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u095c\u093e ?')",
+      "Bright, attention-grabbing colors",
+      "Emphasis on 'Best' and comparative phrasing"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta's name and professional designation at bottom right, establishing authority."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail literally echoes the title's core question: which oil is best? It visually displays the main options (mustard, coconut, olive, sesame) listed in the title, adds a thoughtful woman, and uses bold text to ask the same comparative, evaluative question as the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch. The thumbnail and title are fully aligned thematically and visually\u2014both explicitly focus on comparing different oils to identify the best one."
+  }
+}

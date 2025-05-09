@@ -1,0 +1,12 @@
+{
+  "title": "Mutant Capitalist: Lube 101-\"Can I use baby oil as a sexual lubricant?\"",
+  "thumbnail_path": "thumbnails/ZCmKC5TgpZY_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

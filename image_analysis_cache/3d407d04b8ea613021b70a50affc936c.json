@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark gray/black": "55%",
+      "skin tones": "20%",
+      "navy blue": "15%",
+      "orange/yellow": "10%"
+    },
+    "Composition type": "Medium close-up shot (head and upper torso, slightly off-center to the left)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Mildly confused or concerned, possibly humorous",
+      "demographics": "Young adult, light-skinned male"
+    },
+    "Main objects/props featured": [
+      "Handheld microphone",
+      "Clothing: open dark blue shirt with visible white undershirt"
+    ],
+    "Background environment": "Blurry, dark, possibly a comedy club or stage with muted lights; not clearly defined"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DON'T CALL THE EX",
+      "800 POUND GORILLA"
+    ],
+    "Font characteristics": {
+      "DON'T CALL THE EX": {
+        "style": "Bold, all-caps, distressed texture",
+        "emphasis": "Very strong, visually dominant",
+        "color": "Bright orange/yellow"
+      },
+      "800 POUND GORILLA": {
+        "style": "Rounded, playful",
+        "emphasis": "Brand logo, less dominant",
+        "color": "Orange/yellow and white"
+      }
+    },
+    "Text placement within frame": {
+      "DON'T CALL THE EX": "Right side, large, stacked vertically in three lines",
+      "800 POUND GORILLA": "Top left corner, small"
+    },
+    "Use of emotional/trigger words": [
+      "DON'T",
+      "CALL",
+      "EX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Witty, cautionary, slightly dramatic but comedic",
+    "Visual metaphors or symbols": [
+      "Microphone signifies stand-up comedy/show",
+      "Large text as a 'warning' sign, mimicking urgent advice"
+    ],
+    "Clickbait techniques employed": [
+      "All-caps directive statement",
+      "Emotional trigger word 'EX'",
+      "Relatability/humor from breakup situations"
+    ],
+    "Brand elements present": [
+      "800 Pound Gorilla logo (comedy-special production/distribution company)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The thumbnail\u2019s text ('DON'T CALL THE EX') and the expression of the person suggest relationship struggles, awkward changes, or humorous advice, which aligns thematically with the video title 'Matt Is Going Through Some Changes.' The warning against contacting an ex connects to the idea of personal change after a breakup.",
+    "Contrasts or mismatches": "The title references 'Matthew Steven Rife' and broader 'changes', while the thumbnail narrows the focus to one specific bit of advice. There is a slight mismatch in specificity, but both imply stories about relationship transitions."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "28 Grams a Day: Life as a Ketamine Addict | DEEP",
+  "thumbnail_path": "thumbnails/Xy_f8SryK5M_max.jpg",
+  "title_length": 48,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Teacher Allegedly Demanded Nudes from 14-Year-Old to \u2018Gratify Her Sexual Desires\u2019",
+  "thumbnail_path": "thumbnails/TULUhx0OBzY_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,84 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Bright green": "Approximately 40% (background)",
+      "Light blue/cyan": "Approximately 20% (right background, panel structure)",
+      "White": "Approximately 20% (text, shirt, BBC logo)",
+      "Black/Dark gray": "Approximately 10% (jacket, show logo)",
+      "Beige/skin tone": "Approximately 10% (face)"
+    },
+    "Composition type": "Medium close-up shot (focus on a single person's upper body and face, with visible background elements)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Surprised or talking expression, mouth open, looking slightly off-camera",
+      "Demographics": "Adult male, middle-aged, light skin"
+    },
+    "Main objects/props featured": [
+      "Person (main focus, likely Bob Mortimer based on title/context)",
+      "Show panel desk/barrier (front, lower part of frame)",
+      "Logo graphic of 'Would I Lie To You?'"
+    ],
+    "Background environment": "Studio set with bright green and blue panel backgrounds, clean and modern visual style; BBC branding in top right"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "WOULD I LIE TO YOU?",
+      "BOB MORTIMER: EGGS & ANIMALS",
+      "BBC"
+    ],
+    "Font characteristics": {
+      "WOULD I LIE TO YOU?": {
+        "Style": "Bold sans-serif, uppercase, block background",
+        "Color": "White, yellow (for 'TO'), black, red (for '?')",
+        "Emphasis": "Strong color contrast, bold letters"
+      },
+      "BOB MORTIMER: EGGS & ANIMALS": {
+        "Style": "Very bold, all-caps sans-serif, modern",
+        "Color": "White",
+        "Emphasis": "Large and prominent, lower third overlay"
+      },
+      "BBC": {
+        "Style": "Simple sans-serif, capitalized in square boxes",
+        "Color": "White in black-outlined squares"
+      }
+    },
+    "Text placement within frame": {
+      "WOULD I LIE TO YOU?": "Upper left, logo style",
+      "BOB MORTIMER: EGGS & ANIMALS": "Bottom left, dominating lower third",
+      "BBC": "Upper right corner"
+    },
+    "Use of emotional/trigger words": [
+      "LIE",
+      "EGGS",
+      "ANIMALS"
+    ],
+    "Notes": "Trigger words ('LIE', 'ANIMALS') intrigue with mystery and humor. Bold fonts and contrast draw immediate attention."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Light-hearted, humorous, playful, slightly mysterious (due to show theme)",
+    "Visual metaphors or symbols": [
+      "'Would I Lie To You?' logo as a metaphor for deception and surprise",
+      "Bob Mortimer's expression enhances a sense of unpredictability"
+    ],
+    "Clickbait techniques employed": [
+      "Use of a celebrity/recognizable face (Bob Mortimer)",
+      "Bold, direct question in show title",
+      "Teaser with 'EGGS & ANIMALS' hinting at funny/unusual content",
+      "Dramatic expression captured mid-speech"
+    ],
+    "Brand elements present": [
+      "Would I Lie To You? show logo",
+      "BBC branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Bob Mortimer is the large, clear focal point\u2014matching the video title",
+      "\u2018WOULD I LIE TO YOU?\u2019 logo visually references the show from the title",
+      "Text \u2018EGGS & ANIMALS\u2019 appears large and prominent, directly supporting title context"
+    ],
+    "Contrasts or mismatches": [
+      "No clear visual of eggs or animals in the thumbnail itself\u2014creates curiosity about how these elements are involved in the story"
+    ]
+  }
+}

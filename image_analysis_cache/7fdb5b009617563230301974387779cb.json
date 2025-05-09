@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark grey/black (background left)": "30%",
+      "Light blue and yellow (background right)": "30%",
+      "Skin tones": "20%",
+      "Navy blue (suit)": "10%",
+      "Red (dress, lipstick)": "8%",
+      "White (shirt, text)": "2%"
+    },
+    "Composition type": "Split-frame, side-by-side medium shots",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        {
+          "Person 1 (left)": "Speaking/explaining, slightly open mouth, engaged expression"
+        },
+        {
+          "Person 2 (right)": "Neutral/confident; looking to the side, composed facial expression"
+        }
+      ],
+      "Demographics if apparent": [
+        "Older adult male (left)",
+        "Young adult female (right)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Male wearing a business suit and tie",
+      "Female in a floral strapless dress"
+    ],
+    "Background environment": [
+      "Left: plain dark gradient background (studio-like)",
+      "Right: blue/yellow textured backdrop, likely event or photoshoot"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "POSTURE",
+    "Font characteristics": {
+      "Style": "Serif, uppercase",
+      "Emphasis": "Bold, clear, all caps for impact",
+      "Color": "White font on black background"
+    },
+    "Text placement within frame": "Top right quadrant, above the female figure",
+    "Use of emotional/trigger words": [
+      "POSTURE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, confident, educational",
+    "Visual metaphors or symbols": [
+      "Posture as a symbol of confidence (both subjects display deliberate body language)",
+      "Contrasting figures: expert commentator vs. confident public figure"
+    ],
+    "Clickbait techniques employed": [
+      "Side-by-side comparison (expert vs. celebrity)",
+      "Large, attention-grabbing word ('POSTURE')",
+      "Well-dressed individuals associated with authority and success"
+    ],
+    "Brand elements present": [
+      "None overt in the thumbnail, but the professional quality and split-image style is consistent with WIRED\u2019s branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The expert on the left visually suggests authority and analysis, matching the 'Body Language Expert Explains...' portion of the title.",
+      "The celebrity posture on the right exemplifies confidence, directly linking with the 'How to Show Confidence' theme.",
+      "The word 'POSTURE' visually ties to both subject matter and visual representation."
+    ],
+    "Contrasts or mismatches": [
+      "The title references WIRED explicitly, but there is no WIRED logo or branding in the thumbnail.",
+      "The thumbnail uses a generic keyword ('POSTURE') rather than the full video title, relying on image-text synergy instead."
+    ]
+  }
+}

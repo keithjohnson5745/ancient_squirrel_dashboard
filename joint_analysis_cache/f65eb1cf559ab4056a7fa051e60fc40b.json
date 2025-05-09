@@ -1,0 +1,12 @@
+{
+  "title": "SAGAD / FULL",
+  "thumbnail_path": "thumbnails/VZRvzIjsCmM_max.jpg",
+  "title_length": 12,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

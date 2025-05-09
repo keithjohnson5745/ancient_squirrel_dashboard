@@ -1,0 +1,13 @@
+{
+  "title": "Why My Parents Tried To Kill Me | Minutes With",
+  "thumbnail_path": "thumbnails/FTOXpJ9fM6o_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

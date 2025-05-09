@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "pink": "approx. 60% (background)",
+      "flesh tones": "approx. 20% (woman\u2019s face and hand)",
+      "red": "approx. 7% (apples, strawberry, pepper)",
+      "green": "approx. 4% (broccoli, apple leaf)",
+      "yellow/orange": "approx. 4% (donut, orange, bell pepper)",
+      "brown/beige/tan": "approx. 5% (burger, salmon, bread bun)"
+    },
+    "Composition type": "Medium shot\u2014side profile of a woman's face on right, food items floating in foreground",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Mouth open as if about to eat, curious/anticipatory expression",
+      "demographics": "Adult woman, light skin, straight light brown/dark blond hair"
+    },
+    "Main objects/props featured": [
+      "Broccoli",
+      "Cauliflower",
+      "Bell pepper (red/yellow)",
+      "Orange slice",
+      "Sandwich/Burger with tomato and onion",
+      "Donut (powdered)",
+      "Apple (two instances)",
+      "Strawberry",
+      "Piece of salmon on chopsticks",
+      "Several large forks holding food",
+      "Hand holding chopsticks"
+    ],
+    "Background environment": "Solid bright pink gradient with no environmental details"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "None (no text in the thumbnail image itself)",
+    "font_characteristics": "N/A (no text present)",
+    "text_placement": "N/A",
+    "emotional_trigger_words": "N/A"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Bright, inviting, positive, a touch playful/educational (contrasted foods convey an informative theme)",
+    "Visual metaphors or symbols": [
+      "Forks and chopsticks holding different foods represent choice or comparison",
+      "Contrasting healthy (fruits and vegetables) and less healthy/controversial foods (donut, burger, raw salmon) visually signal a 'good vs. bad' food dichotomy"
+    ],
+    "Clickbait techniques employed": [
+      "Bright colors and high contrast to attract attention",
+      "Food floating toward a person\u2019s open mouth suggests a critical decision or reveal",
+      "Inclusion of both 'forbidden' and 'healthy' foods invites curiosity about what is safe vs. unsafe"
+    ],
+    "Brand elements present": "None identifiable (no logo, watermark, or distinctive brand iconography)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": "The thumbnail visually reinforces the title ('Foods to Avoid During Pregnancy, and WHAT TO EAT instead') by showing a range of foods\u2014both healthy (apples, vegetables, strawberries) and controversial (donut, burger, raw salmon)\u2014implying a direct comparison of choices relevant to pregnancy diet.",
+    "contrasts_or_mismatches": "There is no apparent mismatch; the thumbnail effectively signals the topic with clear illustrative examples. The absence of explicit pregnancy cues (e.g., a pregnant belly) may be a minor gap, but the focus on food options parallels the video title."
+  }
+}

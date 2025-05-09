@@ -1,0 +1,11 @@
+{
+  "title": "Schizophrenic Man interview-Chris",
+  "thumbnail_path": "thumbnails/FUIn-ZLdtkk_max.jpg",
+  "title_length": 33,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Fix And Lubricate A Sticky Lock And Key",
+  "thumbnail_path": "thumbnails/-UZshPT59nY_high.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

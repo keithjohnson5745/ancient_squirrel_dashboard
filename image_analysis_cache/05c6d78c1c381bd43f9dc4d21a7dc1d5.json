@@ -1,0 +1,79 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "dark green": "\u224870%",
+      "yellow": "\u224810%",
+      "white": "\u224810%",
+      "red": "\u22487%",
+      "blue": "\u22483%"
+    },
+    "Composition type": "Medium shot (half-body portrait of a person on the right; large central and left-aligned text blocks)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral/confident; direct eye contact with the viewer, slight smile",
+      "demographics_if_apparent": "Adult female, possibly of South Asian descent, dressed in a white coat (suggests medical/professional context)"
+    },
+    "Main objects/props featured": [
+      "Woman in a white coat (doctor/psychologist attire)",
+      "Text with prominent words highlighted"
+    ],
+    "Background environment": "Solid dark green gradient background; no visible environmental context"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Oral \u0915\u0930\u0924\u0947 \u0935\u0958\u094d\u0924 Lube \u0915\u093e \u092e\u0941\u0901\u0939 \u092e\u0947\u0902 \u091c\u093e\u0928\u093e",
+      "Safe/ Unsafe",
+      "Dr. Neha Mehta CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "style": [
+        "Bold sans-serif for all primary text",
+        "Safe/Unsafe in an extra-bold, all-caps style",
+        "Dr. Neha Mehta in bold white on a blue rectangular banner, small all-caps for subtitle"
+      ],
+      "emphasis": [
+        "\"Safe/ Unsafe\" uses high contrast white/red, bold, placed inside a rounded red rectangle for high visibility"
+      ],
+      "color": [
+        "Yellow for major Hindi text",
+        "White for English text and highlights",
+        "Red background for 'Safe/ Unsafe' for alarm/urgency"
+      ]
+    },
+    "Text placement within frame": {
+      "Center and left-aligned block for main text (top to mid-left 2/3 of the frame). 'Safe/ Unsafe' is central in lower 1/3. Dr. Neha Mehta's name/title in a blue box near bottom right.": "",
+      "Use of emotional/trigger words": [
+        "Safe/Unsafe",
+        "Oral",
+        "Lube",
+        "\u092e\u0941\u0901\u0939 (mouth)"
+      ]
+    },
+    "THEMATIC ELEMENTS": {
+      "Overall emotional tone": "Cautious, educational, and slightly provocative (directly addresses safety concerns of a sensitive topic)",
+      "Visual metaphors or symbols": [
+        "Doctor's white coat as a symbol of authority and trustworthiness",
+        "Red 'Safe/Unsafe' bar signals urgency and risk evaluation"
+      ],
+      "Clickbait techniques employed": [
+        "Use of contrast between 'Safe' and 'Unsafe' (binary, urgent decision)",
+        "Addressing a taboo or sensitive topic ('Oral' and 'Lube' related to sexual health)",
+        "Direct questioning (promises to resolve doubt or anxiety)"
+      ],
+      "Brand elements present": [
+        "Dr. Neha Mehta's photo and name prominently displayed",
+        "Professional title 'Consultant Psychologist' for credibility"
+      ]
+    },
+    "THUMBNAIL-TITLE RELATIONSHIP": {
+      "How the thumbnail visually reinforces the title": [
+        "Title discusses correct or incorrect choices (\u2018\u0938\u0939\u0940 \u092f\u093e \u0917\u0932\u0924\u2019 in Hindi), while thumbnail uses 'Safe/Unsafe' to ask the same about a specific (oral/lube) scenario",
+        "Thumbnail focuses on a clear situation (Oral \u0915\u0930\u0924\u0947 \u0935\u0958\u094d\u0924 Lube \u0915\u093e \u092e\u0941\u0901\u0939 \u092e\u0947\u0902 \u091c\u093e\u0928\u093e) that the title hints at generally, making the content promise explicit",
+        "Presence of Dr. Neha Mehta reinforces expertise and links to the 'Dr.' in the title"
+      ],
+      "Any contrasts or mismatches between thumbnail and title": [
+        "No major mismatches. Both use direct language, though the thumbnail is slightly more explicit in the scenario (\u2018Oral \u0915\u0930\u0924\u0947 \u0935\u0958\u094d\u0924 Lube \u0915\u093e \u092e\u0941\u0901\u0939 \u092e\u0947\u0902 \u091c\u093e\u0928\u093e\u2019 vs. general '\u0938\u0939\u0940 \u092f\u093e \u0917\u0932\u0924\u2019')."
+      ]
+    }
+  }
+}

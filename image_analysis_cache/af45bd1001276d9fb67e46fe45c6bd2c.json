@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dusty Rose/Pink Background": "50%",
+      "White (text, icon backgrounds)": "20%",
+      "Black (text)": "10%",
+      "Beige/tan (woman\u2019s skin, crib icon)": "10%",
+      "Light brown/blonde (woman\u2019s hair)": "5%",
+      "Other accent colors (blue, red, green in icons)": "5%"
+    },
+    "Composition type": "Medium shot (woman from waist up on the right), icons and text occupy left and top portions",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Smiling slightly, engaging and friendly",
+      "Demographics": "Adult woman, light skin, blonde/brown hair, appears in her 20s-30s"
+    },
+    "Main objects/props featured": [
+      "Human figure (possibly the content creator)",
+      "Four circular icons: baby crib, stopwatch, female doctor, hospital building, smartphone"
+    ],
+    "Background environment": "Solid dusty pink background, simple and uncluttered to focus viewer attention on human subject and icons"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "FIRST TIME MOM MISTAKES",
+    "Font characteristics": {
+      "Style": "Bold sans-serif",
+      "Emphasis": "All caps, 'MISTAKES' significantly larger and with drop shadow for depth",
+      "Color": "'FIRST TIME MOM': black; 'MISTAKES': white with dark drop shadow"
+    },
+    "Text placement within frame": "'FIRST TIME MOM MISTAKES' occupies the entire top third of the image, centered",
+    "Use of emotional/trigger words": [
+      "MISTAKES"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, caring, reassuring, with a slight hint of urgency (due to the word 'MISTAKES' and icons like clocks/hospitals)",
+    "Visual metaphors or symbols": [
+      "Crib/toy\u2014baby care/new motherhood",
+      "Stopwatch\u2014timeliness, urgency",
+      "Doctor/medical building\u2014medical advice or preparation for labor",
+      "Smartphone\u2014modern communication, searching for information"
+    ],
+    "Clickbait techniques employed": [
+      "'MISTAKES' as a large, eye-catching word drives curiosity",
+      "Numbers implied ('5') in the video title but not thumbnail, increasing FOMO",
+      "Person pointing increases sense of instruction/direct address"
+    ],
+    "Brand elements present": "No specific branding visible aside from possible content creator identity"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces the title": "The inclusion of the phrase 'FIRST TIME MOM MISTAKES' visually matches the video title, directly addresses first-time mothers; icons (crib, doctor, hospital, clock, phone) intuitively represent topics relevant to pregnancy and labor mistakes.",
+    "Contrasts or mismatches": "The thumbnail says 'FIRST TIME MOM MISTAKES' but does not specify '5' (as in title) nor directly mention 'pregnancy' or 'labor' in text, though the icons and woman's presence connect strongly to the motherhood theme."
+  }
+}

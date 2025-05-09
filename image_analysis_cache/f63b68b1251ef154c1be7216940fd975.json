@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "Light to medium brown (approx. 55%)",
+      "Black": "Used for the background (approx. 35%)",
+      "White": "Text on the left and highlights (approx. 5%)",
+      "Yellow": "Text on the right (approx. 5%)"
+    },
+    "Composition type": "Medium shot - both subjects are visible from mid-thigh up, filling most of the frame.",
+    "Human presence": {
+      "Number of people": 1,
+      "Distribution": "Same person shown in two different physical conditions (left and right side of the image).",
+      "Expressions": {
+        "Left": "Neutral/serious, looking slightly off-camera.",
+        "Right": "Alert/focused, looking in a different direction."
+      },
+      "Demographics": "Adult male, athletic build."
+    },
+    "Main objects/props featured": [
+      "The person\u2019s body (displaying different body fat percentages)",
+      "Adidas waistband on shorts",
+      "Smartwatch (worn on both sides)"
+    ],
+    "Background environment": "Solid black background, no discernible setting or environment."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "30%",
+      "12%"
+    ],
+    "Font characteristics": {
+      "30%": {
+        "Style": "Bold, sans-serif",
+        "Emphasis": "High (bright white, thick strokes)",
+        "Color": "White"
+      },
+      "12%": {
+        "Style": "Bold, sans-serif",
+        "Emphasis": "High (bright yellow, thick strokes)",
+        "Color": "Yellow"
+      }
+    },
+    "Text placement within frame": {
+      "30%": "To the upper left of the left figure, near his head and shoulder.",
+      "12%": "To the upper right of the right figure, near his head and shoulder."
+    },
+    "Use of emotional/trigger words": "Percentages are used as trigger numbers to prompt curiosity and urgency about body transformation."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Motivational, aspirational, and transformational.",
+    "Visual metaphors or symbols": "Contrasting body fat percentages visually presented as a 'before and after' transformation, symbolizing improvement and achievement.",
+    "Clickbait techniques employed": [
+      "Dramatic visual contrast between 'before' and 'after' bodies",
+      "Bold, large numbers as focal points",
+      "No unnecessary clutter\u2014focus is entirely on transformation"
+    ],
+    "Brand elements present": "Adidas logo visible on the waistband of the shorts."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly illustrates the promise in the title ('5 Easy Steps To Get To 12% Body Fat') by showing the dramatic visual difference between a higher (30%) and a lower (12%) body fat percentage on the same individual, visually supporting the possibility of achieving such a transformation.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The thumbnail aligns strongly with the title\u2019s message of dramatic, attainable transformation, though it visually omits the 'any age' aspect suggested in the title."
+  }
+}

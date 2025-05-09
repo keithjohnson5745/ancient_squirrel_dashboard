@@ -1,0 +1,76 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "dark blue/blue-gray",
+        "percentage": 60
+      },
+      {
+        "color": "pale skin tone",
+        "percentage": 20
+      },
+      {
+        "color": "black (clothing and product)",
+        "percentage": 15
+      },
+      {
+        "color": "white and light blue (text)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium shot (one person shown from mid-torso up, plus large close-up of product)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "neutral to slight smile, informative/presentational demeanor",
+      "demographics": "Adult woman, light skin, brown/blond wavy hair"
+    },
+    "Main objects/props featured": [
+      "Large tube of 'Wicked Jelle' lubricant prominently displayed on the right",
+      "Person (likely a presenter or reviewer) on the left"
+    ],
+    "Background environment": "Abstract gradient blue with horizontal light streaks, digitally rendered/studio-like, no realistic background elements"
+  },
+  "TEXT ELEMENTS": {
+    "all text visible in the thumbnail": [
+      "WICKED",
+      "JELLE",
+      "water based anal lubricant",
+      "120ml/4.0 fl oz"
+    ],
+    "font characteristics": {
+      "WICKED": {
+        "style": "Modern sans-serif, all caps, white with a line underneath, bold",
+        "emphasis": "high"
+      },
+      "JELLE": {
+        "style": "Sans-serif, all caps, light blue, bold",
+        "emphasis": "moderate"
+      },
+      "water based anal lubricant": {
+        "style": "Simple sans-serif, all lowercase, white",
+        "emphasis": "low"
+      },
+      "120ml/4.0 fl oz": {
+        "style": "Sans-serif, white, small text",
+        "emphasis": "low"
+      }
+    },
+    "text placement within frame": "All text is on the product tube, right side of the thumbnail, vertically stacked from top to bottom.",
+    "use of emotional/trigger words": [
+      "anal lubricant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall emotional tone": "Informative, neutral, and professional with slight undertones of intimacy due to the nature of the product.",
+    "visual metaphors or symbols": "No overt metaphors; the large product dominates the thumbnail, suggesting focus on product review or explanation.",
+    "clickbait techniques employed": "Large, clear product image, presence of spokesperson, use of direct descriptive text for clarity/search interest.",
+    "brand elements present": [
+      "WICKED logo and styling",
+      "Product packaging"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "how the thumbnail visually reinforces the title": "The thumbnail directly shows the 'Wicked Jelle' lube product with unambiguous labeling, paired with an on-camera presenter, making it clear the video is about this specific product for 'anal play' as mentioned in the title.",
+    "any contrasts or mismatches between thumbnail and title": "No contrasts or mismatches\u2014visual and textual elements are consistent with the explicit focus indicated in the video title."
+  }
+}

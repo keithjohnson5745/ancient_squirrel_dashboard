@@ -1,0 +1,12 @@
+{
+  "title": "Canadian PM Carney to meet Trump for first time to discuss tariffs | BBC News",
+  "thumbnail_path": "thumbnails/Z9kGRMglw-I_max.jpg",
+  "title_length": 77,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

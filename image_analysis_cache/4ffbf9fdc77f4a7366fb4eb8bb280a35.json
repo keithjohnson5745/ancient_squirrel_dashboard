@@ -1,0 +1,95 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Soft pink",
+        "percentage": 45
+      },
+      {
+        "color": "White",
+        "percentage": 25
+      },
+      {
+        "color": "Light grey",
+        "percentage": 15
+      },
+      {
+        "color": "Muted green",
+        "percentage": 10
+      },
+      {
+        "color": "Beige (skin tones)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Close-up shot",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Not visible (only hands shown, neutral and clean nail polish)",
+      "demographics": "Likely adult, fair skin tone, feminine presentation (manicured nails)"
+    },
+    "Main objects/props featured": [
+      "Pink shampoo bottle (brand: REDKEN visible)",
+      "Pink silicone scalp massager brush",
+      "White shampoo being dispensed",
+      "Hand with manicured nails"
+    ],
+    "Background environment": "Bright, clean bathroom setting with white tiles and soft natural light, out-of-focus greenery, and additional light pink products in the background."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "REDKEN",
+      "shampoo"
+    ],
+    "Font characteristics": [
+      {
+        "text": "REDKEN",
+        "style": "Bold, all caps sans-serif, white on pink bottle",
+        "emphasis": "High (brand label)"
+      },
+      {
+        "text": "shampoo",
+        "style": "Thin, lowercase sans-serif, white, digital overlay",
+        "emphasis": "Low"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "REDKEN",
+        "placement": "Upper center, on product bottle"
+      },
+      {
+        "text": "shampoo",
+        "placement": "Center, overlay above scalp brush"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "No direct emotional/trigger words, but the visual of 'REDKEN' as a recognizable haircare brand acts as a trigger for interest in haircare routines."
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, soothing, clean, aesthetically pleasing. Minimalist and inviting.",
+    "Visual metaphors or symbols": [
+      "The focus on product pouring and clean hands suggests freshness, care, and a pampering self-care ritual.",
+      "Soft, pastel colors reinforce the 'aesthetic' vibe and gentle, nurturing mood."
+    ],
+    "Clickbait techniques employed": [
+      "Close-up of product being used (triggers curiosity about the process/results)",
+      "Soft, attractive color palette & minimalist look (suggests high-quality content and visually appealing routines)"
+    ],
+    "Brand elements present": [
+      "REDKEN shampoo bottle prominently displayed as a recognizable premium brand",
+      "Coordinated pink aesthetic across props"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail effectively represents the 'hair care routine' through a close-up of shampoo being dispensed onto a scalp massager, which directly relates to the actions described in the title.",
+      "The soft, neat, and pastel aesthetic visually matches keywords like 'aesthetic', '#thatgirl', and '#satisfying'.",
+      "Presentation emphasizes ASMR triggers (liquid, texture, softness) that align with 'ASMR' in the title."
+    ],
+    "Contrasts or mismatches": [
+      "No significant mismatch; the thumbnail is entirely consistent with the keywords and intent of the video title."
+    ]
+  }
+}

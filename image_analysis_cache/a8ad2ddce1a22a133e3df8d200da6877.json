@@ -1,0 +1,103 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Dark Blue",
+        "percentage": 60
+      },
+      {
+        "color": "Light Silver/Gray",
+        "percentage": 20
+      },
+      {
+        "color": "White (text and highlights)",
+        "percentage": 10
+      },
+      {
+        "color": "Skin tone (hand holding product)",
+        "percentage": 5
+      },
+      {
+        "color": "Muted Green/Beige (background blur)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Close-up shot. The image closely focuses on a single product box held in a hand.",
+    "Human presence": {
+      "number_of_people": 1,
+      "visible_elements": "Only the fingers/hand holding the product are visible. No face or other body parts are shown.",
+      "expressions": "Not visible",
+      "demographics": "Not apparent"
+    },
+    "Main objects/props featured": [
+      "Box of Manforce Stay Long Gel (with Lidocaine and Prilocaine Gel labeling)",
+      "Human hand holding the box"
+    ],
+    "Background environment": "Background is blurred and non-specific but appears to be indoors (possibly a household or store setting); a chair is faintly visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "LIDOCAINE AND PRILOCAINE GEL",
+      "MANforce",
+      "STAY LONG GEL",
+      "Mankind",
+      "15 x 1g Sachet"
+    ],
+    "Font characteristics": [
+      {
+        "text": "LIDOCAINE AND PRILOCAINE GEL",
+        "style": "Tall, thin, sans-serif, all caps",
+        "color": "Black",
+        "emphasis": "Minimal, clean"
+      },
+      {
+        "text": "MANforce",
+        "style": "Bold sans-serif ('MAN'), script italic ('force')",
+        "color": "White and light blue",
+        "emphasis": "Brand name, part in italics"
+      },
+      {
+        "text": "STAY LONG GEL",
+        "style": "Bold, all caps, sans-serif",
+        "color": "White",
+        "emphasis": "Strong, readable"
+      },
+      {
+        "text": "Mankind",
+        "style": "Company logo with cursive font",
+        "color": "White",
+        "emphasis": "Branding"
+      },
+      {
+        "text": "15 x 1g Sachet",
+        "style": "Small, sans-serif",
+        "color": "White",
+        "emphasis": "Information"
+      }
+    ],
+    "Text placement within frame": [
+      "Main text is centered on the box",
+      "Brand and dosage details are at the bottom",
+      "Large and clear to be readable even at thumbnail size"
+    ],
+    "Use of emotional/trigger words": [
+      "STAY LONG"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, functional, and somewhat aspirational (suggests performance enhancement)",
+    "Visual metaphors or symbols": "Direct product display, no metaphoric imagery; use of blue suggests trust/efficacy",
+    "Clickbait techniques employed": [
+      "Product box is prominently and cleanly displayed (creates curiosity and trust)",
+      "Bold claim embedded in product name ('STAY LONG')"
+    ],
+    "Brand elements present": [
+      "Manforce logo",
+      "Mankind company logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail is a direct shot of the exact product mentioned in the title. It visually clarifies what 'Manforce Stay Long Gel' is, matching the video topic. Pharmaceutical details (lidocaine, prilocaine) highlighted on the box tie to the title hashtags (#lidocaine #manforce #mankind).",
+    "Contrasts or mismatches": "The thumbnail does not include the price ('25\u20b9 1 sachet'), a major point in the title, nor does it directly reference erectile dysfunction. The focus is entirely on the product naming and branding."
+  }
+}

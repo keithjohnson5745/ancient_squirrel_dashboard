@@ -1,0 +1,95 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Navy blue",
+        "percentage": 40
+      },
+      {
+        "color": "Bright yellow",
+        "percentage": 35
+      },
+      {
+        "color": "White",
+        "percentage": 15
+      },
+      {
+        "color": "Red",
+        "percentage": 5
+      },
+      {
+        "color": "Light gray/blue",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (portrait photo of a single person to the left, text to the right and below)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral/serious, professional demeanor",
+      "demographics": "Adult male, likely a medical professional (based on attire and stethoscope)"
+    },
+    "Main objects/props featured": [
+      "Stethoscope",
+      "White coat",
+      "Collared shirt and tie"
+    ],
+    "Background environment": "Solid flat colors (navy blue on top, yellow on bottom) with a pale blue/gray oval background behind the person, suggesting a studio or digital composition"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HOW TO GET PREGNANT WITH FEW EGGS (Low Ovarian Reserve)",
+      "HOW TO CONCEIVE AT 45 & ABOVE"
+    ],
+    "Font characteristics": [
+      {
+        "text": "HOW TO GET PREGNANT WITH FEW EGGS (Low Ovarian Reserve)",
+        "style": "Bold, all uppercase, sans-serif",
+        "emphasis": "White text for main statement, slight bolding",
+        "color": "White"
+      },
+      {
+        "text": "HOW TO CONCEIVE AT 45 & ABOVE",
+        "style": "Bold, all uppercase, sans-serif",
+        "emphasis": "Highlighted in red for attention",
+        "color": "Red"
+      }
+    ],
+    "Text placement within frame": [
+      "Main title is placed on the upper-right (white text on navy blue background)",
+      "Secondary title is placed on the lower-right (red text on yellow background)"
+    ],
+    "Use of emotional/trigger words": [
+      "HOW TO GET PREGNANT",
+      "FEW EGGS",
+      "Low Ovarian Reserve",
+      "HOW TO CONCEIVE",
+      "AT 45 & ABOVE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, solution-oriented with a sense of urgency and hope for viewers facing fertility challenges",
+    "Visual metaphors or symbols": [
+      "Doctor as a symbol of authority/expertise",
+      "Medical attire (visual trust cue)"
+    ],
+    "Clickbait techniques employed": [
+      "Direct address of a challenging problem (pregnancy with low egg count/older age)",
+      "Bold question/solution format",
+      "Use of large, contrasting text and colors",
+      "Specificity (age 45+ as a shocking/specific hook)"
+    ],
+    "Brand elements present": [
+      "No explicit channel logo, but the presence of a medical professional in a white coat and stethoscope subtly brands the video as credible/clinical"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail visually reinforces the title by picturing a medical professional, suggesting expertise and encouragement regarding women\u2019s fertility/age-related concerns.",
+      "Text in the thumbnail closely matches the title\u2019s main points (getting pregnant with few eggs, low ovarian reserve, conception at advanced age)"
+    ],
+    "Contrasts or mismatches": [
+      "Slight difference in wording: the thumbnail uses 'few eggs,' the title uses 'no eggs' and 'low ovarian reserve,' the meaning is similar but not identical",
+      "Thumbnail covers 'at 45 & above' while the title mentions 'at 40 years older'; there is a minor discrepancy in the age referenced"
+    ]
+  }
+}

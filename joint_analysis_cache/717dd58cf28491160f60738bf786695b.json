@@ -1,0 +1,13 @@
+{
+  "title": "The Pregnancy Doctor: Pregnancy Is Halved Every Year After Age 32! If You Want 2+ Children, DO THIS!",
+  "thumbnail_path": "thumbnails/w8h4qksd6Yw_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

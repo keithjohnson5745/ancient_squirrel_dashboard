@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light Pink/Peach (background & skin)",
+        "percentage": 50
+      },
+      {
+        "color": "Cyan/Blue (text)",
+        "percentage": 20
+      },
+      {
+        "color": "Black (rope)",
+        "percentage": 20
+      },
+      {
+        "color": "Magenta (logo)",
+        "percentage": 5
+      },
+      {
+        "color": "Greens/yellows (background accent)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (torso and head visible, arm/hand in foreground)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, focused (face is blurred, hand is in sharp focus)",
+      "demographics": "Younger adult, light skin, short brown hair, glasses (male-presenting)"
+    },
+    "Main objects/props featured": [
+      "Black rope (tied around wrist/hand in a bondage knot)",
+      "Human hand (hand facing camera, palm open)"
+    ],
+    "Background environment": "Indistinct colored, likely an indoor space with soft-focus wall or backdrop, some colored circles/partial lettering visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "BONDAGE TUTORIAL: SINGLE WRIST R",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all-caps",
+      "emphasis": "Very high (bold and large)",
+      "color": "Bright cyan/blue"
+    },
+    "Text placement within frame": "Occupies upper and center portions over the blurred face/background; text is superimposed over the subject with even spacing.",
+    "Use of emotional/trigger words": [
+      "BONDAGE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, slightly provocative but clinical/instructional rather than erotic; neutral and non-threatening",
+    "Visual metaphors or symbols": [
+      "Open hand tied with rope symbolizes practical instruction in bondage technique.",
+      "Bold cyan text and clear knot highlight clarity and focus on learning."
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large text promises a step-by-step guide.",
+      "Showing the actual knot/rope in action provides visual proof/results."
+    ],
+    "Brand elements present": [
+      "Lower right logo: 'LYC' in magenta circle with a heart-and-wings image (channel branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image directly shows a single wrist bound with rope, mirroring the tutorial subject stated in the title. The text overlays confirm that the content is about bondage and a specific restraint technique.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches; both text and imagery closely align with the video's promise\u2014instructional content about single wrist restraint in bondage."
+  }
+}

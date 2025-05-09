@@ -1,0 +1,12 @@
+{
+  "title": "Difficulty Swallowing & Weight Loss History | OSCE Guide | UKMLA | CPSA | PLAB 2",
+  "thumbnail_path": "thumbnails/AI-8cUWGYVk_max.jpg",
+  "title_length": 80,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

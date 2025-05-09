@@ -1,0 +1,11 @@
+{
+  "title": "I Spent 7 Days In Solitary Confinement",
+  "thumbnail_path": "thumbnails/K_CbgLpvH9E_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.3
+}

@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "purple gradient background": "approximately 45%",
+      "blue (doctor scrubs and hat)": "approximately 25%",
+      "skin tones": "approximately 15%",
+      "white (text and frame elements)": "approximately 10%",
+      "black (glasses, computer monitor)": "approximately 5%"
+    },
+    "Composition type": "Medium shot (torso and head of a person visible, facing the camera)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Slight smile, neutral/welcoming",
+      "demographics": "Adult male, light skin, wearing glasses and a surgical cap (likely a medical professional)"
+    },
+    "Main objects/props featured": [
+      "A man wearing blue medical scrubs and a scrub cap",
+      "Microphone clipped to scrubs",
+      "Computer monitors in the background"
+    ],
+    "Background environment": "Indoor, likely a medical office or consultation room with subdued lighting and office equipment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "Top 10 sperm killers",
+      "Fertile Minds"
+    ],
+    "Font characteristics": {
+      "top text": {
+        "Style": "Bold sans-serif",
+        "Color": "White",
+        "Emphasis": "High (large, clear, all lowercase except 'Top')"
+      },
+      "bottom logo": {
+        "Fertile": "Bold sans-serif, purple color",
+        "Minds": "Bold sans-serif, dark blue/navy color"
+      }
+    },
+    "Text placement within frame": {
+      "Main title": "Top left quadrant, taking up much of the left half",
+      "Logo": "Bottom left corner, in a white rectangle"
+    },
+    "Use of emotional/trigger words": [
+      "Killers"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, slightly urgent due to the use of 'killers', but presented in a calm, reassuring manner",
+    "Visual metaphors or symbols": [
+      "Sperm cell illustration as part of the logo, referencing fertility and reproductive health"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('Top 10')",
+      "Strong trigger word ('killers')",
+      "Direct, bold text"
+    ],
+    "Brand elements present": [
+      "Fertile Minds logo with sperm icon"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual of a medical professional in scrubs and a logo with a sperm icon immediately signals the topic of reproductive health, matching the topic 'Top 10 Sperm Killers'. The text is identical to the main phrase of the title, reinforcing the topic.",
+    "Contrasts or mismatches": "There are no obvious mismatches; however, the calm, smiling demeanor of the presenter and the minimalist visuals contrast slightly with the dramatic word 'killers', making the thumbnail feel more educational than sensational."
+  }
+}

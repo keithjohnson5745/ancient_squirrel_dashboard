@@ -1,0 +1,91 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "orange",
+        "percentage": 25
+      },
+      {
+        "color": "blue",
+        "percentage": 20
+      },
+      {
+        "color": "brown",
+        "percentage": 15
+      },
+      {
+        "color": "white",
+        "percentage": 20
+      },
+      {
+        "color": "beige/peach (skin tones in illustration & portrait)",
+        "percentage": 10
+      },
+      {
+        "color": "dark grey/black (background, outline)",
+        "percentage": 10
+      }
+    ],
+    "composition_type": "Composite shot (includes product display, illustration, and medium portrait)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to friendly, slight smile",
+      "demographics": "Adult woman, medium-dark hair"
+    },
+    "main_objects_props_featured": [
+      "Half and whole coconut",
+      "Jar and bowl of coconut oil",
+      "Spoon with coconut pieces",
+      "Illustration of a woman touching her neck/face",
+      "Portrait of a woman (doctor/expert)"
+    ],
+    "background_environment": "Gray, granite-style surface for coconut/oil; white, clinical or office background behind doctor; solid color blocks (orange and blue) as banners."
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "Doctors' Circle",
+      "Cold Pressed Coconut Oil for Skin, Hair & Nail"
+    ],
+    "font_characteristics": {
+      "title": {
+        "font_style": "Sans-serif, bold",
+        "emphasis": "Strong emphasis (all black, bold)",
+        "color": "Black",
+        "placement": "Top center on orange background"
+      },
+      "brand": {
+        "font_style": "Sans-serif, regular",
+        "color": "White",
+        "placement": "Top left inside orange block"
+      }
+    },
+    "text_placement_within_frame": [
+      "Brand logo and name: Top left corner on orange bar",
+      "Video title: Centered at top in large bold font on orange bar"
+    ],
+    "emotional_trigger_words": [
+      "Cold Pressed",
+      "Healthy Benefits"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Trustworthy, informative, clean, health-focused",
+    "visual_metaphors_symbols": [
+      "Coconuts/oil for natural/wholesome/organic",
+      "Doctor/expert portrait = trust, authority",
+      "Illustration of woman with healthy skin = promised benefits"
+    ],
+    "clickbait_techniques_employed": [
+      "Expert endorsement (doctor in thumbnail)",
+      "Specific health claims (benefits for skin, hair & nail in bold, visible title)",
+      "Visuals of appealing, healthy food product"
+    ],
+    "brand_elements_present": [
+      "Doctors' Circle logo and name"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visuals_reinforce_title": "The thumbnail includes clear imagery of cold-pressed coconut oil, a doctor (likely Dr. Amee Daxini), and skin/beauty illustration, all of which reinforce the title's focus on health benefits for skin, hair, and nail.",
+    "contrasts_or_mismatches": "There are no significant contrasts or mismatches; the thumbnail matches the educational/expert tone implied by the title."
+  }
+}

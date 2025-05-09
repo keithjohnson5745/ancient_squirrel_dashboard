@@ -1,0 +1,13 @@
+{
+  "title": "Part 3 \u2013 The Belmont Report: Basic Ethical Principles and their Application",
+  "thumbnail_path": "thumbnails/M6AKIIhoFn4_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

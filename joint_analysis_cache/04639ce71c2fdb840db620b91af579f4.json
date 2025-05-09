@@ -1,0 +1,12 @@
+{
+  "title": "This Morning\u2019s Top Headlines \u2013 May. 6 | Morning News NOW",
+  "thumbnail_path": "thumbnails/9Odd2FImArQ_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

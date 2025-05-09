@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "30% (text, engine parts)",
+      "Yellow": "18% (background behind 'NEW SCAM', engine part)",
+      "Blue": "12% (arm sleeve, text background)",
+      "White": "12% (text, coolant tank)",
+      "Red": "9% (arrow, circle outline, coolant tank)",
+      "Gray": "9% (engine parts)",
+      "Skin tone": "7% (human arm)",
+      "Other": "3% (minor car components)",
+      "Composition type": "Medium shot (shows a partial human figure working on a car engine with visible close-up detail of the engine bay)",
+      "Human presence": {
+        "number_of_people": 1,
+        "visible": "Partial (only arm and torso visible, no face)",
+        "expressions": "Not visible",
+        "demographics": "Adult with a light/medium skin tone, likely male (based on arm size/hair), but not definitive"
+      },
+      "Main objects/props featured": [
+        "Person's arm in blue sleeve holding a metal car part (possibly a dipstick)",
+        "Car engine and various engine components (belts, filters)",
+        "Red and white coolant tank",
+        "Large red arrow and circled area for emphasis"
+      ],
+      "Background environment": "Inside a car's engine bay, with the car's hood open and engine components and container clearly visible."
+    },
+    "TEXT ELEMENTS": {
+      "Visible text": [
+        "NEW SCAM",
+        "AVOID THIS"
+      ],
+      "Font characteristics": {
+        "NEW SCAM": {
+          "style": "Bold, all caps, sans-serif",
+          "emphasis": "Very high (thick, black font)",
+          "color": "Black text on yellow paint-streak background"
+        },
+        "AVOID THIS": {
+          "style": "Bold, all caps, sans-serif",
+          "emphasis": "Very high (thick, white font)",
+          "color": "White text on blue paint-streak background"
+        }
+      },
+      "Text placement within frame": {
+        "NEW SCAM": "Top center, occupying nearly half the width",
+        "AVOID THIS": "Directly below 'NEW SCAM', slightly wider in placement"
+      },
+      "Emotional/trigger words": [
+        "SCAM",
+        "AVOID THIS",
+        "NEW"
+      ]
+    },
+    "THEMATIC ELEMENTS": {
+      "Overall emotional tone": "Warning, urgent, cautionary \u2013 designed to trigger suspicion and vigilance.",
+      "Visual metaphors or symbols": [
+        "Red arrow and circled section to direct attention and suggest danger",
+        "Paint-splash backgrounds for text evoke urgency, movement"
+      ],
+      "Clickbait techniques employed": [
+        "Bold accusations (SCAM!)",
+        "Direct call-to-action ('AVOID THIS')",
+        "Implication of hidden danger or common mistake",
+        "Bright, contrasting colors for maximum attention"
+      ],
+      "Brand elements present": "No obvious logo or recurring branding. Thumbnail style uses dramatic colors and fonts typical of car advice/consumer protection channels."
+    },
+    "THUMBNAIL-TITLE RELATIONSHIP": {
+      "Visual reinforcement": "The thumbnail visually supports the title '13 Mechanic SCAMS Everyone Falls For (Don\u2019t Be Fooled!)' by showing an engine bay (immediate visual link to 'mechanic'), a person apparently working on it, and dramatic text and symbols (arrow, circle) indicating a specific scam or trick. The warning tone of the title is reinforced by the text 'NEW SCAM' and 'AVOID THIS', creating a sense of urgency.",
+      "Contrasts or mismatches": "The thumbnail focuses on a single example (one engine part and mechanic action), while the title suggests a list of 13 scams. There is a slight mismatch in scale (one scam or situation, vs. 13 in the video), but the tone and visual messaging align closely."
+    }
+  }
+}

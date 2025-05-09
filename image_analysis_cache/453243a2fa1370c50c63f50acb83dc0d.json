@@ -1,0 +1,43 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/beige (background)": "50%",
+      "Light pink (clothing)": "15%",
+      "Skin tones": "25%",
+      "White (text)": "10%"
+    },
+    "Composition type": "Medium close-up (shoulders and face of the woman are visible, background is blurred)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to somber, thoughtful expression, hand on chin indicating reflection or concern",
+      "Demographics": "Female, adult, light skin tone, dark hair"
+    },
+    "Main objects/props featured": "None besides the woman herself (no additional props visible)",
+    "Background environment": "Indoors, soft out-of-focus setting with muted colors, possibly a living room or home office with a shelf, book, and some decor visible"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "7 MAIN reasons FOR MISCARRYING",
+    "Font characteristics": {
+      "7 MAIN FOR MISCARRYING": "Bold, sans-serif, uppercase, white color",
+      "reasons": "Cursive/script, thinner, white color"
+    },
+    "Text placement within frame": "Top left quadrant for '7 MAIN reasons', bottom left quadrant for 'FOR MISCARRYING'.",
+    "Use of emotional/trigger words": [
+      "MISCARRYING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, reflective, somewhat somber and compassionate",
+    "Visual metaphors or symbols": "The woman\u2019s thoughtful pose and direct gaze symbolize empathy, reflection, and sensitivity",
+    "Clickbait techniques employed": [
+      "List format ('7 MAIN reasons')",
+      "Strong, emotionally charged word ('MISCARRYING')",
+      "Direct facial engagement (making content seem personal/relatable)"
+    ],
+    "Brand elements present": "None clearly visible; no obvious logos/recurring branding elements"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text on the thumbnail exactly matches and reinforces the video\u2019s topic. The woman\u2019s serious expression and the use of large, bold text make the gravity of the subject clear, complementing the sensitive content indicated by the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; both the visual and textual elements are aligned in tone and subject matter, both highlighting the serious and informative nature of the video."
+  }
+}

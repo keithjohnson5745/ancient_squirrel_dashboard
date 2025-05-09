@@ -1,0 +1,13 @@
+{
+  "title": "The No.1 Menopause Doctor: They\u2019re Lying To You About Menopause! Mary Claire Haver",
+  "thumbnail_path": "thumbnails/oQqcnYcKx68_max.jpg",
+  "title_length": 82,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

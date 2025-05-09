@@ -1,0 +1,11 @@
+{
+  "title": "Extracting gold from computer parts (Part 1)",
+  "thumbnail_path": "thumbnails/ASQCa7mfjVo_max.jpg",
+  "title_length": 44,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

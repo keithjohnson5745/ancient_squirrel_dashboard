@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "white": "Approximately 45% (background and shirt)",
+      "blue": "Approximately 25% (top and bottom bars, logo)",
+      "grey": "Approximately 15% (wall background)",
+      "black": "Approximately 10% (chair, text, glasses)",
+      "red/pink": "Approximately 5% (text and logo)"
+    },
+    "Composition type": "Medium close-up of a single person on the left, text block on the right; classic split-composition.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Slight smile, thoughtful/engaged look, facing slightly away from the camera.",
+      "demographics": "Adult male, medium-dark skin tone, glasses, black curly hair."
+    },
+    "Main objects/props featured": "Office chair, glasses, plain shirt.",
+    "Background environment": "Clinical or office setting, with plain light-colored walls and a backrest in view."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Dr Shahs Clinic",
+      "Male Infertility & Sexual Health",
+      "Can I use Saliva as lube?",
+      "2 Things you should know right NOW"
+    ],
+    "Font characteristics": {
+      "Dr Shahs Clinic": "Bold sans-serif, blue color",
+      "Male Infertility & Sexual Health": "Light sans-serif, pink color",
+      "Can I use": "Bold serif, large, pink color",
+      "Saliva as lube?": "Bold serif, very large, bright red color",
+      "2 Things you should know right NOW": "Bold sans-serif, black color, varying size emphasis with 'NOW' in uppercase"
+    },
+    "Text placement": {
+      "Clinic logo and tagline": "Top left quadrant, white background",
+      "Question text": "Top right quadrant on off-white background",
+      "Fact tease ('2 Things...')": "Bottom right quadrant, below the question"
+    },
+    "Emotional/trigger words": [
+      "Saliva",
+      "lube",
+      "2 Things you should know",
+      "right NOW"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly provocative, educational medical focus.",
+    "Visual metaphors or symbols": "Use of medical office background and logo to build authority; direct use of keywords as text makes the thumbnail explicit.",
+    "Clickbait techniques employed": [
+      "Posing a direct, taboo question ('Can I use Saliva as lube?')",
+      "Teasing '2 Things you should know right NOW' to create urgency",
+      "Use of capitalized NOW and color emphasis to draw immediate attention"
+    ],
+    "Brand elements present": [
+      "Dr Shahs Clinic logo and name",
+      "Consistent medical color palette (blue/white/pink), clinical environment"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly displays the video's provocative question in large font ('Can I use saliva as lube?'), matching the video title nearly word for word. The white-coated professional and clinic branding visually reinforce medical credibility, reassuring the viewer about the sensitive subject.",
+    "Contrasts or mismatches": "No significant mismatches; the thumbnail and title are in strong alignment. Both aim at curiosity and medical education regarding a potentially taboo subject. The only minor difference is the phrasing: the title says '2 Facts', while the thumbnail says '2 Things you should know right NOW', slightly increasing urgency in the thumbnail."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The world depends on a collection of strange items. They're not cheap",
+  "thumbnail_path": "thumbnails/esQyYGezS7c_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

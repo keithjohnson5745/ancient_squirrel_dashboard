@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "mauve-pink gradient background": "50%",
+      "light blue (woman's shirt)": "15%",
+      "orange (mug)": "10%",
+      "white (text boxes, highlights)": "15%",
+      "deep purple (text and contrast boxes)": "7%",
+      "other (beige face, brown hair, floating coffee beans)": "3%"
+    },
+    "Composition type": "Medium close-up\u2014one woman takes up the right side of the frame, holding a mug up, shown from about mid-torso up.",
+    "Human presence": {
+      "number of people": 1,
+      "expression": "Skeptical, mildly concerned or evaluating; looking sideways with lips pressed.",
+      "demographics": "Adult woman, light skin, long brown hair."
+    },
+    "Main objects/props featured": [
+      "Orange coffee mug (held in the foreground)",
+      "Animated coffee beans floating (background/overlay)",
+      "Caffeine molecular structure illustration",
+      "Two emojis: one head-exploding emoji, one 'no' crossing-arms woman emoji"
+    ],
+    "Background environment": "Plain mauve-pink gradient with floating coffee beans and graphic elements; no explicit environmental context."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CAFFEINE & FERTILITY",
+      "HOW MUCH IS TOO MUCH!?!"
+    ],
+    "Font characteristics": {
+      "style": "Bold, all-caps sans-serif",
+      "emphasis": "High\u2014strong block font, white text in purple boxes",
+      "color": "White text on deep purple background for maximum contrast"
+    },
+    "Text placement within frame": {
+      "\u2018CAFFEINE & FERTILITY\u2019": "Upper left, largest text block, left-aligned",
+      "\u2018HOW MUCH IS TOO MUCH!?!\u2019": "Bottom, horizontal banner across the lower edge"
+    },
+    "Use of emotional/trigger words": [
+      "TOO MUCH!?!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautious, concerned, thought-provoking. The expression of the woman and warning-style emojis suggest uncertainty or risk.",
+    "Visual metaphors or symbols": [
+      "Molecular diagram of caffeine (scientific/medical context)",
+      "Exploding head emoji (risk, shock, worry)",
+      "Crossed-arms woman emoji (no, forbidden, danger)",
+      "Coffee/coffee beans (literal representation of caffeine)"
+    ],
+    "Clickbait techniques employed": [
+      "Question format ('HOW MUCH IS TOO MUCH!?!' for curiosity/urgency)",
+      "Emotional emojis to reinforce concern or dispute",
+      "Facial expression matching concern/controversy theme"
+    ],
+    "Brand elements present": "None overt, though the presence of the host heavily features her image as informal branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual of a skeptical woman holding coffee, the focus on caffeine molecules, and warning/cautious emojis directly reference both 'caffeine risk' and 'fertility,' aligning perfectly with the video's topic. The scientific representation (molecule) echoes 'evidence and guidelines' in the title. The use of a question ('HOW MUCH IS TOO MUCH!?!') teases the informational content about risk thresholds.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment; both focus on caffeine and risk. The only slight mismatch might be that the thumbnail is less explicitly medical or guideline-based\u2014leaning more on visual drama and concern, but overall it is a good match for the video title."
+  }
+}

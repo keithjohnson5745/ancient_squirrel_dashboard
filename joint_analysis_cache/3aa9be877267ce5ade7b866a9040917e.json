@@ -1,0 +1,11 @@
+{
+  "title": "Borderline (BPD) Woman interview-Grace",
+  "thumbnail_path": "thumbnails/KHgt7qiiPkw_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

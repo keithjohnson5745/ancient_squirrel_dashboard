@@ -1,0 +1,14 @@
+{
+  "title": "\u00bfEl Wd-40 es tan bueno como dicen ? (Wd-40 vs ACEITE)",
+  "thumbnail_path": "thumbnails/gzawuOXu8AU_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

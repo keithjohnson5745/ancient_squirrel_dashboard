@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "50% (background)",
+      "Red": "20% (lubricant bottle)",
+      "Yellow": "10% (highlight behind 'DUREX')",
+      "White": "8% (text, bottle label)",
+      "Orange": "6% (text: 'for more pleasure')",
+      "Green": "6% (text: 'full Detailed video')"
+    },
+    "Composition type": "Medium shot (single hand holding a lubricant bottle occupying the left half; text on the right half)",
+    "Human presence": {
+      "Number of people": 1,
+      "Description": "One hand, likely adult, tan or medium brown skin tone, holding a bottle. No face or further demographic details visible."
+    },
+    "Main objects/props featured": [
+      "Durex Massage Lube Ylang Ylang Sensual bottle (200ml)"
+    ],
+    "Background environment": "Solid black, no notable environmental context; background is plain to emphasize main elements"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in the thumbnail": [
+      "sexual wellness",
+      "DUREX",
+      "LUBRICANT",
+      "for more pleasure",
+      "full Detailed video",
+      "durex",
+      "Massage Lube",
+      "YLANG YLANG",
+      "SENSUAL",
+      "200ml"
+    ],
+    "Font characteristics": {
+      "DUREX": "Bold, uppercase, red, sans-serif, shadow effect, on yellow paint-stroke splash",
+      "LUBRICANT": "Bold, uppercase, white, sans-serif",
+      "for more pleasure": "Lowercase, orange, simple sans-serif",
+      "full Detailed video": "Simple sans-serif, green, sentence case",
+      "sexual wellness": "Lowercase, yellow, small sans-serif, unembellished"
+    },
+    "Text placement within frame": {
+      "sexual wellness": "Top right corner",
+      "DUREX": "Right side, large font, near top center, on yellow splash",
+      "LUBRICANT": "Under 'DUREX', right-side",
+      "for more pleasure": "Right side, below 'LUBRICANT'",
+      "full Detailed video": "Bottom right"
+    },
+    "Use of emotional/trigger words": [
+      "pleasure",
+      "sexual wellness",
+      "Detailed",
+      "DUREX"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative but exciting, with a hint of intimacy and pleasure",
+    "Visual metaphors or symbols": [
+      "Hand holding lubricant - demonstration/real-use implication",
+      "Large brand logo/text - authority and trust"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, bright, large brand/product name",
+      "Promise of a 'full Detailed video'",
+      "Emphasis on 'pleasure' and 'sexual wellness'"
+    ],
+    "Brand elements present": [
+      "Durex logo/branding featured on bottle",
+      "Large use of DUREX name in thumbnail text"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly shows the product ('Durex lubricant'), being held up for demonstration, visually echoing the 'how to use' and 'detailed video' promises in the title. The inclusion of key words like 'Detailed video' and 'pleasure' matches the video\u2019s intent to explain benefits.",
+    "Contrasts or mismatches": "No major contradictions; however, the actual demonstration or instructions are not visible\u2014only the product is shown, so viewers must click to get the promised details."
+  }
+}

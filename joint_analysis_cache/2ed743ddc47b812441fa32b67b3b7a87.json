@@ -1,0 +1,13 @@
+{
+  "title": "\u092e\u0930\u094d\u0926 \u0915\u0947 5 \u092a\u0949\u0935\u0930 \u091f\u0947\u092c\u0932\u0947\u091f | 5 Essential Supplements for Men (Hindi)",
+  "thumbnail_path": "thumbnails/2I0XAvZIyYg_high.jpg",
+  "title_length": 63,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

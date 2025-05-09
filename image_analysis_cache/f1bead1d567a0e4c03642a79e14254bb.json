@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Navy blue": "35%",
+      "Light beige/tan": "30%",
+      "White": "20%",
+      "Yellow": "10% (border)",
+      "Accent colors (skin tones, brown hair, glasses)": "5%"
+    },
+    "Composition type": "Medium close-up shot (upper body and face of one person, visible from the chest up)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, friendly and inviting expression",
+      "Demographics": "Young adult woman, light skin tone, dark brown hair, glasses"
+    },
+    "Main objects/props featured": [
+      "Glasses worn by woman",
+      "Pearl earring",
+      "Partial view of a necklace",
+      "Plaque/award in the background"
+    ],
+    "Background environment": "Indoors, light wood panel or furniture as background, out-of-focus plaque (possibly a YouTube play button) in the back. Soft, warm lighting."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": "Your NEXT Fertility Step",
+    "Font characteristics": {
+      "Style": "Sans-serif, clean, modern",
+      "Emphasis": "\"NEXT\" in all caps and bold, is the most visually emphasized word",
+      "Color": "White font on a dark (navy) background"
+    },
+    "Text placement": {
+      "Main text": "Left side, centered vertically in a dark navy blue rounded rectangle",
+      "Logo": "Bottom left corner inside a square box"
+    },
+    "Emotional/trigger words": [
+      "NEXT",
+      "Fertility Step"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, supportive, positive and hopeful",
+    "Visual metaphors or symbols": [
+      "Logo in the bottom left with a heart and baby outline, symbolizing caring and fertility/birth",
+      "Smiling person as a symbol of welcoming guidance"
+    ],
+    "Clickbait techniques employed": [
+      "Capitalization and bold on key word \"NEXT\" to create urgency and suggest actionable advice",
+      "Direct address: use of \"Your\" personalizes the message"
+    ],
+    "Brand elements present": [
+      "Consistent color palette (navy, yellow, white)",
+      "Heart/baby logo in the bottom left, likely the creator's brand",
+      "Possible creator award visible (plaque in the background)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail text and visuals directly relate to the video title's promise of moving forward in fertility plans.",
+      "\"Your NEXT Fertility Step\" aligns with \"Making the most of this cycle to fall pregnant faster\" by emphasizing proactive action and guidance for the next phase.",
+      "Warm, approachable visual with a smiling, relatable person reinforces the tone of supportive, expert advice hinted at by the title."
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail uses softer language ('NEXT Fertility Step') versus the more urgent 'fall pregnant faster' in the title, potentially making it slightly less intense but more inviting.",
+      "No visual indicators (e.g., pregnancy tests, baby items) specifically emphasizing \"pregnancy\" or \"speed,\" keeping the thumbnail subtle and general."
+    ]
+  }
+}

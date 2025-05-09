@@ -1,0 +1,12 @@
+{
+  "title": "Debunking the World's Purest Cookie & more | How To Cook That Ann Reardon",
+  "thumbnail_path": "thumbnails/YqYAWF7wd9k_max.jpg",
+  "title_length": 73,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

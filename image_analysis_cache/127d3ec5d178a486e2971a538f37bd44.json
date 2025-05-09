@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/black (shirt, background gradient)": "40%",
+      "Yellow (text)": "10%",
+      "Skin tone": "10%",
+      "Multicolored (virus imagery\u2014pink, green, orange, yellow)": "30%",
+      "Muted pastel background (purple, blue, beige)": "10%"
+    },
+    "Composition type": "Medium shot (waist-up) of a single person, with a zoomed-in circular cutout showing a 3D virus illustration.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, direct eye contact with the viewer, closed mouth.",
+      "Demographics": "Adult male, short hair, medium to dark skin tone, wearing glasses and a dark shirt."
+    },
+    "Main objects/props featured": [
+      "Person (host)",
+      "Large bold text",
+      "Highly stylized microscopic view of a virus/bacteria (right side, in a circular cutout)"
+    ],
+    "Background environment": "Blurred, abstract, possibly medical or scientific background with various organic shapes and colors; provides a neutral but slightly clinical feel."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "DO YOU HAVE AN STI??",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all capitals",
+      "Emphasis": "High (bright yellow color for 'DO YOU', 'STI??'; white for 'HAVE AN')",
+      "Color": "Yellow (main emphasis), White (secondary)",
+      "Outline/Shadow": "None visible, but high contrast against dark background"
+    },
+    "Text placement within frame": "Text occupies the left half vertically and is centered over the host's torso, stacking each line for emphasis.",
+    "Use of emotional/trigger words": [
+      "DO YOU HAVE AN STI??",
+      "STI (Sexually Transmitted Infection) is a term with strong medical and social implications."
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, direct, possibly alarming\u2014designed to trigger concern, curiosity, and self-assessment.",
+    "Visual metaphors or symbols": [
+      "Microscopic/3D image of a pathogen ('germ'), enhancing the message of potential infection.",
+      "Use of bold color and direct question signals urgency and seriousness."
+    ],
+    "Clickbait techniques employed": [
+      "Provocative direct question ('DO YOU HAVE AN STI??')",
+      "Highlighted double question marks to raise anxiety/curiosity",
+      "Close-up virus image to spark concern/fear",
+      "Prominent, contrasting fonts and colors"
+    ],
+    "Brand elements present": "No explicit branding (logos, channel name, or watermark) present in the thumbnail."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both the thumbnail text and the title focus on awareness of STIs and the potential for viewers to identify themselves as at risk. The visual of the virus reinforces the medical/diagnostic theme, while the direct question and serious host emphasize the video's warning and informative content.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch. The thumbnail is slightly more direct and dramatic than the title, using a direct question and double question marks to amplify urgency, whereas the title promises information on signs, not just identification. However, they strongly complement each other in theme and emotional intent."
+  }
+}

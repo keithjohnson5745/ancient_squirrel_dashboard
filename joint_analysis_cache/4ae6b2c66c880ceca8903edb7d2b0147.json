@@ -1,0 +1,13 @@
+{
+  "title": "If This Is Happening, YOU ARE PREGNANT | EARLY SIGNS OF PREGNANCY Before Missed Period.",
+  "thumbnail_path": "thumbnails/x1aQeN-RME0_max.jpg",
+  "title_length": 87,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

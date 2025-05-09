@@ -1,0 +1,12 @@
+{
+  "title": "Fluffy Goes To India | Gabriel Iglesias",
+  "thumbnail_path": "thumbnails/ux8GZAtCN-M_high.jpg",
+  "title_length": 39,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

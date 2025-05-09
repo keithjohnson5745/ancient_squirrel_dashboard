@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant_colors": {
+      "Blue (scrubs/shirt)": "35%",
+      "Beige/cream (walls)": "25%",
+      "Skin tones": "20%",
+      "Brown/tan (door and furniture)": "15%",
+      "Black (text and some details)": "5%"
+    },
+    "Composition_type": "Medium shot \u2013 subject is shown from the waist/chest up, centered.",
+    "Human_presence": {
+      "Number_of_people": 1,
+      "Expressions": "Attentive, mildly serious/explanatory",
+      "Demographics": "Young adult female, fair skin, light hair"
+    },
+    "Main_objects/props_featured": "Blue medical scrubs, lavalier microphone, door and some background furniture",
+    "Background_environment": "Indoor room; mostly plain off-white wall, closed closet door, light wood door and some wall art visible"
+  },
+  "TEXT ELEMENTS": {
+    "All_text_visible": [
+      "Irregular Periods",
+      "even if it's in the normal range"
+    ],
+    "Font_characteristics": {
+      "Style": "Bold sans-serif, easy to read",
+      "Emphasis": "White text with black outline for high contrast",
+      "Color": "White (text) with black outline"
+    },
+    "Text_placement_within_frame": {
+      "\u2018Irregular Periods\u2019": "Top center",
+      "\u2018even if it's in the normal range\u2019": "Bottom center"
+    },
+    "Use_of_emotional/trigger_words": [
+      "Irregular",
+      "Periods",
+      "Normal range"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall_emotional_tone": "Informative, reassuring, slightly concerned or serious",
+    "Visual_metaphors_or_symbols": "Medical scrubs signal a healthcare context and expertise",
+    "Clickbait_techniques_employed": [
+      "Direct reference to a common health concern ('Irregular Periods')",
+      "Text hints at hidden knowledge or a surprising fact (\u2018even if it's in the normal range\u2019)"
+    ],
+    "Brand_elements_present": "No explicit logos or branding, but medical scrubs and format suggest health/medical info channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail explicitly displays the title text 'Irregular Periods' and features a medical professional, visually backing the healthcare topic.",
+    "Contrasts_or_mismatches": "No contrast or mismatch; the visual directly supports the video\u2019s stated topic."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Menstrual Cycle Phases | Female Reproductive System | Follicular Luteal Proliferative Secretory",
+  "thumbnail_path": "thumbnails/lVPQ_w7ZUTA_max.jpg",
+  "title_length": 95,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

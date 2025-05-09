@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light beige/tan (background and skin tones)": "40%",
+      "Brown/black (hair, eyes, facial features)": "25%",
+      "Bright cyan/teal (text)": "15%",
+      "White (text outline, highlights, clothing)": "10%",
+      "Pink (cross in background)": "5%",
+      "Other (minor shadows and overlays)": "5%"
+    },
+    "Composition type": "Close-up (subjects are framed tightly, taking up most of the image)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Smiling adult (woman), neutral/wide-eyed infant",
+      "Demographics (if apparent)": "Adult woman of color and light-skinned infant"
+    },
+    "Main objects/props featured": [
+      "Ultrasound photo held prominently in the foreground"
+    ],
+    "Background environment": "Blurred, likely an indoor room with a pale wall; a pink cross decor item is visible in the right background"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "Tips for getting Pregnant with PCOS",
+    "Font characteristics": {
+      "Style": "Bold, rounded sans-serif",
+      "Emphasis": "Strong cyan coloring with bright white outline (high-contrast for visibility)",
+      "Color": "Bright cyan (#00FFFF) with white border"
+    },
+    "Text placement within frame": "Right side and bottom-center, partially covering the adult's face and hand",
+    "Use of emotional/trigger words": [
+      "Tips",
+      "Pregnant",
+      "PCOS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, hopeful, and personal; evokes a sense of achievement and family",
+    "Visual metaphors or symbols": [
+      "Ultrasound photo (symbolizing pregnancy and fertility)"
+    ],
+    "Clickbait techniques employed": [
+      "Personal photo (authenticity, relatability)",
+      "Direct, actionable promise in text",
+      "Visual evidence (ultrasound) supporting claim"
+    ],
+    "Brand elements present": "No explicit branding; cross in background could hint at personal beliefs but not an overt brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the video title, visually displaying both an adult woman and a baby (suggesting successful pregnancy), alongside an ultrasound photo, which directly references pregnancy. The inclusion of the text \"Tips for getting Pregnant with PCOS\" on the image matches the video's promise.",
+    "Contrasts or mismatches": "No major mismatches; the only minor point is the thumbnail highlights 'tips' while the title mentions '4 times', but both clearly address pregnancy and PCOS."
+  }
+}

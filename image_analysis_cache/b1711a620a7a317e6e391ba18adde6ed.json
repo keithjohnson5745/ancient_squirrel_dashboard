@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Black/Dark Grey": "35%",
+      "Green": "20%",
+      "White": "25%",
+      "Light Brown/Beige": "10%",
+      "Purple/Blue (SSGI logo accent)": "5%",
+      "Skin Tones": "5%"
+    },
+    "Composition Type": "Medium close-up \u2014 One person featured prominently on the left, with text and graphics on the right.",
+    "Human Presence": {
+      "Number of People": 1,
+      "Expressions": "Slight smile, neutral, professional",
+      "Demographics (if apparent)": "Older adult male, light skin, gray hair, mustache, wearing suit and tie"
+    },
+    "Main Objects/Props Featured": [
+      "Portrait photo of a person",
+      "Text overlays",
+      "Logo with text 'SSGI'"
+    ],
+    "Background Environment": "Intentionally blurred background, likely an office or indoor corporate environment to keep focus on subject and text."
+  },
+  "TEXT ELEMENTS": {
+    "Visible Text": [
+      "LEAN SIX SIGMA",
+      "STEP-BY-STEP",
+      "PROJECT EXAMPLE",
+      "With Dr. Barry Shore",
+      "SSGI"
+    ],
+    "Font Characteristics": {
+      "LEAN SIX SIGMA": "All caps, bold, sans-serif, white",
+      "STEP-BY-STEP": "All caps, bold, sans-serif, dark blue/purple on bright green rectangle",
+      "PROJECT EXAMPLE": "All caps, bold, sans-serif, bright green",
+      "WITH DR. BARRY SHORE": "All caps, white, smaller, friendly professional sans-serif font",
+      "SSGI": "Gradient multi-colored (purple, blue, green, white); stylized logo"
+    },
+    "Text Placement": {
+      "Main title": "Top and center/right (LEAN SIX SIGMA, STEP-BY-STEP, PROJECT EXAMPLE are stacked in descending order)",
+      "Speaker credit": "Bottom center-left (WITH DR. BARRY SHORE)",
+      "Logo": "Bottom right corner (SSGI)"
+    },
+    "Emotional/Trigger Words": [
+      "STEP-BY-STEP",
+      "PROJECT EXAMPLE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Professional, approachable, instructive \u2014 conveys authority and clarity",
+    "Visual Metaphors or Symbols": [
+      "Green coloring: Association with 'green belt' in Six Sigma",
+      "Step-by-step layout: Implies learning, progression, simple guidance"
+    ],
+    "Clickbait Techniques Employed": [
+      "Clear promise of a 'project example' and 'step-by-step' guidance",
+      "Use of bold, contrasting colors for key phrases to capture attention",
+      "Prominent expert portrait builds trust and authority"
+    ],
+    "Brand Elements Present": [
+      "SSGI logo (bottom right) \u2014 signifies official training/brand association",
+      "Consistent color palette related to Lean Six Sigma (green, white, black)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement": "The thumbnail visually reinforces the title by prominently featuring 'LEAN SIX SIGMA,' 'STEP-BY-STEP,' and 'PROJECT EXAMPLE' in bold text, echoing the educational and practical promises in the video title. The green text and certificate-like logo tie in directly with 'Green Belt Training.'",
+    "Contrasts or Mismatches": "No significant mismatch; however, the thumbnail doesn't visually reference 'DMAIC' specifically, despite its mention in the title. The human element (Dr. Barry Shore) is not referenced in the title but adds credibility in the thumbnail."
+  }
+}

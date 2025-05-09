@@ -1,0 +1,12 @@
+{
+  "title": "The science of menstruation in 10 minutes | Dr. Jen Gunter",
+  "thumbnail_path": "thumbnails/QYdYpKc9icQ_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

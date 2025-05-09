@@ -1,0 +1,12 @@
+{
+  "title": "Hitler: From Homeless to Monster",
+  "thumbnail_path": "thumbnails/yhfa4kpyMbs_max.jpg",
+  "title_length": 32,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

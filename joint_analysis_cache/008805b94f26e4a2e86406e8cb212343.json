@@ -1,0 +1,13 @@
+{
+  "title": "Why 90% of People Never Get Lean (Do This Instead)",
+  "thumbnail_path": "thumbnails/GOVhxKrliwo_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

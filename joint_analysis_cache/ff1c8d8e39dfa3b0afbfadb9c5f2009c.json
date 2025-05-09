@@ -1,0 +1,11 @@
+{
+  "title": "What happens when you have a disease doctors can't diagnose | Jennifer Brea",
+  "thumbnail_path": "thumbnails/Fb3yp4uJhq0_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

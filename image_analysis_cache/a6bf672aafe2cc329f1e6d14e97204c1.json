@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/black": "Approx. 50% (background and lower portion)",
+      "Beige/yellow": "Approx. 30% (text and title at top)",
+      "Light skin tones": "Approx. 15% (two faces)",
+      "Gray/neutral": "Approx. 5% (clothing, microphones)"
+    },
+    "Composition type": "Close-up (large, clear faces of both people occupying most of the frame, cropped at the shoulders)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left person: animated, mouth slightly open as if talking or reacting, friendly and engaged.",
+        "Right person: neutral, slight smile, mouth closed, wearing sunglasses, relaxed/confident."
+      ],
+      "Demographics": [
+        "Left: White male, early-middle age, brown hair",
+        "Right: White male, middle age, grayish hair, sunglasses and beard."
+      ]
+    },
+    "Main objects/props featured": [
+      "Two microphones (each person speaking into one)",
+      "Headphones on both individuals or microphone arms visible"
+    ],
+    "Background environment": "Solid/gradient dark blue or black, with large stylized title text overlaid. No detailed physical setting visible, emphasizing a podcast/recording atmosphere."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "THIS PAST WEEKEND",
+      "with Theo Von",
+      "#580",
+      "DAVID SPADE"
+    ],
+    "Font characteristics": {
+      "THIS PAST WEEKEND": "Large, bold, all-caps, distressed sans-serif, yellow/beige",
+      "with Theo Von": "Cursive/script, light beige, much smaller, handwritten appearance",
+      "#580": "Medium, bold, sans-serif, yellow/beige",
+      "DAVID SPADE": "Very large, bold, all-caps, sans-serif, off-white"
+    },
+    "Text placement within frame": {
+      "THIS PAST WEEKEND": "Top portion, spans full width",
+      "with Theo Von": "Under 'THIS PAST WEEKEND', left side",
+      "#580": "Lower left, above 'DAVID SPADE'",
+      "DAVID SPADE": "Lower third, dominates left and center"
+    },
+    "Emotional/trigger words": [
+      "DAVID SPADE",
+      "THIS PAST WEEKEND"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Conversational, energetic, inviting but slightly serious (due to dark colors and sunglasses); hints at comedy or high-profile discussion.",
+    "Visual metaphors or symbols": "Microphones and headphones as universal podcast symbols; sunglasses connote 'celebrity' or coolness.",
+    "Clickbait techniques employed": [
+      "Large, bold celebrity name to draw attention",
+      "High contrast facial expressions suggesting lively conversation",
+      "Sunglasses on guest for added intrigue"
+    ],
+    "Brand elements present": [
+      "The show's name/title ('This Past Weekend'), stylized and prominent",
+      "Host's name ('Theo Von') handwritten - personal brand",
+      "Consistent font and color branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": [
+      "Both Theo Von (the host) and David Spade (guest) are visibly present, supporting identification with the episode.",
+      "Text includes guest's name ('DAVID SPADE'), the episode number (#580), and channel branding ('This Past Weekend w/ Theo Von'), matching the video title."
+    ],
+    "Contrasts or mismatches": [
+      "No visible mismatch; the visual focus and all text elements are closely aligned with the title content."
+    ]
+  }
+}

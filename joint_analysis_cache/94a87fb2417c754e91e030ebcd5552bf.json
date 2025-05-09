@@ -1,0 +1,12 @@
+{
+  "title": "Inside the Most Prepared Country on Earth",
+  "thumbnail_path": "thumbnails/Msfrit12u0M_max.jpg",
+  "title_length": 41,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

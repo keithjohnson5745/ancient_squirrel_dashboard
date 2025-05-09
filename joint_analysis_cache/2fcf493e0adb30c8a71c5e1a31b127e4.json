@@ -1,0 +1,12 @@
+{
+  "title": "The Fertility Diet: What Should You Eat if You Want to Get Pregnant?",
+  "thumbnail_path": "thumbnails/uJvPSrp6hi8_max.jpg",
+  "title_length": 68,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

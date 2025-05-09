@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approximately 40% (background and border)",
+      "Orange/Yellow": "Approximately 15% (text and border)",
+      "Red/Pink": "Approximately 15% (banner, border, outline around the photo)",
+      "White": "Approximately 20% (text, woman's blouse, photo background)",
+      "Black": "Approximately 10% (hair, prop, portions of text and clothing)"
+    },
+    "Composition type": "Close-up and medium shot hybrid (the inset is a close-up of the woman pouring liquid; the main composition is dominated by text and banners)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, focused (the woman is looking at her hand while pouring liquid)",
+      "Demographics": "Adult female, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "A bottle (likely a lubricant bottle)",
+      "Hand (the woman is pouring liquid onto her palm)"
+    ],
+    "Background environment": "Majority of background is a solid blue gradient with colored borders; inset photo has a plain white/cream background (likely an indoor/clinic setting)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "ORAL \u092e\u0947\u0902 \u0921\u093e\u0932\u0947 FLAVOUR",
+      "LUBE",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?"
+    ],
+    "Font characteristics": {
+      "ORAL \u092e\u0947\u0902 \u0921\u093e\u0932\u0947 FLAVOUR": {
+        "Style": "Bold, sans-serif",
+        "Color": "White",
+        "Emphasis": "All caps for 'ORAL' and 'FLAVOUR', large font, placed within a colored banner"
+      },
+      "LUBE": {
+        "Style": "Extra bold, sans-serif, all caps",
+        "Color": "Bright orange/yellow",
+        "Emphasis": "Largest text element on thumbnail, extremely prominent"
+      },
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?": {
+        "Style": "Bold, sans-serif, Devanagari script",
+        "Color": "White",
+        "Emphasis": "Large size, below 'LUBE' for clear association"
+      }
+    },
+    "Text placement within frame": {
+      "ORAL \u092e\u0947\u0902 \u0921\u093e\u0932\u0947 FLAVOUR": "Top third of thumbnail, centered in wide colored banner",
+      "LUBE": "Right half of frame, very large and prominent",
+      "\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?": "Directly beneath 'LUBE' on the right"
+    },
+    "Use of emotional/trigger words": [
+      "ORAL",
+      "FLAVOUR",
+      "LUBE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly provocative, educational",
+    "Visual metaphors or symbols": "The act of pouring liquid suggests a demonstration or instructional component, directly relating to the topic of lubricants.",
+    "Clickbait techniques employed": [
+      "Bold, oversized keywords ('LUBE', 'ORAL', 'FLAVOUR') to attract attention",
+      "Provocative subject (sexual health, oral use, flavored lube)",
+      "Use of both Hindi and English to maximize audience reach",
+      "Photo shows action (pouring liquid), making the viewer curious about the demonstration"
+    ],
+    "Brand elements present": "No explicit brand logo, but the presenter may be a recognized figure (Dr. Neha Mehta as per the title); strong, consistent color branding with blue, yellow, and red."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail uses large, clear text ('LUBE \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?') front and center, matching the main query in the video title. The demonstrative photo of a woman pouring a substance suggests a practical, informative approach, which aligns with the educational and explanatory nature signaled by '\u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948?' and 'Which is best'. Additional text in Hindi and English ('ORAL \u092e\u0947\u0902 \u0921\u093e\u0932\u0947 FLAVOUR') references the specifics likely discussed in the video, reinforcing the bilingual explanatory approach and the subject matter about different uses of lube.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a strong match thematically and visually. The only minor contrast is that the thumbnail does not mention 'Which is best', which is in the title, so the comparative aspect is less visually emphasized. The thumbnail focuses more on explanation and demonstration rather than comparison."
+  }
+}

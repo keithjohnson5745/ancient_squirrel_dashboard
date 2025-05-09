@@ -1,0 +1,13 @@
+{
+  "title": "A Woman With No Friends | The Silent Strength of Solitude | PRIYANKA CHOPRA MOTIVATION |",
+  "thumbnail_path": "thumbnails/udeuY6cXZos_high.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

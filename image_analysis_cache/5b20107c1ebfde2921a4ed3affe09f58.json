@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "25% (background of 'CASTOR OIL' text area)",
+      "Red": "25% (background of 'FOR FACE' text area)",
+      "Black": "15% (text, apparel, and bottle details)",
+      "White": "20% (text and background elements)",
+      "Skin tones": "10% (person's face and hands)",
+      "Brown": "5% (castor oil bottle)",
+      "Other accent colors": "Small percentages of pink/purple (bottle label)"
+    },
+    "Composition type": "Medium close-up (features a person from the waist up, close focus on face and hand gesture, also includes a large product image and bold text panels)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral-to-happy, slightly open mouth, direct eye contact, informative/enthusiastic demeanor",
+      "Demographics": "Adult, appears to be a woman, light skin tone, brown hair tied back"
+    },
+    "Main objects/props featured": [
+      "Large bottle of 'Heritage Store Organic Castor Oil'",
+      "Text boxes (yellow and red backgrounds)",
+      "Person pointing to their face"
+    ],
+    "Background environment": "Blurry indoor background, likely a room or living space, neutral and unobtrusive"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "CASTOR OIL",
+      "FOR FACE",
+      "HERITAGE STORE",
+      "Organic Castor Oil",
+      "NOURISHING TREATMENT",
+      "For Wellness Packs",
+      "100% Cold-Pressed",
+      "VEGAN & CRUELTY-FREE",
+      "HEXANE-FREE"
+    ],
+    "Font characteristics": {
+      "Main headline": "Bold, all-caps sans-serif font (typical for YouTube thumbnails), 'CASTOR OIL' in black on yellow, 'FOR FACE' in white on red \u2014 high contrast and attention-grabbing",
+      "Bottle label": "Various clean, legible sans-serif fonts"
+    },
+    "Text placement within frame": {
+      "CASTOR OIL": "Top left, inside a yellow box",
+      "FOR FACE": "Bottom left, inside a red box",
+      "Product label": "On the bottle image, right side"
+    },
+    "Use of emotional/trigger words": [
+      "FOR FACE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, informative, trustworthy, positive and inviting",
+    "Visual metaphors or symbols": [
+      "Person pointing at their face (emphasizing face as area of focus/benefit)",
+      "Large product image \u2014 direct connection to the topic"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, large font for fast readability",
+      "Bright, contrasting colors",
+      "Person making direct eye contact",
+      "Explicit visual of product + targeted anatomical area ('FOR FACE')"
+    ],
+    "Brand elements present": [
+      "Heritage Store Castor Oil branding clearly visible"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail visually emphasizes 'CASTOR OIL' and 'FOR FACE' in extremely large, bold text, immediately clarifying the subject. The bottle of castor oil and the person pointing to their face visually reinforce the notion of facial application. The inclusion of a human (possibly a dermatologist, as per the title) adds trust and matches the 'explains' aspect.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no explicit mention of 'Top 5 Benefits' or that the person is a dermatologist in the thumbnail; the focus is more on what the castor oil is for rather than a specific 'top 5' or credentials."
+  }
+}

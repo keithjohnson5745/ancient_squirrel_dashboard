@@ -1,0 +1,11 @@
+{
+  "title": "David Frum: Trump\u2019s main character syndrome & how the U.S. lost the Canadian election",
+  "thumbnail_path": "thumbnails/N53dx2dpc8c_high.jpg",
+  "title_length": 85,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

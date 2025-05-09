@@ -1,0 +1,13 @@
+{
+  "title": "OBGYN EXPLAINS VBAC VS REPEAT C-SECTION | RISKS + BENEFITS",
+  "thumbnail_path": "thumbnails/dJsamL4vPrg_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

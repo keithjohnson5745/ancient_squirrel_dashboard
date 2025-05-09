@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "40% (background curtain and parts of clothing)",
+      "Yellow": "15% (large bold text and banner)",
+      "White": "20% (text)",
+      "Light beige/skin tone": "10% (face and hands)",
+      "Purple": "10% (subtle lighting/cast on the background curtain)",
+      "Gray": "5% (microphone and slight shadows)"
+    },
+    "Composition type": "Medium shot (waist-up of a woman on stage with ample space for text beside her)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slightly awkward or concerned facial expression, mouth open mid-speech, raised eyebrows",
+      "Demographics": {
+        "Apparent gender": "Female",
+        "Apparent age": "Adult (20s-30s)",
+        "Apparent hair color": "Blonde",
+        "Clothing": "Black top"
+      }
+    },
+    "Main objects/props featured": [
+      "Handheld microphone"
+    ],
+    "Background environment": "Stage setting with dark curtain (reminiscent of a comedy club or performance), lit subtly with purple/blue tones"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\"HE WAS TOO FIT FOR ME! \ud83d\ude2c\"",
+      "- ELENA GABRIELLE"
+    ],
+    "Font characteristics": {
+      "\"HE WAS TOO FIT FOR ME! \ud83d\ude2c\"": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "\"TOO FIT\" in extra-large yellow font, rest in large white font",
+        "Color": "White (main phrase), Yellow (\"TOO FIT\")"
+      },
+      "- ELENA GABRIELLE": {
+        "Style": "Bold, all uppercase, sans-serif",
+        "Emphasis": "Contrasting black text on yellow banner background",
+        "Color": "Black (text), Yellow (background banner)"
+      }
+    },
+    "Text placement within frame": {
+      "\"HE WAS TOO FIT FOR ME! \ud83d\ude2c\"": "Top right, occupying upper two-thirds of right side",
+      "- ELENA GABRIELLE": "Bottom right, within a horizontal yellow banner"
+    },
+    "Use of emotional/trigger words": [
+      "TOO FIT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Humorous and self-deprecating, with a hint of incredulity/awkwardness",
+    "Visual metaphors or symbols": "Use of a gritted-teeth emoji (\ud83d\ude2c) to visually symbolize discomfort or embarrassment",
+    "Clickbait techniques employed": [
+      "Bold, extreme phrasing ('TOO FIT')",
+      "Relatable, self-effacing humor",
+      "Large, contrasting text to grab attention",
+      "Facial expression conveying awkwardness"
+    ],
+    "Brand elements present": [
+      "Performer\u2019s name prominently displayed in bold within a colored banner for personal branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly reiterates the title\u2019s theme by showing the comedian mid-sentence, with visual text quoting the core joke ('HE WAS TOO FIT FOR ME!'), and pairing it with a relatable, awkward facial expression and a gritted-teeth emoji, reinforcing the comedic and self-aware subject matter.",
+    "Contrasts or mismatches": "Minimal; both title and thumbnail are tightly aligned in humor, subject, and tone. The only slight difference is the video title uses 'way fitter than you,' while the thumbnail uses 'too fit for me,' but both mean the same thing and deliver a similar comic punch."
+  }
+}

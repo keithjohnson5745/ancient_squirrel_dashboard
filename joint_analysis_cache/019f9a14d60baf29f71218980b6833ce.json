@@ -1,0 +1,13 @@
+{
+  "title": "I Faked Being 25 To Teach My Own Class",
+  "thumbnail_path": "thumbnails/gGZTv0fS89c_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

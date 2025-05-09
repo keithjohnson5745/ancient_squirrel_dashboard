@@ -1,0 +1,12 @@
+{
+  "title": "Manipulation Expert: Success Isn\u2019t Luck, It\u2019s Rigged | Robert Greene",
+  "thumbnail_path": "thumbnails/M3cdPis--kU_max.jpg",
+  "title_length": 68,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

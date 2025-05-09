@@ -1,0 +1,14 @@
+{
+  "title": "Which Lubricant is BEST?! | OBGYN Explains",
+  "thumbnail_path": "thumbnails/xmJhCj8bIwA_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.7
+}

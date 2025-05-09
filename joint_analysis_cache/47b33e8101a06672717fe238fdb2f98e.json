@@ -1,0 +1,13 @@
+{
+  "title": "NHL Game 1 Highlights | Panthers vs. Leafs - May 5, 2025",
+  "thumbnail_path": "thumbnails/yKCzctq09yM_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "comparison",
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

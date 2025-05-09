@@ -1,0 +1,48 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Burnt orange/red (background)": "50%",
+      "Black (background details, suit, text box)": "25%",
+      "Light blue (shirt, drop shadow of text)": "10%",
+      "White (text)": "10%",
+      "Gray (hair, beard, text shadow)": "5%"
+    },
+    "Composition type": "Medium shot (waist-up portrait of a man on the left, large text panel on the right)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral with a slight smile, confident demeanor",
+      "demographics": "Adult male, light skin, gray hair and beard, wearing a business suit"
+    },
+    "Main objects/props featured": "Portrait of a male presenter, text box with large lettering",
+    "Background environment": "Abstract, heavily textured burnt orange/red background with black accents and a dark area behind the text"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "Is it safe to use Johnson's baby oil for adult skin?",
+    "Font characteristics": {
+      "style": "Sans-serif, bold, clear and modern",
+      "emphasis": "Strong drop shadow for readability",
+      "color": "White with light blue drop shadow",
+      "size": "Large, fills almost all of right half of frame"
+    },
+    "Text placement within frame": "Right 2/3 of the image, centered vertically and horizontally within a rounded black rectangle",
+    "Use of emotional/trigger words": [
+      "Is it safe",
+      "baby oil"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious and inquisitive, with an undertone of reassurance due to the presenter's calm smile",
+    "Visual metaphors or symbols": "The professional male presenter may symbolize expertise or trustworthiness; bold text and textured background add urgency or caution",
+    "Clickbait techniques employed": [
+      "Question format to generate curiosity",
+      "Direct mention of a well-known brand (Johnson's)",
+      "Contrasting 'baby' and 'adult' to pique interest",
+      "Usage of 'Is it safe' to evoke concern and encourage clicks"
+    ],
+    "Brand elements present": "Explicit mention of Johnson's in text; no explicit logos or color schemes related specifically to Johnson's branded product"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail exactly replicates the video title in a bold, prominent way, accompanied by a credible, professional-looking presenter, reinforcing the focus on expertise and safety inquiry.",
+    "Contrasts or mismatches": "There is no visual representation of Johnson's baby oil or skin care products\u2014the focus is on text and presenter rather than the actual product, which may slightly reduce direct product relevance."
+  }
+}

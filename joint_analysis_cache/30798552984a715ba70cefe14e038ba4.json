@@ -1,0 +1,14 @@
+{
+  "title": "OurDoctor - The Best Supplements to Take For Better Sex",
+  "thumbnail_path": "thumbnails/RSYyAawMtzg_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.7
+}

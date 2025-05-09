@@ -1,0 +1,13 @@
+{
+  "title": "Real Doctor Reacts To Absurd MCT OIL & COCONUT OIL Claims",
+  "thumbnail_path": "thumbnails/jfQypTGt2qc_max.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

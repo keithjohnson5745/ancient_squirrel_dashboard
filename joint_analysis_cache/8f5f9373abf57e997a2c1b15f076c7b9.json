@@ -1,0 +1,13 @@
+{
+  "title": "\u0914\u0930\u0924 \u0915\u093f\u0924\u0928\u093e \u0905\u0902\u0926\u0930 \u0932\u0947 \u0938\u0915\u0924\u0940 \u0939\u0948",
+  "thumbnail_path": "thumbnails/jWT3X-Hi3rM_max.jpg",
+  "title_length": 25,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.5
+}

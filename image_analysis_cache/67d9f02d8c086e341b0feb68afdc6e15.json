@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approx. 60% (background, clothing)",
+      "Beige/Tan": "Approx. 15% (stage, floor and lighting reflection)",
+      "Blue": "Approx. 10% (lower background curtain/stage)",
+      "Skin tone": "Approx. 10% (speaker\u2019s face and arms)",
+      "Red": "Approx. 5% (TED logo)"
+    },
+    "Composition type": "Medium shot (subject shown from mid-thigh up, centered on stage, with ample background visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Small, reflective smile; composed, thoughtful demeanor",
+      "Demographics": "Adult, feminine-presenting, medium-dark skin tone, short curly hair"
+    },
+    "Main objects/props featured": [
+      "Handheld device (possibly a microphone remote pointer) in speaker\u2019s left hand",
+      "TED logo (bottom left corner, red circle)"
+    ],
+    "Background environment": "Dimly lit, professional stage environment; abstract background with some DNA sequence letters visible near the top edge; dark curtain or backdrop with some lighting effects"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "I\u2019m a scientist, researching my own fatal brain disease\nTED",
+    "Font characteristics": {
+      "Style": "Sans-serif, bold, clean, modern",
+      "Emphasis": "Very strong, high contrast (large white text on dark background)",
+      "Color": "White (main title), Red and white (TED logo)"
+    },
+    "Text placement within frame": {
+      "Main text": "Right side, occupying upper and central right (covering top half of thumbnail vertically) in large block letters",
+      "TED logo": "Bottom left corner"
+    },
+    "Use of emotional/trigger words": [
+      "fatal",
+      "brain disease",
+      "my own"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, introspective but also empowered and determined",
+    "Visual metaphors or symbols": [
+      "DNA sequence in background evokes scientific research and personal genetic connection",
+      "Lone figure on stage symbolizes individual battle, courage"
+    ],
+    "Clickbait techniques employed": [
+      "First-person storytelling (\u201cI\u2019m a scientist\u2026\u201d)",
+      "Life-or-death stakes (\u201cfatal brain disease\u201d)",
+      "Personalization (\u201cmy own\u201d)",
+      "Large, direct text",
+      "Emotionally charged language"
+    ],
+    "Brand elements present": [
+      "TED logo (strong TED conference branding: recognizable, respected)",
+      "Stage style/lighting typical of TED Talks"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail depicts the actual subject of the talk (Sonia Vallabh) on stage, aligning with the deeply personal exploration described in the title ('My Quest to Cure Prion Disease \u2014 Before It\u2019s Too Late'). The direct textual statement on the thumbnail ('I\u2019m a scientist, researching my own fatal brain disease') amplifies the video's promise of a personal, urgent, scientifically driven quest, mirroring the title\u2019s urgency and uniqueness.",
+    "Any contrasts or mismatches between thumbnail and title": "No notable contrast; both the visual and textual elements directly reinforce each other, prioritizing the speaker\u2019s identity, the high stakes, and her personal engagement with the research."
+  }
+}

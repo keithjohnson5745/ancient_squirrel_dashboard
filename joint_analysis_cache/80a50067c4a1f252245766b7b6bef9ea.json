@@ -1,0 +1,13 @@
+{
+  "title": "50 Classical Music Masterpieces for Relaxation & the Soul | Beethoven, Mozart, Chopin, Bach, Vivaldi",
+  "thumbnail_path": "thumbnails/IYd1-cPwQCk_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

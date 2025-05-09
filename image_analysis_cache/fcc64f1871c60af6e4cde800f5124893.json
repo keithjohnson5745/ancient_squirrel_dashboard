@@ -1,0 +1,82 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Light beige/cream (background and skin tones)",
+        "percentage": 50
+      },
+      {
+        "color": "Yellow (Johnson's bottle)",
+        "percentage": 20
+      },
+      {
+        "color": "Pink/red (lips, nails, areas of irritation)",
+        "percentage": 10
+      },
+      {
+        "color": "Black (hair, eyebrows, text on bottle)",
+        "percentage": 10
+      },
+      {
+        "color": "White (labels, highlight, border)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Close-up (prominent face and hands with detailed expression), inset zoom (circular close-up of skin issue), product overlay (bottle)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Distressed/concerned (frowning, furrowed brows, holding cheeks as if upset or shocked)",
+      "demographics": "Adult female, light to medium skin tone, dark hair"
+    },
+    "Main objects/props featured": [
+      "Face of the person (central element)",
+      "Magnified close-up of skin/blemishes (inset in upper left)",
+      "Large Johnson's baby soap bottle (right side of frame)"
+    ],
+    "Background environment": "Indistinct, soft indoor background (likely a room with neutral-toned walls/doors), not the focus"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Johnson's",
+      "head-to-toe wash & shampoo",
+      "baby shampoo",
+      "no more tears*",
+      "no parabens, phthalates, sulfates, or dyes.",
+      "Johnson & Johnson",
+      "16.9 FL OZ (500 mL)",
+      "ba\u00f1o y champ\u00fa"
+    ],
+    "Font characteristics": {
+      "style": "Rounded, friendly sans-serif (for 'Johnson's' script); Clean sans-serif (for descriptors)",
+      "emphasis": "Brand name ('Johnson's') large and blue; Product info yellow/white/blue; 'No more tears' in pink badge",
+      "color": "Primarily blue (logo), black (descriptions), white (smaller/lower-case descriptions), yellow (background/bottle)"
+    },
+    "Text placement within frame": "All text is contained on the product bottle (right side of the thumbnail). No additional overlay text.",
+    "Use of emotional/trigger words": [
+      "no more tears",
+      "no parabens",
+      "no dyes"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Concerned/issues-based (person looks worried/distressed about skin); mild alarm",
+    "Visual metaphors or symbols": [
+      "Close-up inset of blemishes signals 'problematic result' or reaction",
+      "Baby soap/bottle connects directly with the 'experiment' theme of using baby products on adult skin"
+    ],
+    "Clickbait techniques employed": [
+      "Extreme facial expression (exaggerated concern for dramatic effect)",
+      "Zoom on potential negative reaction (blemishes)",
+      "Known consumer brand prominently featured (trust/familiarity)",
+      "Implied personal story/experiment"
+    ],
+    "Brand elements present": [
+      "Johnson's baby soap bottle design and color",
+      "Company name and product label clearly shown"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows the YouTuber applying ('washed my face') and reacting to the result of using 'BABY SOAP' (prominent bottle on right), while the zoomed-in blemish implies a possible negative outcome after one week. The emotions and props tie directly to the experimental narration of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches\u2014the visual and text cues reinforce the video\u2019s focus on a personal experiment with baby soap and possible skin consequences. Both suggest the experience may have been problematic, piquing curiosity."
+  }
+}

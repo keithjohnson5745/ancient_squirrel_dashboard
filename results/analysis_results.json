@@ -1,0 +1,2531 @@
+{
+  "metadata": {
+    "input_file": "data/lube2_video_nodes.csv",
+    "output_dir": "results",
+    "video_count": 1516,
+    "channel_count": 911,
+    "cluster_count": 30,
+    "processing_time": "0:57:56.506633"
+  },
+  "cluster_themes": {
+    "26": [
+      [
+        "fertility",
+        6.7925198016153105
+      ],
+      [
+        "life",
+        6.386277602978641
+      ],
+      [
+        "hair",
+        5.6947624805870305
+      ],
+      [
+        "tips",
+        5.138060525408955
+      ],
+      [
+        "egg",
+        4.965423888109432
+      ],
+      [
+        "women",
+        4.958093009666076
+      ],
+      [
+        "expert",
+        4.737994992003723
+      ],
+      [
+        "fix",
+        4.7366248500535795
+      ],
+      [
+        "jindal",
+        4.627040213758481
+      ],
+      [
+        "questions",
+        4.551336836048786
+      ],
+      [
+        "sperm",
+        4.122997044341951
+      ],
+      [
+        "quality",
+        3.9828718135519376
+      ],
+      [
+        "ways",
+        3.9504445123331453
+      ],
+      [
+        "secret",
+        3.9016741129781707
+      ],
+      [
+        "improve",
+        3.8942070995392726
+      ],
+      [
+        "health",
+        3.8924396192060713
+      ],
+      [
+        "routine",
+        3.6431813185209556
+      ],
+      [
+        "proven",
+        3.5655966979650584
+      ],
+      [
+        "best",
+        3.478401322464804
+      ],
+      [
+        "work",
+        3.4081229755805316
+      ]
+    ],
+    "19": [
+      [
+        "oil",
+        12.715034347233221
+      ],
+      [
+        "coconut",
+        7.574395837472167
+      ],
+      [
+        "use",
+        6.8774583123208615
+      ],
+      [
+        "baby",
+        6.6178928212029495
+      ],
+      [
+        "lube",
+        4.296244094244972
+      ],
+      [
+        "benefits",
+        3.961261382058661
+      ],
+      [
+        "olive",
+        2.7142069499349537
+      ],
+      [
+        "shorts",
+        2.282972735958153
+      ],
+      [
+        "hair",
+        2.1319399572350712
+      ],
+      [
+        "skin",
+        2.043303992437244
+      ],
+      [
+        "day",
+        2.0
+      ],
+      [
+        "sexual",
+        1.7473150520851908
+      ],
+      [
+        "cleansing",
+        1.6831983738230951
+      ],
+      [
+        "using",
+        1.6814065856626095
+      ],
+      [
+        "safe",
+        1.665472111865555
+      ],
+      [
+        "lubricant",
+        1.6622861810612648
+      ],
+      [
+        "body",
+        1.6251552333543995
+      ],
+      [
+        "parachute",
+        1.589490350680805
+      ],
+      [
+        "ways",
+        1.414370520563657
+      ],
+      [
+        "healthy",
+        1.2650995708659662
+      ]
+    ],
+    "4": [
+      [
+        "best",
+        23.424084590532416
+      ],
+      [
+        "music",
+        7.527485091190561
+      ],
+      [
+        "fertility",
+        4.810427956434557
+      ],
+      [
+        "tips",
+        3.339523502696579
+      ],
+      [
+        "jazz",
+        3.261630135879066
+      ],
+      [
+        "lubricant",
+        3.0164222144100785
+      ],
+      [
+        "exercises",
+        2.1378839063975486
+      ],
+      [
+        "oil",
+        2.086872090717633
+      ],
+      [
+        "time",
+        2.0
+      ],
+      [
+        "ways",
+        1.858924488251235
+      ],
+      [
+        "works",
+        1.7746868686315165
+      ],
+      [
+        "pelvic",
+        1.6582064570442951
+      ],
+      [
+        "lubricants",
+        1.6346617832125918
+      ],
+      [
+        "durex",
+        1.536559754471362
+      ],
+      [
+        "hair",
+        1.526594675169874
+      ],
+      [
+        "hindi",
+        1.526594675169874
+      ],
+      [
+        "supplement",
+        1.5136378588926398
+      ],
+      [
+        "relaxing",
+        1.4552097833379671
+      ],
+      [
+        "prostate",
+        1.4223288435445989
+      ],
+      [
+        "women",
+        1.4174417787650433
+      ]
+    ],
+    "12": [
+      [
+        "skin",
+        8.804911825037454
+      ],
+      [
+        "pregnancy",
+        6.297433489412341
+      ],
+      [
+        "tips",
+        6.123190278085302
+      ],
+      [
+        "guide",
+        5.924765598428919
+      ],
+      [
+        "ultimate",
+        5.518427553254906
+      ],
+      [
+        "mistakes",
+        5.431950920903228
+      ],
+      [
+        "dermatologist",
+        5.415186151347576
+      ],
+      [
+        "india",
+        5.18661221189402
+      ],
+      [
+        "stop",
+        4.910780437501595
+      ],
+      [
+        "best",
+        4.717531116952366
+      ],
+      [
+        "use",
+        4.6089216618017534
+      ],
+      [
+        "skincare",
+        4.1576792816903705
+      ],
+      [
+        "hair",
+        3.8475542010642774
+      ],
+      [
+        "easy",
+        3.7525258597391495
+      ],
+      [
+        "care",
+        3.749460320389966
+      ],
+      [
+        "wish",
+        3.5177265295918954
+      ],
+      [
+        "doctor",
+        3.4525790929520275
+      ],
+      [
+        "right",
+        3.4172436128251884
+      ],
+      [
+        "signs",
+        3.409148348223685
+      ],
+      [
+        "baby",
+        3.4042264530718387
+      ]
+    ],
+    "15": [
+      [
+        "things",
+        8.490928973169495
+      ],
+      [
+        "new",
+        5.173384607974533
+      ],
+      [
+        "ted",
+        4.622788212313244
+      ],
+      [
+        "baby",
+        4.308383449891108
+      ],
+      [
+        "week",
+        2.8570394461181547
+      ],
+      [
+        "plastic",
+        2.6855423265091325
+      ],
+      [
+        "cube",
+        1.7997541009761795
+      ],
+      [
+        "leave",
+        1.6331982855241094
+      ],
+      [
+        "wait",
+        1.5241312362233732
+      ],
+      [
+        "soap",
+        1.4612388430440917
+      ]
+    ],
+    "3": [
+      [
+        "know",
+        15.92086201776769
+      ],
+      [
+        "need",
+        12.600960040884274
+      ],
+      [
+        "pregnancy",
+        5.591161018727192
+      ],
+      [
+        "things",
+        2.6436255367788637
+      ],
+      [
+        "sam",
+        2.531714200984678
+      ],
+      [
+        "people",
+        2.3207295998338755
+      ],
+      [
+        "needs",
+        2.188981445012227
+      ],
+      [
+        "durex",
+        2.0
+      ],
+      [
+        "estrogen",
+        1.9320229402841167
+      ],
+      [
+        "lube",
+        1.8650742720280358
+      ],
+      [
+        "health",
+        1.7886635368277015
+      ],
+      [
+        "tips",
+        1.7710363626388863
+      ],
+      [
+        "woman",
+        1.7202495258285524
+      ],
+      [
+        "uses",
+        1.64665209897795
+      ],
+      [
+        "lora",
+        1.641931094062214
+      ],
+      [
+        "shahine",
+        1.641931094062214
+      ],
+      [
+        "trick",
+        1.5764414340983843
+      ],
+      [
+        "lubes",
+        1.5699472701317911
+      ],
+      [
+        "fertility",
+        1.5400447054053497
+      ],
+      [
+        "skincare",
+        1.4939288076839274
+      ]
+    ],
+    "18": [
+      [
+        "vaginal",
+        14.995572581198443
+      ],
+      [
+        "dryness",
+        9.628654467409993
+      ],
+      [
+        "lubricants",
+        6.986775817120197
+      ],
+      [
+        "use",
+        5.931921999578913
+      ],
+      [
+        "natural",
+        3.109759718548393
+      ],
+      [
+        "menopause",
+        2.8782478306431827
+      ],
+      [
+        "atrophy",
+        2.612958550278128
+      ],
+      [
+        "estrogen",
+        2.1617155598661557
+      ],
+      [
+        "symptoms",
+        2.0228188101983053
+      ],
+      [
+        "lubricant",
+        2.0196073343083696
+      ],
+      [
+        "pain",
+        2.0136821862205685
+      ],
+      [
+        "low",
+        1.9933851137936411
+      ],
+      [
+        "moisturizers",
+        1.8759641435228314
+      ],
+      [
+        "best",
+        1.7596205884633775
+      ],
+      [
+        "tips",
+        1.6563904172740196
+      ],
+      [
+        "personal",
+        1.4714386006286284
+      ],
+      [
+        "increase",
+        1.3836329861317926
+      ],
+      [
+        "moisturiser",
+        1.352855827985059
+      ],
+      [
+        "treatment",
+        1.352221285106443
+      ],
+      [
+        "menopausewize",
+        1.3492491425750672
+      ]
+    ],
+    "1": [
+      [
+        "inside",
+        4.876124648745103
+      ],
+      [
+        "wrong",
+        3.480218875486713
+      ],
+      [
+        "myths",
+        3.230369552110338
+      ],
+      [
+        "comedy",
+        3.134934639310348
+      ],
+      [
+        "big",
+        3.0212540421593443
+      ],
+      [
+        "beginners",
+        3.0
+      ],
+      [
+        "dangerous",
+        3.0
+      ],
+      [
+        "start",
+        3.0
+      ],
+      [
+        "problem",
+        2.6875804039277673
+      ],
+      [
+        "china",
+        2.687508566674389
+      ],
+      [
+        "webinar",
+        2.687508566674389
+      ],
+      [
+        "tell",
+        2.56653361644055
+      ],
+      [
+        "student",
+        2.5563029881089943
+      ],
+      [
+        "wife",
+        2.427858672004584
+      ],
+      [
+        "shorts",
+        2.3946153478609364
+      ],
+      [
+        "blow",
+        2.375017133348778
+      ],
+      [
+        "psychology",
+        2.2438115547833832
+      ],
+      [
+        "destroy",
+        2.1126059762179885
+      ],
+      [
+        "\u0938\u0915\u0924",
+        2.0821239145353254
+      ],
+      [
+        "game",
+        2.0460495761411632
+      ]
+    ],
+    "21": [
+      [
+        "lubricant",
+        13.918199032070753
+      ],
+      [
+        "use",
+        7.91596748344618
+      ],
+      [
+        "personal",
+        4.308648366467698
+      ],
+      [
+        "best",
+        3.6029195280078103
+      ],
+      [
+        "fertility",
+        3.0738705154354236
+      ],
+      [
+        "lock",
+        2.291000173355479
+      ],
+      [
+        "shorts",
+        2.179305571410244
+      ],
+      [
+        "friendly",
+        1.9701597066753593
+      ],
+      [
+        "gel",
+        1.6991665592995033
+      ],
+      [
+        "chances",
+        1.644369300875792
+      ],
+      [
+        "sperm",
+        1.5990439681841382
+      ],
+      [
+        "pregnancy",
+        1.5641338516613865
+      ],
+      [
+        "durex",
+        1.5515217827834946
+      ],
+      [
+        "good",
+        1.4387702179465778
+      ],
+      [
+        "vaginal",
+        1.4208955075077538
+      ],
+      [
+        "periodtips",
+        1.3251961230432785
+      ],
+      [
+        "tampon",
+        1.3251961230432785
+      ],
+      [
+        "hai",
+        1.0610522496520176
+      ]
+    ],
+    "22": [
+      [
+        "sex",
+        18.206541052582153
+      ],
+      [
+        "anal",
+        11.65107949787779
+      ],
+      [
+        "better",
+        4.637126956649135
+      ],
+      [
+        "gel",
+        4.4577726630874395
+      ],
+      [
+        "tips",
+        3.933904961215556
+      ],
+      [
+        "himcolin",
+        3.2912639896710707
+      ],
+      [
+        "use",
+        2.9449925805183788
+      ],
+      [
+        "himalaya",
+        2.6424253711098378
+      ],
+      [
+        "foods",
+        2.5569950320987367
+      ],
+      [
+        "lube",
+        2.5361592686767356
+      ],
+      [
+        "safe",
+        2.528930657293529
+      ],
+      [
+        "avoid",
+        2.4412233554449845
+      ],
+      [
+        "explained",
+        2.0506657727938427
+      ],
+      [
+        "jindal",
+        1.9885093921221455
+      ],
+      [
+        "time",
+        1.959295753227456
+      ],
+      [
+        "long",
+        1.9109275413253632
+      ],
+      [
+        "hai",
+        1.9088274424458587
+      ],
+      [
+        "leeza",
+        1.8434219930256535
+      ],
+      [
+        "mangaldas",
+        1.8434219930256535
+      ],
+      [
+        "review",
+        1.7923641102570695
+      ]
+    ],
+    "8": [
+      [
+        "pregnant",
+        12.602987514967433
+      ],
+      [
+        "fertility",
+        7.119111518260835
+      ],
+      [
+        "tips",
+        6.3982838691075585
+      ],
+      [
+        "fast",
+        5.171134274203565
+      ],
+      [
+        "trying",
+        4.916230869236067
+      ],
+      [
+        "conceive",
+        4.706328448558211
+      ],
+      [
+        "got",
+        4.636081673074767
+      ],
+      [
+        "naturally",
+        4.6025289028639165
+      ],
+      [
+        "getting",
+        4.4942610047832146
+      ],
+      [
+        "doctor",
+        3.3442536444586777
+      ],
+      [
+        "ttc",
+        2.9064677505759957
+      ],
+      [
+        "pregnancy",
+        2.626073062824862
+      ],
+      [
+        "best",
+        2.4480089104151412
+      ],
+      [
+        "rid",
+        2.395229266278377
+      ],
+      [
+        "things",
+        2.375380129399636
+      ],
+      [
+        "preseed",
+        2.204565230430661
+      ],
+      [
+        "help",
+        2.1789910164247868
+      ],
+      [
+        "using",
+        2.058049987631122
+      ],
+      [
+        "faster",
+        2.0249119866731338
+      ],
+      [
+        "foods",
+        1.9332838401270638
+      ]
+    ],
+    "6": [
+      [
+        "lube",
+        10.690986742543906
+      ],
+      [
+        "use",
+        5.561453886359486
+      ],
+      [
+        "sex",
+        3.1443303413151047
+      ],
+      [
+        "gel",
+        2.2154283942118065
+      ],
+      [
+        "specialist",
+        2.2154283942118065
+      ],
+      [
+        "anal",
+        2.107556877086311
+      ],
+      [
+        "safe",
+        1.9154173318859193
+      ],
+      [
+        "chain",
+        1.8441697653510543
+      ],
+      [
+        "wicked",
+        1.7724013126294857
+      ],
+      [
+        "using",
+        1.613808637157422
+      ],
+      [
+        "review",
+        1.5853400291196902
+      ],
+      [
+        "make",
+        1.5419690732584008
+      ],
+      [
+        "diy",
+        1.4414158954266723
+      ],
+      [
+        "flavored",
+        1.4344096838290896
+      ],
+      [
+        "door",
+        1.3833403209225925
+      ],
+      [
+        "garage",
+        1.3833403209225925
+      ],
+      [
+        "aqua",
+        1.3209057882814832
+      ],
+      [
+        "capitalist",
+        1.260990180867133
+      ],
+      [
+        "mutant",
+        1.260990180867133
+      ],
+      [
+        "play",
+        1.2494096441521148
+      ]
+    ],
+    "5": [
+      [
+        "neha",
+        10.36033146489662
+      ],
+      [
+        "mehta",
+        9.817023573749225
+      ],
+      [
+        "hindi",
+        5.405134564296078
+      ],
+      [
+        "best",
+        1.6793270473112591
+      ],
+      [
+        "female",
+        1.6793270473112591
+      ],
+      [
+        "spray",
+        1.6793270473112591
+      ]
+    ],
+    "11": [
+      [
+        "menopause",
+        10.630925472955424
+      ],
+      [
+        "make",
+        5.504992366427074
+      ],
+      [
+        "woman",
+        5.4972862253070724
+      ],
+      [
+        "making",
+        5.492269704265405
+      ],
+      [
+        "therapy",
+        5.0
+      ],
+      [
+        "steve",
+        3.8324115157144254
+      ],
+      [
+        "fast",
+        3.7919540728626675
+      ],
+      [
+        "ask",
+        2.9689907173847985
+      ],
+      [
+        "male",
+        2.5759527514851577
+      ],
+      [
+        "spray",
+        2.563330088108576
+      ],
+      [
+        "hormones",
+        2.3351339188466733
+      ],
+      [
+        "longer",
+        2.2451363263576667
+      ],
+      [
+        "come",
+        2.1830084503977614
+      ],
+      [
+        "curious",
+        2.1830084503977614
+      ],
+      [
+        "changes",
+        2.0900158796474106
+      ],
+      [
+        "understanding",
+        2.0
+      ],
+      [
+        "build",
+        1.7671320205528636
+      ],
+      [
+        "harvey",
+        1.724362426621248
+      ],
+      [
+        "hard",
+        1.7020973555023358
+      ],
+      [
+        "issues",
+        1.6283506362121631
+      ]
+    ],
+    "10": [
+      [
+        "story",
+        8.128583505220975
+      ],
+      [
+        "brain",
+        6.176425270193987
+      ],
+      [
+        "works",
+        5.667665406257083
+      ],
+      [
+        "tutorial",
+        5.0
+      ],
+      [
+        "play",
+        3.9997895479537204
+      ],
+      [
+        "partner",
+        2.804968687700862
+      ],
+      [
+        "power",
+        2.203929064319878
+      ],
+      [
+        "product",
+        2.0
+      ],
+      [
+        "sexual",
+        2.0
+      ],
+      [
+        "pain",
+        1.637114019294245
+      ],
+      [
+        "music",
+        1.5593125903363665
+      ],
+      [
+        "esther",
+        1.2844570503761732
+      ],
+      [
+        "perel",
+        1.2844570503761732
+      ],
+      [
+        "games",
+        1.2248307760263242
+      ],
+      [
+        "perfect",
+        1.2248307760263242
+      ],
+      [
+        "ted",
+        1.2144642884838708
+      ],
+      [
+        "infidelity",
+        1.1814895469325215
+      ],
+      [
+        "son",
+        1.1814895469325215
+      ],
+      [
+        "believe",
+        1.0799283787524492
+      ],
+      [
+        "true",
+        1.0799283787524492
+      ]
+    ],
+    "2": [
+      [
+        "man",
+        6.969431282111715
+      ],
+      [
+        "minutes",
+        6.413725521529732
+      ],
+      [
+        "science",
+        5.688052821266507
+      ],
+      [
+        "mind",
+        4.648290798322574
+      ],
+      [
+        "explained",
+        4.454286120529695
+      ],
+      [
+        "dysfunction",
+        3.9853355094496736
+      ],
+      [
+        "playlist",
+        3.6653472508616143
+      ],
+      [
+        "got",
+        3.464874399387906
+      ],
+      [
+        "erectile",
+        3.4407987032409224
+      ],
+      [
+        "john",
+        3.1418711497283294
+      ],
+      [
+        "eat",
+        2.6844276801258626
+      ],
+      [
+        "surprising",
+        2.638537718153124
+      ],
+      [
+        "long",
+        2.584379092050166
+      ],
+      [
+        "control",
+        2.544894765806022
+      ],
+      [
+        "testosterone",
+        2.4695301496225657
+      ],
+      [
+        "penis",
+        2.4457982032445593
+      ],
+      [
+        "drshahdupesh",
+        2.3553961984416274
+      ],
+      [
+        "testing",
+        2.3145646875184522
+      ],
+      [
+        "rubik",
+        2.275837113470891
+      ],
+      [
+        "look",
+        2.2719495437585744
+      ]
+    ],
+    "7": [
+      [
+        "trump",
+        9.114467860135692
+      ],
+      [
+        "happens",
+        5.223010824899841
+      ],
+      [
+        "days",
+        3.7701016212895326
+      ],
+      [
+        "highlights",
+        3.755088812899036
+      ],
+      [
+        "game",
+        2.806806034242149
+      ],
+      [
+        "tariffs",
+        2.2863736424252163
+      ],
+      [
+        "news",
+        2.1809658894225654
+      ],
+      [
+        "daily",
+        1.910579766556892
+      ],
+      [
+        "talk",
+        1.910579766556892
+      ],
+      [
+        "day",
+        1.9025139031105813
+      ],
+      [
+        "hour",
+        1.8944271909999157
+      ],
+      [
+        "carney",
+        1.8813683915304917
+      ],
+      [
+        "military",
+        1.821159533113784
+      ],
+      [
+        "end",
+        1.626528974244461
+      ],
+      [
+        "house",
+        1.5973371366606193
+      ],
+      [
+        "drink",
+        1.5824804966184602
+      ],
+      [
+        "economy",
+        1.4690693789157137
+      ],
+      [
+        "canadian",
+        1.3795181536439831
+      ],
+      [
+        "nuggets",
+        1.161155030467774
+      ],
+      [
+        "thunder",
+        1.161155030467774
+      ]
+    ],
+    "9": [
+      [
+        "truth",
+        8.630480542677052
+      ],
+      [
+        "explains",
+        7.650367699732539
+      ],
+      [
+        "benefits",
+        4.565070492633496
+      ],
+      [
+        "face",
+        4.479959429232819
+      ],
+      [
+        "dermatologist",
+        3.0568780916521288
+      ],
+      [
+        "old",
+        2.6778301683130463
+      ],
+      [
+        "doctor",
+        2.2942567251217905
+      ],
+      [
+        "size",
+        2.2792425128055784
+      ],
+      [
+        "mom",
+        2.0
+      ],
+      [
+        "shorts",
+        1.8309719118552223
+      ],
+      [
+        "health",
+        1.7013452291400382
+      ],
+      [
+        "safe",
+        1.6968657112316146
+      ],
+      [
+        "milhouse",
+        1.6788267331617228
+      ],
+      [
+        "years",
+        1.574631880306344
+      ],
+      [
+        "matter",
+        1.387549305012641
+      ],
+      [
+        "hai",
+        0.9683279912624394
+      ],
+      [
+        "kya",
+        0.9683279912624394
+      ]
+    ],
+    "16": [
+      [
+        "pregnant",
+        4.572657503081407
+      ],
+      [
+        "abortion",
+        1.7142219117468644
+      ],
+      [
+        "lincoln",
+        1.4472135954999579
+      ]
+    ],
+    "27": [
+      [
+        "hindi",
+        5.115676631402142
+      ],
+      [
+        "puranik",
+        3.100826673642157
+      ],
+      [
+        "supriya",
+        3.100826673642157
+      ],
+      [
+        "using",
+        2.693609356127263
+      ],
+      [
+        "people",
+        2.0
+      ],
+      [
+        "pcos",
+        1.9058194228697594
+      ],
+      [
+        "sperm",
+        1.7309547535896561
+      ],
+      [
+        "\u0938\u092c\u0938",
+        1.4916451030899798
+      ],
+      [
+        "\u0915\u0930\u0928",
+        1.24662187976547
+      ]
+    ],
+    "17": [
+      [
+        "interview",
+        5.300535404417183
+      ],
+      [
+        "addict",
+        1.8755218429331495
+      ],
+      [
+        "harry",
+        1.3401835860860958
+      ],
+      [
+        "prince",
+        1.3401835860860958
+      ]
+    ],
+    "28": [
+      [
+        "world",
+        7.0
+      ]
+    ],
+    "20": [
+      [
+        "adhd",
+        5.336259035514414
+      ],
+      [
+        "women",
+        4.488089980480376
+      ]
+    ],
+    "23": [
+      [
+        "live",
+        4.017084640756654
+      ],
+      [
+        "karoline",
+        1.7220739918879528
+      ]
+    ],
+    "0": [
+      [
+        "work",
+        10.661759124076486
+      ],
+      [
+        "actually",
+        2.196531133065154
+      ],
+      [
+        "righting",
+        1.867560286589659
+      ],
+      [
+        "insider",
+        1.4364637256899815
+      ]
+    ]
+  },
+  "cluster_stats": {
+    "26": {
+      "size": 192,
+      "channels": 137,
+      "top_channels": {
+        "Rena Malik, M.D.": 15,
+        "WIRED": 8,
+        "Jindal Hospital & Fertility Center": 8,
+        "Natalie Crawford, MD": 4,
+        "The Diary Of A CEO": 3
+      },
+      "avg_influence": 0.003057769710484297,
+      "max_influence": 0.0699672271464252,
+      "min_influence": 6.094351513789775e-05
+    },
+    "19": {
+      "size": 41,
+      "channels": 40,
+      "top_channels": {
+        "Health\u00b7WHYS": 2,
+        "Dr. Streicher TV": 1,
+        "Dr Neha Mehta": 1,
+        "motivationaldoc": 1,
+        "ZOE": 1
+      },
+      "avg_influence": 0.00029606353532671617,
+      "max_influence": 0.0011292617332024,
+      "min_influence": 6.094351513789775e-05
+    },
+    "4": {
+      "size": 61,
+      "channels": 57,
+      "top_channels": {
+        "Relax Jazz Cafe": 2,
+        "Dr Neha Mehta": 2,
+        "Lora Shahine, MD": 2,
+        "Doctorly": 2,
+        "Jake Mossop": 1
+      },
+      "avg_influence": 0.000971091125361585,
+      "max_influence": 0.0269524962191882,
+      "min_influence": 6.094351513789775e-05
+    },
+    "12": {
+      "size": 195,
+      "channels": 134,
+      "top_channels": {
+        "Lora Shahine, MD": 10,
+        "Dr Dray": 8,
+        "Dr. Sam Ellis": 8,
+        "DrRachael Ross": 6,
+        "Rena Malik, M.D.": 6
+      },
+      "avg_influence": 0.0012776969634968598,
+      "max_influence": 0.0428095954674613,
+      "min_influence": 6.094351513789775e-05
+    },
+    "15": {
+      "size": 32,
+      "channels": 28,
+      "top_channels": {
+        "TED": 5,
+        "hesacuber": 1,
+        "Lora Shahine, MD": 1,
+        "Underhood Service": 1,
+        "CVR POV": 1
+      },
+      "avg_influence": 0.00042037688312680305,
+      "max_influence": 0.0016609325261426,
+      "min_influence": 6.094351513789775e-05
+    },
+    "3": {
+      "size": 56,
+      "channels": 47,
+      "top_channels": {
+        "Lora Shahine, MD": 6,
+        "The Den of Tools": 2,
+        "Durex Philippines": 2,
+        "DrRachael Ross": 2,
+        "Dr Pal": 2
+      },
+      "avg_influence": 0.0004090272723325748,
+      "max_influence": 0.0021942874446356,
+      "min_influence": 6.094351513789775e-05
+    },
+    "18": {
+      "size": 50,
+      "channels": 43,
+      "top_channels": {
+        "MenopauseWize": 4,
+        "NutritionFacts.org": 2,
+        "Dr. Anna Cabeca The Girlfriend Doctor": 2,
+        "LifeSculpt by ChristiMD": 2,
+        "Dr. Milhouse": 2
+      },
+      "avg_influence": 0.0006817686777234135,
+      "max_influence": 0.0067283297014462,
+      "min_influence": 6.094351513789775e-05
+    },
+    "1": {
+      "size": 244,
+      "channels": 216,
+      "top_channels": {
+        "Dr Neha Mehta": 8,
+        "Rena Malik, M.D.": 4,
+        "CNN": 3,
+        "Stay Wild": 3,
+        "Practical Engineering": 3
+      },
+      "avg_influence": 0.0007939574306147426,
+      "max_influence": 0.0266850624290864,
+      "min_influence": 6.094351513789775e-05
+    },
+    "21": {
+      "size": 37,
+      "channels": 34,
+      "top_channels": {
+        "Nadya Okamoto": 2,
+        "The Pharm Assist": 2,
+        "pjur med": 2,
+        "ASTROGLIDE Personal Lubricants": 1,
+        "Good Clean Love": 1
+      },
+      "avg_influence": 0.00023496654863956629,
+      "max_influence": 0.0013940278334726,
+      "min_influence": 6.094351513789775e-05
+    },
+    "22": {
+      "size": 69,
+      "channels": 39,
+      "top_channels": {
+        "Rena Malik, M.D.": 10,
+        "Medical Solver": 7,
+        "Leeza Mangaldas": 4,
+        "Jindal Hospital & Fertility Center": 3,
+        "OurDoctor Clinic": 3
+      },
+      "avg_influence": 0.0038715623686036266,
+      "max_influence": 0.0436281592143966,
+      "min_influence": 6.094351513789775e-05
+    },
+    "8": {
+      "size": 64,
+      "channels": 49,
+      "top_channels": {
+        "Natalie Crawford, MD": 10,
+        "Dr. Marc Sklar - FertilityTV": 3,
+        "Lora Shahine, MD": 2,
+        "Erika Lane ": 2,
+        "Bridget Teyler": 2
+      },
+      "avg_influence": 0.0008177336060796953,
+      "max_influence": 0.0138815651287552,
+      "min_influence": 6.094351513789775e-05
+    },
+    "6": {
+      "size": 33,
+      "channels": 28,
+      "top_channels": {
+        "Wicked Sensual Care": 3,
+        "WD-40 Brand": 2,
+        "ASTROGLIDE Personal Lubricants": 2,
+        "Mutant Capitalist": 2,
+        "LuckyDogCreations": 1
+      },
+      "avg_influence": 0.00020667883061232012,
+      "max_influence": 0.0005946542580227,
+      "min_influence": 6.094351513789775e-05
+    },
+    "5": {
+      "size": 20,
+      "channels": 5,
+      "top_channels": {
+        "Dr Neha Mehta": 15,
+        "Dr Neha Mehta Lifestyle": 2,
+        "Dr. Neha Mehta Shorts": 1,
+        "Psychology Seekho": 1,
+        "NH Studioz": 1
+      },
+      "avg_influence": 0.0006240897141694697,
+      "max_influence": 0.0027578639169042,
+      "min_influence": 6.094351513789775e-05
+    },
+    "11": {
+      "size": 75,
+      "channels": 62,
+      "top_channels": {
+        "Steve TV Show": 5,
+        "ComeCurious": 4,
+        "AllHealthGo": 2,
+        "Dr. Streicher TV": 2,
+        "RegisteredNurseRN": 2
+      },
+      "avg_influence": 0.0010405679026737771,
+      "max_influence": 0.0280180126366195,
+      "min_influence": 6.094351513789775e-05
+    },
+    "10": {
+      "size": 47,
+      "channels": 44,
+      "top_channels": {
+        "The Engineering Mindset": 3,
+        "TED": 2,
+        "DurexIndia": 1,
+        "Dr Alter's Complete Wellness": 1,
+        "Music for Body and Spirit - Meditation Music": 1
+      },
+      "avg_influence": 0.0016365040051390023,
+      "max_influence": 0.0264181916007169,
+      "min_influence": 6.094351513789775e-05
+    },
+    "2": {
+      "size": 120,
+      "channels": 106,
+      "top_channels": {
+        "Dr. Shah Dupesh": 5,
+        "Rena Malik, M.D.": 3,
+        "TED": 2,
+        "LADbible Stories": 2,
+        "The Sex Doctor": 2
+      },
+      "avg_influence": 0.0018750743766369966,
+      "max_influence": 0.0274853825328442,
+      "min_influence": 6.094351513789775e-05
+    },
+    "13": {
+      "size": 4,
+      "channels": 4,
+      "top_channels": {
+        "Paula's Consumer Corner": 1,
+        "Dr. Jin W. Sung": 1,
+        "Dr. Pradip Jamnadas, MD": 1,
+        "Geeky Medics": 1
+      },
+      "avg_influence": 0.00026096102613967445,
+      "max_influence": 0.0003277798318112,
+      "min_influence": 6.094351513789775e-05
+    },
+    "7": {
+      "size": 45,
+      "channels": 36,
+      "top_channels": {
+        "MSNBC": 3,
+        "NBA": 3,
+        "LastWeekTonight": 2,
+        "Brian Tyler Cohen": 2,
+        "The Daily Show": 2
+      },
+      "avg_influence": 0.002730644997270347,
+      "max_influence": 0.0225857838131769,
+      "min_influence": 0.0003275603788048
+    },
+    "9": {
+      "size": 43,
+      "channels": 37,
+      "top_channels": {
+        "Dr Dray": 3,
+        "Dr. Imran Khan": 2,
+        "Dr. Milhouse": 2,
+        "Doctorly": 2,
+        "Rena Malik, M.D.": 2
+      },
+      "avg_influence": 0.0017008730932096881,
+      "max_influence": 0.0428095954674613,
+      "min_influence": 0.0003275603788048
+    },
+    "16": {
+      "size": 10,
+      "channels": 8,
+      "top_channels": {
+        "Dr Amarachi Ijeoma": 2,
+        "Dr. Jennifer Lincoln": 2,
+        "Fertility Homeopath": 1,
+        "Natalie Crawford, MD": 1,
+        "Doctor P": 1
+      },
+      "avg_influence": 0.00046346011091234,
+      "max_influence": 0.0008607941061387,
+      "min_influence": 0.0003275603788048
+    },
+    "24": {
+      "size": 3,
+      "channels": 3,
+      "top_channels": {
+        "SciShow": 1,
+        "ICU Advantage": 1,
+        "SDET- QA": 1
+      },
+      "avg_influence": 0.0003276058254894666,
+      "max_influence": 0.0003276967188588,
+      "min_influence": 0.0003275603788048
+    },
+    "27": {
+      "size": 19,
+      "channels": 12,
+      "top_channels": {
+        "Dr Supriya Puranik IVF, Pune": 7,
+        "Dr Neha Mehta": 2,
+        "The Diary Of A CEO": 1,
+        "Stay Wild": 1,
+        "Nico Perdrial": 1
+      },
+      "avg_influence": 0.0004258607870310948,
+      "max_influence": 0.0013940278334726,
+      "min_influence": 0.0003275603788048
+    },
+    "17": {
+      "size": 8,
+      "channels": 6,
+      "top_channels": {
+        "Soft White Underbelly": 3,
+        "Sky News Australia": 1,
+        "Fox News": 1,
+        "DW Deutsch": 1,
+        "Other Side": 1
+      },
+      "avg_influence": 0.00062759747157815,
+      "max_influence": 0.0016613896663237,
+      "min_influence": 0.0003275603788048
+    },
+    "28": {
+      "size": 7,
+      "channels": 7,
+      "top_channels": {
+        "Jordan Matter": 1,
+        "Business Insider": 1,
+        "Trending_Fingers": 1,
+        "Mrwhosetheboss": 1,
+        "How To Cook That": 1
+      },
+      "avg_influence": 0.00032761500832068573,
+      "max_influence": 0.0003276967188588,
+      "min_influence": 0.0003275603788048
+    },
+    "14": {
+      "size": 5,
+      "channels": 5,
+      "top_channels": {
+        "BEBE SWEET STORY": 1,
+        "Ana Woycick": 1,
+        "chris rice": 1,
+        "Wicked Winters Films": 1,
+        "TheKiwiGrower": 1
+      },
+      "avg_influence": 0.00032764521261620003,
+      "max_influence": 0.0003278482078078,
+      "min_influence": 0.0003275603788048
+    },
+    "20": {
+      "size": 9,
+      "channels": 9,
+      "top_channels": {
+        "Understood": 1,
+        "Russell Barkley, PhD - Dedicated to ADHD Science+": 1,
+        "Auticate with Chris & Debby": 1,
+        "Nikol Johnson": 1,
+        "ADHDVision": 1
+      },
+      "avg_influence": 0.0005351271827338333,
+      "max_influence": 0.0011282922790439,
+      "min_influence": 0.0003275603788048
+    },
+    "29": {
+      "size": 4,
+      "channels": 3,
+      "top_channels": {
+        "sexplanations": 2,
+        "Alirod MD": 1,
+        "Institute of Authentic Tantra": 1
+      },
+      "avg_influence": 0.00032759446381829996,
+      "max_influence": 0.0003276967188588,
+      "min_influence": 0.0003275603788048
+    },
+    "25": {
+      "size": 4,
+      "channels": 4,
+      "top_channels": {
+        "U.S. Department of Health and Human Services": 1,
+        "Eve sw": 1,
+        "NileRed": 1,
+        "BKShivani": 1
+      },
+      "avg_influence": 0.00032763233605555,
+      "max_influence": 0.0003278482078078,
+      "min_influence": 0.0003275603788048
+    },
+    "23": {
+      "size": 5,
+      "channels": 5,
+      "top_channels": {
+        "Vogue": 1,
+        "Agenda Insight": 1,
+        "Associated Press": 1,
+        "City of Independence": 1,
+        "Surprising Stories": 1
+      },
+      "avg_influence": 0.00070122875472424,
+      "max_influence": 0.0019276591163127,
+      "min_influence": 0.0003276967188588
+    },
+    "0": {
+      "size": 14,
+      "channels": 12,
+      "top_channels": {
+        "Insider": 2,
+        "The Engineering Mindset": 2,
+        "Dr Dray": 1,
+        "The Gottman Institute": 1,
+        "Branch Education": 1
+      },
+      "avg_influence": 0.0003467535195897,
+      "max_influence": 0.0005942927440541,
+      "min_influence": 0.0003275603788048
+    }
+  },
+  "thumbnail_download": {
+    "total": 1516,
+    "successful": 0,
+    "failed": 1,
+    "skipped": 1515,
+    "failures": {
+      "AREIh6ziVmw": "Maximum retry count (3) reached"
+    }
+  },
+  "thumbnail_analysis": {
+    "total": 1515,
+    "successful": 1515,
+    "failed": 0,
+    "basic_analysis_col": "thumbnail_analysis",
+    "llm_analysis_col": "thumbnail_llm_analysis",
+    "summary": {
+      "color_distribution": {
+        "white": 149.5049504950495,
+        "purple": 18.283828382838283,
+        "black": 79.47194719471948,
+        "red": 64.48844884488449,
+        "green": 10.627062706270628,
+        "dark gray": 13.531353135313532,
+        "blue": 65.61056105610561,
+        "cyan": 41.320132013201324,
+        "orange": 31.74917491749175,
+        "gray": 14.323432343234325,
+        "yellow": 11.08910891089109
+      },
+      "has_text_percentage": 97.35973597359737,
+      "has_faces_percentage": 89.43894389438944,
+      "composition_types": {
+        "Medium close-up \u2013 person occupies the right half, upper body and face in focus.": 0.066006600660066
+      }
+    }
+  },
+  "title_thumbnail_analysis": {
+    "total": 1515,
+    "successful": 1515,
+    "failed": 0,
+    "joint_analysis_col": "title_thumbnail_analysis",
+    "llm_joint_analysis_col": "title_thumbnail_llm_analysis",
+    "subclusters": {
+      "count": 88,
+      "column": "community_subcluster"
+    },
+    "pattern_statistics": {
+      "patterns": {
+        "thumbnail_text": {
+          "count": 1475,
+          "percentage": 97.35973597359737
+        },
+        "thumbnail_faces": {
+          "count": 1355,
+          "percentage": 89.43894389438944
+        },
+        "comparison": {
+          "count": 32,
+          "percentage": 2.112211221122112
+        },
+        "bright_colors": {
+          "count": 909,
+          "percentage": 60.0
+        },
+        "high_contrast": {
+          "count": 1359,
+          "percentage": 89.70297029702971
+        },
+        "superlative": {
+          "count": 146,
+          "percentage": 9.636963696369637
+        },
+        "numbered_list": {
+          "count": 116,
+          "percentage": 7.656765676567656
+        },
+        "question": {
+          "count": 55,
+          "percentage": 3.6303630363036308
+        },
+        "how_to": {
+          "count": 102,
+          "percentage": 6.732673267326733
+        },
+        "emotional_trigger": {
+          "count": 17,
+          "percentage": 1.1221122112211221
+        }
+      },
+      "clickbait_score": {
+        "mean": 0.45669966996699674,
+        "median": 0.5,
+        "high_percentage": 7.45874587458746
+      },
+      "text_visual_alignment": {
+        "mean": 0.5699009900990099,
+        "median": 0.6,
+        "high_percentage": 0.8580858085808581
+      }
+    },
+    "influence_patterns": {
+      "high_influence_patterns": {
+        "high_contrast": 3.7359394576336484,
+        "superlative": 3.0597025199979804,
+        "how_to": 2.0899782924959966,
+        "thumbnail_text": 1.4571104696255617,
+        "comparison": 0.6420464714980014
+      },
+      "low_influence_patterns": {
+        "numbered_list": 0.8882637209323665,
+        "question": 1.0475132746205773,
+        "thumbnail_faces": 1.8196670904142849,
+        "bright_colors": 2.642074007443888
+      },
+      "correlation": {
+        "clickbait_score": 0.08046543098442534,
+        "text_visual_alignment": 0.038676465747901144
+      }
+    }
+  },
+  "cluster_insights": {
+    "1": {
+      "size": 244,
+      "centroid_terms": [
+        "inside",
+        "wrong",
+        "\u0938\u0915\u0924",
+        "shorts",
+        "big",
+        "myths",
+        "dangerous",
+        "student",
+        "problem",
+        "start"
+      ],
+      "top_bigrams": [],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Forever Yours",
+          0.0165
+        ],
+        [
+          "Rena Malik, M.D.",
+          0.0135
+        ],
+        [
+          "Brian Tyler Cohen",
+          0.00593
+        ],
+        [
+          "CNN",
+          0.00588
+        ],
+        [
+          "Rockstar Games",
+          0.00406
+        ]
+      ],
+      "sample_videos": [
+        "KY Jelly 82G KYJELLY82G",
+        "\u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u092f\u0947 \u0915\u092d\u0940 \u092e\u0924 \u0932\u0947\u0928\u093e #Shorts",
+        "How to put on a condom | 60-second summary | OSCE | PLAB 2"
+      ],
+      "viewer_intent": "Viewers are primarily driven by curiosity to quickly gain clear, practical knowledge or insider insights\u2014whether about health, challenges, controversies, or surprising facts\u2014that satisfy their desire to learn something useful, debunk myths, or experience engaging, unexpected content."
+    },
+    "12": {
+      "size": 195,
+      "centroid_terms": [
+        "skin",
+        "pregnancy",
+        "tips",
+        "dermatologist",
+        "mistakes",
+        "guide",
+        "ultimate",
+        "best",
+        "use",
+        "skincare"
+      ],
+      "top_bigrams": [
+        "l o r a",
+        "a n j a l i",
+        "s h e r e e n e",
+        "k u m a r",
+        "w i s h"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Doctor Mike",
+          0.0264
+        ],
+        [
+          "Rena Malik, M.D.",
+          0.0123
+        ],
+        [
+          "Rajsree Nambudripad, MD",
+          0.00892
+        ],
+        [
+          "Summer Beauty",
+          0.00566
+        ],
+        [
+          "DrRachael Ross",
+          0.00468
+        ]
+      ],
+      "sample_videos": [
+        "You can use baby skin care products #dermatologist",
+        "Is it safe to use a Lubricant when trying for pregnancy?| Dr. Anjali Kumar | Maitri",
+        "The Truth About Lubricants: Why KY Jelly May Not Be the Best Choice for TTC Couples ?"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily seeking trustworthy, expert-backed answers about the safety, effectiveness, and best choices of personal care products\u2014especially lubricants and skincare\u2014tailored to their specific health, fertility, or pleasure-related concerns. They are driven by curiosity about how to optimize their well-being, avoid risks, and achieve desired outcomes like conception, pain-free intimacy, or youthful skin."
+    },
+    "26": {
+      "size": 192,
+      "centroid_terms": [
+        "fertility",
+        "tips",
+        "jindal",
+        "life",
+        "egg",
+        "hair",
+        "questions",
+        "women",
+        "ways",
+        "quality"
+      ],
+      "top_bigrams": [
+        "s u n i l",
+        "t e c h",
+        "e g g",
+        "h o s p i t a l",
+        "j i n d a l"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Debra Durst, M.D. ",
+          0.0471
+        ],
+        [
+          "The Filipina Pea",
+          0.0272
+        ],
+        [
+          "Advanced Stoic Motivation ",
+          0.0264
+        ],
+        [
+          "Rena Malik, M.D.",
+          0.0232
+        ],
+        [
+          "NPR",
+          0.017
+        ]
+      ],
+      "sample_videos": [
+        "What Types of Fertility Lubricant Are Safe While TTC? | What to know BEFORE buying",
+        "Does KY Jelly Affect Sperm? Is KY Jelly Sperm Friendly? KY Jelly affect Fertility? | KY Jelly Review",
+        "K-Y Jelly Personal Lubricants - Product Video"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily seeking trustworthy, clear information on which personal lubricants and related products are safe and effective for enhancing fertility and conception, driven by a desire to optimize reproductive health without harming sperm quality. They are curious about product ingredients, natural alternatives, and practical tips that support fertility-friendly intimacy and improve chances of successful conception."
+    },
+    "2": {
+      "size": 120,
+      "centroid_terms": [
+        "man",
+        "minutes",
+        "science",
+        "dysfunction",
+        "erectile",
+        "explained",
+        "mind",
+        "eat",
+        "drshahdupesh",
+        "testosterone"
+      ],
+      "top_bigrams": [
+        "e r e c t i l e",
+        "r u b i k"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Dr. Gabrielle Lyon",
+          0.0264
+        ],
+        [
+          "Dr Nick Karr",
+          0.0264
+        ],
+        [
+          "THE GREAT Royal TV ",
+          0.0165
+        ],
+        [
+          "Jasmer Khatri films",
+          0.0165
+        ],
+        [
+          "LADbible Stories",
+          0.0139
+        ]
+      ],
+      "sample_videos": [
+        "How long does it take to conceive? #conceive #shorts #pregnant",
+        "What Are Butt Plugs For | Safe Anal Play | Dr George The Healthy Bear",
+        "Dry down there? Real talk about Vaginal Moisturizers and Lubricants"
+      ],
+      "viewer_intent": "Viewers are seeking clear, trustworthy answers that satisfy their curiosity or concerns about health, relationships, self-improvement, or entertainment, driven by a desire to understand complex topics quickly, improve their well-being or skills, or experience emotional connection and validation."
+    },
+    "11": {
+      "size": 75,
+      "centroid_terms": [
+        "menopause",
+        "steve",
+        "making",
+        "ask",
+        "woman",
+        "make",
+        "therapy",
+        "fast",
+        "male",
+        "podcast"
+      ],
+      "top_bigrams": [
+        "c o m e",
+        "a s k",
+        "s t e v e"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "New York Times Podcasts",
+          0.028
+        ],
+        [
+          "ReBalance",
+          0.0167
+        ],
+        [
+          "TED",
+          0.003
+        ],
+        [
+          "Dr. Susan Hardwick-Smith",
+          0.0022
+        ],
+        [
+          "The Diary Of A CEO",
+          0.00113
+        ]
+      ],
+      "sample_videos": [
+        "Is Saliva The New Lube? | Ask. Dr. Lia",
+        "Durex Intimate Feel 12 Pack",
+        "Ask Steve: She\u2019s beatin\u2019 yo ass! || STEVE HARVEY"
+      ],
+      "viewer_intent": "Viewers are seeking clear, trustworthy answers and practical insights about intimate health, menopause, relationships, and personal transformation, driven by curiosity about managing bodily changes, improving wellbeing, and navigating complex social or emotional dynamics. They desire expert guidance that demystifies taboo or misunderstood topics while offering relatable, actionable advice."
+    },
+    "22": {
+      "size": 69,
+      "centroid_terms": [
+        "sex",
+        "anal",
+        "gel",
+        "himcolin",
+        "better",
+        "himalaya",
+        "use",
+        "tips",
+        "safe",
+        "foods"
+      ],
+      "top_bigrams": [
+        "h i m c o l i n",
+        "a n a l",
+        "h i m a l a y a",
+        "l e e z a",
+        "f i r s t"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Rena Malik, M.D.",
+          0.0246
+        ],
+        [
+          "Dom Sub Living",
+          0.00193
+        ],
+        [
+          "Inito",
+          0.00142
+        ],
+        [
+          "Clear HPV Now - with Dr. Doni Wilson",
+          0.00142
+        ],
+        [
+          "CrashCourse",
+          0.000861
+        ]
+      ],
+      "sample_videos": [
+        "Is Sex Better With Lubricant?! What Women Want",
+        "sex lubricant -killer|Personal Lubricants |Dr. Sunil Jindal|Jindal Hospital",
+        "Best Anal Sex Lube For Beginners Part 1"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily seeking trustworthy, practical guidance on how to safely and comfortably enhance their anal sex experience, including which lubricants to use, preparation tips, and addressing common concerns or misconceptions. They are driven by curiosity about improving pleasure, minimizing pain or risks, and understanding the physical and emotional aspects involved."
+    },
+    "8": {
+      "size": 64,
+      "centroid_terms": [
+        "pregnant",
+        "fertility",
+        "tips",
+        "fast",
+        "trying",
+        "naturally",
+        "getting",
+        "doctor",
+        "conceive",
+        "got"
+      ],
+      "top_bigrams": [
+        "g e t",
+        "t r y i n g",
+        "f e r t i l i t y",
+        "g e t t i n g",
+        "g o t"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Dr Victory",
+          0.00544
+        ],
+        [
+          "Natalie Crawford, MD",
+          0.00231
+        ],
+        [
+          "Mel Robbins",
+          0.00139
+        ],
+        [
+          "The Doctors Bjorkman",
+          0.00116
+        ],
+        [
+          "Clear HPV Now - with Dr. Doni Wilson",
+          0.00113
+        ]
+      ],
+      "sample_videos": [
+        "What Is The Best lubricant If Trying To Conceive? Which Lube Helps You Get Pregnant?",
+        "Which lubricant is best to get pregnant? | TTC lubes, natural lubes, oils and more!",
+        "How To Get Pregnant Fast With These 3 Natural Fertility Boosters"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily seeking clear, trustworthy guidance on how to optimize their chances of conceiving quickly and naturally, driven by the desire to understand the best methods, timing, and products that support fertility. They are curious about actionable, science-backed tips that can increase their likelihood of pregnancy and reduce uncertainty during the trying-to-conceive journey."
+    },
+    "4": {
+      "size": 61,
+      "centroid_terms": [
+        "best",
+        "music",
+        "fertility",
+        "jazz",
+        "tips",
+        "lubricant",
+        "oil",
+        "durex",
+        "works",
+        "exercises"
+      ],
+      "top_bigrams": [
+        "j a z z",
+        "b e s t",
+        "l u b r i c a n t"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Rena Malik, M.D.",
+          0.027
+        ],
+        [
+          "Dr Neha Mehta Lifestyle",
+          0.00273
+        ],
+        [
+          "Dr Karan",
+          0.00219
+        ],
+        [
+          "Mark Hyman, MD",
+          0.00193
+        ],
+        [
+          "Lora Shahine, MD",
+          0.00156
+        ]
+      ],
+      "sample_videos": [
+        "Which Lubricant is BEST?! | OBGYN Explains",
+        "Best Lubricants for Women over 50: A Slippery Subject from Nurse Barb",
+        "What Type of Vaginal Lubricant is Best? | Ask The Experts | Shaecare"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily driven by the desire to identify the most effective, safe, and expert-recommended products or solutions tailored to their specific health, wellness, or lifestyle needs, seeking trustworthy guidance to make confident, informed choices."
+    },
+    "3": {
+      "size": 56,
+      "centroid_terms": [
+        "know",
+        "need",
+        "pregnancy",
+        "needs",
+        "uses",
+        "estrogen",
+        "lube",
+        "things",
+        "fertility",
+        "woman"
+      ],
+      "top_bigrams": [
+        "n e e d",
+        "e v e r y t h i n g",
+        "l o r a",
+        "w o m a n",
+        "n e e d s"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "Dr. Sam Ellis",
+          0.00219
+        ],
+        [
+          "The Stoic Guide",
+          0.000861
+        ],
+        [
+          "Dr. Marc Sklar - FertilityTV",
+          0.000861
+        ],
+        [
+          "CALDEIREIRO ",
+          0.000594
+        ],
+        [
+          "Animal Quests",
+          0.000594
+        ]
+      ],
+      "sample_videos": [
+        "Everything you NEED to know about LUBRICANTS | What to know BEFORE you buy LUBE",
+        "Durex Invisible - It's so thin, you'll forget you wore it",
+        "Flavored And Edible Lubes: Everything You Need To Know"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily driven by a desire to gain clear, trustworthy, and comprehensive information that addresses their uncertainties or misconceptions about health, sexuality, and wellness topics, empowering them to make informed personal choices. They are curious about expert insights that reveal hidden truths, practical advice, and essential facts they might not already know."
+    },
+    "18": {
+      "size": 50,
+      "centroid_terms": [
+        "vaginal",
+        "dryness",
+        "lubricants",
+        "use",
+        "menopause",
+        "natural",
+        "atrophy",
+        "lubricant",
+        "low",
+        "symptoms"
+      ],
+      "top_bigrams": [
+        "v a g i n a l",
+        "v a g i n a l",
+        "v a g i n a l",
+        "v a g i n a l",
+        "l u b r i c a n t s"
+      ],
+      "key_ideas": [],
+      "top_channels_by_views": [],
+      "top_channels_by_influence": [
+        [
+          "The Nurse Practitioner Extraordinaire",
+          0.00673
+        ],
+        [
+          "Dr. Susan Hardwick-Smith",
+          0.0038
+        ],
+        [
+          "Jay Quinn",
+          0.00273
+        ],
+        [
+          "LifeSculpt by ChristiMD",
+          0.00153
+        ],
+        [
+          "Dardur Gynecology - Taiwo Durowade, MD FACOG",
+          0.00115
+        ]
+      ],
+      "sample_videos": [
+        "The Best Moisturizers and Lubricants for Vaginal Menopause Symptoms",
+        "Wanting to try a vaginal moisturizer but don\u2019t know how to use the applicator?",
+        "What Are The Best Treatments for Vaginal Dryness?"
+      ],
+      "viewer_intent": "Viewers watching these videos are primarily seeking effective, safe, and easy-to-use solutions to relieve vaginal dryness and discomfort, especially related to menopause, while also wanting clear guidance on product choices, application methods, and natural or medical treatment options. They are driven by a desire to restore comfort, intimacy, and confidence in their bodies with trustworthy, expert-backed information."
+    }
+  }
+}

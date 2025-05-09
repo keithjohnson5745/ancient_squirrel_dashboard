@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Sky blue (scrubs)": "30%",
+      "Yellow (text box)": "15%",
+      "Black (text background)": "20%",
+      "White (walls, text)": "15%",
+      "Pink (number 5, text highlight)": "10%",
+      "Green (plant)": "5%",
+      "Assorted colors (art in background)": "5%"
+    },
+    "Composition type": "Medium shot; person is seated and visible from about the waist up, occupying the right half of the frame.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Friendly, smiling, approachable",
+      "Demographics": "Adult woman, likely of African descent"
+    },
+    "Main objects/props featured": [
+      "Stethoscope draped around neck (suggesting medical expertise)",
+      "Microphone clipped to shirt (indicating a video or interview setting)"
+    ],
+    "Background environment": "Home or office setting with a couch, green plant, colorful wall art, neutral walls, and tiled floor. Environment is neat, welcoming, and slightly professional."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "5 TIPS FOR GETTING PREGNANT AT 40 & OLDER"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif, all caps for most of the text",
+      "Emphasis": "Key words are emphasized by size, color, or background (E.g., '5' is large and pink, 'AT 40 & OLDER' is in a black font on yellow strip)",
+      "Color": [
+        "Pink (number '5', 'TIPS FOR')",
+        "White (main text body)",
+        "Black (text on yellow background, shadowed text elements)",
+        "Yellow (background for 'AT 40 & OLDER')"
+      ]
+    },
+    "Text placement within frame": "Occupies the left half, spanning from top to bottom. Main title segments are stacked with the largest emphasis on '5', 'TIPS', and 'AT 40 & OLDER'.",
+    "Use of emotional/trigger words": [
+      "TIPS",
+      "GETTING PREGNANT",
+      "AT 40 & OLDER"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, encouraging, informative, trustworthy\u2014conveyed by smiling expert, bright colors, and practical words.",
+    "Visual metaphors or symbols": "Stethoscope symbolizes medical authority and trustworthiness. Large bold '5' visually reinforces the 'tips/advice' format.",
+    "Clickbait techniques employed": [
+      "Use of a large number ('5') to promise easily digestible advice",
+      "Direct solution to a specific problem ('Getting Pregnant at 40 & Older')",
+      "Bright, contrasting text colors and backgrounds to grab attention"
+    ],
+    "Brand elements present": "None explicitly, except the general use of medical attire and professional presentation which may serve as informal personal branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both directly address getting pregnant at age 40 and older, with the large \u20185 TIPS\u2019 visually supporting the idea of actionable advice. The woman in medical attire adds authoritative credibility to the topic.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatches. The thumbnail aligns well with the title, visually and textually emphasizing the video's focus on advice for older women seeking pregnancy."
+  }
+}

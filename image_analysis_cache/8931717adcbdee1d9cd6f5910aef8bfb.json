@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "beige/tan": "70%",
+      "light cream/off-white": "20%",
+      "grey/white (border and monitor)": "5%",
+      "red (logo)": "5%"
+    },
+    "Composition type": "close-up shot",
+    "Human presence": {
+      "number_of_people": 0,
+      "expressions": "n/a (no human faces present)",
+      "demographics": "n/a"
+    },
+    "Main objects/props featured": [
+      "A microscopic image of a cell or embryo (possibly a fertilized egg at early stage)",
+      "A partial strip of screen/monitor or medical equipment bordering the top",
+      "A small red rectangular logo with the text 'eNCA.com'"
+    ],
+    "Background environment": "Plain, beige background seen through what appears to be a microscope or on a monitor, giving a clinical/laboratory feel"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "eNCA.com"
+    ],
+    "Font characteristics": {
+      "style": "Bold sans-serif (for logo)",
+      "emphasis": "High (contrasting red background with white text)",
+      "color": "White on red background"
+    },
+    "Text placement within frame": "Bottom right corner of the thumbnail",
+    "Emotional/trigger words": []
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, neutral, maybe slightly hopeful given the subject of fertility; serious and factual",
+    "Visual metaphors or symbols": [
+      "Embryo or cell as a direct symbol for conception, fertility, and scientific intervention in reproduction"
+    ],
+    "Clickbait techniques employed": [
+      "Use of a microscopic embryo image piques curiosity about medical methods for conception"
+    ],
+    "Brand elements present": [
+      "eNCA.com logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail uses a direct, scientific visual (embryo/cell) that connects strongly to the subject of fertility, reproduction, and conception, reinforcing the video title's focus on fertility solutions for couples struggling to conceive.",
+    "Contrasts or mismatches": "The image is highly clinical and does not visually reference couples, lubricants, or human emotion\u2014missing the 'couple' and 'fertility lubricant' elements explicitly. The connection to the title relies on viewers recognizing the embryo/cell as related to fertility, rather than seeing products or people."
+  }
+}

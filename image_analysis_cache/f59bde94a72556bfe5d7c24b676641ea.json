@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "teal/greenish background": "70%",
+      "light beige (skin tone)": "10%",
+      "black (shirt)": "5%",
+      "purple/lavender (pants)": "7%",
+      "lime green (shoes)": "5%",
+      "brown (hair)": "3%"
+    },
+    "Composition type": "Medium shot (side profile illustration of a running woman, occupying the left half of the frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "type": "Illustrated woman, appears visibly pregnant",
+      "expression": "Neutral (no facial detail), shown in running motion",
+      "demographics": "Adult female (pregnant), medium/light skin"
+    },
+    "Main objects/props featured": [
+      "Illustration of a woman running (suggests athletic clothing and pregnancy)",
+      "No additional props"
+    ],
+    "Background environment": "Solid teal/greenish blue background with no environmental detail (stylized, simple flat design)"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "When do I need to stop running during pregnancy?",
+      "Lady Bird PHYSICAL THERAPY"
+    ],
+    "Font characteristics": {
+      "primary_text": {
+        "style": "Bold sans-serif, clean, rounded",
+        "color": "White",
+        "emphasis": "Highly legible, large size"
+      },
+      "brand_text": {
+        "style": "Serif (for Lady Bird), small caps (for PHYSICAL THERAPY)",
+        "color": "White",
+        "emphasis": "Less prominent than main headline, medium size"
+      }
+    },
+    "Text placement within frame": {
+      "headline": "Centered on right half of image",
+      "brand_name": "Centered below headline"
+    },
+    "Use of emotional/trigger words": [
+      "need to stop"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, informative, calm and professional",
+    "Visual metaphors or symbols": [
+      "Pregnant woman running symbolizes the main topic (exercise and pregnancy)",
+      "The clean, simple style may suggest clarity and trust"
+    ],
+    "Clickbait techniques employed": [
+      "Posing a direct question relevant to target viewers' concerns",
+      "Clear, large text to immediately communicate the value proposition"
+    ],
+    "Brand elements present": [
+      "Lady Bird PHYSICAL THERAPY logo"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The visual of a pregnant woman running directly illustrates the subject of the title, making it instantly clear what the video will address.",
+    "Contrasts or mismatches": "There are no significant contrasts or mismatches; visual and text are well-aligned and mutually reinforcing."
+  }
+}

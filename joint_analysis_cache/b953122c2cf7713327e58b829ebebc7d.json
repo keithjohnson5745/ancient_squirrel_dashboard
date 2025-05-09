@@ -1,0 +1,12 @@
+{
+  "title": "N-Acetyl Cysteine (NAC) and Glutathione-Comprehensive Guide",
+  "thumbnail_path": "thumbnails/Q2DNH4DIhQQ_max.jpg",
+  "title_length": 59,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

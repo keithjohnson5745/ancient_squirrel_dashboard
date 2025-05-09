@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/navy": "Approx. 60% (background color)",
+      "White": "Approx. 25% (text and part of KY Jelly packaging)",
+      "Blue": "Approx. 10% (KY Jelly packaging)",
+      "Light gray/off-white": "Approx. 5% (background of product image)"
+    },
+    "Composition type": "Split composition. Left: predominantly bold text occupying around half the frame. Right: medium shot of products (KY Jelly tubes/boxes), presented at an angle.",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A (no humans visible)",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "KY Jelly tubes/boxes (brand visible)"
+    ],
+    "Background environment": "Solid dark blue/navy background on the left behind the text. Right side: plain and uncluttered, likely with a white/off-white background behind the products."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "ARE YOU KILLING YOUR OWN SPERM ?"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": "Strong emphasis via bold weight and large size",
+      "Color": "White",
+      "Additional notes": "Text is clear, making it highly legible and attention-grabbing"
+    },
+    "Text placement": "Text occupies the entire left half of the frame, each word stacked vertically in large blocks.",
+    "Use of emotional/trigger words": [
+      "KILLING",
+      "YOUR",
+      "OWN",
+      "SPERM"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, alarming, and provocative\u2014uses a question to provoke concern regarding sperm health and personal habits associated with the use of KY Jelly.",
+    "Visual metaphors or symbols": "The juxtaposition of the product (KY Jelly) with the alarmist question implies a threat or potential harm, drawing on fears about fertility.",
+    "Clickbait techniques employed": [
+      "Provocative question ('ARE YOU KILLING YOUR OWN SPERM ?')",
+      "Use of alarming language ('KILLING')",
+      "Direct viewer address ('YOUR OWN')",
+      "Product placement suggesting controversy"
+    ],
+    "Brand elements present": [
+      "Clear depiction of KY Jelly packaging (recognizable brand)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the video title by showing KY Jelly and raising a provocative question about its effect on sperm, in line with the title's inquiry about KY Jelly and fertility.",
+    "Contrasts or mismatches": "No significant mismatch. Thumbnail and title are closely aligned: both suggest a potential hidden risk of using KY Jelly related to sperm and fertility, with the thumbnail distilling this to a visually bold and emotionally charged question."
+  }
+}

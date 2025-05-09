@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark gray/black (background and clothing)": "40%",
+      "White (text and pelvic model)": "30%",
+      "Skin tones (person\u2019s skin)": "15%",
+      "Blonde/light brown (hair)": "10%",
+      "Red/pink (pelvic model interior)": "5%"
+    },
+    "Composition type": "Medium shot (waist-up view of a single person, clear and central presence)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, friendly, approachable",
+      "demographics": "Adult woman, light skin, blonde/light brown hair"
+    },
+    "Main objects/props featured": [
+      "Pelvic model (anatomic prop held by the person)"
+    ],
+    "Background environment": "Indoors, dark fireplace/hearth behind, modern and uncluttered interior"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Prolapse and Bladder",
+      "HEALTH WORKOUT"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "\"HEALTH WORKOUT\" is in a heavy, outlined, and/or filled font; \"Prolapse and Bladder\" is also bold but slightly less prominent",
+      "Color": "White",
+      "Contrast": "High contrast against the dark background"
+    },
+    "Text placement within frame": {
+      "Prolapse and Bladder": "Upper left quadrant, justified left",
+      "HEALTH WORKOUT": "Lower left to center, spanning much of the width, large and eye-catching"
+    },
+    "Use of emotional/trigger words": [
+      "Prolapse",
+      "Bladder",
+      "HEALTH",
+      "WORKOUT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, reassuring, and motivating; positive energy and clarity",
+    "Visual metaphors or symbols": [
+      "Pelvic model symbolizes anatomy education and health focus"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text highlighting key issues (prolapse, bladder, health, workout)",
+      "Clear visual focus on an expert or instructor",
+      "Friendly, approachable human expression",
+      "Directly referencing a health concern"
+    ],
+    "Brand elements present": "None overt (no logo or clear brand marks visible)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually reinforces the title by showing a friendly expert holding a pelvic model (relates directly to pelvic floor health), and featuring large, clear text with relevant trigger words identical to the video\u2019s subject.",
+    "Contrasts or mismatches": "No significant contrasts or mismatches; both thumbnail and title focus on pelvic health, prolapse, bladder leaks, and safe exercises."
+  }
+}

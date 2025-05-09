@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/gold (background)": "50%",
+      "Blue (left shirt)": "20%",
+      "Black/grey (right shirt)": "15%",
+      "Skin tones": "10%",
+      "White (text)": "5%"
+    },
+    "Composition type": "Medium shot (both people shown from mid-torso up)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        {
+          "Person 1 (left)": "Neutral/serious, focused",
+          "Demographics": "Apparent adult male, light skin, short light hair"
+        },
+        {
+          "Person 2 (right)": "Smiling, enthusiastic with finger raised, looks engaged",
+          "Demographics": "Apparent adult male, light skin, short dark/light hair, glasses"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Metallic object/sample held by person on left",
+      "Microphone on person on left's shirt"
+    ],
+    "Background environment": "Abstracted or blurred gold/beige metallic or mechanical surface, possibly related to machinery wear"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\"FRICTION & WEAR\"",
+    "Font characteristics": {
+      "Style": "Bold, all caps, sans-serif, slightly italic/angled",
+      "Emphasis": "Strong, attention-grabbing",
+      "Color": "White with black shadow/outline for contrast"
+    },
+    "Text placement within frame": "Upper center/top third, overlaid on background above the heads of the people",
+    "Use of emotional/trigger words": [
+      "\"FRICTION\" (implies action, science, tension)",
+      "\"WEAR\" (implies damage, concern, importance)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, engaging, professional but accessible; sense of discovery or unveiling facts",
+    "Visual metaphors or symbols": [
+      "The metallic object held up refers directly to a component or result of friction/wear processes (e.g., real-life evidence/proof)",
+      "Finger raised by right person symbolizes a key point or interesting fact to be shared"
+    ],
+    "Clickbait techniques employed": [
+      "Big, bold text to immediately communicate the main topic",
+      "Emotive facial expression (smile, raised finger) to suggest excitement or secret knowledge",
+      "Visual of an object for intrigue ('what is it?')"
+    ],
+    "Brand elements present": [
+      "Left person's shirt has a visible logo (\"SwRI\") and text indicating affiliation (\"Tribology Research and Evaluations\"), reinforcing professional and scientific authority"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail's text ('FRICTION & WEAR') are the exact subjects of the video title ('Fact or Friction? TWO Things MOST People DON'T Know About Wear.'). The inclusion of an actual testing component and scientific authority figure, plus the excited gesture, visually promises a reveal or knowledge beyond the obvious\u2014themes central to the title's 'things most people don't know.'",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail says 'FRICTION & WEAR', but does not visually reference the idea of 'Fact or Friction?' or emphasize the 'TWO Things' that the title claims most people don't know about wear. The emotional tone is mainly positive/enthusiastic, which may slightly downplay the quiz/challenge implied in the title."
+  }
+}

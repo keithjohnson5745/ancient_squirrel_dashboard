@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "Approx. 35% - found in text box background, icons",
+      "White": "Approx. 25% - in text, calendar, sperm/egg icon highlight",
+      "Light beige/grey": "Approx. 20% - background gradient",
+      "Beige/skin tone": "Approx. 15% - subject's face and hands",
+      "Navy/dark blue": "Approx. 5% - subject's clothing"
+    },
+    "Composition type": "Medium close-up\u2014showing a woman from the chest up, alongside graphical elements on the left.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Surprised or concerned (wide eyes, slightly open mouth)",
+      "Demographics": "Adult woman, light skin, blonde hair, blue eyes"
+    },
+    "Main objects/props featured": [
+      "Woman (main focus)",
+      "Pink calendar emoji/graphic",
+      "Sperm swimming toward an egg graphic",
+      "Large pink 'TTC' text block"
+    ],
+    "Background environment": "Out-of-focus indoor background with a beige/grey gradient, providing separation between the subject and icons/text."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "TTC",
+      "How long does it take to get pregnant?"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "'TTC' is extra bold and all-caps, large; main question is bold, lower-case",
+      "Color": "'TTC' is white with pink background, question is black on white background"
+    },
+    "Text placement within frame": {
+      "'TTC'": "Top left in a large pink rectangle",
+      "Question text": "Bottom of the thumbnail in a wide white headline bar"
+    },
+    "Emotional/trigger words": [
+      "How long",
+      "get pregnant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Concerned, informative, empathetic \u2014 inviting viewers who are anxious or curious about conception timelines.",
+    "Visual metaphors or symbols": [
+      "Calendar icon for tracking time/cycles",
+      "Sperm and egg icon for conception/fertilization process"
+    ],
+    "Clickbait techniques employed": [
+      "Direct, curiosity-inducing question in large text",
+      "Emotional facial reaction from subject (surprise/worry)",
+      "Bright, bold colors to grab attention"
+    ],
+    "Brand elements present": "No explicit, unique brand logos; but established style cues (bold color blocks, medical/educational topic cues)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail clearly echoes the title by showing fertility-related symbols (calendar, sperm/egg), using the acronym 'TTC' (Trying To Conceive), and presenting a visually concerned person\u2014directly connecting to the process and emotional state described in the video title.",
+    "Contrasts or mismatches": "No major mismatches; the visual content, emotion, and text all align closely with the informational, empathetic subject described in the video title."
+  }
+}

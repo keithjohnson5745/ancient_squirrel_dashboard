@@ -1,0 +1,13 @@
+{
+  "title": "\u0932\u0939\u0938\u0941\u0928 \u0915\u0940 \u0926\u094b \u0915\u0932\u093f\u092f\u093e\u0902 \u0915\u0930 \u0926\u0947\u0924\u0940 \u0939\u0948 \u0915\u092e\u093e\u0932 | \u092f\u0939 \u0932\u094b\u0917 \u0932\u0939\u0938\u0941\u0928 \u0915\u092d\u0940 \u092d\u0940 \u0928\u093e \u0916\u093e\u090f\u0902 | garlic @studywithmeekta",
+  "thumbnail_path": "thumbnails/8Kt-B0mr7L4_max.jpg",
+  "title_length": 90,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

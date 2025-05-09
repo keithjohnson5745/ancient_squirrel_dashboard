@@ -1,0 +1,12 @@
+{
+  "title": "\u092a\u091f\u0928\u093e \u0939\u0949\u0938\u094d\u091f\u0932 \u0907\u0928 \u092a\u0941\u0923\u0947 -  \u0930\u093e\u0924\u094b\u0902-\u0930\u093e\u0924 \u0935\u093e\u092f\u0930\u0932 | EP5 ft. Abhinav Anand, Anandeshwar Dwivedi | TSP",
+  "thumbnail_path": "thumbnails/BSk6ezwfl-0_max.jpg",
+  "title_length": 89,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

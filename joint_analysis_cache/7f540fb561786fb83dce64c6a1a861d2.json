@@ -1,0 +1,12 @@
+{
+  "title": "2025 Osprey Nest - LIVE - Independence, Oregon",
+  "thumbnail_path": "thumbnails/iV-dpfx5NJ4_high.jpg",
+  "title_length": 46,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

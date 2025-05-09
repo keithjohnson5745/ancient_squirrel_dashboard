@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "Approx. 50% (background)",
+      "Red": "Approx. 20% (large banner behind headline text)",
+      "White": "Approx. 10% (text, highlight areas on bottles, shirt details)",
+      "Green": "Approx. 7% (several oil bottles)",
+      "Blue": "Approx. 5% (oil bottle, shirt detail)",
+      "Various other (browns, blacks, light blues)": "Approx. 8% (hair, oil bottles, shirt, faces)"
+    },
+    "Composition type": "Medium shot (one person pictured from mid-torso up, full view of multiple objects in foreground)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Neutral to contemplative, looking slightly to the side with hand on face (index finger resting near cheek as if thinking/questioning)",
+      "Demographics (apparent)": "Young adult male, light-medium skin tone, black hair, groomed beard"
+    },
+    "Main objects/props featured": "Multiple recognizable hair oil bottles of differing brands and colors, all lined up prominently in the foreground",
+    "Background environment": "Flat yellow background, highly stylized, with bold red banners and no realistic/scenic elements"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail (exact transcription)": [
+      "INDIA \u0915\u093e BEST HAIR OIL?",
+      "3.8M+ VIEWS",
+      "CLEAR",
+      "CLINIC PLUS+",
+      "Dabur Amla Hair Oil",
+      "Patanjali Kesh Kanti Amla Hair Oil",
+      "Vaseline",
+      "Dabur Anmol Gold Pure Coconut Oil",
+      "\u0915\u0936 \u0924\u0947\u0932 KESH TAILA"
+    ],
+    "Font characteristics": {
+      "Headline (INDIA \u0915\u093e BEST HAIR OIL?)": {
+        "Style": "Bold, all caps for English portion, simple sans-serif, some Devanagari script for Hindi text",
+        "Emphasis": "High (extra bold, shadow or outline for readability)",
+        "Color": "White (against red banner, black drop-shadow or outline)"
+      },
+      "Views (3.8M+ VIEWS)": {
+        "Style": "Sans-serif, bold",
+        "Color": "Black on white block",
+        "Emphasis": "Medium"
+      }
+    },
+    "Text placement within frame": {
+      "Headline": "Top center, within a large horizontal red banner taking up about 25% of the frame height",
+      "Views": "Bottom left corner, in a small white box overlaying foreground objects",
+      "Bottle Labels": "Front of each bottle, various placements (secondary to main headline)"
+    },
+    "Use of emotional/trigger words": [
+      "BEST",
+      "INDIA",
+      "3.8M+ VIEWS",
+      "?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, informative, slightly skeptical (due to man's expression)",
+    "Visual metaphors or symbols": "Array of hair oils symbolizes comparison/choice; man's pondering gesture represents decision-making or skepticism",
+    "Clickbait techniques employed": [
+      "Use of superlative 'BEST' suggesting a definitive answer",
+      "Large question mark fostering curiosity",
+      "High view count ('3.8M+ VIEWS') establishes popularity and social proof",
+      "Bright, block colors and high contrast for visual impact"
+    ],
+    "Brand elements present": [
+      "Fit Tuber logo (bottom right corner, semi-transparent pink/white)",
+      "Visible Indian hair oil brands (Dabur, Patanjali, Clinic Plus, etc.)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The headline is nearly identical to the video title, with both emphasizing the question of India's best hair oil. The lineup of various branded oil bottles visually manifests the title's theme of comparison. The presenter's inquisitive pose mirrors the title's question.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; both the thumbnail and title are highly aligned in message and visual content. The Hindi script in the title is retained in the thumbnail. The only minor difference is the addition of the '3.8M+ VIEWS' social proof in the thumbnail, not present in the title."
+  }
+}

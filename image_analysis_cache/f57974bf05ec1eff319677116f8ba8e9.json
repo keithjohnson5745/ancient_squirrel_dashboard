@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approx. 40% (background and text bar)",
+      "Blue": "Approx. 20% (boy\u2019s jacket, text highlight, birthday hat)",
+      "White": "Approx. 15% (shirt, tablecloth, text)",
+      "Red": "Approx. 10% (woman\u2019s jacket, birthday hat stripes)",
+      "Yellow/Gold": "Approx. 10% ('18' balloons)",
+      "Flesh tones": "Approx. 5% (faces and hands)"
+    },
+    "Composition type": "Medium close-up shot; two people prominently positioned on the right, text on the left.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "The young man appears alarmed, worried, or uncomfortable (wide eyes, strained facial muscles).",
+        "The older woman is smiling broadly, appearing gleeful or overly friendly."
+      ],
+      "Demographics": [
+        "Young adult male (light skin, brown hair, wearing a party hat).",
+        "Middle-aged adult female (light skin, blonde hair)."
+      ]
+    },
+    "Main objects/props featured": [
+      "Birthday party hat (on young man)",
+      "Brightly colored clothes (blue jacket, red jacket)",
+      "Hand pulling/touching collar (implies physical interaction)",
+      "Large gold balloon shaped as number '18' (background)"
+    ],
+    "Background environment": "Plain dark (black) backdrop with a table, white tablecloth, and large gold '18' balloon suggesting a party setting. Table is out of focus."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "MOM SEDUCES STEP SON ON 18TH BIRTHDAY",
+      "Illumeably"
+    ],
+    "Font characteristics": {
+      "Main text": {
+        "Style": "Bold, all-uppercase sans serif",
+        "Emphasis": "Heavy weight and capital letters; 'MOM' and 'SEDUCES' in bright blue",
+        "Color": "'MOM SEDUCES' in blue; rest of main text in white; black solid background"
+      },
+      "Brand text": {
+        "Style": "Lowercase playful sans serif",
+        "Color": "White on black with a light bulb icon"
+      }
+    },
+    "Text placement within frame": {
+      "Main text": "Left side, vertically stacked, occupying nearly half the thumbnail",
+      "Brand/logo": "Bottom left corner"
+    },
+    "Use of emotional/trigger words": [
+      "SEDUCES",
+      "18TH BIRTHDAY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Sensational, provocative, and potentially uncomfortable; mixes humor (costume/expression) with shock value.",
+    "Visual metaphors or symbols": [
+      "Birthday hat and '18' balloon signal a coming-of-age or legal adulthood",
+      "Woman grabbing young man's collar represents the action implied in the title"
+    ],
+    "Clickbait techniques employed": [
+      "Use of shock and taboo concepts ('seduces' + step-family relationship)",
+      "Strong facial expressions to dramatize narrative",
+      "Bright/high-contrast text to grab attention"
+    ],
+    "Brand elements present": [
+      "Illumeably logo with lightbulb icon at lower left"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The image visually dramatizes the video's title by showing a woman (styled as 'mom') pulling close a young man (styled as 'step son') on his '18th birthday', with the young man looking shocked or uncomfortable. The text in the thumbnail exactly matches the shock-value phrasing of the title.",
+    "Contrasts or mismatches": "While the expressions verge on comedic exaggeration (especially the party hat and the overt, goofy facial reactions), the title and text are more sensational and suggest taboo content. The visual may soften/shield the severity of the title for some viewers by adding humor, but the underlying implication remains direct."
+  }
+}

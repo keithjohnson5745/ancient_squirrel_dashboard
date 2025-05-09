@@ -1,0 +1,13 @@
+{
+  "title": "LIVE: Karen Read Murder Trial \u2014 MA v. Karen Read \u2014 Day Ten",
+  "thumbnail_path": "thumbnails/wls8I4dXhWw_max.jpg",
+  "title_length": 58,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

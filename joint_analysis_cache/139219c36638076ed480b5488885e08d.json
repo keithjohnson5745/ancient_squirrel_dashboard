@@ -1,0 +1,13 @@
+{
+  "title": "Recurrent miscarriage: What to do next + the tests & treatments to know",
+  "thumbnail_path": "thumbnails/X8AsLKQKtOE_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

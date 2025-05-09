@@ -1,0 +1,13 @@
+{
+  "title": "A Urologist explains what is edging and is it SAFE?!",
+  "thumbnail_path": "thumbnails/qN23jUSSdVM_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

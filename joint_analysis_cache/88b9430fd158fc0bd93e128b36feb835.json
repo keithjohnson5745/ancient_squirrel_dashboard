@@ -1,0 +1,13 @@
+{
+  "title": "I no longer do Kegel Exercise, I do this instead\u2026",
+  "thumbnail_path": "thumbnails/N5djeLk0Gog_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

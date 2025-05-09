@@ -1,0 +1,88 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "beige/cream (background)": "40%",
+      "light skin tones": "25%",
+      "blonde/light brown (hair)": "15%",
+      "black (text)": "10%",
+      "yellow (highlight bar)": "3%",
+      "purple (device)": "3%",
+      "gray (clothing, shadows)": "2%",
+      "orange/pink (Bio-Oil)": "2%"
+    },
+    "Composition type": "Medium close-up (head and shoulders of a woman, prominent in frame, cropped by left side); split with right-side text and product images.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Surprised or alarmed (wide eyes, open mouth)",
+      "demographics": "Young adult female, light skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Jar of La Mer cream (top left)",
+      "Purple facial cleansing device (right, mid-top)",
+      "Bottle of Bio-Oil (right, top)"
+    ],
+    "Background environment": "Solid, light beige/cream backdrop (neutral, clean)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "THE BIGGEST",
+      "SKINCARE SCAMS EXPOSED!",
+      "ACCORDING TO A DERMATOLOGIST"
+    ],
+    "Font characteristics": {
+      "THE BIGGEST": {
+        "style": "Sans-serif, bold, all-caps",
+        "emphasis": "Medium",
+        "color": "Black text on thick yellow rectangle"
+      },
+      "SKINCARE SCAMS EXPOSED!": {
+        "style": "Sans-serif, bold, all-caps",
+        "emphasis": "Heavy/bold, large size",
+        "color": "Black"
+      },
+      "ACCORDING TO A DERMATOLOGIST": {
+        "style": "Sans-serif, bold, all-caps",
+        "emphasis": "Medium",
+        "color": "Black text on purple rectangle"
+      }
+    },
+    "Text placement": {
+      "THE BIGGEST": "Top right, above the main title, set in a yellow highlight bar",
+      "SKINCARE SCAMS EXPOSED!": "Center-right, very large, main focus",
+      "ACCORDING TO A DERMATOLOGIST": "Bottom right, within a purple box"
+    },
+    "Emotional/trigger words": [
+      "BIGGEST",
+      "SCAMS",
+      "EXPOSED"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Alarmed, urgent, warning, educational",
+    "Visual metaphors or symbols": [
+      "Facial expression signals shock/surprise (implying big reveals)",
+      "Well-known skincare products as symbols of 'scams' or hype"
+    ],
+    "Clickbait techniques employed": [
+      "Use of large, bold text with words like 'SCAMS' and 'EXPOSED'",
+      "Highlighting professional authority ('According to a dermatologist')",
+      "Dramatic human reaction",
+      "Product images that hint at recognizable and possibly controversial topics"
+    ],
+    "Brand elements present": [
+      "Product packaging is clearly visible and recognizable (La Mer, Foreo, Bio-Oil)",
+      "No explicit personal branding or logo from creator"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The shocked expression of the woman emphasizes the word 'STOP' and the need for urgent attention in the title.",
+      "The text 'SCAMS EXPOSED' works in tandem with 'Trends That Need to STOP' by hinting at untruthful or harmful skin care practices.",
+      "Product images relate directly to 'skincare trends,' showing specific items possibly addressed in the video."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail says 'SCAMS' while the title says 'Trends.' 'Scams' is a much harsher word than 'trends' (sensationalized for impact).",
+      "Thumbnail is more sensational and emotionally charged than the relatively neutral, informative phrasing of the title."
+    ]
+  }
+}

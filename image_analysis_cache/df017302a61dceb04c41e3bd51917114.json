@@ -1,0 +1,58 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approximately 60% (background)",
+      "Red": "Approximately 20% (vessel and top border, arrows)",
+      "Black": "Approximately 10% (text and outlines)",
+      "Blue": "Approximately 5% (arrows, heart diagram)",
+      "Beige/Light Brown": "Approximately 5% (background of human's segment)"
+    },
+    "Composition type": "Split frame with diagram (medium shot) on the left and center, and a talking head (close-up) in the bottom right corner.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slightly engaged (appears to be explaining something)",
+      "Demographics": "Adult male"
+    },
+    "Main objects/props featured": [
+      "Diagram of heart and blood vessels with arrows",
+      "Text boxes indicating 'VAV-ECMO Fem-Fem-IJ'",
+      "Person (presenter) in bottom-right corner"
+    ],
+    "Background environment": "Mostly white with a stylized red patterned banner at the top; presenter appears to be in a room with neutral lighting."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Differential Oxygenation",
+      "North-South Syndrome",
+      "Monitor right radial artery",
+      "Fix the Lungs",
+      "Fix the SvO2 (DO2 & VO2)",
+      "Fix the Flows:",
+      "decrease inotropy (rare), increase ECMO (rare)",
+      "Change your support VV-ECMO versus",
+      "VAV-ECMO Fem-Fem-IJ",
+      "Lungs"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, clear, professional",
+      "Emphasis": "Bold used for titles and some key phrases, italics for rare options.",
+      "Color": "Black for main text, white for top title on red background"
+    },
+    "Text placement within frame": "Top-left (title), upper right (key points in bulleted list), inside diagram (labels), lower right (presenter partly covering some text).",
+    "Use of emotional/trigger words": [
+      "Syndrome",
+      "Fix",
+      "Change"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational, clinical, informative.",
+    "Visual metaphors or symbols": "Medical diagram showing blood flow and interventions; arrows indicating procedures.",
+    "Clickbait techniques employed": "Minimal; more academic and direct, but the insert of a human face may make it more approachable.",
+    "Brand elements present": "None overtly visible."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail presents clear medical diagrams and key points related to ECMO, directly supporting the educational nature of the title ('ECMO: VA ECMO For Dummies!'). The visual focus is on explaining complex concepts in a simplified manner.",
+    "Contrasts or mismatches": "The title suggests the content is simplified ('For Dummies!'), but the thumbnail uses technical medical terminology, which may appear advanced to true beginners. There is some contrast between the promise of simplicity and the actual complexity shown in the thumbnail."
+  }
+}

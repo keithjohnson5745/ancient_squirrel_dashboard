@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Skin tones": "35%",
+      "Dark blue/navy (background border, bottom text box)": "25%",
+      "Hot pink (name/title box)": "15%",
+      "White (text, shirt)": "10%",
+      "Muted browns/blues/orange (painting background)": "10%",
+      "Bright blue (text emphasis)": "5%"
+    },
+    "Composition type": "Medium close-up; the person is prominently centered with head and shoulders visible.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slightly serious or inquisitive facial expression.",
+      "Demographics": "Appears male, adult, dark hair, glasses, likely of South Asian descent."
+    },
+    "Main objects/props featured": [
+      "Person (Dr. Gautam Nand Allahbadia)",
+      "Eyeglasses",
+      "Blurry painting in the background",
+      "Framed 'gna' logo in the corner"
+    ],
+    "Background environment": "Indoor office or consultation room setting, framed abstract painting on the wall."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "gna",
+      "Dr. Gautam Nand Allahbadia",
+      "Consultant Reproductive Endocrinology & IVF",
+      "EVERYTHING YOU ALWAYS WANTED TO KNOW ABOUT ART BUT WERE AFRAID TO ASK!"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif; modern, clean lines for all text.",
+      "Emphasis": "Person's name/title in bold white on hot pink; Q&A header in bold white/blue text on dark blue background. 'ART' in the last line is emphasized with a bright color (blue/pink).",
+      "Color": "Hot pink, white, dark blue, bright blue."
+    },
+    "Text placement within frame": {
+      "Top left": "'gna' logo",
+      "Upper third, left": "Name and credentials on hot pink rectangle",
+      "Bottom": "Q&A statement, large block across the whole width"
+    },
+    "Use of emotional/trigger words": [
+      "EVERYTHING",
+      "ALWAYS WANTED TO KNOW",
+      "AFRAID TO ASK!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Trustworthy, informative, reassuring; mild urgency to get answers to sensitive questions.",
+    "Visual metaphors or symbols": [
+      "Doctor/expert presence to symbolize authority",
+      "Bright, attention-grabbing blocks to signal 'important' information"
+    ],
+    "Clickbait techniques employed": [
+      "Big promise ('EVERYTHING YOU ALWAYS WANTED TO KNOW...')",
+      "Addresses taboo/sensitive topic ('AFRAID TO ASK!')",
+      "Highlighting the doctor's expertise"
+    ],
+    "Brand elements present": [
+      "'gna' logo (top left)",
+      "Consistent color branding (hot pink, dark blue)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The presence of a reproductive health expert (doctor) visually anchors credibility for a discussion on fertility and related issues like lubrication. The text promises an in-depth and open Q&A, which ties into addressing specific fertility concerns such as coconut oil\u2019s effect on conception.",
+    "Any contrasts or mismatches between thumbnail and title": "While the title specifically mentions 'coconut oil' and 'lubrication,' there is no direct visual cue (like images of coconut oil, lubrication products, or symbolic reproductive imagery) in the thumbnail, making the match partial rather than direct. The focus is on the authority/expertise rather than the specific topic."
+  }
+}

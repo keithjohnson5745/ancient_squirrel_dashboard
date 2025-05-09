@@ -1,0 +1,14 @@
+{
+  "title": "WHY SPRMS LEAK OUT OF MY V, WHY DON'T THEY ENTER INSIDE? HOW TO TREAT A PERSISTENT CYSTS TO CONCEIVE",
+  "thumbnail_path": "thumbnails/MC-c9IpgAyg_high.jpg",
+  "title_length": 100,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

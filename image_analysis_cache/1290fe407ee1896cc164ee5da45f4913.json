@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "white": "approx. 60% (background)",
+      "dark green": "approx. 25% (borders, text accent, shapes)",
+      "black": "approx. 10% (text)",
+      "skin tone": "approx. 5% (face close-up)"
+    },
+    "Composition type": "Close-up shot combined with graphics; the left half shows text on a clean background, the right half depicts a close-up of the lower face and mouth in a circular crop.",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Mouth open, neutral expression (focus on oral area)",
+      "demographics": "Adult, likely female, light skin tone, only lower face visible"
+    },
+    "Main objects/props featured": "Mouth and lips, tongue visible, a medical swab being used inside the mouth",
+    "Background environment": "Abstract; left is plain white with green and black accents, right is a close-up image with a soft blur background (medical/clinical impression)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "HOW TO STOP TOO MUCH SALIVA IN MOUTH",
+      "SALIVA TESTING"
+    ],
+    "Font characteristics": {
+      "style": "Bold sans-serif, all caps",
+      "emphasis": "\"SALIVA TESTING\" is green and larger, rest is black",
+      "color": "\"SALIVA TESTING\" (dark green), rest (black)"
+    },
+    "Text placement within frame": {
+      "main statement": "Left half, stacked, centered vertically",
+      "emphasis": "\"SALIVA TESTING\" at the bottom, separated by a line"
+    },
+    "Use of emotional/trigger words": [
+      "How to stop",
+      "Too much"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, clinical, solution-oriented",
+    "Visual metaphors or symbols": "Swab in mouth symbolizes saliva testing/diagnosis; open mouth visually connects with the subject",
+    "Clickbait techniques employed": [
+      "Use of 'How to stop' promises a solution",
+      "Highlighting a common concern ('too much saliva')"
+    ],
+    "Brand elements present": "No overt branding/logos visible"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The close-up image of a mouth being swabbed directly illustrates 'saliva testing,' while the large bold text on the left clarifies the topic\u2014providing a visual and textual promise of practical information about managing excessive saliva.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts; the thumbnail image and text are highly relevant and aligned with the title, both focusing on the problem (too much saliva) and the diagnostic process (saliva testing)."
+  }
+}

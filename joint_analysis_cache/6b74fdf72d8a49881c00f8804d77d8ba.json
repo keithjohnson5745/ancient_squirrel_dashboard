@@ -1,0 +1,11 @@
+{
+  "title": "Fox attacks Pete Buttigieg's family, INSTANTLY regrets it",
+  "thumbnail_path": "thumbnails/Eot_aZA1eDU_high.jpg",
+  "title_length": 57,
+  "patterns": [
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

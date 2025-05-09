@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "black": "35% (graphite powder and bottle)",
+      "flesh/skin-tone": "25% (hand and arm)",
+      "light brown": "35% (wooden or wood-patterned surface in background)",
+      "yellow": "5% (bold colored text outline)"
+    },
+    "Composition type": "close-up (focus on hand catching black powder beneath a pouring bottle, cropped arm and hand dominate foreground)",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "not visible (only hand and part of forearm are shown, no face or body expression)",
+      "demographics": "adults (based on hand size/shape, further details not apparent)"
+    },
+    "Main objects/props featured": [
+      "hand (with open palm)",
+      "black powder (graphite, being poured)",
+      "black bottle or container (pouring the powder)"
+    ],
+    "Background environment": "flat, evenly lit, and out-of-focus wood-patterned surface, likely a table or desk"
+  },
+  "TEXT ELEMENTS": {
+    "text_visible": [
+      "Add Graphite to Motor Oil?",
+      "Let's find out!"
+    ],
+    "font_characteristics": {
+      "style": "bold, sans-serif",
+      "emphasis": "high (black font with thick bright yellow outline enhances contrast and draws attention)",
+      "color": "black text, yellow outline"
+    },
+    "text_placement_within_frame": {
+      "Add Graphite to Motor Oil?": "top third of image, spanning most of the width",
+      "Let's find out!": "bottom right corner, large and highly visible"
+    },
+    "emotional_trigger_words": [
+      "\"Let's find out!\" (suggests curiosity and excitement, promises a reveal or answer)",
+      "\"Add Graphite to Motor Oil?\" (poses a question, encourages viewer engagement and speculation)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "curious, experimental, inviting, slightly dramatic",
+    "visual_metaphors_or_symbols": [
+      "Pouring black powder symbolizes experimentation or an unknown outcome",
+      "Open hand receiving graphite suggests direct demonstration"
+    ],
+    "clickbait_techniques_employed": [
+      "Posed question in bold large font",
+      "Dramatic pouring action (implies a simple but controversial/little-known procedure)",
+      "Bright, contrasting text for visibility",
+      "Promise of revelation/action with 'Let's find out!'"
+    ],
+    "brand_elements_present": "None directly visible (no logos or brand colors apparent in the thumbnail image, but product references may be present in video)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "thumbnail_reinforces_title": "Yes, strongly. The thumbnail visually depicts the exact question in the title (adding graphite to motor oil) by showing a hand receiving a substantial amount of black graphite powder. The text on the thumbnail echoes the video title, reinforcing the experimental nature and focus.",
+    "contrasts_or_mismatches": "No major mismatch. Thumbnail is consistent with the video's central question. One slight difference is the thumbnail visually focuses on the act of pouring graphite, while the title also references a comparison between 'Vintage Arco Graphite vs Quaker State,' which isn't visually represented."
+  }
+}

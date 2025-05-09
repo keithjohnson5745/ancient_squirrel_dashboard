@@ -1,0 +1,107 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "white": "approx. 50%",
+      "light blue": "approx. 15%",
+      "black": "approx. 15%",
+      "pink/magenta": "approx. 5%",
+      "skin tones": "approx. 10%",
+      "beige/brown": "approx. 5%"
+    },
+    "composition_type": "Medium shot and composite montage",
+    "human_presence": {
+      "number_of_people": 3,
+      "description": [
+        {
+          "person_1": "Female doctor, mid-40s, Indian, wearing a white saree, speaking with open hands; professional expression"
+        },
+        {
+          "person_2_and_3": "Silhouetted man and woman in an intimate pose in the large faded background image behind the doctor; appear to be adults"
+        }
+      ]
+    },
+    "main_objects_props_featured": [
+      "Female doctor (center-right foreground)",
+      "A circled image of interlocked hands (bearing subtle intimacy and support)",
+      "Background image of a couple (implied intimacy)"
+    ],
+    "background_environment": "Soft, blurred image of a couple in an intimate embrace; predominantly neutral and slightly desaturated for contrast"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "S*X \u0915\u0930\u0924\u0947 \u0935\u0915\u094d\u0924 \u0926\u0930\u094d\u0926 \u0915\u094d\u092f\u094b\u0902 \u0939\u094b\u0924\u093e \u0939\u0948?",
+      "Benefits Of Using A Lubricant During S*X",
+      "Dr. Supriya Puranik",
+      "Test Tube Baby Consultant & Practicing Gynaecology",
+      "MOTHER CARE"
+    ],
+    "font_characteristics": [
+      {
+        "line": "S*X \u0915\u0930\u0924\u0947 \u0935\u0915\u094d\u0924 \u0926\u0930\u094d\u0926 \u0915\u094d\u092f\u094b\u0902 \u0939\u094b\u0924\u093e \u0939\u0948?",
+        "style": "Bold, Sans-serif, Mixed color (black, magenta)",
+        "emphasis": "High (thick, contrasting colors)"
+      },
+      {
+        "line": "Benefits Of Using A Lubricant During S*X",
+        "style": "Sans-serif, White text on blue box background",
+        "emphasis": "Medium"
+      },
+      {
+        "line": "Dr. Supriya Puranik",
+        "style": "Bold, Blue",
+        "emphasis": "Medium"
+      },
+      {
+        "line": "Test Tube Baby Consultant & Practicing Gynaecology",
+        "style": "Light sans-serif, Black",
+        "emphasis": "Low"
+      },
+      {
+        "line": "MOTHER CARE",
+        "style": "Blue, Logo font, Upper left corner",
+        "emphasis": "Low (brand element)"
+      }
+    ],
+    "text_placement_within_frame": [
+      "Large Hindi headline at upper left/center",
+      "English subtitle with blue background below main Hindi headline",
+      "Doctor's name at lower left",
+      "Credentials below name",
+      "Brand (Mother Care logo) at top left"
+    ],
+    "emotional_trigger_words": [
+      "S*X",
+      "\u0926\u0930\u094d\u0926 (pain)",
+      "Benefits",
+      "Lubricant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Professional, empathetic, informative with approachable visual cues",
+    "visual_metaphors_or_symbols": [
+      "Interlocked hands signaling intimacy/support",
+      "Background couple to infer romantic/sexual context"
+    ],
+    "clickbait_techniques_employed": [
+      "Censored spelling of 'sex' for curiosity/safety",
+      "Contrasting urgent/emotional colors for 'pain' (\u0926\u0930\u094d\u0926)",
+      "Direct question implying problem-solving (why does sex hurt?)",
+      "Use of expert authority and professional branding"
+    ],
+    "brand_elements_present": [
+      "Mother Care logo",
+      "Doctor's full name and credentials"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": [
+      "Visual of doctor reinforces expert/medical aspect in the title",
+      "Text directly poses the same question as title (about pain during sex)",
+      "Lubricant benefit subtitle and caring hands visually align with the solution offered in the title"
+    ],
+    "contrasts_or_mismatches": [
+      "Thumbnail balances sensitivity (no explicit visuals) despite the potentially taboo or sensitive title topic",
+      "Tone remains clinical rather than sensationalistic, suitable for an educational/medical theme"
+    ]
+  }
+}

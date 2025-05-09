@@ -1,0 +1,12 @@
+{
+  "title": "$10,000 Every Day You Survive In The Wilderness",
+  "thumbnail_path": "thumbnails/U_LlX4t0A9I_max.jpg",
+  "title_length": 47,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

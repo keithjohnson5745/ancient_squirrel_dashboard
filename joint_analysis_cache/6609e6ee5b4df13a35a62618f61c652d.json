@@ -1,0 +1,13 @@
+{
+  "title": "Hidden Benefits of Garlic || Pahadi Lehsun \u0915\u0947 \u091c\u093c\u092c\u0930\u0926\u0938\u094d\u0924 \u092b\u093e\u092f\u0926\u0947\u0902 || Dr. Imran Khan",
+  "thumbnail_path": "thumbnails/g4P9AZV4o28_max.jpg",
+  "title_length": 79,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

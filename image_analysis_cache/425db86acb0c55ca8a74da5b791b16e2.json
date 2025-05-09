@@ -1,0 +1,67 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "deep blue/purple gradient background",
+        "approximate_percentage": 60
+      },
+      {
+        "color": "light beige (skin tone of person)",
+        "approximate_percentage": 20
+      },
+      {
+        "color": "red accents (behind text)",
+        "approximate_percentage": 5
+      },
+      {
+        "color": "white (text)",
+        "approximate_percentage": 10
+      },
+      {
+        "color": "gray/olive green (shirt of person)",
+        "approximate_percentage": 5
+      }
+    ],
+    "Composition type": "Close-up (right half of frame features a person from shoulders up, left half contains large text)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Serious, engaged, mid-speech, hand gesture visible (suggests explanation or emphasis)",
+      "demographics": "Appears to be an adult male of South Asian descent"
+    },
+    "Main objects/props featured": [
+      "Person (presumably Dr. K)",
+      "Large, clearly visible quote text"
+    ],
+    "Background environment": "Simple gradient blue-to-purple background, no environmental detail (focus on subject and text)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "\"this is why you feel both empty and intense emotions\"",
+    "Font characteristics": {
+      "style": "Clean, bold sans-serif",
+      "emphasis": "Key words 'empty' and 'intense' are highlighted with white text on a red background",
+      "color": "All other text is white",
+      "additional": "All text is lowercase, except for the words themselves"
+    },
+    "Text placement within frame": "Left half of the frame, stacked vertically; highlighted words are in-line with rest of the text",
+    "Use of emotional/trigger words": [
+      "empty",
+      "intense",
+      "emotions",
+      "feel"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Empathetic but serious, aiming to explain strong or difficult feelings",
+    "Visual metaphors or symbols": "Red highlight on 'empty' and 'intense' acts as a visual metaphor for extreme or conflicting emotions",
+    "Clickbait techniques employed": [
+      "Direct address ('this is why you feel\u2026') increases personal relevance",
+      "Highlighting emotionally charged terms",
+      "Quotation format suggests insider knowledge or direct expert advice"
+    ],
+    "Brand elements present": "Appearance of Dr. K and his distinctive conversational teaching style; professional, mental health-oriented visual style (no explicit logo present)"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail\u2019s text and Dr. K\u2019s engaged expression signal an explanation about confusing or strong emotions, which directly connects to the title's focus on Borderline Personality Disorder\u2014a condition often characterized by such emotional states.",
+    "Contrasts or mismatches": "No substantive contrast; both thumbnail and title emphasize expert explanation and management of extreme emotions. The thumbnail does not explicitly mention 'Borderline Personality Disorder', making it slightly less direct for those unfamiliar with the symptoms, but the emotional message clearly aligns."
+  }
+}

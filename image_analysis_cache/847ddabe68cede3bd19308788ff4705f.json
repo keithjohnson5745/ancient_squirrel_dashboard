@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pink": "Approximately 50% (background, text bar, wave shapes, accents)",
+      "White": "Approximately 40% (main background)",
+      "Dark Blue": "Approximately 7% (person\u2019s clothing)",
+      "Black/Brown": "Approximately 3% (hair and facial features)"
+    },
+    "Composition type": "Medium shot; upper body of a woman (doctor) centrally placed in lower half",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight smile",
+      "Demographics": "Adult woman, medium complexion, dark straight hair, professional attire (scrubs), likely in her 30s-40s"
+    },
+    "Main objects/props featured": [
+      "Portrait of a woman (doctor)",
+      "Text overlays"
+    ],
+    "Background environment": "Abstract\u2014solid white and pink with soft, wavy shapes and subtle linear/sparkle elements, no literal physical environment"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "How long does it takes to",
+      "CONCEIVE?",
+      "Dr. Neha Lalla",
+      "Gynecologist",
+      "Consultant Endoscopy Surgeon"
+    ],
+    "Font characteristics": {
+      "Main headline (CONCEIVE?)": "Bold, uppercase sans-serif, pink fill with dark outline, visually striking",
+      "Sub-headline (How long does it takes to)": "White serif font inside a pink banner, moderate emphasis",
+      "Name & title": "Red serif (name), black sans-serif (titles), smaller and professional"
+    },
+    "Text placement": {
+      "Top": "How long does it takes to (within pink banner, top center)",
+      "Center": "CONCEIVE? (large, below sub-headline, center)",
+      "Bottom left": "Dr. Neha Lalla and credentials, left-aligned under the portrait"
+    },
+    "Emotional/trigger words": [
+      "CONCEIVE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Reassuring, informative, professional, approachable",
+    "Visual metaphors/symbols": "Use of soft pinks and abstract shapes conveys warmth, care, and relates to femininity/pregnancy",
+    "Clickbait techniques employed": [
+      "Large, bold font for the central keyword ('CONCEIVE?'),",
+      "Direct question prompts curiosity",
+      "Professional authority figure (doctor) increases credibility"
+    ],
+    "Brand elements present": [
+      "Doctor\u2019s name and professional title; no explicit logo, but authority-based branding through credentials"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly visualizes the exact question asked in the title ('How long does it take to conceive?'), with the word 'CONCEIVE?' in bold for emphasis. The presence of a gynecologist adds relevance and authority to the topic.",
+    "Contrasts/mismatches": "There are no significant mismatches; the text on the thumbnail closely mirrors the video title, though the phrase on the thumbnail is slightly less grammatically correct ('does it takes to' vs. 'does it take to') and the subtitle is split onto two lines for design."
+  }
+}

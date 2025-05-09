@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "25% (WD-40 can)",
+      "Yellow": "15% (text, can label)",
+      "Red": "15% (oil can spout, spray tube, arrow)",
+      "Gray": "30% (metal background, bolt)",
+      "Black": "10% (text outline, background shadows)",
+      "White": "5% (highlights, can cap, hand nail, oily reflections)"
+    },
+    "Composition type": "Close-up shot, focusing on a WD-40 can and an oil applicator near a metal bolt.",
+    "Human presence": {
+      "Number of people": 1,
+      "Visible parts": "Partial hand holding WD-40 can (fingers and thumb visible)",
+      "Expressions/Demographics": "No face shown (demographics not identifiable)"
+    },
+    "Main objects/props featured": [
+      "WD-40 can (partially visible)",
+      "Red oil applicator with visible oil droplet",
+      "Rusty bolt or screw",
+      "Red arrow for emphasis"
+    ],
+    "Background environment": "Close-up of a corroded or rusty metallic surface with bolts, appearing industrial or mechanical; neutral, uninviting backdrop."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "\u00bfRealmente LUBRICA?",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase for emphasis on 'LUBRICA', lowercase for 'Realmente'",
+      "Emphasis": "Strong, with heavy outlining (black outline, inner glow effect)",
+      "Color": "Gradient of yellow to cyan for main text"
+    },
+    "Text placement within frame": "Upper-right quadrant, covering part of the metallic surface",
+    "Use of emotional/trigger words": [
+      "Realmente",
+      "LUBRICA"
+    ],
+    "Effect": "Implies skepticism and invites curiosity by questioning the effectiveness of the product"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity, skepticism, challenge (re: WD-40's performance)",
+    "Visual metaphors or symbols": [
+      "Large red arrow indicating focus on the bolt/problem area",
+      "Shiny oil droplet = 'lubrication' being tested"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question in text",
+      "Bold, colorful highlighting of product",
+      "Zoom-in on hardware issue and DIY products",
+      "Use of words implying controversy ('Realmente', large question mark)"
+    ],
+    "Brand elements present": [
+      "WD-40 branding (can label clearly visible, recognizable color scheme)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Both the title and thumbnail visually and textually question the effectiveness of WD-40 vs. oil as lubricants. The WD-40 can and oil spout directly illustrate the products being compared, while the text '\u00bfRealmente LUBRICA?' echoes the skepticism posed in the video title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatch; both focus tightly on comparing lubrication effectiveness. Oil is shown in the thumbnail (matching 'ACEITE' from the title), even though the oil container branding is less emphasized compared to WD-40."
+  }
+}

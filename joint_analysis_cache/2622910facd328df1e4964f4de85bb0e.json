@@ -1,0 +1,12 @@
+{
+  "title": "\u0910\u0938\u0947 \u0916\u0947\u0932\u0928\u0947 \u0938\u0947 \u0906\u0924\u093e \u0939\u0948 \u0905\u0938\u0932\u0940 \u092e\u091c\u093e",
+  "thumbnail_path": "thumbnails/Eh7ztpWNy28_max.jpg",
+  "title_length": 28,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

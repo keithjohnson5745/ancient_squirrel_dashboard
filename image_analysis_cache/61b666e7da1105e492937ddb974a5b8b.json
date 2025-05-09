@@ -1,0 +1,68 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "30%",
+      "White": "15%",
+      "Light Blue": "15%",
+      "Beige/Yellow (border and text)": "10%",
+      "Purple": "10%",
+      "Skin tones": "15%",
+      "Grey": "5%"
+    },
+    "Composition type": "Medium shot (two people, framed from chest-up, facing camera and each other across split screen)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both individuals are smiling and appear friendly/engaged",
+      "Demographics": "Adult man (left, dark hair, light-to-medium skin tone), Adult woman (right, glasses, long dark hair, light-to-medium skin tone)"
+    },
+    "Main objects/props featured": [
+      "Microphones (podcast-style, in front of both people)",
+      "Glasses worn by woman"
+    ],
+    "Background environment": "Abstract neutral backgrounds: dark purple (left) and dark blue/black (right), creating visual separation"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "YOU'RE DOING SEMEN RETENTION WRONG",
+      "RENA MALIK, MD"
+    ],
+    "Font characteristics": {
+      "Primary text": {
+        "Style": "Bold, all caps, sans-serif",
+        "Emphasis": "Strong emphasis; \u2018WRONG\u2019 is slightly larger/bolder and in beige/yellow",
+        "Color": "White (main), beige/yellow (emphasis/\u2018WRONG\u2019)"
+      },
+      "Secondary text (name)": {
+        "Style": "Bold, all caps, sans-serif; 'MD' in smaller font",
+        "Color": "Beige/yellow background with black text",
+        "Placement": "Within a rounded rectangle/label"
+      }
+    },
+    "Text placement within frame": {
+      "Primary text": "Centered in the middle of the thumbnail, covers a large portion",
+      "Secondary text": "Bottom center, label below the main text"
+    },
+    "Use of emotional/trigger words": [
+      "WRONG",
+      "YOU'RE DOING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Upbeat, inviting, and slightly provocative due to the challenge implied by 'WRONG'",
+    "Visual metaphors or symbols": "Podcast microphones symbolize expert discussion/interview format; bold font and emphasis reinforce urgency or correction",
+    "Clickbait techniques employed": [
+      "Use of strong, corrective language ('WRONG') to challenge viewer\u2019s beliefs",
+      "Direct address to viewer ('YOU'RE DOING')",
+      "Expert branding (MD credential)",
+      "Visibly engaged hosts imply valuable conversation"
+    ],
+    "Brand elements present": [
+      "Host's name 'RENA MALIK, MD' (brand identity)",
+      "Framing and colors consistent with professional/medical content"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How thumbnail visually reinforces title": "Thumbnail text practically echoes the video title (\u2018You\u2019re Doing Semen Retention Wrong\u2019), with visual emphasis on \u2018WRONG\u2019 to mirror the correction/misconceptions implied in the title. Both people appear knowledgeable and friendly, matching the promise of an expert, conversation-driven clarification.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches. The thumbnail is highly consistent with the title, though it omits mention of the guest (Dr. K) visually or textually except by implication."
+  }
+}

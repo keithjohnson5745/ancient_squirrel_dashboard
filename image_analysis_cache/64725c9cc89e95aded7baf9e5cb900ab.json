@@ -1,0 +1,38 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/purple": "60% (background)",
+      "White": "20% (text)",
+      "Yellow/gold": "10% (border, emphasis text)",
+      "Skin tone & gray/blue": "10% (person's face, shirt)"
+    },
+    "Composition type": "Medium close-up (person's head and shoulders in right third, text occupying left two-thirds)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slight smile, friendly/welcoming expression",
+      "Demographics": "Adult male, likely of Asian descent, wears glasses"
+    },
+    "Main objects/props featured": "Person (presumably Dr. William Li), eyeglasses, collared shirt",
+    "Background environment": "Solid dark blue/purple background with clean, bold yellow-gold border; no scenery or props"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "WOMEN: BALANCE YOUR HORMONES NATURALLY DR. WILLIAM LI MD",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all-uppercase",
+      "Emphasis": "\"NATURALLY\" and \"DR. WILLIAM LI MD\" in yellow/gold, other words in white",
+      "Color": "White and yellow/gold on dark blue/purple background"
+    },
+    "Text placement within frame": "Text is left-aligned, stacked vertically in the left two-thirds of image, author's name at bottom",
+    "Use of emotional/trigger words": "BALANCE, NATURALLY (emphasizes health, trust, and non-pharmaceutical solutions)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, trustworthy, reassuring, and professional",
+    "Visual metaphors or symbols": "No obvious metaphors or symbols; simplicity and color contrast imply clarity and authority",
+    "Clickbait techniques employed": "Uses gendered targeting ('WOMEN:'), promise of easy/natural solutions ('BALANCE... NATURALLY'), clear expert branding",
+    "Brand elements present": "Prominently features Dr. William Li's name and MD credential, consistent use of professional colors"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly supports the title by highlighting the core message ('BALANCE YOUR HORMONES NATURALLY') and featuring the expert (Dr. William Li), clearly targeting women with visible, strong text.",
+    "Contrasts or mismatches": "The thumbnail does not visually depict specific foods, which is a key aspect of the video title. There is a slight disconnect because the title promises specific 'amazing foods' but the thumbnail focuses on general hormone balancing rather than showing food images."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark brown/black (hair/clothing, background)": "40%",
+      "Skin tones": "20%",
+      "Red (curtain background)": "10%",
+      "Light blue (inset image background)": "10%",
+      "White (clock, highlights, inset bottle, text)": "10%",
+      "Yellow (embroidered text on shirt)": "5%",
+      "Pink (lips, inside mouth, background drape)": "5%"
+    },
+    "Composition type": "Medium close-up shot of a woman, with an inset close-up image of hands using a pump bottle.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Slightly open mouth, friendly and serious, direct eye contact with camera.",
+      "Demographics": "Adult woman, medium to dark skin tone, black straight hair, wearing dark clothing (possibly medical/professional attire)."
+    },
+    "Main objects/props featured": [
+      "Person (host/speaker)",
+      "Professional shirt with embroidered name/title",
+      "Inset image: hands and a white bottle with pump dispenser"
+    ],
+    "Background environment": "Indoors, wall with framed photo or artwork, round clock, red curtain or drape, possibly a pink couch/bed visible."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "T'anginika Cusacu",
+      "Sexual Health"
+    ],
+    "Font characteristics": {
+      "Main textual elements": "Embroidered font, yellow color, sans-serif, appears on the person\u2019s shirt, small size.",
+      "Emphasis": "None; the text is secondary and not bold or underlined.",
+      "Color": "Yellow on dark clothing."
+    },
+    "Text placement within frame": "Left-chest of the person in the foreground, lower left quadrant of the image.",
+    "Use of emotional/trigger words": "No emotionally charged or trigger words in the thumbnail text. The words 'Sexual Health' may indirectly cue the subject matter."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional and educational, approachable. The person\u2019s expression and setting suggest authority and trustworthiness on a potentially sensitive topic.",
+    "Visual metaphors or symbols": {
+      "Pump bottle": "Symbolizes lubricant/gel, linking to the theme of the video\u2014safe sexual practices."
+    },
+    "Clickbait techniques employed": [
+      "Direct gaze",
+      "Visual representation of a product associated with the video topic",
+      "Inset image for emphasis"
+    ],
+    "Brand elements present": "Presenter\u2019s name and specialty embroidered on shirt (branding through professional identity). No obvious corporate or channel logo."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The inset image of hands using a pump bottle visually alludes to the discussion of lubricants like Vaseline in sexual contexts, directly linking to the video's title and promising practical information. The presence of a sexual health professional adds credibility.",
+    "Any contrasts or mismatches between thumbnail and title": "There is no explicit Vaseline branding or product shown; the bottle in the inset image is generic, which could create slight ambiguity. The thumbnail remains professional, avoiding overt sexual imagery, which matches the informational tone but may seem less direct than the provocative title."
+  }
+}

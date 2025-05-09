@@ -1,0 +1,12 @@
+{
+  "title": "Totally Wrong Facts Everyone Still Believes",
+  "thumbnail_path": "thumbnails/kDfP5vAbOS0_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

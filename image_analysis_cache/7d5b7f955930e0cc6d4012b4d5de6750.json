@@ -1,0 +1,136 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Blue",
+        "approximate_percentage": 45
+      },
+      {
+        "color": "Magenta/Pink",
+        "approximate_percentage": 15
+      },
+      {
+        "color": "Yellow",
+        "approximate_percentage": 10
+      },
+      {
+        "color": "White",
+        "approximate_percentage": 15
+      },
+      {
+        "color": "Black",
+        "approximate_percentage": 10
+      },
+      {
+        "color": "Skin tones",
+        "approximate_percentage": 5
+      }
+    ],
+    "Composition type": "Composite/Collage (product close-up, medium shot of doctor, mid-shot couple)",
+    "Human presence": {
+      "number_of_people": 3,
+      "expressions": [
+        {
+          "doctor": "Neutral, informative, pointing gesture"
+        },
+        {
+          "man": "Neutral/pleasant, holding hands"
+        },
+        {
+          "woman": "Neutral/pleasant, holding hands"
+        }
+      ],
+      "demographics": [
+        {
+          "doctor": "Male, adult, possibly South Asian"
+        },
+        {
+          "man": "Adult male, fair-skinned"
+        },
+        {
+          "woman": "Adult female, fair-skinned"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Manforce Staylong Gel box/product",
+      "Doctor with stethoscope",
+      "Couple holding hands (man and woman)"
+    ],
+    "Background environment": "Gradient blue with speckled texture, boxed product image on left, embedded photo of couple in the center, doctor on right"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "MANFORCE STAYLONG GEL",
+      "Lidocaine and Prilocaine Gel",
+      "MANforce Staylong Gel",
+      "8g",
+      "Mankind",
+      "\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e"
+    ],
+    "Font characteristics": [
+      {
+        "text": "MANFORCE STAYLONG GEL",
+        "style": "Bold, All Caps, Sans-serif",
+        "emphasis": "High",
+        "color": "Yellow with black outline"
+      },
+      {
+        "text": "Lidocaine and Prilocaine Gel / MANforce Staylong Gel",
+        "style": "Simple, All Caps",
+        "color": "White"
+      },
+      {
+        "text": "\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e",
+        "style": "Bold Devanagari, black with white background for contrast"
+      },
+      {
+        "text": "Mankind",
+        "style": "Italic, Serif",
+        "color": "White"
+      }
+    ],
+    "Text placement within frame": [
+      {
+        "text": "MANFORCE STAYLONG GEL",
+        "placement": "Top center, very prominent"
+      },
+      {
+        "text": "Lidocaine and Prilocaine Gel / MANforce Staylong Gel / 8g / Mankind",
+        "placement": "On the product box image, left side"
+      },
+      {
+        "text": "\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e",
+        "placement": "Large, center of frame in white box"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "STAYLONG",
+      "\u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e (Right way/Correct method)",
+      "Manforce"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, slightly clinical but also hints at intimacy and personal care",
+    "Visual metaphors or symbols": [
+      "Doctor with stethoscope signals authority/credibility",
+      "Couple holding hands symbolizing relationship/romance/intimacy",
+      "Product close-up emphasizes focus on solution"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, attention-grabbing headline",
+      "Text in Hindi specifies 'correct way', appealing to curiosity/need for proper information",
+      "Doctor pointing gesture draws visual attention to main text",
+      "Couple imagery strongly hints at sexual or intimacy advice without being explicit"
+    ],
+    "Brand elements present": [
+      "Manforce product box",
+      "Manforce wordmark",
+      "Doctor (possibly creator's persona for recurring brand of authority)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly supports the title by prominently featuring the Manforce Staylong Gel product, a doctor explaining (signal of 'how to use') and the Hindi text '\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e' (the correct way to use). The couple image reinforces the context of intimacy gently, and all visual cues point toward a tutorial/guide approach, matching the 'how to use' intent from the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatch is evident. Both thumbnail and title focus on usage instructions for Manforce Staylong Gel. The inclusion of the couple is slightly more evocative than the title, aiming for curiosity/clicks, but still relevant to the topic."
+  }
+}

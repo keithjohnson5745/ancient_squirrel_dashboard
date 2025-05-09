@@ -1,0 +1,60 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "60% (background, most of the left side)",
+      "White": "20% (text and parts of the image on the right)",
+      "Green": "8% (highlighted text: 'THE ELECTRICITY CUT OUT AT')",
+      "Yellow": "8% (highlighted text: 'WHAT I FOUND LEFT MY WIFE')",
+      "Skin tones": "2% (person on the right)",
+      "Other (gray, brown, red)": "2% (hair and clothes of the person, sunglasses)"
+    },
+    "Composition type": "Split composition: left two-thirds with text, right one-third with a medium shot photograph of a woman",
+    "Human presence": {
+      "Number": 1,
+      "Expressions": "Neutral to slight smile",
+      "Demographics": "Appears to be an adult female, light skin tone, brown hair, wearing sunglasses"
+    },
+    "Main objects/props featured": [
+      "Sunglasses worn by the woman",
+      "Dark top/blazer"
+    ],
+    "Background environment": "Not distinct; the background behind the woman is blurred and light-colored, possibly outdoors, but details are indeterminate"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": "\"THE ELECTRICITY CUT OUT AT WORK, SO I HEADED HOME \u2014 WHAT I FOUND LEFT MY WIFE SPEECHLESS \ud83d\ude31\"",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase",
+      "Emphasis": [
+        "Color: green for 'THE ELECTRICITY CUT OUT AT'",
+        "White for most other words",
+        "Yellow for 'WHAT I FOUND LEFT MY WIFE'",
+        "Speechless partly in white, followed by a shocked face emoji"
+      ]
+    },
+    "Text placement within frame": "Text is left-aligned, occupying the majority of the left two-thirds of the thumbnail",
+    "Use of emotional/trigger words": [
+      "SPEECHLESS",
+      "WHAT I FOUND",
+      "LEFT MY WIFE",
+      "\ud83d\ude31 (shocked face emoji)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Suspenseful, shocking, intriguing; hints at drama and possible scandal",
+    "Visual metaphors or symbols": [
+      "Shocked face emoji to symbolize surprise/shock",
+      "Woman in sunglasses as possible 'wife' or central figure in the story"
+    ],
+    "Clickbait techniques employed": [
+      "Teasing unresolved situation ('WHAT I FOUND...')",
+      "Use of all-caps for dramatic emphasis",
+      "Inclusion of shocked emoji for emotional trigger",
+      "Partial quote and incomplete information in text"
+    ],
+    "Brand elements present": "No explicit brand logos or repeated design elements apparent"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text on the thumbnail nearly matches the video title word-for-word, emphasizing the suspenseful narrative in both. The image of a stylish woman could imply she is the wife referenced, adding a face to the story.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch; however, the photo of the woman appears neutral and calm, which might contrast with the expected drama or shock implied by 'speechless' and the shocked emoji. No visual evidence of infidelity is present, despite the hashtag '#cheating' in the title."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Premature Ejaculation: Causes and Cure",
+  "thumbnail_path": "thumbnails/Cas_5uwSHvA_max.jpg",
+  "title_length": 38,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

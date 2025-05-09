@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 55% (background)",
+      "White": "20% (text, doctor's coat, spray can highlights)",
+      "Grey/Silver": "10% (spray can)",
+      "Yellow/Gold": "8% (the word 'Spray')",
+      "Skin tones": "5% (hand, face)",
+      "Blue": "2% (banner text at bottom)"
+    },
+    "Composition type": "Split composition, featuring a close-up of a hand holding a spray can on the left (medium close-up), and a medium shot of a single woman (doctor) on the right.",
+    "Human presence": {
+      "Count": 1,
+      "Expression": "Neutral, slight smile, professional demeanor",
+      "Demographics": "Adult woman, appears to be of South Asian descent, dressed in a doctor's white coat"
+    },
+    "Main objects/props featured": [
+      "Spray can (being held by hand, finger on nozzle)",
+      "Woman in a doctor's white coat"
+    ],
+    "Background environment": "Solid black, minimalist design with no contextual background elements"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Spray \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?",
+      "\u091c\u0930\u0942\u0930 \u0905\u092a\u0928\u093e\u092f\u0947 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901",
+      "Dr. Neha Mehta",
+      "Consultant Psychologist"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "Spray",
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "High",
+        "Color": "Yellow/Gold"
+      },
+      {
+        "Text": "\u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902?",
+        "Style": "Bold, rounded Devanagari script",
+        "Emphasis": "High",
+        "Color": "White"
+      },
+      {
+        "Text": "\u091c\u0930\u0942\u0930 \u0905\u092a\u0928\u093e\u092f\u0947 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901",
+        "Style": "Bold, sans-serif, Hindi script",
+        "Emphasis": "Medium to high",
+        "Color": "Dark blue"
+      },
+      {
+        "Text": "Dr. Neha Mehta | Consultant Psychologist",
+        "Style": "Professional, sans-serif",
+        "Emphasis": "Medium",
+        "Color": "White on black background, pink accent bar"
+      }
+    ],
+    "Text placement within frame": [
+      "\u2018Spray\u2019 (large, upper left/middle)",
+      "\u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902? (middle, central)",
+      "\u091c\u0930\u0942\u0930 \u0905\u092a\u0928\u093e\u092f\u0947 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901 (lower banner, left)",
+      "Dr. Neha Mehta Consultant Psychologist (lower right, inside dark box)"
+    ],
+    "Use of emotional/trigger words": [
+      "\u091c\u0930\u0942\u0930 (must/definitely)",
+      "\u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901 (precautions)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautious but informative, with a reassuring and professional vibe.",
+    "Visual metaphors or symbols": [
+      "Spray can: Directly symbolic of the 'delay spray' mentioned in the title.",
+      "Doctor's coat: Symbolizes expertise, authority, and trustworthiness."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold and colorful keywords ('Spray', '\u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901')",
+      "Promise of important safety tips",
+      "Presence of a professional (doctor) to increase credibility"
+    ],
+    "Brand elements present": [
+      "Dr. Neha Mehta (name and credentials displayed prominently, recurring branding for the video creator)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually backs up the title by showing a spray can and a consultant psychologist, both directly connected to 'Precautions while using Delay Spray'. The use of the word '\u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0901' (precautions) in bold, and the doctor's image, reinforce the educational and cautionary promise of the title.",
+    "Contrasts or mismatches": "No significant mismatch observed; both thumbnail and title are congruent, focused on precautionary usage of a product under expert guidance."
+  }
+}

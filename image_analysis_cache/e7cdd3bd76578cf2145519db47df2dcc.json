@@ -1,0 +1,66 @@
+{
+  "1. VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "\u224845% (background, tops of filters, divider bar)",
+      "Orange": "\u224825% (bodies of oil filters)",
+      "White": "\u224810% (numbers written on oil filters, main text)",
+      "Yellow-Gold": "\u224820% (background gradient)"
+    },
+    "Composition type": "Medium shot, divided into two symmetrical halves ('FILLED' left, 'DRY' right).",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "Large groups of numbered black-and-orange oil filters (labeled 'FRAM')",
+      "Metal bearing shell samples (center of each half)",
+      "Bold divider in the middle"
+    ],
+    "Background environment": "Flat yellow-gold gradient, cleanly presented for contrast and focus on main objects."
+  },
+  "2. TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FILLED",
+      "DRY",
+      "1-25, 26-50 (handwritten numbers on filter tops)",
+      "FRAM (on filter bodies)"
+    ],
+    "Font characteristics": {
+      "Main labels (FILLED/DRY)": "All-caps, bold, sans-serif, white, modern, high contrast.",
+      "Handwritten numbers": "White paint marker or similar, informal style, moderately large.",
+      "FRAM": "Blocky, uppercase, printed on the product label."
+    },
+    "Text placement within frame": {
+      "FILLED": "Top left, above left group of filters",
+      "DRY": "Top right, above right group of filters",
+      "Numbers": "On top of each individual filter",
+      "FRAM": "On each filter's orange label, lower part of image"
+    },
+    "Use of emotional/trigger words": [
+      "FILLED",
+      "DRY"
+    ]
+  },
+  "3. THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Scientific, comparative, objective, but also bold/decisive. Slight intrigue via strong visual split and big text.",
+    "Visual metaphors or symbols": [
+      "Side-by-side split visually represents a scientific experiment or comparison.",
+      "Numbered items reinforce systematic testing, suggesting thoroughness.",
+      "Clean, industrial tone connects to automotive/mechanical themes."
+    ],
+    "Clickbait techniques employed": [
+      "Bold, contrasting text and colors for immediate comprehension.",
+      "Visually loaded with many objects (filters), conveying depth of test.",
+      "Central display of wear parts (bearings) hints at real consequences, piquing curiosity."
+    ],
+    "Brand elements present": [
+      "FRAM oil filters (brand logo and color consistent on all objects)",
+      "General automotive motif"
+    ]
+  },
+  "4. THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s explicit side-by-side of 'FILLED' versus 'DRY,' with a large number of tested filters and central wear parts, directly underlines the video\u2019s investigative promise ('The TRUTH,' 'ACTUAL SCIENCE'). The visible scientific approach (numbers, wear comparison) supports the theme of real testing.",
+    "Any contrasts or mismatches between thumbnail and title": "There is close alignment; however, the text does not state 'oil filter' directly, relying on familiarity with the FRAM design. Viewers unfamiliar with these may not immediately realize what is being tested, though the strong experimental layout compensates for this."
+  }
+}

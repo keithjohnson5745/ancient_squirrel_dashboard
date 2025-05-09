@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (navy/royal, shirt)": "40%",
+      "Beige (skin tone)": "25%",
+      "Gray/tan (background shelves)": "20%",
+      "Red/yellow (product packaging)": "10%",
+      "Black (hair, some shelves)": "5%"
+    },
+    "Composition type": "Medium close-up shot (torso and face visible, hands held up to camera)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Slightly uncomfortable, explanatory, maybe demonstrating or reacting to an awkward topic",
+      "demographics": "Adult male, medium skin tone, middle-aged"
+    },
+    "Main objects/props featured": [
+      "Man's hands making a suggestive gesture (one finger encircled by the other hand)",
+      "Shelves filled with pharmacy or general store products (bottles, boxes, packs)"
+    ],
+    "Background environment": "Indoor retail/shop setting, cluttered shelves with various health, hygiene, and convenience products."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible in thumbnail": [
+      "\u090f\u0915\u094d\u091f \u0938\u0947\u092b",
+      "ACT SAFE",
+      "\u092a\u0947\u0902\u091f \u0938\u0947\u092b"
+    ],
+    "Font characteristics": {
+      "style": "Simple sans-serif, bold for 'ACT SAFE', Hindi script for other text",
+      "emphasis": "High (mostly on product packaging to catch attention)",
+      "color": "Yellow and red (on product packaging and small hanging strip)",
+      "size": "Small (mostly background, not focal to the thumbnail)"
+    },
+    "Text placement within frame": "Mostly located in the background, upper right/center and slightly towards the top, attached to products on the shelves.",
+    "Use of emotional/trigger words": [
+      "Safe",
+      "\u090f\u0915\u094d\u091f",
+      "\u092a\u0947\u0902\u091f"
+    ],
+    "Safe": "mildly triggers interest but not dramatic; words are incidental to the main scene and not directly connected to the video\u2019s title theme."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Candid, slightly awkward or educational tone, potentially addressing a sensitive/personal issue with a demonstrative approach.",
+    "Visual metaphors or symbols": [
+      "The main metaphor is the hand gesture (one finger encircled by the other hand/finger), suggestively used to indicate penetration or a sexual problem visually while avoiding explicit imagery."
+    ],
+    "Clickbait techniques employed": [
+      "Direct visual reference to a sensitive or embarrassing topic (sex/early discharge) without explicit nudity; hand gesture as indirect but clear metaphor.",
+      "Facial expression of discomfort or seriousness\u2014promises a 'solution/explanation' feel."
+    ],
+    "Brand elements present": "Product brands in the background (e.g., 'ACT SAFE'), but not the main channel branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail\u2019s hand gesture clearly symbolizes the topic discussed in the title (premature ejaculation/discharge before sex or by touch), making the subject visually relatable without using explicit graphics. The serious/awkward expression of the presenter also aligns with the title\u2019s focus on a delicate problem.",
+    "Any contrasts or mismatches between thumbnail and title": "While the image is suggestive, it remains appropriate for a public platform by opting for a metaphorical gesture rather than an explicit image. The product-related text does not directly relate to the title but acts as ambient background, not the visual focus; the focus stays on the hand gesture and the presenter\u2019s face."
+  }
+}

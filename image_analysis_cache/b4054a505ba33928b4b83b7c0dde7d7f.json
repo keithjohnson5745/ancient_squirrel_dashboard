@@ -1,0 +1,110 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": [
+      {
+        "color": "Dark Blue",
+        "percentage": 45
+      },
+      {
+        "color": "Green",
+        "percentage": 25
+      },
+      {
+        "color": "Red",
+        "percentage": 15
+      },
+      {
+        "color": "Yellow",
+        "percentage": 10
+      },
+      {
+        "color": "White",
+        "percentage": 5
+      }
+    ],
+    "composition_type": "Split composition: left side features a medium shot of a couple and right side features a medium-close shot of a woman pointing",
+    "human_presence": {
+      "number_of_people": 3,
+      "expressions": [
+        "Left: Male - affectionate, Female (with male) - neutral/closed eyes",
+        "Right: Female - confident, slight smile, pointing gesture"
+      ],
+      "demographics": [
+        "Two adults (likely male-female couple, left), One adult woman (right)"
+      ]
+    },
+    "main_objects_props_featured": [
+      "A couple in a close intimate pose (left)",
+      "A woman in professional attire pointing (right)"
+    ],
+    "background_environment": "Simple, blended blue/green background with strong color overlays for text; no significant environmental details"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": [
+      "\u0914\u0930\u0924 \u0915\u0940 \u0938\u0902\u0924\u0941\u0937\u094d\u091f\u093f \u0915\u0947 4 \u0930\u093e\u091c",
+      "1 MILLIONS+ VIEWS",
+      "4 SECRETS TO FEMALE SATISFACTION"
+    ],
+    "font_characteristics": [
+      {
+        "text": "\u0914\u0930\u0924 \u0915\u0940 \u0938\u0902\u0924\u0941\u0937\u094d\u091f\u093f \u0915\u0947 4 \u0930\u093e\u091c",
+        "style": "Bold, sans-serif (Devanagari), uppercase mix, yellow/white on red and yellow on blue",
+        "emphasis": "Very high",
+        "color": "Yellow/White"
+      },
+      {
+        "text": "1 MILLIONS+ VIEWS",
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "Very high, important keywords in yellow",
+        "color": "Yellow (1 MILLIONS+), White (VIEWS)",
+        "background": "Red rectangle"
+      },
+      {
+        "text": "4 SECRETS TO FEMALE SATISFACTION",
+        "style": "Bold, sans-serif, uppercase",
+        "emphasis": "High, keywords 'FEMALE SATISFACTION' in yellow",
+        "color": "Yellow/White/Red"
+      }
+    ],
+    "text_placement_within_frame": [
+      "Top center (Hindi main headline)",
+      "Center/middle (Hindi subheadline)",
+      "Bottom left (views count)",
+      "Bottom (English subtitle)"
+    ],
+    "emotional_trigger_words": [
+      "SECRETS",
+      "SATISFACTION",
+      "MILLIONS+",
+      "VIEWS"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Intriguing, educational, with underlying intimacy and authority",
+    "visual_metaphors_or_symbols": [
+      "Intimate pose of couple symbolizes sexual/relationship satisfaction",
+      "Woman pointing may symbolize guidance/expert advice"
+    ],
+    "clickbait_techniques_employed": [
+      "Use of the word 'secrets'",
+      "Highlighting large viewer count ('1 MILLIONS+ VIEWS')",
+      "Strong, contrasting colors to catch attention",
+      "Promise of expert advice (doctor figure, expert pose)"
+    ],
+    "brand_elements_present": [
+      "Doctor/expert imagery (woman in white coat)",
+      "Professional look suggesting authority"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement_of_title": [
+      "The thumbnail\u2019s Hindi headline exactly matches the topic of the video (female satisfaction, 4 secrets)",
+      "The presence of a doctor/expert aligns with the expert/educational tone signaled by 'Dr. Neha Mehta' in the title",
+      "The intimate couple image visually anchors the topic of satisfaction"
+    ],
+    "contrasts_or_mismatches": [
+      "The bottom text in English says '4 SECRETS TO FEMALE SATISFACTION' but the topic/title is about female satisfaction, not specifically 'to female satisfaction' which might confuse slightly, but the meaning is similar",
+      "Tiny mismatch: The thumbnail may induce an expectation of both intimacy and clinical expertise, requiring the actual video to balance both aspects"
+    ]
+  }
+}

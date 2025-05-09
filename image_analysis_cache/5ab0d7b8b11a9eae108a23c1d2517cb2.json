@@ -1,0 +1,96 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Blue",
+        "percentage": 30
+      },
+      {
+        "color": "Brown (background bricks)",
+        "percentage": 30
+      },
+      {
+        "color": "White (text and interface elements)",
+        "percentage": 20
+      },
+      {
+        "color": "Skin tones (woman\u2019s face)",
+        "percentage": 15
+      },
+      {
+        "color": "Red (YouTube logo, lipstick)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (shoulder-up portrait of a woman on left, with text on right)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Warm, approachable smile; direct eye contact with camera",
+      "demographics": "Adult woman, likely Indian"
+    },
+    "Main objects/props featured": [
+      "Woman in a blue saree with a necklace",
+      "Text boxes",
+      "Social media icons (Facebook, YouTube)"
+    ],
+    "Background environment": "Indoors, likely clinic or professional office; brown patterned tiled wall, blurred to focus on subject"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "\u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0915\u0948\u0938\u0947 \u092c\u0928\u0947 ?",
+      "\u0921\u0949. \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092a\u0941\u0930\u093e\u0923\u093f\u0915, \u092a\u0941\u0923\u0947",
+      "5.1M+ Views"
+    ],
+    "Font characteristics": {
+      "Main headline": {
+        "style": "Bold, sans-serif, clear, modern",
+        "emphasis": "High contrast (white text on blue box)",
+        "color": "White on blue background"
+      },
+      "Subheadline": {
+        "style": "Sans-serif, regular",
+        "emphasis": "White text",
+        "color": "White"
+      },
+      "View count": {
+        "style": "Bold, sans-serif",
+        "emphasis": "Black on white circle",
+        "color": "Black"
+      }
+    },
+    "Text placement": {
+      "Main headline": "Right side, centered in blue rectangle",
+      "Subheadline": "Bottom right, under headline within blue box",
+      "View count": "Bottom left corner, inside white circle"
+    },
+    "Use of emotional/trigger words": [
+      "\u092a\u094d\u0930\u0947\u0917\u094d\u0928\u0947\u0902\u091f \u0915\u0948\u0938\u0947 \u092c\u0928\u0947?",
+      "How to get pregnant?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, caring, supportive, trustworthy",
+    "Visual metaphors or symbols": [
+      "Smiling doctor in sari conveys authority and approachability",
+      "Clinic/office background suggests expertise"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question in headline",
+      "High view count displayed prominently",
+      "Friendly expert face"
+    ],
+    "Brand elements present": [
+      "Doctor\u2019s name and location",
+      "Social media platform icons (YouTube, Facebook)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail features a professional woman in clinical setting, reinforcing expertise on pregnancy topic mentioned in title",
+      "Direct, inviting headline mirrors the title\u2019s question"
+    ],
+    "Contrasts/mismatches": [
+      "No major contradictions; thumbnail and title are well aligned"
+    ]
+  }
+}

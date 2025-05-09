@@ -1,0 +1,13 @@
+{
+  "title": "Skincare Trends\u00a0That Need to STOP | Dr. Sam Ellis",
+  "thumbnail_path": "thumbnails/WDU2uM2qaQ8_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.6
+}

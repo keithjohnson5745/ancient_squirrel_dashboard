@@ -1,0 +1,49 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light lavender/purple": "40%",
+      "Dark blue/charcoal": "30%",
+      "White": "15%",
+      "Skin tones": "10%",
+      "Yellow (text)": "5%"
+    },
+    "Composition type": "Medium shot (waist-up shot of a single person occupying the left half, pointing towards text on the right)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expression": "Smiling, appears welcoming and enthusiastic",
+      "Demographics": "Adult female, medium-dark skin tone, curly hair, wearing glasses"
+    },
+    "Main objects/props featured": [
+      "Person (pointing)",
+      "T-shirt with an illustrated bust/ribbon graphic"
+    ],
+    "Background environment": "Abstract; half dark blue/charcoal and half light lavender. No realistic background elements, focused on person and text."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "LUBE: WHAT YOU SHOULD KNOW",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, modern/clean",
+      "Emphasis": "Words 'LUBE:' and 'WHAT YOU SHOULD KNOW' are both capitalized; 'LUBE:' is in yellow with a heavy drop-shadow, 'WHAT YOU SHOULD KNOW' in white/light blue with shadow for impact",
+      "Color": "'LUBE:' is yellow with black drop shadow, rest is white with dark outline/shadow"
+    },
+    "Text placement within frame": "Right-hand side of thumbnail, vertical stack; 'LUBE:' on top, 'WHAT YOU SHOULD KNOW' below. Takes up roughly half of the thumbnail, balanced visually by the person on the left.",
+    "Use of emotional/trigger words": "'LUBE:' is direct and evokes curiosity/importance; 'WHAT YOU SHOULD KNOW' implies essential, potentially surprising information (curiosity, FOMO)"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Friendly, informative, accessible\u2014aims to set viewer at ease while discussing a topic that may be sensitive or embarrassing for some",
+    "Visual metaphors or symbols": [
+      "The act of pointing draws focus to the text and topic, conveys importance and directness",
+      "The t-shirt graphic (ribbon + bust) suggests health/medical/awareness themes, possibly women's health"
+    ],
+    "Clickbait techniques employed": [
+      "Capitalized, impactful wording ('WHAT YOU SHOULD KNOW')",
+      "Direct reference to a topic that may be taboo or not commonly discussed ('LUBE')",
+      "Promise of valuable or crucial information"
+    ],
+    "Brand elements present": "No explicit branding/logos, but the t-shirt graphic could hint at a personal or health-related brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text in the thumbnail closely matches the video title theme ('LUBE: WHAT YOU SHOULD KNOW' vs 'What You Need to Know About Lubricants'). The person smiling and pointing visually conveys friendliness and encouragement to engage with an 'awkward' topic, making it approachable.",
+    "Any contrasts or mismatches between thumbnail and title": "The words 'Best Lube' in the title are not directly referenced in the thumbnail, which focuses on general knowledge rather than reviews/comparisons. The tone, however, remains consistent between both."
+  }
+}

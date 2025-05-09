@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (various shades)": "70%",
+      "White": "20%",
+      "Skin tones": "7%",
+      "Black (hair, shirt)": "3%"
+    },
+    "Composition type": "Medium close-up of a woman in the foreground (left), with an inset image in the background (right) showing a woman and a man in bed.",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": {
+        "Foreground woman": "Raised eyebrow, skeptical/confused facial expression",
+        "Background woman": "Neutral, possibly frustrated or disappointed",
+        "Background man": "Lying down, appears to be sleeping or resting, neutral or tired"
+      },
+      "Demographics": {
+        "Foreground woman": "Adult, appears to be of Asian descent",
+        "Background woman & man": "Adults"
+      }
+    },
+    "Main objects/props featured": [
+      "Woman in a doctor's/lab coat (foreground)",
+      "Bed with two people under covers (background)"
+    ],
+    "Background environment": "Gradient blue graphic background with a faded, blue-tinted inset photo of a couple in bed (woman sitting up, man lying down)."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "Men Can't Go for Round 2?"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold",
+      "Emphasis": "All caps, heavy weight, high contrast",
+      "Color": "White with dark blue drop shadow"
+    },
+    "Text placement within frame": "Top right quadrant, occupying roughly one-third of the thumbnail.",
+    "Use of emotional/trigger words": [
+      "\"Can't\", implies limitation or frustration",
+      "\"Round 2\", colloquial phrase referencing repeated sexual activity"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly provocative, informative with a hint of frustration or concern.",
+    "Visual metaphors or symbols": [
+      "Doctor's coat implies authority and medical knowledge",
+      "Couple in bed visually symbolizes the topic of sexual performance and refractory period"
+    ],
+    "Clickbait techniques employed": [
+      "Directly posing a question ('Men Can't Go for Round 2?')",
+      "Suggestive imagery (couple in bed)",
+      "Intrigue via limitation-based language ('Can't')"
+    ],
+    "Brand elements present": [
+      "Logo/text on doctor's coat: 'DrDoctor.com'",
+      "Name tag: 'Larissa Guerrero, FNP-BC'"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The text in the thumbnail is a simplified, more provocative version of the video title, directly asking the central question. The presence of a woman in a doctor\u2019s coat positions the content as medically authoritative, while the secondary image of a couple in bed visually represents the theme of the refractory period and male sexual performance.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail uses a more conversational and triggering question ('Men Can't Go for Round 2?') compared to the more clinical and explanatory full video title. The image avoids explicit sexual content, opting instead for innuendo and implication."
+  }
+}

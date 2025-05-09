@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark maroon/brown": "60%",
+      "Yellow": "15%",
+      "Red": "10%",
+      "White": "10%",
+      "Skin tones": "5%"
+    },
+    "Composition type": "Medium shot (shows upper body of a person alongside graphic elements)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/confident, slightly serious, direct gaze toward camera",
+      "Demographics": "Adult female, Indian ethnicity, professional appearance"
+    },
+    "Main objects/props featured": [
+      "Two bananas (possibly used as a metaphorical object for size/growth)",
+      "Text boxes",
+      "Person pointing upward with both hands",
+      "On-screen nameplate: 'Dr. Neha Mehta, Consultant Psychologist'"
+    ],
+    "Background environment": "Solid dark maroon/brown background with graphic props (bananas) and text overlays. Simple, digitally composed."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Size \u092c\u0921\u093c\u093e \u0915\u0930\u0928\u093e \u0939\u0948",
+      "\u0924\u094b \u0910\u0938\u0947 \u0915\u0930\u094b \u092e\u0938\u093e\u091c",
+      "Dr. Neha Mehta CONSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, simple with strong legibility",
+      "Emphasis": "Large font sizes, certain words (e.g., 'Size', '\u092c\u0921\u093c\u093e', '\u092e\u0938\u093e\u091c') highlighted via color and size contrast",
+      "Color": [
+        "White (for 'Size')",
+        "Yellow (for '\u092c\u0921\u093c\u093e \u0915\u0930\u0928\u093e \u0939\u0948')",
+        "Red and yellow (for '\u0924\u094b \u0910\u0938\u0947 \u0915\u0930\u094b \u092e\u0938\u093e\u091c')"
+      ]
+    },
+    "Text placement within frame": {
+      "Top left": "'Size \u092c\u0921\u093c\u093e \u0915\u0930\u0928\u093e \u0939\u0948'",
+      "Lower middle, across a red bar": "'\u0924\u094b \u0910\u0938\u0947 \u0915\u0930\u094b \u092e\u0938\u093e\u091c'",
+      "Bottom center-right": "'Dr. Neha Mehta CONSULTANT PSYCHOLOGIST' nameplate"
+    },
+    "Use of emotional/trigger words": [
+      "Size \u092c\u0921\u093c\u093e \u0915\u0930\u0928\u093e \u0939\u0948"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Instructive, authoritative, slightly provocative (via size-related text and imagery); aiming to intrigue/engage",
+    "Visual metaphors or symbols": "Bananas used as innuendo/metaphor for male anatomy and the concept of 'size'",
+    "Clickbait techniques employed": [
+      "Bold claim/question ('Size \u092c\u0921\u093c\u093e \u0915\u0930\u0928\u093e \u0939\u0948')",
+      "Innuendo-based imagery (bananas)",
+      "Visible expert presence (doctor/psychologist's photo and name)",
+      "Direct instructional promise ('\u0924\u094b \u0910\u0938\u0947 \u0915\u0930\u094b \u092e\u0938\u093e\u091c')"
+    ],
+    "Brand elements present": [
+      "Nameplate with 'Dr. Neha Mehta CONSULTANT PSYCHOLOGIST'"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail uses suggestive imagery (bananas) and direct instructional text ('\u0924\u094b \u0910\u0938\u0947 \u0915\u0930\u094b \u092e\u0938\u093e\u091c') to visually represent the video's title '\u092e\u0938\u093e\u091c \u0915\u0930\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e'. The presence of a medical professional adds credibility and promises expertise, matching the instructional/authoritative implication of the title.",
+    "Contrasts or mismatches between thumbnail and title": "There is a strong alignment; the only subtle area is the heavy use of clickbait visual metaphors (bananas) versus the likely more clinical discussion in the video. The textual claim about increasing 'size' goes beyond just correct massage technique, hinting at transformative results, which might exaggerate the actual video content."
+  }
+}

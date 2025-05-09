@@ -1,0 +1,13 @@
+{
+  "title": "Salsa Romantica Mix | Los Exitos Mas Grande | Mezcla Para Bailar | Viejitas Pero Bonitas",
+  "thumbnail_path": "thumbnails/j9kLl156GDw_max.jpg",
+  "title_length": 88,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

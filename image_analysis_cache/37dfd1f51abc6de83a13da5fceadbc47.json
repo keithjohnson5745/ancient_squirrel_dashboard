@@ -1,0 +1,64 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Golden yellow/brown (curtains and background)": "50%",
+      "Red (border/frame)": "10%",
+      "Black (shirt, part of sofa, shadows)": "15%",
+      "Yellow (text)": "10%",
+      "Turquoise (text)": "5%",
+      "Light beige/skin tones": "10%"
+    },
+    "Composition type": "Medium shot: split composition with two people facing each other, upper body visible.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Engaged, mid-speech, gesturing with hands (appears facilitating or explaining).",
+        "Right: Alert/anxious, arms crossed over chest (suggesting defensive posture or self-soothing)."
+      ],
+      "Demographics": "Both appear adult women; left has long brown hair and olive skin, right has light skin and blonde hair."
+    },
+    "Main objects/props": [
+      "Hands visible and used expressively (left person gesturing, right person crossing arms over chest).",
+      "Possibly a sofa or chair in the background. No distinctive therapy tools visible."
+    ],
+    "Background environment": "Indoor, warm-toned room with golden/brown curtains, soft lamp, and partially visible sofa."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": "EMDR SESSION",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase.",
+      "Emphasis": "Very high; text is large, bold, and spans the width of the frame.",
+      "Color": [
+        "EMDR: bright yellow, very attention-grabbing",
+        "SESSION: bright aqua/cyan, bold contrast with background"
+      ]
+    },
+    "Text placement within frame": "Bottom center, occupying the lower quarter of the thumbnail.",
+    "Use of emotional/trigger words": [
+      "EMDR (therapy-related, specialized term, sparks curiosity)",
+      "SESSION (direct, implies hands-on demonstration or real experience)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, focused, somewhat intense (reinforced by expressions and body language), but not threatening.",
+    "Visual metaphors or symbols": [
+      "Gesturing hands and crossed arms suggest communication, emotional work, and possibly vulnerability or nervousness (relevant to therapy context)."
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text for instant clarity and curiosity.",
+      "Use of real people with expressive faces to humanize and dramatize the subject.",
+      "Visual contrast between facilitator and participant roles."
+    ],
+    "Brand elements present": "No explicit brand logos or colors; style indicative of therapy/psychology content."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How thumbnail visually reinforces the title": [
+      "Thumbnail literally shows a session-like setup, with one person possibly acting as therapist and the other as client.",
+      "Expressions and body language match expectations for a therapeutic process (one instructing/explaining, one performing a possible EMDR-related movement).",
+      "Text directly repeats the title, confirming content."
+    ],
+    "Any contrasts or mismatches": [
+      "No significant mismatch; however, without explicit props (like a clinician\u2019s office or EMDR tools), some viewers unfamiliar with EMDR might not instantly recognize the therapy type from visuals alone; informed viewers will see the implications."
+    ]
+  }
+}

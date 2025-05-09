@@ -1,0 +1,59 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light gray/white": "40% (background wall, text area)",
+      "Black/dark gray": "30% (couch, picture frames, man's hair and eyebrows)",
+      "Light blue": "15% (man's shirt)",
+      "Skin tones": "10% (man's face and arms)",
+      "Yellow/orange": "5% (emoji faces)"
+    },
+    "Composition type": "Medium close-up (torso and head visible, direct to camera)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Confused or uncertain, raised eyebrows, neutral-to-amused mouth",
+      "Demographics": "Young adult, medium complexion, male-presenting"
+    },
+    "Main objects/props featured": [
+      "Man in light blue shirt",
+      "Five drooling/tongue-out face emojis"
+    ],
+    "Background environment": "Indoor, modern and minimalistic living space with couch and framed art on the wall"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "DIY LUBE",
+    "Font characteristics": {
+      "Style": "Bold, uppercase sans-serif",
+      "Emphasis": "Strong (large font, all caps, black letters with white outline)",
+      "Color": "Black text with white outline"
+    },
+    "Text placement within frame": "Left side, stacked vertically ('DIY' on top, 'LUBE' beneath), taking up about one third of the thumbnail",
+    "Use of emotional/trigger words": [
+      "DIY",
+      "LUBE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, cheeky, mildly provocative. Slightly humorous/awkward due to expression.",
+    "Visual metaphors or symbols": [
+      "Drooling/tongue-out emojis symbolize saliva/spit, playfully referencing the DIY lube topic."
+    ],
+    "Clickbait techniques employed": [
+      "Use of emojis for humor/curiosity",
+      "Direct, provocative question implied (about lube and spit)",
+      "Facial expression suggests surprise or a controversial topic",
+      "Bold, clear text"
+    ],
+    "Brand elements present": "No explicit logo or branding, but the consistent use of font, background environment, and on-screen personality could serve as soft branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": [
+      "The phrase 'DIY LUBE' is the visual focus, matching the video's title content.",
+      "Drooling tongue-out emojis clearly reference 'spit,' visually nodding to 'Does Spit Work as Lube?'.",
+      "Man\u2019s amused/confused face matches the provocative and playful nature of the title."
+    ],
+    "Contrasts or mismatches between thumbnail and title": [
+      "No direct mention of 'spit' in the thumbnail text (replaced by emojis as visual code).",
+      "Thumbnail is more playful/lighthearted while the title could be interpreted as more factual or instructive."
+    ]
+  }
+}

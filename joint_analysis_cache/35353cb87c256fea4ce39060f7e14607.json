@@ -1,0 +1,13 @@
+{
+  "title": "Rutger Bregman - \u201cMoral Ambition\u201d | The Daily Show",
+  "thumbnail_path": "thumbnails/djKBIET9kMw_max.jpg",
+  "title_length": 50,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

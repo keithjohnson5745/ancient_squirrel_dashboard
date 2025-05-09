@@ -1,0 +1,85 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/Light Cream (background)": "40%",
+      "Black (shirt, objects, shelving)": "25%",
+      "Green (cutting mat, small props)": "10%",
+      "Yellow (sponges, some book spines)": "10%",
+      "White (table, gloves, paper)": "10%",
+      "Blue (controller)": "3%",
+      "Other accent colors (multi-color books/objects)": "2%"
+    },
+    "Composition type": "Medium shot (waist up, central figure at a table, objects clearly displayed)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, enthusiastic, open-mouthed (engaged and inviting)",
+      "Demographics": {
+        "Apparent gender": "Male-presenting",
+        "Age": "Young adult",
+        "Ethnicity": "Not explicitly clear, fair/light skin tone"
+      }
+    },
+    "Main objects/props featured": [
+      "Yellow cleaning sponges",
+      "Clear glass jar",
+      "Latex glove",
+      "Scissors",
+      "Tube of cream/lotion",
+      "Bottle of sushi vinegar",
+      "Orange screwdriver",
+      "Black tape ring"
+    ],
+    "Background environment": "Home office or living room, visible bookshelf with books and trinkets (Eiffel tower, Rubik's cube, game controller), framed images and gaming memorabilia, neutral wall color"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "UNDETECTABLE = SAFE",
+      "FAMILY SPONGE",
+      "DELICIOUS SMOOTH"
+    ],
+    "Font characteristics": {
+      "UNDETECTABLE = SAFE": {
+        "Style": "Sans-serif, all caps",
+        "Emphasis": "Moderate, small on t-shirt",
+        "Color": "Light green"
+      },
+      "FAMILY SPONGE": {
+        "Style": "Sans-serif, uppercase",
+        "Emphasis": "Bold, product label",
+        "Color": "Blue-yellow label"
+      },
+      "DELICIOUS SMOOTH": {
+        "Style": "Sans-serif, lowercase",
+        "Emphasis": "Medium, product tube",
+        "Color": "Blue"
+      }
+    },
+    "Text placement within frame": {
+      "UNDETECTABLE = SAFE": "On center of shirt, chest area of person",
+      "FAMILY SPONGE": "On sponge packaging, on table",
+      "DELICIOUS SMOOTH": "On tube, on table"
+    },
+    "Use of emotional/trigger words": [
+      "UNDETECTABLE = SAFE"
+    ],
+    "Notes": "No large, superimposed text typical for clickbait; all text is part of physical objects or apparel"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, light-hearted, upbeat; conveys curiosity and fun",
+    "Visual metaphors or symbols": [
+      "Everyday household objects laid out for unconventional use, reinforcing theme of DIY",
+      "Enthusiastic gesture and smile from central figure signaling intrigue and fun"
+    ],
+    "Clickbait techniques employed": [
+      "Double entendre in video concept ('DIY Adult Toys'),",
+      "Overt display of everyday objects implying a humorous or surprising twist"
+    ],
+    "Brand elements present": [
+      "T-shirt with slogan 'UNDETECTABLE = SAFE', potentially referencing a campaign or channel identity"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "Thumbnail visually reinforces the title by showing a variety of household items (e.g. sponges, gloves, jar, cream) commonly associated with DIY but, in this context, humorously alluding to 'adult toys' through their arrangement and the suggestive video title.",
+    "Contrasts/mismatches": "The thumbnail itself remains visually PG and non-explicit, relying on innuendo. The playful, innocent props contrast with the mature subject implied by the title, heightening curiosity without showing anything overt or explicit."
+  }
+}

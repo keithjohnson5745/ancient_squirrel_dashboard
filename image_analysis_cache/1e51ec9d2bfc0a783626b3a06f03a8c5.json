@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approximately 50% (background, hair, shadows)",
+      "White/Grayscale": "Approximately 40% (faces, clothing, overall monochrome effect)",
+      "Red": "Approximately 8% (background of text boxes for emphasis)",
+      "Other": "About 2% (skin tones subtly visible through grayscale, some slight color accents)"
+    },
+    "Composition type": "Split close-up (faces of two individuals dominate each half of the frame)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Neutral to slightly serious expressions; both are looking toward the camera",
+      "Demographics": "One man (left), one woman (right); both are adults"
+    },
+    "Main objects/props featured": "Only the faces of the two individuals are present; man in shirt and tie, woman in dark patterned top",
+    "Background environment": "Solid black, fading edge effect; no discernible environment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Why Men Cheat",
+      "DANICA PATRICK PRETTY INTENSE"
+    ],
+    "Font characteristics": {
+      "Why Men Cheat": {
+        "Style": "Bold serif, all capitalized",
+        "Emphasis": "Strong, heavy weight for high visibility",
+        "Color": "White text on a bright red rectangular background"
+      },
+      "DANICA PATRICK PRETTY INTENSE": {
+        "Style": "Simple sans-serif, all capital letters",
+        "Emphasis": "Less bold, smaller type; DANICA and PRETTY INTENSE in black, PATRICK in red for highlighting",
+        "Color": "Black and red on a light gray box"
+      }
+    },
+    "Text placement within frame": {
+      "Why Men Cheat": "Center, covering the midsection between the two faces",
+      "DANICA PATRICK PRETTY INTENSE": "Bottom-center, small size"
+    },
+    "Use of emotional/trigger words": [
+      "Cheat"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, investigative, direct; a sense of conflict or inquiry",
+    "Visual metaphors or symbols": "Divided frame between man and woman may symbolize relationship dynamics or dichotomy; red color in text signals urgency or controversy",
+    "Clickbait techniques employed": [
+      "Bold, provocative question ('Why Men Cheat')",
+      "Direct focus on emotionally charged topic",
+      "Faces with neutral/serious expressions to evoke curiosity or drama"
+    ],
+    "Brand elements present": "Show title and host branding ('DANICA PATRICK PRETTY INTENSE') at the bottom"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail amplifies the title by prominently displaying the phrase 'Why Men Cheat' between the serious faces of a man and a woman, directly referencing the subject matter and emphasizing the relational aspect. The visual split implies a binary discussion about gender and infidelity.",
+    "Any contrasts or mismatches between thumbnail and title": "No apparent mismatch; both the title and thumbnail clearly and directly reference the controversial topic, using compatible tone and directness."
+  }
+}

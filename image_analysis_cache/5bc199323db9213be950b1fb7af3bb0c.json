@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Soft pink gradient background": "60%",
+      "White (text and outline)": "10%",
+      "Purple (text background)": "10%",
+      "Blue/teal (syringe, scrubs)": "10%",
+      "Skin tones (person)": "10%"
+    },
+    "Composition type": "Medium shot (person from chest up, facing camera)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral-to-friendly, slight smile, direct eye contact with camera",
+      "Demographics": {
+        "Apparent gender": "Female",
+        "Apparent age": "Adult"
+      }
+    },
+    "Main objects/props featured": [
+      "Small jar (possibly labeled, held by the person)",
+      "Plastic syringe (held by the person and a larger, floating one on the right)",
+      "White arrow pointing from the person/objects to the large syringe",
+      "Small cartoon bees and pink hearts"
+    ],
+    "Background environment": "Abstract, light pink gradient; no realistic or detailed environment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "AT HOME INSEMINATION KIT",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All uppercase, strong contrast",
+      "Color": "White font on purple rectangular blocks"
+    },
+    "Text placement within frame": "Top right quadrant, staggered in three lines",
+    "Use of emotional/trigger words": [
+      "AT HOME",
+      "INSEMINATION",
+      "KIT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative and approachable; soft/pastel tones create a sense of safety and calm, while the person\u2019s friendly demeanor and medical props communicate authority and trust.",
+    "Visual metaphors or symbols": [
+      "Syringe and jar symbolize medical/clinical procedures",
+      "Cartoon bees and hearts reference \u2018baby-making\u2019 and fertility in a playful, non-threatening way"
+    ],
+    "Clickbait techniques employed": [
+      "Clear, bold text quickly identifies the video topic",
+      "Direct reference to at-home insemination kit with visuals making purpose obvious",
+      "Friendly face to humanize and reassure viewers about a sensitive process",
+      "Large arrow to visually direct attention and understanding"
+    ],
+    "Brand elements present": [
+      "None overt; the only possible branding is on the jar label, which is not the main brand for the video"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows both the \u2018at-home\u2019 aspect (with a kitschy, friendly background and a person in casual medical attire) and the insemination kit (depicted by both the jar, syringe, and large labeled text). The presence of a \u2018doctor-like\u2019 figure implies authority and expertise, complementing the \u2018Fertility MD\u2019 part of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "There is strong alignment\u2014no significant contrasts or mismatches. The thumbnail may be somewhat lighter or less overtly medical than expected from a \u2018Fertility MD\u2019 title, aiming to make the topic more accessible and less intimidating."
+  }
+}

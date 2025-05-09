@@ -1,0 +1,75 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue/grey (background)": "~50%",
+      "Red (spray can lids and labels)": "~20%",
+      "White (can labels and text)": "~15%",
+      "Yellow (WD-40 logo and title text)": "~10%",
+      "Black (accents, splatters, text)": "~5%"
+    },
+    "Composition type": "Medium shot, product-focused composition with three spray cans centered horizontally.",
+    "Human presence": {
+      "Number of people": 0,
+      "Expressions": "N/A",
+      "Demographics": "N/A"
+    },
+    "Main objects/props featured": [
+      "INOX MX3 multi-purpose lubricant spray can (left)",
+      "WD-40 spray can (center)",
+      "CRC 808 silicone spray can (right)"
+    ],
+    "Background environment": "Misty or smoky light blue/grey with irregular black ink splatters/blots, creating a mechanical or industrial vibe."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "WHICH ONE SHOULD YOU USE?",
+      "inox",
+      "MX3",
+      "ORIGINAL FORMULA MULTI-PURPOSE LUBRICANT",
+      "WD-40",
+      "LOW ODOUR",
+      "CRC",
+      "The Professional\u2019s Choice",
+      "808 SILICONE SPRAY"
+    ],
+    "Font characteristics": {
+      "Main headline": {
+        "Style": "Bold, all caps, sans-serif",
+        "Emphasis": "High (bright yellow, glow effect)",
+        "Color": "Yellow"
+      },
+      "Product labels": {
+        "Style": "Varied, mostly bold sans-serif",
+        "Emphasis": "Brand names and numbers in bold, large sizes",
+        "Colors": "Red, blue, white, black"
+      }
+    },
+    "Text placement within frame": {
+      "Headline": "Top center, large and prominent",
+      "Product branding": "On each product can, center-bottom"
+    },
+    "Emotional/trigger words": [
+      "SHOULD",
+      "USE",
+      "PROFESSIONAL\u2019S CHOICE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious and practical, prompting viewers to make a decision. Slightly urgent/inquisitive due to highlight on 'WHICH ONE SHOULD YOU USE?'",
+    "Visual metaphors or symbols": "The three cans symbolize common choices for lubrication/sprays, visually representing the decision-making process. The background splatters evoke possible mechanical or workshop mess/usage.",
+    "Clickbait techniques employed": [
+      "Direct question in bright, bold text",
+      "Presentation of multiple options to spark curiosity",
+      "Prominent product packaging for easy recognition"
+    ],
+    "Brand elements present": [
+      "WD-40 logo and can design",
+      "INOX branding",
+      "CRC branding and 'The Professional\u2019s Choice' tagline"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail precisely matches the video title by showing three different spray cans (WD-40, a silicone spray, and a specialist multi-purpose lubricant), directly relating to the question of when to use each type.",
+    "Contrasts or mismatches": "No significant mismatch. However, the thumbnail only says 'Which one should you use?' and does not specify the context of 'when,' which is only addressed in the title. The thumbnail focuses more on choice rather than timing/application."
+  }
+}

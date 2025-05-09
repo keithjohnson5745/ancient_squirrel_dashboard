@@ -1,0 +1,13 @@
+{
+  "title": "Fix Perimenopause Symptoms with Post-Menopausal Hormone Replacement Therapy",
+  "thumbnail_path": "thumbnails/akaZqSar4A4_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "title": "FULL \u0410\u0421\u0422\u0406\u041eN M\u041eV\u0406\u0415 | \u0405\u0430v\u0430g\u0435 \u041dum\u043er, Un\u0455t\u043e\u0440\u0440\u0430bl\u0435 V\u0456\u043el\u0435n\u0441\u0435 - \u0422h\u0435\u0456r \u0420\u0430\u0455t\u0455 \u0421r\u0430\u0455h \u0406nt\u043e \u0410 D\u0435\u0430dly Futur\u0435!",
+  "thumbnail_path": "thumbnails/TQlL5fPvjzE_max.jpg",
+  "title_length": 96,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

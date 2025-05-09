@@ -1,0 +1,99 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": 25,
+      "Red": 30,
+      "White": 20,
+      "Black": 15,
+      "Teal/Green (on product)": 10
+    },
+    "Composition type": "Collage with multiple elements; features close-up and medium shots",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Man with glasses and stethoscope: neutral/confident, possibly a doctor or expert",
+        "Couple in bed: smiling, appear relaxed and happy"
+      ],
+      "Demographics": [
+        "Male adult (doctor/expert)",
+        "Male and female adults (couple, diverse age appearance)"
+      ]
+    },
+    "Main objects/props featured": [
+      "Tube boxes of Himalaya Himcolin Gel",
+      "Photograph of a happy couple in bed",
+      "Man wearing glasses and a stethoscope (doctor/expert persona)"
+    ],
+    "Background environment": "Bold, graphic background using vibrant red with halftone effect and large yellow text box. The couple is shown in a domestic/bedroom setting."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "Himalaya",
+      "HIMCOLIN GEL",
+      "NEW AND IMPROVED",
+      "Himcolin",
+      "SINCE 1930",
+      "A local rub for men.",
+      "GEL 30g",
+      "\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "Himalaya",
+        "Style": "Simple, sans-serif, white with black outline"
+      },
+      {
+        "Text": "HIMCOLIN GEL",
+        "Style": "Bold, uppercase, thick black letters with jagged edges, placed on yellow"
+      },
+      {
+        "Text": "NEW AND IMPROVED",
+        "Style": "Starburst badge, all caps, bright orange"
+      },
+      {
+        "Text": "Hindi text",
+        "Style": "Bold, thick white letters, set on a black background"
+      }
+    ],
+    "Text placement within frame": [
+      "Top center: 'Himalaya'",
+      "Below top: 'HIMCOLIN GEL' on bright yellow background",
+      "Bottom: Hindi text in a black strip",
+      "Left: On product tube (various product details)",
+      "Upper left, mid-left and lower center areas used for text"
+    ],
+    "Use of emotional/trigger words": [
+      "NEW AND IMPROVED",
+      "\u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e (right way/method)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, slightly sensational. Conveys expertise and health guidance, also hints at intimacy and problem-solving.",
+    "Visual metaphors or symbols": [
+      "Doctor figure symbolizes authority/credibility",
+      "Happy couple in bed hints at the intended result/use of product without being explicit"
+    ],
+    "Clickbait techniques employed": [
+      "Use of medical expert imagery",
+      "Before/after style suggestion (unhappy/problem vs happy/solution)",
+      "Bold, attention-grabbing text and colors",
+      "Use of emotional trigger phrases and assurance of a 'correct way'"
+    ],
+    "Brand elements present": [
+      "Himalaya logo",
+      "Product packaging clearly visible",
+      "Brand-associated colors (teal/green, orange, white)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail shows both the actual Himcolin Gel (matching the product in the title),",
+      "The Hindi text at the bottom exactly mirrors '\u0932\u0917\u093e\u0928\u0947 \u0915\u093e \u0938\u0939\u0940 \u0924\u0930\u0940\u0915\u093e' (the correct method to apply, as in the title)",
+      "Inclusion of a doctor/health professional visually backs the promise of accurate guidance",
+      "Happy couple subtly implies the positive effects of correct use, relating to the unspoken benefits discussed in such videos"
+    ],
+    "Contrasts or mismatches": [
+      "No significant contrast or mismatch; thumbnail is highly aligned with the title and content promises."
+    ]
+  }
+}

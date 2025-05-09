@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "40% (central panel/background and text panels)",
+      "White": "30% (doctor coat, pill bottle, background elements)",
+      "Skin tones": "15% (human faces and hands)",
+      "Red": "10% (pills icon with hearts)",
+      "Gray/Black": "5% (stethoscope, glasses, clothing, hair)"
+    },
+    "Composition type": "Triptych split (three-panel design): close-up/medium shot of a male doctor on left, bold graphic/text in center, close-up of female hands holding pill and bottle on right.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Left (male): Neutral/informative, focused; Right (female): Only hands/partial torso visible, no facial expression shown.",
+      "Demographics": "Male (adult, likely South Asian descent based on context), Female (adult, hands and attire suggest healthcare professional)"
+    },
+    "Main objects/props featured": [
+      "Blister pack of pills (held by male doctor)",
+      "Stethoscope",
+      "White pill bottle",
+      "Blue pill/tablet (held by female hand)",
+      "Prescription/medical certificates in background (left panel)"
+    ],
+    "Background environment": "Left: Office/clinical setting (certificates on wall, chair); Right: Clinical/medical setting (doctor's white coat); Center: Solid blue graphical background."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Full Gyan",
+      "TADAFIL",
+      "PYAR WALI GOLI",
+      "DR. VIJAYANT GOVINDA GUPTA"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, all uppercase (main text)",
+      "Emphasis": "High (large font size for 'TADAFIL', bold and white on strong blue)",
+      "Color": "White for main text, blue background, red and white for pill icon, blue background banner for doctor's name"
+    },
+    "Text placement within frame": {
+      "Top center": "Full Gyan",
+      "Center center": "TADAFIL",
+      "Bottom center": "PYAR WALI GOLI",
+      "Bottom left": "DR. VIJAYANT GOVINDA GUPTA"
+    },
+    "Use of emotional/trigger words": [
+      "Full Gyan",
+      "PYAR WALI GOLI",
+      "TADAFIL",
+      "Gyan",
+      "Pyar",
+      "Goli"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, slightly playful (with 'Pyar wali goli' referencing love/relationship in a light tone)",
+    "Visual metaphors or symbols": [
+      "Pills with hearts (visualizing 'love pill')",
+      "Doctor's professional attire conveys authority and trust"
+    ],
+    "Clickbait techniques employed": [
+      "Calling Tadalafil the 'love pill' makes it intriguing and accessible",
+      "Emphasizing 'tips and tricks' in the video title to entice views",
+      "Bold, eye-catching central text"
+    ],
+    "Brand elements present": [
+      "Doctor branding with full name, stethoscope and certificates establish credibility",
+      "Consistent use of blue/white for a clinical, authoritative aesthetic"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually supports the title by showing a doctor (implying expertise), pills (explicitly represented), and a graphical reference to 'love pill' (hearts on pills), matching 'Pyar karne ki goli'. The central text makes the subject pharmaceutical ('TADAFIL') clear.",
+    "Contrasts or mismatches": "No major contrasts; the tone remains informative yet accessible as indicated by both the thumbnail and title. The Hindi wordplay ('Pyar wali goli') is matched by hearts on pills, reinforcing the metaphor."
+  }
+}

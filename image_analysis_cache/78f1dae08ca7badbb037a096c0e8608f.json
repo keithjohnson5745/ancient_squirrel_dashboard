@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue": "Approximately 70% (background gradient, circle highlights)",
+      "White": "Around 15% (text, circular frames, podcast icon background)",
+      "Yellow": "About 5% (PERIMENOPAUSE & BEYOND text)",
+      "Light Green": "About 5% (MENOPAUSE text and lower band background)",
+      "Light Blue": "About 5% (WIZE text and podcast label background)"
+    },
+    "Composition type": "Medium shot portraits (head and shoulders) within circular frames, text-heavy layout.",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": "Both are smiling in a friendly, approachable way.",
+      "Demographics": "Middle-aged women, likely professionals."
+    },
+    "Main objects/props featured": [
+      "Two black-and-white portrait photos in circular frames",
+      "Podcast microphone icon"
+    ],
+    "Background environment": "Solid blue gradient with clean, modern graphic design. No physical environment depicted."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "SLEEPING BETTER",
+      "PERIMENOPAUSE & BEYOND",
+      "With Dr. Heidi Lescanec",
+      "Episode 14",
+      "MENOPAUSE WIZE",
+      "PODCAST"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold for emphasis",
+      "Emphasis": "High contrast, capitalized letters for main topics, some color blocking",
+      "Color": "Text alternates between light blue, yellow, white, green, and dark blue"
+    },
+    "Text placement within frame": {
+      "Top": "SLEEPING BETTER / PERIMENOPAUSE & BEYOND",
+      "Upper middle": "With Dr. Heidi Lescanec",
+      "Middle": "Portraits left and right; central mic icon",
+      "Lower middle": "Episode 14",
+      "Bottom": "MENOPAUSE WIZE (large), 'PODCAST' label below"
+    },
+    "Use of emotional/trigger words": [
+      "BETTER",
+      "PERIMENOPAUSE",
+      "SLEEPING"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Calm, supportive, trustworthy, and informative.",
+    "Visual metaphors or symbols": [
+      "Microphone icon denotes podcast format",
+      "Portraits symbolize expertise and personal connection"
+    ],
+    "Clickbait techniques employed": [
+      "Bold promises (\"SLEEPING BETTER\")",
+      "Clear, solution-oriented text",
+      "Expert guest's name and image"
+    ],
+    "Brand elements present": [
+      "MENOPAUSE WIZE logo",
+      "Consistent color palette and podcast icon"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly mirrors the video title by highlighting 'SLEEPING BETTER' and 'PERIMENOPAUSE & BEYOND', featuring Dr. Heidi Lescanec's name and image, and using professional, calming visuals.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; the thumbnail accurately and clearly reflects the video's subject and guest."
+  }
+}

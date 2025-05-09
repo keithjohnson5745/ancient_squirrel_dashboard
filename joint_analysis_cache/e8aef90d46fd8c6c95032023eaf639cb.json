@@ -1,0 +1,12 @@
+{
+  "title": "\u201cI Was Born With Two Vaginas, Two Uteruses and Two Cervixes\u201d | Listen Up | ABC Science",
+  "thumbnail_path": "thumbnails/q5RujbQW_PU_max.jpg",
+  "title_length": 86,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

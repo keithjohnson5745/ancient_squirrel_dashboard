@@ -1,0 +1,13 @@
+{
+  "title": "Olive oil: How to unlock health benefits | Prof. Tim Spector & Elizabeth Berger",
+  "thumbnail_path": "thumbnails/BiKGydHNjGc_max.jpg",
+  "title_length": 79,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

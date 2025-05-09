@@ -1,0 +1,52 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "skin tones (beige/tan)": "70%",
+      "dark brown/black (background and hair)": "15%",
+      "white (arrow and text outline)": "10%",
+      "navy blue (text border)": "5%"
+    },
+    "Composition type": "Close-up (of central face), with an additional medium shot inset (female figure on the right).",
+    "Human presence": {
+      "number_of_people": 2,
+      "main_face_details": "Extreme close-up of a woman\u2019s face with closed eyes (likely the same person as the inset), neutral expression.",
+      "inset_person": "One woman visible from the chest up, neutral to mildly concerned expression, pointing at the face.",
+      "demographics": "Both appear to be adult women, likely of European descent (skin tone and facial features)."
+    },
+    "Main objects/props featured": [
+      "Close-up of a woman's face (focus on skin/eye area)",
+      "Large white arrow pointing towards the face",
+      "Inset image of a woman pointing"
+    ],
+    "Background environment": "Solid dark brown/black gradient, no discernible location detail."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "LOW ESTROGEN",
+    "Font characteristics": {
+      "style": "Extra bold, uppercase sans-serif",
+      "emphasis": "Heavy weight, high contrast, all caps",
+      "color": "White with thick navy blue/black stroke (outline)"
+    },
+    "Text placement within frame": "Top center, spanning almost the entire width of the image, partly overlaying the face.",
+    "Use of emotional/trigger words": [
+      "LOW"
+    ],
+    "Notes": "Text is concise and immediately highlights the issue at hand."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, urgent, and informative. The neutral to mildly concerned expression of the inset figure and direct language imply concern and importance.",
+    "Visual metaphors or symbols": [
+      "Large white arrow: draws attention, acts as a callout to the skin/eye area, suggesting this is where signs are visible."
+    ],
+    "Clickbait techniques employed": [
+      "Bold, concise text capturing medical concern (\u2018LOW ESTROGEN\u2019)",
+      "Extreme close-up on skin to provoke worry/curiosity",
+      "Expert presence (inset woman in apparent medical scrubs)"
+    ],
+    "Brand elements present": "No explicit logo, but the style (inset expert, medical attire, direct language) may be part of a personal/medical branding."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The extreme close-up of the face, highlighting skin texture and closed eyes, visually represents the 'Signs' that the skin can show when estrogen is low. The inclusion of an expert-type person points to this area, reinforcing the video's promise to explain these signs. The large \u2018LOW ESTROGEN\u2019 text directly echoes the topic in the title.",
+    "Contrasts or mismatches between thumbnail and title": "The title also mentions 'hair,' but the thumbnail focuses entirely on skin and the face (no hair loss or scalp indicators presented visually), which may be seen as a slight mismatch. However, the main visual message aligns closely with the intent of the title."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Pale Blue (background, left)": "40%",
+      "White (doctor coat, text, anatomical diagram)": "25%",
+      "Light Brown/Peach (background, right)": "15%",
+      "Pinkish-red (diagram, text background)": "10%",
+      "Dark Brown/Black (hair, shirt)": "5%",
+      "Other": "5%"
+    },
+    "Composition type": "Medium shot (centered doctor), illustration (right, pregnant woman), anatomical focus (left)",
+    "Human presence": {
+      "Number of people": 2,
+      "Descriptions": [
+        {
+          "Type": "Realistic person (center)",
+          "Expression": "Arms crossed, neutral/uncertain facial expression",
+          "Demographics": "Black woman, adult, dressed as a medical professional"
+        },
+        {
+          "Type": "Illustrated/animated pregnant woman (right)",
+          "Expression": "Calm/neutral, one hand on belly",
+          "Demographics": "Black woman, visibly pregnant"
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Stethoscope (worn by center figure)",
+      "White coat",
+      "Anatomical diagram of female reproductive system (left background)",
+      "Pregnant woman illustration (right)"
+    ],
+    "Background environment": "Split: left is a medical/clinical blue with anatomical diagram, right is a stylized indoor scene with blinds/windows"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "PREGNANT WITHOUT OVULATING?",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, uppercase",
+      "Emphasis": "White font with thick black outline/shadow for strong contrast",
+      "Color": "Text is white, outlined in black; background is a muted pinkish-red banner for extra emphasis"
+    },
+    "Text placement within frame": "Bottom third in a diagonal banner, spanning from left to right edge",
+    "Use of emotional/trigger words": [
+      "WITHOUT"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inquisitive, slightly skeptical, educational yet provocative (from doctor's expression and question format)",
+    "Visual metaphors/symbols": [
+      "Anatomical diagram symbolizes 'medical/scientific approach'",
+      "Pregnant belly as universal pregnancy symbol",
+      "Doctor\u2019s skeptical pose signals questioning/debunking"
+    ],
+    "Clickbait techniques employed": [
+      "Direct question addressing a common myth/misconception",
+      "Emotional expressions (doctor's skeptical face)",
+      "Mix of real and illustrated elements for strong visual contrast"
+    ],
+    "Brand elements present": [
+      "Doctor P logo (top left corner, professional branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Thumbnail visually reinforces the title by directly referencing pregnancy and ovulation (anatomy diagram, pregnant woman)",
+      "Doctor\u2019s questioning/skeptical expression mirrors the investigative theme of the title"
+    ],
+    "Contrasts/mismatches": [
+      "No major mismatch; however, the use of a drawn pregnant woman, versus a real person, creates a slight surreal feel alongside the real doctor"
+    ]
+  }
+}

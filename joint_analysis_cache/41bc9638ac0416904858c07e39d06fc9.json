@@ -1,0 +1,12 @@
+{
+  "title": "Acupuncturist Fixes Kendall's Gua Sha Mistakes",
+  "thumbnail_path": "thumbnails/MOKBuigs4oM_max.jpg",
+  "title_length": 46,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

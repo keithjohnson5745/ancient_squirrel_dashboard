@@ -1,0 +1,71 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "light blue": "about 40% (background, clothing, oil bottle, hat)",
+      "white": "about 30% (table, clothing, plate, text)",
+      "black": "about 10% (stove, pan handles, some food elements)",
+      "skin tones": "about 10% (faces, arms)",
+      "yellow/golden/brown": "about 10% (fried food, oil in pan, vomit graphic)"
+    },
+    "Composition type": "Medium shot (main figure and objects clearly visible, with some close-up elements like the pan and oil bottle)",
+    "Human presence": {
+      "number of people": 2,
+      "expressions": [
+        "Main subject: surprised/expressive hand gesture, possibly warning or shocked",
+        "Inset subject: disgusted or vomiting, bent over with yellow substance from mouth"
+      ],
+      "demographics": "Adult males, bearded, Indian/South Asian appearance (based on context and subject matter)"
+    },
+    "Main objects/props featured": [
+      "Large blue Parachute hair oil bottle (prominently held over frying pan)",
+      "Induction cooktop with frying pan",
+      "Plate of Indian fried and flat foods (papad, puri, donut-shaped snacks, chapati, etc)",
+      "Bright red arrow pointing at oil bottle"
+    ],
+    "Background environment": "Plain light blue, studio setting with clean white table, minimal distraction"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text in thumbnail": [
+      "DON'T TRY"
+    ],
+    "Font characteristics": {
+      "DON'T": {
+        "style": "Bold, all capitals, sans-serif",
+        "emphasis": "Bright red color for urgency",
+        "color": "Red"
+      },
+      "TRY": {
+        "style": "Bold, all capitals, sans-serif",
+        "emphasis": "White color for contrast",
+        "color": "White"
+      }
+    },
+    "Text placement within frame": {
+      "DON'T TRY": "Upper right quadrant, large and clear, overlaid near the food plate and in close proximity to the inset vomiting face"
+    },
+    "Use of emotional/trigger words": [
+      "DON'T TRY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Cautionary, shocking, slightly humorous (emphasis on gross-out reaction, warning not to do something risky)",
+    "Visual metaphors or symbols": [
+      "Red arrow signifying warning or attention",
+      "Pouring hair oil into a pan as a metaphor for a cooking mistake",
+      "Inset of a man vomiting to emphasize consequences/grossness"
+    ],
+    "Clickbait techniques employed": [
+      "Visual exaggeration (large oil bottle, vomit)",
+      "Direct warning text (DON'T TRY)",
+      "Facial expressions of shock/disgust",
+      "Questions in the title (implying a dramatic reveal)"
+    ],
+    "Brand elements present": [
+      "Parachute Hair Oil bottle (distinct branding and packaging shown clearly)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement of title": "The thumbnail directly visualizes the title's warning and question: a person is shown using Parachute Hair Oil for cooking (pouring it into a pan), which matches the phrasing 'Never Cook With Parachute Hair Oil.' The vomiting reaction in the inset reinforces the implied dangers/disgust.",
+    "Contrasts or mismatches": "No major mismatches. The visual story (using hair oil for food, consequence of vomiting) fits perfectly with the title\u2019s shock and query. The thumbnail amplifies the cautionary and gross-out angle suggested by the title."
+  }
+}

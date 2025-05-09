@@ -1,0 +1,68 @@
+{
+  "visual_elements": {
+    "dominant_colors": {
+      "light_pastel_green_background": "\u2248 50%",
+      "light_blue (scrubs)": "\u2248 25%",
+      "skin tones": "\u2248 15%",
+      "purple (text box)": "\u2248 8%",
+      "white (text, box outline, pregnancy test)": "\u2248 5%",
+      "red (pregnancy test highlight, alarm clock emoji)": "\u2248 2%"
+    },
+    "composition_type": "Medium close-up (upper body, face, and arm of woman prominently visible)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Smiling, direct eye contact, approachable and friendly",
+      "demographics": "Adult woman, fair skin, light brown hair, likely healthcare professional (scrubs, watch, earrings)"
+    },
+    "main_objects/props_featured": [
+      "Pregnancy test graphic (illustration)",
+      "Alarm clock emoji",
+      "Smartwatch worn/focused on by woman",
+      "Text block overlays"
+    ],
+    "background_environment": "Solid pastel/light green color, no discernible physical environment, clean and simple to keep focus on subject and text"
+  },
+  "text_elements": {
+    "visible_text": [
+      "PREGNANCY",
+      "TESTING",
+      "HOW EARLY?"
+    ],
+    "font_characteristics": {
+      "style": "Bold, sans-serif",
+      "emphasis": "All caps for main message, larger size for 'PREGNANCY TESTING', strong contrast with background",
+      "color": "White text on medium purple/violet background, purple text on white for subheading"
+    },
+    "text_placement_within_frame": {
+      "main_heading": "Upper right, large text box",
+      "subheading": "Overlayed in lower section of text box, directly under the main message"
+    },
+    "emotional_trigger_words": [
+      "HOW EARLY?"
+    ]
+  },
+  "thematic_elements": {
+    "overall_emotional_tone": "Reassuring, informative, approachable, slightly urgent due to time emphasis",
+    "visual_metaphors_or_symbols": [
+      "Pregnancy test (universal symbol for pregnancy detection)",
+      "Alarm clock (urgency/timing)",
+      "Pointing at watch (emphasis on timing/how soon)"
+    ],
+    "clickbait_techniques_employed": [
+      "Direct question ('HOW EARLY?') that invites curiosity",
+      "Visual cues for urgency (alarm clock, pointing at watch)",
+      "Professional authority (doctor in scrubs)"
+    ],
+    "brand_elements_present": "None overt, but presence of a professional in scrubs strongly aligns with health/medicine/expert branding"
+  },
+  "thumbnail_title_relationship": {
+    "visual_reinforcement": [
+      "Pregnancy test and clock directly represent 'HCG pregnancy testing' and the timing/anticipation (how soon)",
+      "Text echoes the video's main question about timing",
+      "The presenter\u2019s attire and expression reinforce the authority and reassurance expected from a doctor"
+    ],
+    "contrasts_or_mismatches": [
+      "No significant contrast or mismatch. Thumbnail is highly aligned with the title, visually and contextually. The only minor difference is the thumbnail says 'How early?' instead of the video's full 'How soon can you know...' phrase, but the meaning is preserved."
+    ]
+  }
+}

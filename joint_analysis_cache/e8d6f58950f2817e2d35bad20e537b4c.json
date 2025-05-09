@@ -1,0 +1,13 @@
+{
+  "title": "Fix Your Crepey Skin With These Easy Tips!",
+  "thumbnail_path": "thumbnails/juikNsOaFzc_max.jpg",
+  "title_length": 42,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

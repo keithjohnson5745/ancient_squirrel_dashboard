@@ -1,0 +1,82 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark Blue/Navy": "60%",
+      "White": "20%",
+      "Skin tones": "10%",
+      "Light Brown/Blonde": "3%",
+      "Red": "3%",
+      "Other (gray, subtle gradients)": "4%"
+    },
+    "Composition type": "Mixed composition \u2013 close-up (left: doctor's portrait), medium shot (right: couple in bed), split layout",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": [
+        "Doctor: neutral, serious/engaged expression",
+        "Man (couple): affectionate, smiling",
+        "Woman (couple): affectionate, smiling"
+      ],
+      "Demographics": [
+        "Doctor: appears middle-aged, male, glasses, moustache, medium-brown skin",
+        "Couple: young adults, female with light hair/skin, male with dark hair, light/medium skin"
+      ]
+    },
+    "Main objects/props featured": [
+      "Doctor holding test tubes or droppers with fluid (suggestive of lubricants)",
+      "Bed depicted in couple scene",
+      "Signature/branding with doctor\u2019s name"
+    ],
+    "Background environment": "Solid dark blue background with brighter inset photo of a couple in bed; no other distinct elements."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "5 Personal Natural Lubricants",
+      "5 \u0928\u0948\u091a\u0941\u0930\u0932 \u0932\u0942\u092c",
+      "Dr Sunil Jindal",
+      "REPRODUCTIVE MEDICINE SPECIALIST"
+    ],
+    "Font characteristics": {
+      "Main heading": "Bold, white, all uppercase, clean sans-serif",
+      "Subtitle (Hindi)": "Red, standard typeface, medium size",
+      "Brand signature": "White, cursive/script font for name, small all-caps sans-serif for designation"
+    },
+    "Text placement within frame": {
+      "Main heading": "Top center",
+      "Subtitle (Hindi)": "Bottom right, overlaying part of the couple image",
+      "Brand signature": "Bottom left"
+    },
+    "Use of emotional/trigger words": [
+      "Personal",
+      "Natural",
+      "Lubricants",
+      "Surprise"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational yet approachable, trustworthy, slightly intimate (due to the couple imagery)",
+    "Visual metaphors or symbols": [
+      "Doctor holding lubricant: expertise, science/medical authority",
+      "Couple in bed: intimacy, relationship context, practical application"
+    ],
+    "Clickbait techniques employed": [
+      "Numbered list ('5')",
+      "Promise of surprise/unexpected info",
+      "Juxtaposition of medical authority with intimate context"
+    ],
+    "Brand elements present": [
+      "Doctor\u2019s photo and signature branding",
+      "Clear mention of specialization (Reproductive Medicine Specialist)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visually reinforces title": [
+      "The text in the thumbnail directly echoes the video title about '5 Personal Natural Lubricants'",
+      "Images represent both medical authority (doctor) and the intended use scenario (couple, intimacy)",
+      "Dual language text broadens audience reach, tying to 'surprise' and inclusivity"
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail shows only 'personal natural lubricants' with a doctor and a couple, but does not specifically preview the 'surprising' aspect alluded to in the title",
+      "No explicit images of natural lubricant substances; relies on context and implication"
+    ]
+  }
+}

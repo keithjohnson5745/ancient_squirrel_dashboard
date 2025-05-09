@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Turquoise blue (background)": "40%",
+      "Pink (brains)": "30%",
+      "Yellow (text box)": "10%",
+      "Black (text/facial features)": "10%",
+      "White (floating text)": "10%"
+    },
+    "Composition type": "Medium shot (cartoon brains with facial features, clearly visible; some cropping on the right brain, focusing on the left one's facial expression)",
+    "Human presence": {
+      "Number of people": 0,
+      "Description": "No literal humans, but personified cartoon brains with arms, legs, and human-like facial expressions; main brain has large, sad eyes and a downturned mouth indicating sadness or distress.",
+      "Demographics": "Not applicable"
+    },
+    "Main objects/props featured": [
+      "Two cartoon brains (one prominently featured, one partially cropped)",
+      "Yellow text boxes",
+      "Words floating across the center"
+    ],
+    "Background environment": "Textured turquoise blue with faint light gradients, which creates a sort of neutral, abstract environment. No specific location implied."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "ADHD IN WOMEN",
+      "SPACEY",
+      "MESSY",
+      "CLUMSY",
+      "FORGETFUL",
+      "FLAKY",
+      "LAZY",
+      "IRRESPONSIBLE"
+    ],
+    "Font characteristics": {
+      "\u2018ADHD IN WOMEN\u2019": {
+        "style": "Bold, sans-serif, all-caps",
+        "color": "Black with thick yellow rectangle background for emphasis"
+      },
+      "Floating descriptors": {
+        "style": "Bold, sans-serif, all-caps, glowing/blurred effect",
+        "color": "White",
+        "emphasis": "High, stands out over the brains"
+      }
+    },
+    "Text placement within frame": {
+      "\u2018ADHD IN WOMEN\u2019": "Top left, large and prominent in yellow rectangles",
+      "Descriptor words": "Scattered/overlaying the center and right foreground, partially obscuring the brains"
+    },
+    "Use of emotional/trigger words": [
+      "LAZY",
+      "IRRESPONSIBLE",
+      "SPACEY",
+      "MESSY",
+      "CLUMSY",
+      "FORGETFUL",
+      "FLAKY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Somber, empathetic, possibly defensive (the sad, personified brain contrasts with the negative floating words)",
+    "Visual metaphors or symbols": {
+      "Metaphor": "The brain with a sad face represents a woman with ADHD, overwhelmed by stigmatizing stereotypes.",
+      "Floating words": "Visualize negative labels often assigned to women with ADHD."
+    },
+    "Clickbait techniques employed": [
+      "Bright, high-contrast colors for main title",
+      "Use of emotional/trigger words",
+      "Cartoon-style character with large eyes invokes empathy",
+      "Overlay of negative words suggests controversy/stigma, which invites curiosity"
+    ],
+    "Brand elements present": "No overt branding or creator logos in the visible frame."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The visual (personified brain with big, sad eyes) and the floating negative labels strongly reinforce the video's focus on ADHD in women, emphasizing the stigma and misconceptions women face.",
+    "Contrasts or mismatches": "No apparent mismatches\u2014thumbnail is fully aligned with the video's title and topic. If anything, the emotionality might be heightened compared to the neutral tone of the title, which could serve to increase engagement."
+  }
+}

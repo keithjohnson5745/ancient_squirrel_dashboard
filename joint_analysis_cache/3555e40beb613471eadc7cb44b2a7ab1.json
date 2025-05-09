@@ -1,0 +1,13 @@
+{
+  "title": "Why You Should be Using Coconut Oil",
+  "thumbnail_path": "thumbnails/c4Qtz95K4t8_high.jpg",
+  "title_length": 35,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

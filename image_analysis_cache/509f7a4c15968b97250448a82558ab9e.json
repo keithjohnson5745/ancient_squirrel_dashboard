@@ -1,0 +1,95 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "30% (background, clothes, shadows)",
+      "Red": "15% (text banner background)",
+      "Blue": "20% (shirt, background, water, clothes)",
+      "Green": "10% (plants in water scene)",
+      "Beige/Brown": "10% (skin tones, shirt of person lying in water)",
+      "White": "10% (text, bandage on eyes, gloves)",
+      "Other": "5% (minor colors throughout)"
+    },
+    "Composition type": "Multi-panel composite; includes close-up and medium shots",
+    "Human presence": {
+      "Number of people": "At least 5 (3 men clearly visible: left, center right, right; 2 lying persons, and 1 shadowy figure in hood)",
+      "Expressions": [
+        "Left: Neutral/Serious",
+        "Shadowed (center left): Hidden/sinister",
+        "Center (two people lying): Eyes closed, one blindfolded \u2013 appear unconscious or deceased",
+        "Right: Intensely angry or villainous (wide, glaring eyes and aggressive smile)"
+      ],
+      "Demographics": "Predominantly adult men, South Asian appearance"
+    },
+    "Main objects/props featured": [
+      "Eyeglasses (left man)",
+      "Hooded jacket (center-left, shadowy figure)",
+      "Sports jersey (man lying on ground/water)",
+      "Blindfold (center person)",
+      "Beard (right man)",
+      "Gloves (someone checking pulse or handling person lying on ground)"
+    ],
+    "Background environment": [
+      "Left: Simple, flat-colored background",
+      "Center: Outdoor, muddy or grassy water bank with floating plants",
+      "Right: Dimly lit, dark interior or shadowy environment"
+    ]
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "NEW EPISODE",
+      "\u0921\u0949\u0928 \u0915\u093e \u0915\u093e\u0932\u093e \u0915\u093e\u0930\u094b\u092c\u093e\u0930: Lahore \u0915\u094b \u0905\u0902\u0927\u0947\u0930\u093e \u0915\u0930 \u0926\u093f\u092f\u093e, Pakistan \u0915\u0947 \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0917\u0941\u0902\u0921\u0947 \u091c\u0917\u094d\u0917\u093e \u0917\u0941\u0930\u094d\u091c\u0930 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "NEW EPISODE",
+        "Style": "Bold, all-uppercase, sans-serif",
+        "Color": "White",
+        "Emphasis": "Placed at top-center for prominence"
+      },
+      {
+        "Text": "\u0921\u0949\u0928 \u0915\u093e \u0915\u093e\u0932\u093e \u0915\u093e\u0930\u094b\u092c\u093e\u0930: Lahore \u0915\u094b \u0905\u0902\u0927\u0947\u0930\u093e \u0915\u0930 \u0926\u093f\u092f\u093e, Pakistan \u0915\u0947 \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0917\u0941\u0902\u0921\u0947 \u091c\u0917\u094d\u0917\u093e \u0917\u0941\u0930\u094d\u091c\u0930 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940",
+        "Style": "Bold, sans-serif, Devanagari and Latin script",
+        "Color": "White text with black border",
+        "Emphasis": "Very high, large text on red rectangular banner at the bottom"
+      }
+    ],
+    "Text placement within frame": [
+      "\u2018NEW EPISODE\u2019: Top-center, over the central scene",
+      "Main banner: Bottom-third, full width, on a red background for maximum visibility"
+    ],
+    "Use of emotional/trigger words": [
+      "\u0921\u0949\u0928 / Don (crime lord/boss)",
+      "\u0915\u093e\u0932\u093e \u0915\u093e\u0930\u094b\u092c\u093e\u0930 / Black business (illegal activity/underworld undertones)",
+      "\u0905\u0902\u0927\u0947\u0930\u093e / Darkness (metaphor for crime/terror/shadow)",
+      "\u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0917\u0941\u0902\u0921\u0947 / Biggest goon (notoriety, infamy)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intense, dark, sensational, ominous, and dramatic",
+    "Visual metaphors / symbols": [
+      "Blindfolded figure: Victimization, crime",
+      "Shadowed hooded figure: Threat, mystery, underworld",
+      "Grimace/expression of bearded man: Threat, violence, villainy"
+    ],
+    "Clickbait techniques employed": [
+      "Extreme emotions and menacing faces for tension and curiosity",
+      "Sensational text with criminal/underworld references",
+      "Implied violence (unconscious/dead bodies, blindfold, gloves)",
+      "Direct call-out to infamous figure (Jagga Gujar), promising a 'shocking' story"
+    ],
+    "Brand elements present": {
+      "Channel style (Crime Tak):": "Bold, red-and-white lower-third text banner; crime documentary visual tropes; focus on infamous figures"
+    }
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title by": [
+      "Visually suggesting a story of crime, violence, and underworld figures (consistent with 'Pakistan \u0915\u0947 \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u0917\u0941\u0902\u0921\u0947 \u091c\u0917\u094d\u0917\u093e \u0917\u0941\u0930\u094d\u091c\u0930 \u0915\u0940 \u0915\u0939\u093e\u0928\u0940')",
+      "Multiple visuals associated with criminal activity (blindfolded person, menacing faces, gloves, shadowy figure)",
+      "Red banner with dramatic phrasing mirrors YouTube title style"
+    ],
+    "Contrasts or mismatches": [
+      "Thumbnail focuses more on crime scene/victims and villainous faces than on visually identifying 'Jagga Gurjar' or giving clear historical context",
+      "No explicit Pakistani or Lahore visual iconography (flag, map, etc.), though supported in text"
+    ]
+  }
+}

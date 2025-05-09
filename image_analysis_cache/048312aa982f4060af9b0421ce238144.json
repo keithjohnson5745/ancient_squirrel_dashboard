@@ -1,0 +1,55 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue": "Approximately 60% - seen on majority of the packaging",
+      "White": "Approximately 25% - text, logo, product highlights, shelf labels",
+      "Dark blue": "Approximately 10% - text and brand logos",
+      "Red/Orange accents": "Approximately 2% - logo accent dots",
+      "Grey/Neutral": "Approximately 3% - background shelving and shadows"
+    },
+    "Composition type": "Wide shot focusing on a product display (boxes of lubricant) at eye-level",
+    "Human presence": "None visible; no people are present in the image",
+    "Main objects/props featured": [
+      "Boxes of K-Y brand lubricants",
+      "Product display shelf (pharmacy or store environment)"
+    ],
+    "Background environment": "Generic store shelf with pegboard backing, appearing indoors in a retail setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "KY",
+      "Liquid",
+      "ultragel",
+      "Slide",
+      "SELF"
+    ],
+    "Font characteristics": {
+      "KY": "Bold sans-serif, uppercase, dark blue with a red/orange diamond accent",
+      "Liquid": "Thin sans-serif, uppercase, blue, regular weight",
+      "ultragel": "Modern sans-serif, lowercase, purple/blue",
+      "Slide": "Script, white, flowing/italicized, partially visible",
+      "SELF": "Bold sans-serif, uppercase, white, lower-left corner"
+    },
+    "Text placement within frame": {
+      "KY, Liquid, ultragel, Slide": "Centered and towards the upper/middle portions of each product box, varying by package",
+      "SELF": "Bottom-left corner, overlapping part of the shelf display"
+    },
+    "Use of emotional/trigger words": [
+      "SELF"
+    ],
+    "Notes about emotional/trigger words": "No direct emotional or clickbait terms visible, but 'SELF' could subtly imply a focus on personal care or empowerment."
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Clinical, straightforward, informative. The design is calm, not sensational, focusing on transparency and product clarity.",
+    "Visual metaphors or symbols": "The clear depiction of lubricant packaging is a direct, literal symbol for the video's topic (types of lube). Clean, soft color tones reinforce a sense of safety and health.",
+    "Clickbait techniques employed": "Minimal clickbait usage; the thumbnail is matter-of-fact, relying on the recognizability of the product and brand rather than emotional triggers.",
+    "Brand elements present": [
+      "K-Y logo and packaging extensively visible",
+      "SELF magazine branding prominently placed"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail shows multiple different K-Y brand lubricants, directly supporting the video's title about '3 Types of Lube'. The visual reinforces that the content will be educational and product-focused.",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrast or mismatch; the thumbnail delivers exactly what the title promises. It may, however, miss some potential viewers looking for a more playful or humanized approach, as it is fairly clinical."
+  }
+}

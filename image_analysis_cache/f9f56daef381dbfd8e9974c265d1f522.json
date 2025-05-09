@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Purple gradient (title background)": "30%",
+      "Beige/tan (background wall, bedding)": "35%",
+      "Black and white (stripes on shirt)": "20%",
+      "Skin tone": "10%",
+      "Pale pink (flowers in background)": "5%"
+    },
+    "Composition type": "Medium close-up (shows person from chest up, prominently centered in frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, approachable, direct eye contact (engaged and friendly)",
+      "Demographics": "Adult woman, light skin, short blonde hair"
+    },
+    "Main objects/props featured": [
+      "Person (centered)",
+      "Striped shirt",
+      "Ring on finger"
+    ],
+    "Background environment": "Soft-focus bedroom or cozy indoor space; includes bed with pillows and a dresser with a vase of flowers, suggesting a comfortable and safe setting"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "DISCOVERING YOUR SEXUALITY",
+      "Nadia Bokody",
+      "ASTROGLIDE"
+    ],
+    "Font characteristics": [
+      {
+        "DISCOVERING YOUR SEXUALITY": {
+          "Style": "Bold, sans-serif, all-caps",
+          "Emphasis": "High (white on solid purple background, strong contrast)",
+          "Color": "White",
+          "Size": "Large"
+        }
+      },
+      {
+        "Nadia Bokody": {
+          "Style": "Handwritten script",
+          "Emphasis": "Medium, personal touch, positioned as a signature",
+          "Color": "White",
+          "Size": "Medium"
+        }
+      },
+      {
+        "ASTROGLIDE": {
+          "Style": "Modern, italicized, logo style",
+          "Emphasis": "Low/medium, small size in corner",
+          "Color": "White"
+        }
+      }
+    ],
+    "Text placement within frame": [
+      "DISCOVERING YOUR SEXUALITY: Top left, covers about 1/4 of frame",
+      "Nadia Bokody: Bottom left, handwritten style",
+      "ASTROGLIDE: Bottom right corner, small size"
+    ],
+    "Use of emotional/trigger words": [
+      "DISCOVERING",
+      "SEXUALITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, inviting, nonjudgmental, positive; the smile and soft background add warmth and approachability.",
+    "Visual metaphors or symbols": "Soft-focus floral decor and gentle lighting create a sense of safety and openness; handwritten name suggests personal touch/trust.",
+    "Clickbait techniques employed": [
+      "Bold, curiosity-inducing phrase (\u201cDISCOVERING YOUR SEXUALITY\u201d evokes interest and self-exploration)",
+      "Warm, direct gaze and approachable look from the speaker draws viewer in",
+      "Use of a well-known personality name (if familiar to the audience)"
+    ],
+    "Brand elements present": [
+      "ASTROGLIDE logo in bottom right corner (branding for a related product/company)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The image of a smiling, friendly woman speaking directly to camera, combined with the bold text 'DISCOVERING YOUR SEXUALITY', visually signals an educational or supportive discussion about personal topics. The calm, homey setting further adds to a sense of intimacy and safety which matches the sensitive subject matter.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts or mismatches. Both thumbnail and title align, focusing on approachability, discovery, and sexuality in an open, inviting manner."
+  }
+}

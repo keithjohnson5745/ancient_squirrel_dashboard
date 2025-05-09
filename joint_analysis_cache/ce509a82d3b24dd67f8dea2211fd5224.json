@@ -1,0 +1,13 @@
+{
+  "title": "Kapag Menopause, Dry at Masakit sa Ta-lik. - By Doc Liza Ramoso-Ong",
+  "thumbnail_path": "thumbnails/lRn544Bz-rA_high.jpg",
+  "title_length": 67,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

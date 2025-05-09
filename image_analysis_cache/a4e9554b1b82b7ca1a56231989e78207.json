@@ -1,0 +1,108 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black/dark blue": "60% (background)",
+      "Yellow": "15% (large title text)",
+      "White": "15% (text, clothing, pill, label)",
+      "Light blue": "5% (shirt, pills in pack, digital character shirt)",
+      "Orange": "3% (pillbox corner, accent)",
+      "Red": "2% (arrow, clock, some text and icons)"
+    },
+    "Composition type": "Medium shot (person shown from waist/chest up, central to right side of frame)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/confident, slight smile, looking at camera",
+      "Demographics": "Adult male, medium-dark skin, neatly groomed beard, professional appearance"
+    },
+    "Main objects/props featured": [
+      "Blister pack labeled 'Intimate 10mg'",
+      "Medicine box labeled 'Intimate 10'",
+      "Animated character holding a glass",
+      "Clock icon"
+    ],
+    "Background environment": "Abstract, smooth black/dark-blue gradient with a subtle vignette and light spot behind the figure, giving focus to the center and right"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "Tadalafil",
+      "\u09b8\u09a0\u09bf\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
+      "Best use of Tadalafil   Side Effect",
+      "Intimate 10mg",
+      "Intimate 10",
+      "\u09ab\u09be\u09b0\u09cd\u09ae\u09be\u09b8\u09bf\u09b8\u09cd\u099f \u09b9\u09bf\u09b0\u09cb\u0995"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "Tadalafil",
+        "Style": "Bold, sans-serif",
+        "Color": "Yellow",
+        "Emphasis": "High"
+      },
+      {
+        "Text": "\u09b8\u09a0\u09bf\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
+        "Style": "Bold, sans-serif (Bengali script)",
+        "Color": "White",
+        "Emphasis": "High"
+      },
+      {
+        "Text": "Best use of Tadalafil   Side Effect",
+        "Style": "Sans-serif, regular",
+        "Color": "Yellow",
+        "Emphasis": "Moderate"
+      },
+      {
+        "Text": "Intimate 10mg",
+        "Style": "Bold, sans-serif",
+        "Color": "White",
+        "Emphasis": "Moderate, with red arrow"
+      },
+      {
+        "Text": "Intimate 10",
+        "Style": "Bold, sans-serif",
+        "Color": "Black and red accents on pill box",
+        "Emphasis": "Brand/product"
+      },
+      {
+        "Text": "\u09ab\u09be\u09b0\u09cd\u09ae\u09be\u09b8\u09bf\u09b8\u09cd\u099f \u09b9\u09bf\u09b0\u09cb\u0995",
+        "Style": "Sans-serif, modern (Bengali script)",
+        "Color": "Red (on white background)",
+        "Emphasis": "Moderate, with verified check symbol"
+      }
+    ],
+    "Text placement": [
+      "Top left: 'Tadalafil' and '\u09b8\u09a0\u09bf\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0'",
+      "Top right: 'Intimate 10mg' with arrow",
+      "Bottom left: Pill box 'Intimate 10'",
+      "Bottom center: Animated character",
+      "Bottom right: '\u09ab\u09be\u09b0\u09cd\u09ae\u09be\u09b8\u09bf\u09b8\u09cd\u099f \u09b9\u09bf\u09b0\u09cb\u0995' inside white shape",
+      "Top left under main title: 'Best use of Tadalafil Side Effect'"
+    ],
+    "Emotional/trigger words": [
+      "Best use",
+      "Side Effect",
+      "\u09b8\u09a0\u09bf\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
+      "correct use"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Trustworthy, informative, authoritative\u2014aiming to educate rather than sensationalize.",
+    "Visual metaphors/symbols": [
+      "Clock icon suggests timing/schedule or urgency, related to correct use.",
+      "Pharmacist in coat signals expertise and reliability.",
+      "Blister pack and pillbox clearly signal medication topic."
+    ],
+    "Clickbait techniques": [
+      "Large, bold drug name (Tadalafil) grabs attention.",
+      "Promise of 'correct use' and 'side effect' to trigger curiosity.",
+      "Comparison implied by arrow and presence of both a real product and its name."
+    ],
+    "Brand elements present": [
+      "Intimate 10 (pharmaceutical brand/product prominently displayed)",
+      "Presenter's professional presentation (adds to personal branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail prominently shows the medication (both the blister pack and product box) as well as a medical professional, matching the title's focus on 'Tadalafil' and its use (including the specific mention of 'Intimate 10mg'). Text in both English and Bengali targets a bilingual audience, aligning with the video's likely demographic. The inclusion of 'Side Effect' matches the title's educational angle.",
+    "Contrasts/mismatches": "The thumbnail does not directly reference 'Vigorex' or the comparison aspect mentioned at the end of the title (Intimate vs Vigorex), nor does it visually hint at different medicines being compared. Main focus is on Intimate 10mg and Tadalafil explanation, not on product comparison or alternatives, which may slightly underdeliver on the full promise of the title."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue": "40%",
+      "Black": "25%",
+      "Yellow": "20%",
+      "White": "10%",
+      "Skin tones": "5%"
+    },
+    "Composition type": "Medium shot (waist-up), right-third of frame is the person with objects in hand; left and center areas feature objects and graphics.",
+    "Human presence": {
+      "number_of_people": 2,
+      "Primary person": {
+        "Expression": "Speaking/explaining, direct eye contact, animated hand gesture holding garlic.",
+        "Demographics": "Adult male, South Asian, dark beard, traditional attire."
+      },
+      "Secondary person": {
+        "Expression": "Surprised/open-mouthed, hands at mouth.",
+        "Demographics": "Adult male, lighter skin, casual T-shirt."
+      }
+    },
+    "Main objects/props featured": [
+      "Garlic cloves (held in hand and as image graphic)",
+      "Yellow curved arrow (banana-like illustration)",
+      "Text box icons highlighting view count",
+      "Red arrow pointing from the object to text"
+    ],
+    "Background environment": "Solid dark blue and black gradient with faded garlic in the background\u2014studio setup, no real environment."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "\u0932\u0939\u0938\u0941\u0928 \u0916\u093e\u090f\u0902 \u0932\u094b\u0939\u0947 \u091c\u0948\u0938\u093e \u0924\u0928\u093e\u0935 \u092a\u093e\u090f\u0902",
+      "5 Million+ Views",
+      "\u0915\u092c, \u0915\u0948\u0938\u0947 \u0914\u0930 \u0915\u093f\u0924\u0928\u093e \u0916\u093e\u090f\u0902"
+    ],
+    "Font characteristics": {
+      "Primary font": "Bold, sans-serif, high contrast, mostly uppercase for English, large size.",
+      "Secondary font": "Yellow and white emphasis for keywords, occasional shadow for legibility.",
+      "Colors": "Yellow (for impact/keywords), white (for supporting words), purple (background box)"
+    },
+    "Text placement within frame": {
+      "Headline": "Top left to mid-center",
+      "View count box": "Bottom left",
+      "Supplementary advice": "Bottom center on a contrasting strip"
+    },
+    "Emotional/trigger words": [
+      "\u0932\u094b\u0939\u0947 \u091c\u0948\u0938\u093e (like iron) \u2013 strength metaphor",
+      "\u0924\u0928\u093e\u0935 (tension/stress) \u2013 attention-grabbing, invokes curiosity",
+      "5 Million+ Views \u2013 social proof/validation"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, intriguing, and slightly sensational\u2014suggesting powerful, perhaps unexpected benefits.",
+    "Visual metaphors or symbols": [
+      "Yellow banana/curved shape symbolizing strength/power",
+      "Garlic as a key object for health/metaphorical 'strength'",
+      "Surprised man symbolizing dramatic effect/amazement"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, exaggerated claims (iron-like stress/strength)",
+      "Use of large numbers for social proof",
+      "Surprised facial expression",
+      "Colorful graphics and arrows to draw attention"
+    ],
+    "Brand elements present": [
+      "Image features Dr. Imran Khan (known from the title and visual consistency), signature educational/explanatory style."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The man explaining with garlic in hand visually links to the 'Hidden Benefits of Garlic' in both Hindi and English. The large, bold Hindi text mirrors the video\u2019s premise (benefits/strength metaphor), while showing garlic and an amazed man with a symbolic arrow underscores the dramatic benefit.",
+    "Contrasts or mismatches": "The thumbnail\u2019s wording is somewhat sensationalized ('\u0932\u094b\u0939\u0947 \u091c\u0948\u0938\u093e \u0924\u0928\u093e\u0935'), which may not literally match the nuanced, scientific take implied by 'Dr. Imran Khan' in the title\u2014potentially setting higher expectations than the content might fulfill. However, the overall visual tone and subject matter are cohesive with the title."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "P. Diddy | Monstrul Din Industria Muzical\u0103 \u0219i Teoriile \u0218ocante Care \u00cel \u00cenconjoar\u0103",
+  "thumbnail_path": "thumbnails/zjlxyN72u4U_max.jpg",
+  "title_length": 81,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

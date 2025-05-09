@@ -1,0 +1,12 @@
+{
+  "title": "\u09af\u09c7\u09b8\u09ac \u0995\u09be\u09b0\u09a3\u09c7 \u099c\u09b0\u09be\u09af\u09bc\u09c1 \u09a8\u09bf\u099a\u09c7 \u09a8\u09c7\u09ae\u09c7 \u0986\u09b8\u09c7? \u09af\u09c7\u09ad\u09be\u09ac\u09c7 \u09b9\u09ac\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u0995\u09be\u09b0",
+  "thumbnail_path": "thumbnails/JUY6QqLfkjc_max.jpg",
+  "title_length": 52,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

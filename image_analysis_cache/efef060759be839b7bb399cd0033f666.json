@@ -1,0 +1,56 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark Red/Brown (background)": "40%",
+      "White (text)": "10%",
+      "Bright Yellow (fat graphic & arrows)": "15%",
+      "Purple (cartoon background)": "15%",
+      "Skin tones": "15%",
+      "Blue (shirt)": "5%"
+    },
+    "Composition type": "Close-up and medium shot combination. The right half shows a close-up of a man's face; the left half presents a medium-shot, cartoon-style body transformation sequence.",
+    "Human presence": {
+      "Number of people": "1 real human (right), 1 cartoon human (left, repeated in sequence)",
+      "Expressions": "The real person has a neutral, slightly speaking expression.",
+      "Demographics": "Adult male, light skin, glasses, mustache. The cartoon figures are gender-neutral but appear masculine, light skin, no facial features shown."
+    },
+    "Main objects/props featured": [
+      "Real human face (with glasses)",
+      "Cartoon body transformation (four stages)",
+      "Bright yellow arrows"
+    ],
+    "Background environment": "Right side: Gradient dark red-brown. Left side (cartoon): Bright purple."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "ONLY TAKES 3 DAYS!",
+    "Font characteristics": {
+      "Style": "Sans-serif, bold, all-uppercase.",
+      "Emphasis": "Very strong (bold, large size, white letters, drop shadow).",
+      "Color": "White with dark outline/shadow for contrast."
+    },
+    "Text placement within frame": "Top left quadrant, occupying about 1/4 of the image. Centered horizontally in its section.",
+    "Use of emotional/trigger words": [
+      "ONLY",
+      "TAKES",
+      "3 DAYS!",
+      "All words imply ease, urgency, and fast results\u2014classic clickbait phrasing."
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, promising rapid transformation, motivational, somewhat sensational.",
+    "Visual metaphors or symbols": [
+      "Progressive shrinking belly = rapid fat loss.",
+      "Yellow arrows = fast/linear transformation."
+    ],
+    "Clickbait techniques employed": [
+      "Bold promise of drastic results in very short time ('3 DAYS!').",
+      "Before-and-after transformation graphic.",
+      "Authoritative-looking presenter facing the camera."
+    ],
+    "Brand elements present": "No explicit branding (no logos, consistent colors, or channel name). The person may be a recurring host."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail directly supports the video title's promise of a rapid result from drinking only water for 72 hours. The text ('ONLY TAKES 3 DAYS!') visually echoes '72 hours' from the title. The body transformation timeline grounds the claim visually.",
+    "Contrasts or mismatches": "The thumbnail implies dramatic weight loss results, possibly more visually extreme than what is realistically achievable with only water in three days. No direct reference to 'water' in the image; focus is entirely on speed and transformation, not the specific action of just drinking water."
+  }
+}

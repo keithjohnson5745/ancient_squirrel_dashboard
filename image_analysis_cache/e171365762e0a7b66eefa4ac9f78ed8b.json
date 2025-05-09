@@ -1,0 +1,84 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Red",
+        "percentage": 30
+      },
+      {
+        "color": "Yellow",
+        "percentage": 20
+      },
+      {
+        "color": "Blue",
+        "percentage": 15
+      },
+      {
+        "color": "Green",
+        "percentage": 10
+      },
+      {
+        "color": "White",
+        "percentage": 15
+      },
+      {
+        "color": "Black (for text shadows/outlines)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium shot (showing a man from the chest up on left side, hand raised in gesture, with colorful text bands filling rest of image)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to slight smile, calm demeanor",
+      "demographics": "Adult male, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "The man making an 'OK' gesture with right hand"
+    ],
+    "Background environment": "Solid color horizontal stripes in red, yellow, blue, green, acting as colored bands to frame the text"
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "\u0916\u093c\u093e\u0938 \u092a\u0932\u094b\u0902 \u0915\u094b \u0930\u094b\u092e\u093e\u0902\u091f\u093f\u0915 \u092e\u091c\u093c\u0947\u0926\u093e\u0930 \u092c\u0928\u093e\u090f\u0902",
+      "\u092e\u0939\u093f\u0932\u093e \u092a\u0941\u0930\u0941\u0937 \u0926\u094b\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f",
+      "\u092b\u0941\u0932 \u092e\u091c\u093c\u093e \u0926\u094b\u0928\u094b\u0902 \u0932\u094b"
+    ],
+    "Font characteristics": [
+      {
+        "style": "Bold, heavy sans-serif or display font, thick outlines or shadow for emphasis",
+        "emphasis": "Use of shadow/outline, high contrast with background bands, very prominent and attention-seeking",
+        "color": [
+          "First band: Green text with black outline/shadow on blue",
+          "Second band: Red text with black outline/shadow on yellow",
+          "Third band: Yellow text with black outline/shadow on green",
+          "Last band: White text with black outline/shadow on blue"
+        ]
+      }
+    ],
+    "Text placement within frame": "Text is divided into four thick, horizontal colored bands across the thumbnail, filling most of the area except where the man is placed on the left",
+    "Use of emotional/trigger words": [
+      "\u0916\u093c\u093e\u0938",
+      "\u0930\u094b\u092e\u093e\u0902\u091f\u093f\u0915",
+      "\u092e\u091c\u093c\u0947\u0926\u093e\u0930",
+      "\u092b\u0941\u0932 \u092e\u091c\u093c\u093e",
+      "\u0926\u094b\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Playful, inviting, and slightly sensational. Emphasis on enjoyment and romance.",
+    "Visual metaphors or symbols": [
+      "OK hand gesture (symbolizing satisfaction)",
+      "Bright colors (fun, excitement, energy)"
+    ],
+    "Clickbait techniques employed": [
+      "Use of strong, positive trigger words (\u0930\u094b\u092e\u093e\u0902\u091f\u093f\u0915, \u092e\u091c\u093c\u0947\u0926\u093e\u0930, \u092b\u0941\u0932 \u092e\u091c\u093c\u093e)",
+      "Addressing broad audience ('\u092e\u0939\u093f\u0932\u093e \u092a\u0941\u0930\u0941\u0937 \u0926\u094b\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f' - for both men and women)",
+      "Implying a universally enjoyable solution"
+    ],
+    "Brand elements present": "No visible Durex branding in thumbnail itself, but heavy use of theme colors and copy suggesting product benefits"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Thumbnail reinforces title": "The thumbnail visually reinforces the title by explicitly mentioning key concepts from the title\u2014romance, fun, enjoyment, and that the message is for both male and female viewers. The man's gesture and expression suggest confidence and satisfaction, which connects to the product's promise in the title.",
+    "Contrasts or mismatches": "The only mild contrast is that the thumbnail text is more generalized about enjoyment and romance, not mentioning 'Durex' or 'lube' directly, possibly to attract a broader audience or to comply with platform restrictions. The actual product (Durex Play Massage Lube) is not shown; focus is instead on the benefit and inclusivity."
+  }
+}

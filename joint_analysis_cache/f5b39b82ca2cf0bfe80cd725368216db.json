@@ -1,0 +1,13 @@
+{
+  "title": "Can Vitamin D Boost Intimacy? | Ask Dr. Lia",
+  "thumbnail_path": "thumbnails/twu0m5W3Pg4_max.jpg",
+  "title_length": 43,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

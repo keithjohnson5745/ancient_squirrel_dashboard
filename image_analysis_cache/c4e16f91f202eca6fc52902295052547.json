@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Bright pink": "30%",
+      "White": "25%",
+      "Blonde/yellow (hair and highlights)": "15%",
+      "Skin tones": "10%",
+      "Green (vegetables)": "7%",
+      "Orange (carrot)": "5%",
+      "Navy blue (clothing)": "5%",
+      "Neutral beige/brown (background/bed)": "3%"
+    },
+    "Composition type": "Medium shot (waist-up view of a single person, next to prominent text and illustrations)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral/confident, slight smile with direct gaze at camera",
+      "Demographics": "Apparent adult woman, light skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Illustrated carrot (left bottom corner)",
+      "Illustrated lettuce/cabbage (left bottom)"
+    ],
+    "Background environment": "Indoor, bedroom or home office; light-colored walls, bed visible, uncluttered, natural daylight"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FERTILITY DIET",
+      "what should you eat?"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "FERTILITY DIET",
+        "Style": "Bold, sans-serif, all caps",
+        "Emphasis": "High \u2013 white font on intense pink background",
+        "Color": "White"
+      },
+      {
+        "Text": "what should you eat?",
+        "Style": "Bold, sans-serif, lowercase",
+        "Emphasis": "High \u2013 black text on white background",
+        "Color": "Black"
+      }
+    ],
+    "Text placement within frame": [
+      "\"FERTILITY DIET\": Top left on a pink rectangle, covering about 1/3 horizontally",
+      "\"what should you eat?\": Bottom center, spanning across entire width in a white rectangle"
+    ],
+    "Use of emotional/trigger words": [
+      "FERTILITY",
+      "DIET",
+      "what should you eat?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Trustworthy, informative, positive, and hopeful (due to engaging expression, medical coat, and healthy imagery)",
+    "Visual metaphors or symbols": [
+      "Carrot and lettuce as symbols for healthy eating/nutrition",
+      "Medical/health expert (person in white coat)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, direct question ('what should you eat?') prompts curiosity",
+      "Use of bright colors for attention",
+      "Expert figure (implied authority for trustworthiness)"
+    ],
+    "Brand elements present": [
+      "Possible personal/professional branding through the person in a white medical coat (suggesting expertise)",
+      "Strong, recognizable color palette"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The imagery (healthy vegetables, a person in a medical coat), and the large bold text, directly reference both the topic (diet/food) and the focus (fertility, pregnancy). The visual question in the thumbnail matches the topic in the video title ('what should you eat if you want to get pregnant?').",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatches; the imagery, tone, and explicit mention of fertility diet all align well with the video title's topic."
+  }
+}

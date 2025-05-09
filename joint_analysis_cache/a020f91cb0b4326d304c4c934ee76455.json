@@ -1,0 +1,12 @@
+{
+  "title": "Your Makeup Is Aging You! | 5 Common Mistakes You Might Be Making",
+  "thumbnail_path": "thumbnails/ZjOTTIWbjRk_max.jpg",
+  "title_length": 65,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

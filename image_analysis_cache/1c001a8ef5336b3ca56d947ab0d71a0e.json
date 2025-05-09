@@ -1,0 +1,95 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Gray": "35% (background wall, microphones)",
+      "Skin tones": "20% (faces of both people)",
+      "Black": "20% (hair, clothing, glasses frames, microphone)",
+      "White": "15% (text boxes, text elements)",
+      "Yellow-green": "5% (shirt of woman on the left)",
+      "Red": "5% (highlighted word in text)"
+    },
+    "Composition type": "Close-up (shows faces of two individuals clearly, shoulders-up framing)",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: Woman appears surprised or explaining something, with open mouth and expressive eyes.",
+        "Right: Man looks thoughtful or skeptical, hand on chin, engaged."
+      ],
+      "Demographics": [
+        "Woman: Middle-aged, medium to fair skin, wearing glasses, shoulder-length brown hair.",
+        "Man: Young adult, medium to fair skin, short dark hair, clean-shaven."
+      ]
+    },
+    "Main objects/props featured": [
+      "Two large microphones in the foreground",
+      "Eyeglasses (worn by the woman on the left)"
+    ],
+    "Background environment": "Gray textured wall, no clear environmental cues (studio-like, neutral texture)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "FIGURING OUT With Raj Shamani",
+      "Dr. Jaishree Sharad",
+      "HOW TO GET A CELEBRITY FACE?",
+      "1.2M+ VIEWS"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "FIGURING OUT With Raj Shamani",
+        "Style": "Modern sans-serif, all caps (main brand), small clean font for the tagline",
+        "Emphasis": "White color, center-top, moderate prominence"
+      },
+      {
+        "Text": "Dr. Jaishree Sharad",
+        "Style": "Sans-serif, bold, with a profile image and blue verified checkmark, black color",
+        "Emphasis": "Medium prominence"
+      },
+      {
+        "Text": "HOW TO GET A CELEBRITY FACE?",
+        "Style": "Sans-serif, bold for entire line, with 'CELEBRITY' in red (strong emphasis), rest in black",
+        "Emphasis": "'CELEBRITY' is highly emphasized (red color)"
+      },
+      {
+        "Text": "1.2M+ VIEWS",
+        "Style": "Sans-serif, black, bold, all caps",
+        "Emphasis": "Bottom left-hand corner, very prominent"
+      }
+    ],
+    "Text placement within frame": [
+      "Channel name/logo at top center",
+      "Main quote/question in white box centered toward upper middle",
+      "Views count in a white box at bottom left"
+    ],
+    "Use of emotional/trigger words": [
+      "CELEBRITY"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curiosity-provoking, aspirational (how to get celebrity looks), a mix of authority (expert) and relatability (host's expression)",
+    "Visual metaphors or symbols": [
+      "Close-up faces = focus on skincare/beauty",
+      "Microphones = interview/podcast setting",
+      "Red color = urgency/importance for the word 'CELEBRITY'"
+    ],
+    "Clickbait techniques employed": [
+      "Big, bold question ('HOW TO GET A CELEBRITY FACE?')",
+      "Use of celebrity/aspirational trigger word",
+      "High view count displayed prominently",
+      "Contrasted facial expressions for intrigue"
+    ],
+    "Brand elements present": [
+      "FIGURING OUT With Raj Shamani logo",
+      "Host and guest lifestyle imagery",
+      "Professional podcast setup cues"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The presence of a dermatologist and a host, both engaged in a close-up discussion, visually supports the video\u2019s focus on skin care 'secrets' and procedures (fillers, botox, etc.).",
+      "The bold question, 'HOW TO GET A CELEBRITY FACE?', directly links to the promise of the title regarding skincare and beauty secrets from a celebrity dermatologist."
+    ],
+    "Contrasts or mismatches": [
+      "The thumbnail focuses specifically on facial beauty and the concept of a 'celebrity face', while the title broadly covers a range of topics (fillers, botox, acne, sunscreen, skincare), suggesting the video may contain more educational scope than what the thumbnail alone emphasizes."
+    ]
+  }
+}

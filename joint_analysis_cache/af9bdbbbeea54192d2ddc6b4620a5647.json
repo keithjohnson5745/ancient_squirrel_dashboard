@@ -1,0 +1,14 @@
+{
+  "title": "\u09e9\u09e6 \u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1 \u0995\u09c7 \u23e9 \u09e9\u09e6 \u09ae\u09bf\u09a8\u09bf\u099f \u0995\u09b0\u09c1\u09a8 #\u09a1\u09be\u098f\u09b8\u0986\u09b0\u0996\u09be\u09a8 || #DrSRKhan",
+  "thumbnail_path": "thumbnails/HEuEtdejbcA_max.jpg",
+  "title_length": 53,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.4,
+  "clickbait_score": 0.5
+}

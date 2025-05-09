@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "Approximately 50% (background gradients, main banner)",
+      "White": "Approximately 20% (text, accents)",
+      "Black": "Approximately 15% (shading, text shadow, shirt)",
+      "Yellow": "Approximately 10% (text highlights, particularly 'SOC' and 'FOR 2025')",
+      "Skin tone and hair (person)": "Approximately 5%"
+    },
+    "Composition type": "Medium shot of a single person, showing from mid-torso upward",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, confident and welcoming",
+      "Demographics": "Young adult female, likely South Asian"
+    },
+    "Main objects/props featured": [
+      "Person wearing a branded shirt (Intellipaat logo)",
+      "Pen held in hand"
+    ],
+    "Background environment": "Digital/technological themed with circuit board graphics and a large checkmark symbol"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "SOC INTERVIEW QUESTIONS AND ANSWERS [FOR 2025]",
+      "IntelliPaat"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": [
+        "'SOC' in bold yellow",
+        "'QUESTIONS' in large, bold, white",
+        "Other text in white or black for contrast"
+      ],
+      "Color": [
+        "Yellow (SOC, FOR 2025)",
+        "White (majority of text)",
+        "Black (AND ANSWERS)",
+        "Brand logo uses white, orange, purple"
+      ]
+    },
+    "Text placement within frame": {
+      "SOC INTERVIEW QUESTIONS": "Top and left center aligned, largest segment",
+      "AND ANSWERS": "Below main phrase, separated with a white band",
+      "[FOR 2025]": "Bottom left in a yellow box",
+      "IntelliPaat logo": "Top right and on shirt"
+    },
+    "Use of emotional/trigger words": [
+      "INTERVIEW",
+      "QUESTIONS",
+      "ANSWERS",
+      "SOC",
+      "[FOR 2025]"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Encouraging, informative, and professional",
+    "Visual metaphors or symbols": [
+      "Digital background (technology/cybersecurity theme)",
+      "Check mark (success, confirmation, correctness)"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, oversized text for key terms",
+      "Use of year '2025' for topicality and relevance",
+      "Smiling relatable instructor to build trust"
+    ],
+    "Brand elements present": [
+      "Intellipaat logo (top right and on shirt)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly repeats important phrases from the title (\u2018SOC Interview Questions and Answers [For 2025]\u2019). The presence of a professional-looking instructor, digital background, and the check mark all signal the tutorial, exam, or interview-prep focus, matching the promise of the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrast; all visual, textual, and symbolic elements are closely aligned with the title\u2019s focus on SOC interview prep for 2025. The thumbnail is highly consistent with the video title."
+  }
+}

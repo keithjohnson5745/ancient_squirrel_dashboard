@@ -1,0 +1,13 @@
+{
+  "title": "Harvard Professor Explains Algorithms in 5 Levels of Difficulty | WIRED",
+  "thumbnail_path": "thumbnails/fkIvmfqX-t0_max.jpg",
+  "title_length": 71,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Door Lock Lubrication - are you using the right product?",
+  "thumbnail_path": "thumbnails/4QoIvuoQQgM_max.jpg",
+  "title_length": 56,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

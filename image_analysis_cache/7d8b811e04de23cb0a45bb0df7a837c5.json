@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Beige/Tan",
+        "percentage": 35
+      },
+      {
+        "color": "Light skin tone",
+        "percentage": 20
+      },
+      {
+        "color": "Blonde (hair)",
+        "percentage": 15
+      },
+      {
+        "color": "White",
+        "percentage": 10
+      },
+      {
+        "color": "Red (text background/bar)",
+        "percentage": 7
+      },
+      {
+        "color": "Black (text, furniture)",
+        "percentage": 8
+      },
+      {
+        "color": "Muted background colors (brown, cream)",
+        "percentage": 5
+      }
+    ],
+    "Composition type": "Medium close-up (woman's face and upper torso visible, off-center to the right)",
+    "Human presence": {
+      "number": 1,
+      "expressions": "Smiling, relaxed, approachable",
+      "demographics": "Young adult female, fair skin, blonde hair"
+    },
+    "Main objects/props featured": [
+      "Seated young woman (center-right)",
+      "Text/graphics overlays",
+      "Neutral, blurred background (indoors)"
+    ],
+    "Background environment": "Indoors, blurred room/interior suggesting a comfortable home or office setting; light, neutral background with indistinct details"
+  },
+  "TEXT ELEMENTS": {
+    "Transcription": [
+      "I didn't feel disabled enough",
+      "LISTEN UP",
+      "ABC SCIENCE (logo)"
+    ],
+    "Font characteristics": {
+      "style": "Sans-serif, bold, clean, modern",
+      "emphasis": "Heavy emphasis on 'disabled enough' in white font on red background for contrast",
+      "color": "White text on both transparent and red backgrounds, simple for readability"
+    },
+    "Text placement within frame": [
+      "'I didn't feel' (top left, white text on transparent background)",
+      "'disabled enough' (middle left, white text on solid red background bar)",
+      "'LISTEN UP' (bottom left, white text with a red bracketed outline for emphasis)",
+      "ABC SCIENCE logo (top right corner, white)"
+    ],
+    "Use of emotional/trigger words": [
+      "disabled enough"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Mixed \u2014 thought-provoking and serious (due to the text about disability), but visually warm and approachable (smiling face, soft color palette)",
+    "Visual metaphors or symbols": [
+      "Highlighted phrase 'disabled enough' draws attention to struggles with identity or self-acceptance",
+      "Smiling, open expression may symbolize positivity and personal strength in the face of challenges"
+    ],
+    "Clickbait techniques employed": [
+      "Personal confession/story ('I didn't feel disabled enough' is emotionally charged and invites curiosity)",
+      "Contrast between the directness of the statement and friendly facial expression creates intrigue"
+    ],
+    "Brand elements present": [
+      "ABC Science logo (top right)",
+      "LISTEN UP series branding (bottom left)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The medium close-up shot directly spotlights the subject of the story, personalizing the unusual and medically complex subject described in the title. The text 'I didn\u2019t feel disabled enough' alludes to internal struggles and connects emotionally to the idea of having a rare condition (as spelled out in the video title). The LISTEN UP series logo indicates this is a personal narrative.",
+    "Contrasts or mismatches": "The thumbnail does not mention or visually reference the specifics of her condition ('two vaginas, two uteruses and two cervixes'), focusing instead on her emotional perspective about disability. This creates a sense of mystery and encourages viewers to click to hear the full story, but may also be intentionally vague to attract a broader audience."
+  }
+}

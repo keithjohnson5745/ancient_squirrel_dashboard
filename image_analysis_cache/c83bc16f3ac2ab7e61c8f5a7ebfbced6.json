@@ -1,0 +1,83 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "40%",
+      "Blue (navy and lighter blue shades)": "25%",
+      "Skin tone": "10%",
+      "Brown (coconut, wood, and hair)": "15%",
+      "Pink (logo and text)": "5%",
+      "Green (background behind coconuts)": "5%"
+    },
+    "Composition type": "Split composition: left half is a close-up of a person (head and shoulders); right half has a medium shot of coconuts and coconut oil with text above.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral or slight smile, calm demeanor.",
+      "Demographics": "Adult male, brown skin, short dark hair, glasses."
+    },
+    "Main objects/props featured": [
+      "Jar of coconut oil",
+      "Whole coconut",
+      "Half coconut",
+      "Assorted nuts",
+      "Office chair"
+    ],
+    "Background environment": "Office or clinic setting behind person; outdoor/natural blurred background behind coconut and jar."
+  },
+  "TEXT ELEMENTS": {
+    "Text visible": [
+      "Dr Shahs Clinic",
+      "Male Infertility & Sexual Health",
+      "Can you use coconut oil as lube?"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "Dr Shahs Clinic",
+        "Style": "Sans-serif, bold for 'Dr Shahs', thinner for 'Clinic'",
+        "Color": "Blue"
+      },
+      {
+        "Text": "Male Infertility & Sexual Health",
+        "Style": "Sans-serif",
+        "Color": "Pink"
+      },
+      {
+        "Text": "Can you use coconut oil as lube?",
+        "Style": "Serif, bold",
+        "Color": "Black for most words, 'coconut oil' in pink italic"
+      }
+    ],
+    "Text placement within frame": [
+      "Top left (clinic logo and subtitle)",
+      "Top right, large (main question text)",
+      "'coconut oil' specifically emphasized in pink and italicized for emphasis"
+    ],
+    "Use of emotional/trigger words": [
+      "'lube' (sexually themed/curiosity-driven trigger word)",
+      "'coconut oil' (common household item, implied health/safety curiosity)",
+      "Clinic branding (trust/authority cues)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, approachable, mildly playful/curious (due to question and topic)",
+    "Visual metaphors or symbols": "Coconuts and jar represent 'coconut oil', healthcare setting invokes expertise.",
+    "Clickbait techniques employed": [
+      "Direct question ('Can you use coconut oil as lube?') piques curiosity",
+      "Emphasis on 'coconut oil' in bright font draws attention",
+      "Medical authority (clinic logo and doctor portrait) adds credibility"
+    ],
+    "Brand elements present": [
+      "Dr Shahs Clinic logo",
+      "Clinic tagline"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": [
+      "The thumbnail displays both coconut oil and a professional (implied doctor), directly matching the video\u2019s focus on using coconut oil as a lube and advice from a clinic.",
+      "Visual question is the same as the video title, with the same terminology."
+    ],
+    "Contrasts or mismatches": [
+      "There is no major mismatch. Both title and thumbnail are closely aligned in subject and tone.",
+      "Slightly playful/curious wording versus more serious professional branding, but this is complementary rather than clashing."
+    ]
+  }
+}

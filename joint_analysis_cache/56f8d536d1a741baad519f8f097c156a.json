@@ -1,0 +1,12 @@
+{
+  "title": "Fertility lubricant for couples struggling to conceive",
+  "thumbnail_path": "thumbnails/V9MLkFoRS1k_high.jpg",
+  "title_length": 54,
+  "patterns": [
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

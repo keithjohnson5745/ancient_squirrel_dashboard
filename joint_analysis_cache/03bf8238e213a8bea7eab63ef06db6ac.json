@@ -1,0 +1,13 @@
+{
+  "title": "Durex Naturals Intimate Gel- Ladies, Let\u2019s Lube!",
+  "thumbnail_path": "thumbnails/IoaV4FuZBO0_high.jpg",
+  "title_length": 48,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

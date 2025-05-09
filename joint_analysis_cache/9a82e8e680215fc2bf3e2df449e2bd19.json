@@ -1,0 +1,12 @@
+{
+  "title": "\u70b8\u4e86\uff1a\u4ed6\u5c06\u63a5\u603b\u4e66\u8bb0\u603b\u7406\u662f\u4ed6\uff0c\u4e60\u8d74\u7ea2\u573a\u9605\u5175\u6050\u6709\u53bb\u65e0\u56de\uff0c\u80e1\u9526\u6d9b\u4fc3\u5143\u8001\u529b\u633a\u80e1\u6625\u534e\u3002\u300a\u8001\u706f\u5f00\u8bb2\u7b2c890\u671f\u300b",
+  "thumbnail_path": "thumbnails/8sVRmrliOI8_max.jpg",
+  "title_length": 49,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.4
+}

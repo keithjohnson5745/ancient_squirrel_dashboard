@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Light blue/grey background": "40%",
+      "Skin tones (light beige, pink)": "30%",
+      "Black (text and outlines)": "20%",
+      "White (text fill and arrow)": "10%"
+    },
+    "Composition type": "Medium shot with split face close-up on the left and a presenter on the right",
+    "Human presence": {
+      "Number of people": 2,
+      "Expressions": [
+        "Left: neutral expression, partially visible face (split in half; one side young, one side older with visible wrinkles)",
+        "Right: presenter smiling, pointing to the text and split face"
+      ],
+      "Demographics": [
+        "Left: adult female, ambiguous age due to split effect (one side young, one side elderly)",
+        "Right: adult male presenter"
+      ]
+    },
+    "Main objects/props featured": [
+      "Large stylized percent symbol ('80%')",
+      "White arrow pointing from the text to the split face",
+      "Presenter pointing towards the split face",
+      "Split image showing young vs. aged/affected skin"
+    ],
+    "Background environment": "Plain, gradient light blue to grey; no characteristic elements"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "80% ARE UNAWARE",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif (very prominent)",
+      "Emphasis": "Extra large numerals for '80%', all caps for 'ARE UNAWARE'",
+      "Color": "Black, with '80%' filled in white and outlined in black"
+    },
+    "Text placement within frame": {
+      "80%": "Top left, extremely large and overlapping both face and background",
+      "ARE UNAWARE": "Top right of the frame, sits right beside '80%'"
+    },
+    "Use of emotional/trigger words": [
+      "'80%': Strong statistic, implies urgency or importance",
+      "'UNAWARE': Suggests ignorance/lack of knowledge, potentially alarming"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Urgent, informative, and slightly alarming\u2014meant to invoke curiosity and concern",
+    "Visual metaphors or symbols": [
+      "Split-face: visual metaphor for transformation or negative effects (aging or damage) possibly associated with low estrogen",
+      "Arrow: directs viewer's attention, emphasizes connection between statistic and visual consequence"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold statistic ('80%')",
+      "Emotional trigger word ('UNAWARE')",
+      "Dramatic visual of facial aging",
+      "Presenter pointing for emphasis"
+    ],
+    "Brand elements present": "No overt branding or logo in thumbnail"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail clearly supports the video title ('Low Estrogen // Crucial Signs of Low Estrogen You Need to Know !!') by visually highlighting aging skin\u2014a classic sign of low estrogen\u2014and backing it with a compelling statistic ('80% are unaware') to stress the importance of learning these signs. The presenter's gesture and the split-face image directly relate to recognizing and understanding the symptoms/effects mentioned in the title.",
+    "Contrasts or mismatches": "No major mismatches. The thumbnail visually and textually aligns with the video's educational and alarming angle about unrecognized signs of low estrogen."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Light brown/tan (walls, door)": "30%",
+      "Blue (shirt)": "20%",
+      "Light beige/white (woman's shirt, walls)": "30%",
+      "Green (wreath, background outside door)": "10%",
+      "Yellow/Orange (text bar)": "5%",
+      "Other minor colors (decor, furniture, black text)": "5%"
+    },
+    "Composition Type": "Medium shot (two people are visible from the waist up, situated in foreground and middle ground)",
+    "Human Presence": {
+      "Number of people": 2,
+      "Expressions": "Both people are smiling, conveying friendliness and warmth",
+      "Demographics (if apparent)": "One elderly woman (senior, light skin, short gray hair), one younger woman (younger adult, light skin, medium brown/blonde hair)"
+    },
+    "Main Objects/Props Featured": [
+      "Welcome wreath on the door",
+      "Doorway",
+      "Living room visible in background with furniture and lamp"
+    ],
+    "Background Environment": "Interior of a residential home/apartment, well-lit and welcoming"
+  },
+  "TEXT ELEMENTS": {
+    "Visible Text": [
+      "SPONSORED BY:",
+      "John Knox Village",
+      "EMERGENCY & NON-EMERGENCY SERVICES",
+      "LEARN ABOUT EVERYTHING AT JOHN KNOX VILLAGE | JKV.ORG",
+      "myKC LIVE"
+    ],
+    "Font Characteristics": {
+      "EMERGENCY & NON-EMERGENCY SERVICES": "Bold, black, all uppercase, sans-serif, high emphasis",
+      "Other text": "Sans-serif, standard weight, mixed case, colors include white, blue, black, and orange",
+      "SPONSORED BY:": "Uppercase, bold, white on blue background",
+      "myKC LIVE": "White and orange, playful rounded sans-serif"
+    },
+    "Text Placement": {
+      "SPONSORED BY: John Knox Village": "Bottom left over colored banner",
+      "EMERGENCY & NON-EMERGENCY SERVICES and details": "Bottom center in large, eye-catching text",
+      "myKC LIVE": "Bottom right"
+    },
+    "Emotional/Trigger Words": [
+      "EMERGENCY",
+      "NON-EMERGENCY",
+      "SERVICES",
+      "LIVE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Reassuring, friendly, caring, safe (conveyed by human smiles and home environment, plus service emphasis)",
+    "Visual Metaphors or Symbols": [
+      "Welcome wreath symbolizes hospitality and care",
+      "Smiling faces symbolize trust and compassion"
+    ],
+    "Clickbait Techniques Employed": [
+      "Highlighting 'emergency services' to trigger concern/interest",
+      "Emphasizing both 'emergency' and 'non-emergency' to broaden appeal"
+    ],
+    "Brand Elements Present": [
+      "John Knox Village logo and name",
+      "myKC LIVE show branding"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement of Title": "The thumbnail depicts a caregiver or health worker greeting a smiling senior woman at her residence, visually reinforcing the 'Emergency Medical Services at John Knox Village' by directly showing human interaction, care, and home environment which aligns with the resident/patient care theme implied by the title.",
+    "Contrasts or Mismatches": "There is no dramatic emergency scene\u2014rather, the moment captured is calm, friendly, and routine, which may contrast with viewers who expect urgent or dramatic medical action, given the word 'Emergency' in the title. However, the subtitle in the thumbnail ('Emergency & Non-Emergency Services') does expand the context to include a spectrum of care."
+  }
+}

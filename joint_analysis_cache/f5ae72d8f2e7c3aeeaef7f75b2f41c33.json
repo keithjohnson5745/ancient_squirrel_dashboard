@@ -1,0 +1,12 @@
+{
+  "title": "Can You Trust NileRed?",
+  "thumbnail_path": "thumbnails/W78EmvZzWNg_max.jpg",
+  "title_length": 22,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

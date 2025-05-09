@@ -1,0 +1,12 @@
+{
+  "title": "Estrogen For Your Face \u2014 Dr. Kelly Casperson & Dr. Ellen Gendler",
+  "thumbnail_path": "thumbnails/fY95vGFmQUg_max.jpg",
+  "title_length": 64,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

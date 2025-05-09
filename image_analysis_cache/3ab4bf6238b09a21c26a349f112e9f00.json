@@ -1,0 +1,61 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark Purple": "40%",
+      "Red": "20%",
+      "Yellow": "15%",
+      "White": "15%",
+      "Skin tones/Brown": "5%",
+      "Blue": "5%"
+    },
+    "Composition type": "Close-up (the right half), mixed with a graphical/text overlay (left half)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to slightly serious/instructive; mouth open, possibly mid-speech; direct eye contact with camera",
+      "demographics": "Adult woman, medium skin tone, glasses, brown hair"
+    },
+    "Main objects/props featured": "A small umbrella-shaped item (likely representing a condom, based on context and shape), being held up by the woman",
+    "Background environment": "Plain, light-blurred background, typical for a focused instructional YouTube shot"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "\u0910\u0938\u0947 \u0932\u0917\u093e\u0913",
+      "\u091b\u0924\u0930\u0940",
+      "\u0915\u092d\u0940 \u0928\u0939\u0940\u0902 \u092b\u091f\u0947\u0917\u0940",
+      "FULL DEMO",
+      "Dr. Neha Mehto",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, sans-serif, clean and highly legible",
+      "Emphasis": "Heavy use of uppercase (especially in English segments), some words larger and in contrasting colors for impact (e.g. '\u091b\u0924\u0930\u0940' in yellow, 'FULL DEMO' in red/white)",
+      "Color": "Mostly white and yellow on dark purple, red and white on red/blue for demo and name sections"
+    },
+    "Text placement within frame": [
+      "Main instructional text (Hindi): Left half, vertically stacked",
+      "'FULL DEMO': Bottom left, bold and large",
+      "Presenter's name/credentials: Bottom right corner, blue/red/yellow banner"
+    ],
+    "Emotional/trigger words": [
+      "'\u0915\u092d\u0940 \u0928\u0939\u0940\u0902 \u092b\u091f\u0947\u0917\u0940' (will never break) and 'FULL DEMO' both serve as strong triggers promising a foolproof solution and a comprehensive tutorial"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Authoritative, instructional, promise of expert solution; supportive and informative",
+    "Visual metaphors/symbols": "The umbrella-shaped object (colloquially '\u091b\u0924\u0930\u0940' in Hindi, a common euphemism for a condom), held in focus, reinforces the subject of correct usage",
+    "Clickbait techniques employed": [
+      "Bold promises ('never break')",
+      "Emphasizing 'FULL DEMO'",
+      "Serious and instructive facial expression signifying expertise",
+      "Visual focus on the product/tool"
+    ],
+    "Brand elements present": [
+      "Presenter's name and a professional title (Dr. Neha Mehto, Consultant Psychologist)",
+      "Consistent use of bright, attention-grabbing highlight colors (red/yellow/blue)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail visually demonstrates the topic of the video \u2014 correct usage of an 'umbrella' (in this context, condom) \u2014 matching both the literal and euphemistic meaning in the title, while text directly mirrors the title's promise.",
+    "Contrasts or mismatches": "No major mismatches; both visual and text reinforce each other and accurately reflect the video title\u2019s claim and topic."
+  }
+}

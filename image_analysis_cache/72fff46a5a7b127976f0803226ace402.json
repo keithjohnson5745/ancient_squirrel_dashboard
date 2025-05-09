@@ -1,0 +1,70 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Blue (Background)": "\u224850%",
+      "White (Text, doctor\u2019s coat, pill boxes)": "\u224825%",
+      "Red (Highlight box and text)": "\u224815%",
+      "Yellow (Accent stripe)": "\u22485%",
+      "Other (Pill blisters, skin tone, minor text)": "\u22485%"
+    },
+    "Composition type": "Medium shot \u2013 split between product images on left and a person (doctor) on right.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral, slight smile",
+      "Demographics": "Female, likely adult, South Asian descent (inferred from language usage and appearance)"
+    },
+    "Main objects/props featured": [
+      "Image of a woman in a white coat (doctor/psychologist)",
+      "Pharmaceutical pill boxes/blisters (Vardenafil, Sildenafil Citrate, Tadalafil, Avanafil)",
+      "Pills visible in blister packs"
+    ],
+    "Background environment": "Solid, gradient blue color with some yellow accent at the top. No detailed environment."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "\u0915\u094c\u0928 \u0938\u0940 \u0917\u094b\u0932\u0940 \u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0926\u0947\u0930 \u091a\u0932\u0947\u0917\u0940?",
+      "VARDENAFIL",
+      "Sildenafil Citrate Tablets IP 50 mg",
+      "Fullfeel-50",
+      "Tadalafil Tablets IP Megalis-10",
+      "Cipla Avanafil Tablets 200 mg Avanair 200",
+      "Dr. Neha Mehta",
+      "COUSULTANT PSYCHOLOGIST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold sans-serif for main Hindi text; robust, simple/readable fonts on medication boxes. \u2018Dr. Neha Mehta\u2019 uses white with red for emphasis.",
+      "Emphasis": "Heavy (all caps or bold); \u2018\u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0926\u0947\u0930\u2019 highlighted with red background.",
+      "Color": "Main text in white, red, and some cyan/green for medical branding.",
+      "Additional": "\u2018Dr. Neha Mehta\u2019 uses a block with contrasting colors for authority."
+    },
+    "Text placement within frame": {
+      "Main Hindi text": "Top left and center, occupying about half of the frame horizontally.",
+      "Medication names": "Lower left quadrant, directly labeling/overlaying the packages.",
+      "Doctor\u2019s name/credentials": "Bottom right, overlaid near the doctor\u2019s image."
+    },
+    "Use of emotional/trigger words": [
+      "Best",
+      "\u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0926\u0947\u0930 (longer duration)",
+      "\u0915\u094c\u0928 \u0938\u0940 \u0917\u094b\u0932\u0940 (which pill)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Informative, trustworthy, medical authority, and slightly urgent (due to \u2018best\u2019 and \u2018longer\u2019)\u2014aimed at people seeking advice.",
+    "Visual metaphors or symbols": [
+      "Doctor\u2019s white coat for authority and trust.",
+      "Pills/medication packs as direct visual reference to the video\u2019s subject."
+    ],
+    "Clickbait techniques employed": [
+      "Use of bold and highlighted text (\u2018\u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0926\u0947\u0930\u2019) to promise a clear answer.",
+      "Question format\u2014invites curiosity.",
+      "Display of multiple branded medicines without saying which is best."
+    ],
+    "Brand elements present": [
+      "Name and designation of \u2018Dr. Neha Mehta\u2019 (personal branding for credibility)."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly shows different medicine packets and visually asks which one is \u2018best\u2019 or lasts longer, aligning strongly with both the comparative and informative promise in the title. Both ask a clear question about choice and performance.",
+    "Any contrasts or mismatches between thumbnail and title": "No major mismatch; both ask similar questions. Thumbnail is slightly more specific (about duration) while the title is broader (\u2018best\u2019), but overall alignment is strong."
+  }
+}

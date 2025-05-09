@@ -1,0 +1,107 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Grey/Slate",
+        "percentage": 25
+      },
+      {
+        "color": "Burgundy/Maroon",
+        "percentage": 20
+      },
+      {
+        "color": "Light Blue/Cyan",
+        "percentage": 10
+      },
+      {
+        "color": "Beige/Skin Tone",
+        "percentage": 15
+      },
+      {
+        "color": "White",
+        "percentage": 10
+      },
+      {
+        "color": "Muted Greens/Blues (Background)",
+        "percentage": 20
+      }
+    ],
+    "Composition type": "Medium shot (two people, chest-up, background visible)",
+    "Human presence": {
+      "number": 2,
+      "expressions": [
+        "Left person: slight frown, serious/neutral, looking at camera",
+        "Right person: neutral, thinking, looking off to left"
+      ],
+      "demographics": [
+        "Left: Asian woman, adult",
+        "Right: Non-Asian man, adult, beard and styled hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Bold red arrows pointing toward the right person",
+      "Numbers '1', '2', and '3' in bold near the arrows",
+      "Scarf (on woman), watch (on man)"
+    ],
+    "Background environment": "Urban street with pastel buildings and windows, slightly out of focus"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Font characteristics": [
+      {
+        "text": "1",
+        "style": "Bold, sans-serif, black text with white outline",
+        "emphasis": "High contrast for quick readability",
+        "color": "Black (white outline)"
+      },
+      {
+        "text": "2",
+        "style": "Bold, sans-serif, black text with white outline",
+        "emphasis": "High contrast for quick readability",
+        "color": "Black (white outline)"
+      },
+      {
+        "text": "3",
+        "style": "Bold, sans-serif, black text with white outline",
+        "emphasis": "High contrast for quick readability",
+        "color": "Black (white outline)"
+      }
+    ],
+    "Text placement": [
+      "\"1\": Near the top center, left of man\u2019s head",
+      "\"2\": Top right corner, above the man",
+      "\"3\": Over the center of the man\u2019s chest"
+    ],
+    "Emotional/trigger words": [
+      "Numbers as list points imply 'reasons' or 'mistakes', a common clickbait trigger"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Mild tension or discomfort, curiosity; viewer is guided to notice the man and his behavior/appearance",
+    "Visual metaphors or symbols": [
+      "Red arrows: indicate attention, potential mistakes, or problematic actions",
+      "Numbered list: suggests a countdown of mistakes or issues"
+    ],
+    "Clickbait techniques employed": [
+      "Use of numbered reasons/mistakes (list post format)",
+      "Red arrows to guide viewer\u2019s eye and highlight 'problems'",
+      "Contrasting facial expressions (serious/neutral Japanese person versus 'unaware' foreigner)",
+      "High-contrast outlines and cut-out figure styling to \u2018pop\u2019 subjects from background"
+    ],
+    "Brand elements present": "No explicit logo, but the styling (arrows, numbered list, cut-out figures) may be part of channel visual identity"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail shows a Japanese woman pointing at a foreign man, setting up a dynamic of scrutiny or evaluation, directly reflecting the title's premise.",
+      "Red arrows and numbers visually hint at 'mistakes' or 'actions' that are the focus of the video (as per the title: how foreigners make Japanese uncomfortable)."
+    ],
+    "Contrasts or mismatches": [
+      "No significant mismatch; both the title and thumbnail create a sense of tension and highlight specific behaviors (numbered).",
+      "The thumbnail\u2019s 'list' format is not stated in the title but feels complementary for a click-driven audience."
+    ]
+  }
+}

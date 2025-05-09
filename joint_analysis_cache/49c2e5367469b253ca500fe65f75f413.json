@@ -1,0 +1,12 @@
+{
+  "title": "When You're the Affair Partner",
+  "thumbnail_path": "thumbnails/Dg4NayGursw_high.jpg",
+  "title_length": 30,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

@@ -1,0 +1,13 @@
+{
+  "title": "ULTIMATE Skincare Guide: Acne, Aging, Sunscreen, Supplements | Dr. Nivedita Dadu with GunjanShouts",
+  "thumbnail_path": "thumbnails/hi-OHnyPLyY_max.jpg",
+  "title_length": 98,
+  "patterns": [
+    "superlative",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.6
+}

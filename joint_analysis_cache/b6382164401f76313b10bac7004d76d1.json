@@ -1,0 +1,13 @@
+{
+  "title": "NEVER Throw Away Your Old Tires, MAKE A WONDERFUL TOOL WITH YOUR OWN HANDS!",
+  "thumbnail_path": "thumbnails/UpaUqqCU5B8_max.jpg",
+  "title_length": 75,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

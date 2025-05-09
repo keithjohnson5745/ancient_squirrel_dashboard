@@ -1,0 +1,13 @@
+{
+  "title": "No Data, No Justice: Inside the OBC Push for a Caste Census | Kiran Kumar Interview | Pooja Prasanna",
+  "thumbnail_path": "thumbnails/4qXnwf_OD98_max.jpg",
+  "title_length": 100,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

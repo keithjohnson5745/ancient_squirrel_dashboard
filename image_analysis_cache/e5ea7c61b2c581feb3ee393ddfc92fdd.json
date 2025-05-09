@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Yellow": "Approximately 25% (used for main text and some highlights)",
+      "Black": "Approximately 20% (background strip for text and parts of clock, suit of man in clock)",
+      "White": "Approximately 20% (text, clock face)",
+      "Pink/Flesh tones": "Approximately 25% (background, hands holding each other)",
+      "Gray": "Approximately 10% (man's suit, Dr. Sunil Jindal's hair and mustache)"
+    },
+    "Composition type": "Medium shot (shows the upper half of Dr. Sunil Jindal), combined with a close-up of a large clock, and partial background of two hands holding each other.",
+    "Human presence": {
+      "Number of people": 2,
+      "Details": [
+        {
+          "Person 1": "Adult male (Dr. Sunil Jindal), middle-aged, glasses, mustache, professional attire, pointing gesture, neutral-expression."
+        },
+        {
+          "Person 2": "Small suited man composited on a clock (not a real person, but a graphic element symbolizing time); face not clearly visible."
+        }
+      ]
+    },
+    "Main objects/props featured": [
+      "Large analog clock with a miniature suited man hanging from the clock hand",
+      "Pair of hands gently holding each other (background, partially blurred/faded)",
+      "Circular medical logo (top left)",
+      "Dr. Sunil Jindal (bottom right)"
+    ],
+    "Background environment": "Main background is soft pink/peach, featuring two hands holding each other (suggestive of intimacy); blurred and non-intrusive to foreground elements."
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "IDEAL Sex Duration",
+      "\u0938\u0947\u0915\u094d\u0938 \u0915\u0940 \u0905\u0935\u0927\u093f \u0915\u093f\u0924\u0928\u0940 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f?",
+      "Dr. Sunil Jindal MS, DNB, MNAMS",
+      "Jindal Hospital CENTER OF EXCELLENCE State of the Art Services"
+    ],
+    "Font characteristics": {
+      "IDEAL Sex Duration": "Large, bold, sans-serif; 'IDEAL' is white, 'Sex Duration' is yellow and much larger, some italicization for 'Sex Duration'; strong emphasis.",
+      "\u0938\u0947\u0915\u094d\u0938 \u0915\u0940 \u0905\u0935\u0927\u093f...": "Bold, thick sans-serif, large, white color, with a drop shadow for contrast; prominent but secondary to main English headline.",
+      "Dr. Sunil Jindal...": "Smaller, bold sans-serif, yellow text with slight shadow, visually separated.",
+      "Logo": "Formal serif/sans-serif mix, green and white, standard professional look."
+    },
+    "Text placement": {
+      "IDEAL Sex Duration": "Top center, diagonally across, dominating the upper part of the frame.",
+      "\u0938\u0947\u0915\u094d\u0938 \u0915\u0940 \u0905\u0935\u0927\u093f...": "Middle right, over the background of intertwined hands.",
+      "Dr. Sunil Jindal...": "Bottom right, directly below the image of Dr. Sunil Jindal.",
+      "Hospital Logo": "Top left corner."
+    },
+    "Emotional/trigger words": [
+      "IDEAL",
+      "Sex",
+      "Duration"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Direct and informative, with a clinical-yet-accessible style. The thumbnail seeks to remove taboo by focusing on clarity and expertise.",
+    "Visual metaphors or symbols": [
+      "Large clock with a man hanging from the hand: Represents 'duration' and the struggle or anxiety around timing.",
+      "Hands holding: Symbolizes intimacy, connection, reassurance."
+    ],
+    "Clickbait techniques employed": [
+      "Bold, provocative keywords ('Sex Duration', 'IDEAL').",
+      "Direct question in Hindi for broader reach.",
+      "Large, eye-catching fonts and contrasting colors.",
+      "Expert figure (doctor) featured for authority and trust."
+    ],
+    "Brand elements present": [
+      "Logo and hospital name.",
+      "Expert\u2019s name with credentials.",
+      "Consistent color palette for professionalism."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The visuals directly reinforce the title\u2019s focus on 'sex duration' with the large clock (representing time) and the word 'Duration' in bold. Featuring the doctor visually adds credibility, matching the 'Dr. Sunil Jindal' mentioned in the title.",
+    "Contrasts or mismatches": "There are no major mismatches. The only minor aspect is that the thumbnail opts for concise phrasing ('IDEAL Sex Duration'), while the video title is more descriptive and complete."
+  }
+}

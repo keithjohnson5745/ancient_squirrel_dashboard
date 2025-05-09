@@ -1,0 +1,80 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approx. 60% (background)",
+      "White": "Approx. 30% (main text)",
+      "Light Peach/Beige": "Approx. 5% (hand and face, arrow, skin tones)",
+      "Purple/Lavender": "Approx. 3% (shirt, handwritten text)",
+      "Peach/Orange": "Approx. 2% (arrow highlight on left)"
+    },
+    "Composition type": "Medium close-up shot (person\u2019s face, hand, and pen visible, upper body cropped at chest)",
+    "Human presence": {
+      "Count": 1,
+      "Expression": "Slight smile, confident and approachable demeanor",
+      "Demographics": "Adult male, light skin tone, light brown/blonde hair and beard"
+    },
+    "Main objects/props": [
+      "Human (main focal point)",
+      "Pen (held in hand, bottom left)",
+      "Hand-drawn arrow (top left, pointing to text)"
+    ],
+    "Background environment": "Solid black background with hand-drawn text and a small illustration/window labeled 'SCHEMA'"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "The #1 video on",
+      "Apache Iceberg\u2122",
+      "SCHEMA (with a sad face emoticon drawn above it)"
+    ],
+    "Font characteristics": {
+      "Main text": {
+        "Style": "Bold sans-serif",
+        "Emphasis": "High, especially on 'Apache Iceberg\u2122' (large, uppercase)",
+        "Color": "White"
+      },
+      "Handwritten text": {
+        "Style": "Casual handwritten",
+        "Color": "Purple/Lavender"
+      },
+      "Arrow": {
+        "Style": "Hand-drawn",
+        "Color": "Peach/Orange"
+      }
+    },
+    "Text placement": {
+      "Main slogan": "Left third of image, center-aligned vertically",
+      "'SCHEMA'": "Bottom left, just right of hand",
+      "Arrow": "Curving from upper left toward main text"
+    },
+    "Emotional/trigger words": [
+      "#1",
+      "Apache Iceberg"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Inviting, authoritative, and slightly playful (due to the hand-drawn elements)",
+    "Visual metaphors or symbols": [
+      "Hand-drawn arrow implies importance/urgency",
+      "Sad face by 'SCHEMA' suggests a pain point or problem being discussed",
+      "Hand holding pen implies teaching or annotation"
+    ],
+    "Clickbait techniques employed": [
+      "Claim of being the '#1 video' (implies social proof, authority)",
+      "Large, bold keyword - 'Apache Iceberg' (clear and visually dominant)"
+    ],
+    "Brand elements present": [
+      "'Apache Iceberg\u2122' branding",
+      "Distinctive handwritten annotation style (consistent with educational/tech branding)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "Central focus on 'Apache Iceberg,' directly matching the title subject.",
+      "Using '#1 video' amplifies why 'everyone\u2019s talking about it,' as per the title.",
+      "The presenter's expressive, approachable look supports an educational, accessible approach suggested by the title."
+    ],
+    "Contrasts/mismatches": [
+      "No strong visual metaphor for an actual iceberg (literal), but strong textual reinforcement instead."
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Green": "40% (background, various shades and gradients)",
+      "Black": "20% (man's shirt, text box)",
+      "White": "15% (text)",
+      "Grey": "15% (hair, beard, background gradients)",
+      "Light blue": "10% (line at bottom of text box)"
+    },
+    "Composition type": "Medium shot (from the chest up of a man, left side of frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral, slightly serious, direct eye contact",
+      "demographics": "Adult male, light skin, gray hair and beard"
+    },
+    "Main objects/props featured": "The man (possibly an expert), large dark text box with question, simple clothing (buttoned shirt), no physical props",
+    "Background environment": "Abstract, soft green/gray-blue gradient (studio-like, non-descriptive background)"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "Is it safe to use baby oil for sexual purposes?",
+    "Font characteristics": {
+      "style": "Sans-serif, bold and clean",
+      "emphasis": "All text is evenly emphasized, high contrast against background, white letters with subtle drop shadow for clarity",
+      "color": "White (drop shadow is dark grey/black)"
+    },
+    "Text placement within frame": "Right side of the frame, centered vertically inside a large rounded-corner black/grey box",
+    "Use of emotional/trigger words": [
+      "safe",
+      "sexual",
+      "baby oil",
+      "purposes"
+    ],
+    "Notes": "Direct question format, designed to trigger curiosity and address a potentially sensitive topic"
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, trustworthy, slightly clinical, educational",
+    "Visual metaphors or symbols": "Use of a professional-looking individual implies authority/expertise; the neutral background keeps focus on the question",
+    "Clickbait techniques employed": [
+      "Direct question addressing a sensitive topic",
+      "Use of the word 'safe' raises concern",
+      "Reference to 'sexual purposes' in combination with 'baby oil' (unexpected pairing)"
+    ],
+    "Brand elements present": "No explicit branding (logo/brand colors), but professional photography and layout suggest a medical or informational channel"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The thumbnail reproduces the title word-for-word, visually reinforcing the video's main question. The presence of an authoritative-looking individual suggests the video is providing expert advice.",
+    "Contrasts or mismatches": "No substantial contrast or mismatch; the thumbnail is a direct, almost literal representation of the video title with aligned tone and aesthetics.",
+    "Additional notes": "The design choice to present the question so prominently and clearly likely aims to reassure viewers of a straightforward, honest discussion."
+  }
+}

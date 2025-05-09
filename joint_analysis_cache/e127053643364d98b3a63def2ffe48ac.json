@@ -1,0 +1,12 @@
+{
+  "title": "\ud83c\udfb5\ud83c\udfb5 Pregnancy Music For Mother and Unborn Baby \u2665 Baby Kick \ud83e\udde0\ud83d\udc76\ud83c\udffb",
+  "thumbnail_path": "thumbnails/5U1hCY5eylk_max.jpg",
+  "title_length": 61,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

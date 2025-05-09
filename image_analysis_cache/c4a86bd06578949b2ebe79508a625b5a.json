@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": [
+      {
+        "color": "Black",
+        "percentage": 50
+      },
+      {
+        "color": "White",
+        "percentage": 15
+      },
+      {
+        "color": "Bright Pink",
+        "percentage": 15
+      },
+      {
+        "color": "Skin tones",
+        "percentage": 10
+      },
+      {
+        "color": "Purple/Blue (shirt)",
+        "percentage": 10
+      }
+    ],
+    "Composition type": "Medium close-up (doctor on right) combined with abstracted close-up of pregnant belly (left, background)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral to slightly concerned/serious, making a hand gesture as if explaining or emphasizing a point",
+      "demographics": "Adult, male, wearing glasses, likely healthcare professional (due to attire)"
+    },
+    "Main objects/props featured": [
+      "Man (doctor) in purple/blue scrubs",
+      "Microphone attached to shirt",
+      "Large, partially silhouetted image of hands cradling a pregnant belly in background"
+    ],
+    "Background environment": "Plain black background with grayscale, faint image of a pregnant belly on left half"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "Everything you need to know to get pregnant",
+    "Font characteristics": {
+      "style": "Bold, simple sans-serif",
+      "emphasis": [
+        "Bright white for most words",
+        "Bright pink background and bold white text for 'to get pregnant'"
+      ]
+    },
+    "Text placement within frame": {
+      "location": "Left and center side",
+      "layout": "Stacked, with 'Everything you need to know' above, and 'to get pregnant' in a hot pink bar below"
+    },
+    "Use of emotional/trigger words": [
+      "Everything",
+      "need to know",
+      "get pregnant"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, informative, supportive, slightly urgent/important",
+    "Visual metaphors or symbols": [
+      "Pregnant belly (symbolizes pregnancy/fertility)",
+      "Doctor in scrubs (symbolizes authority, medical expertise)"
+    ],
+    "Clickbait techniques employed": [
+      "'Everything you need to know' (promises comprehensive information)",
+      "Bright colors and strong contrast to draw attention",
+      "Directly addressing a strong desire/need (getting pregnant)"
+    ],
+    "Brand elements present": "Doctor in professional attire, glasses (may indicate a recurring channel figure/expert); no explicit channel logo"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Reinforcement": "The thumbnail visually reinforces the title by featuring a medical professional (suggesting expert advice) and an image of pregnancy, matching the focus on fertility and pregnancy. The large, clear text on the thumbnail closely matches the video title and emphasizes the video's promise to provide key pregnancy information.",
+    "Contrasts or mismatches": "No significant mismatches. The image content and text are highly relevant and consistent with the title; both stress expertise and comprehensive guidance on getting pregnant."
+  }
+}

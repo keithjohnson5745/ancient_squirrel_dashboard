@@ -1,0 +1,65 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White/light gray (background)": "\u224860%",
+      "Skin tones": "\u224820%",
+      "Navy blue (left subject\u2019s clothing)": "\u224810%",
+      "Tan/beige (right subject\u2019s clothing and one person in the back row)": "\u22486%",
+      "Black and dark clothing (various people)": "\u22484%"
+    },
+    "Composition type": "Mixed (features two close-up/medium close-up portrait shots on the left and right foreground, with a medium-wide shot of a group in the center background)",
+    "Human presence": {
+      "Number of people": 9,
+      "Expressions": {
+        "Left foreground": "Smiling, looks interested/engaged (possibly the plastic surgeon)",
+        "Right foreground": "Hands on head, eyebrows slightly raised, looks thoughtful or surprised (female-presenting)",
+        "Center/group": "Neutral to slightly smiling expressions, mostly standing relaxed"
+      },
+      "Apparent demographics": "Diverse mix of male and female-presenting individuals, variety of apparent ages (young adults to middle-aged), racially diverse"
+    },
+    "Main objects/props featured": [
+      "Person in medical scrubs and cap (indicating plastic surgeon)",
+      "Person in light beige clothes with hands to face",
+      "Row of seven people standing side by side"
+    ],
+    "Background environment": "Clean, white seamless background (studio-style, minimalist, uncluttered)"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "WHO'S HAD PLASTIC SURGERY?",
+      "LEAST",
+      "MOST"
+    ],
+    "Font characteristics": {
+      "Style": "Bold, all uppercase sans-serif",
+      "Emphasis": "Very bold (for title); directional line with ticks emphasizing spectrum from 'LEAST' to 'MOST'",
+      "Color": "Black",
+      "Placement": {
+        "Main title": "Top center, stretches broadly across frame",
+        "LEAST": "Left end of a horizontal bar below title",
+        "MOST": "Right end of the same bar"
+      }
+    },
+    "Emotional/trigger words": [
+      "PLASTIC SURGERY?"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Curious, slightly playful, inviting speculation and social comparison",
+    "Visual metaphors or symbols": {
+      "Bar with tick marks": "Suggests a ranking scale, adds a sense of competition or investigation",
+      "Contrasting facial expressions": "Emphasize the process of guessing/judging"
+    },
+    "Clickbait techniques employed": [
+      "Direct question ('WHO'S HAD PLASTIC SURGERY?') entices viewer curiosity",
+      "Inclusion of diverse people and an expert hints at a guessing game",
+      "Expressive faces escalate intrigue about reactions and outcomes",
+      "Ranking scale visually suggests forthcoming reveals"
+    ],
+    "Brand elements present": "No explicit brand elements or logos visible, but the presence of a person in medical scrubs (with embroidered name) functions as a visual/credibility mark."
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail directly illustrates the 'guessing' scenario by showing a person in medical scrubs (implied plastic surgeon) and a diverse lineup of people who could be the subjects. The ranking scale and the questioning expressions visually mirror the format described in the title.",
+    "Contrasts or mismatches": "No strong contrasts or mismatches; the imagery, expressions, and featured props directly align with the premise of the title. Both emphasize curiosity and judgment about plastic surgery history."
+  }
+}

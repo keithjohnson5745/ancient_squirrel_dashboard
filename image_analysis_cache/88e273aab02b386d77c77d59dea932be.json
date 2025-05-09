@@ -1,0 +1,86 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant Colors": {
+      "Wood brown": "40%",
+      "White": "30%",
+      "Blue": "15%",
+      "Black": "10%",
+      "Pink/Red accents": "5%"
+    },
+    "Composition Type": "Wide shot, flat lay (top-down view) showcasing multiple objects arranged for informative context.",
+    "Human Presence": {
+      "Number of People": 1,
+      "Expressions": "Neutral or slightly positive, appears to be talking or explaining with a pointing gesture.",
+      "Demographics": "Adult woman, light to medium skin tone, dark hair."
+    },
+    "Main Objects/Props Featured": [
+      "Open spiral notebook with handwritten chart and ovulation/pregnancy test strips",
+      "Pregnancy test (Clearblue brand)",
+      "Digital thermometer or fertility tracker",
+      "Menstrual cup",
+      "Cut-out image of woman's face and hand holding a marker/pen"
+    ],
+    "Background Environment": "Wooden tabletop, adds a warm, homely atmosphere."
+  },
+  "TEXT ELEMENTS": {
+    "All Text Visible": [
+      "3 tips for GETTING PREGNANT quickly",
+      "CYCLE #6",
+      "DATE",
+      "Time",
+      "Temp",
+      "CM",
+      "X",
+      "V",
+      "Pregnant",
+      "4dpo",
+      "5dpo",
+      "6dpo",
+      "7dpo",
+      "8dpo",
+      "9dpo",
+      "10dpo",
+      "11dpo",
+      "12dpo",
+      "13dpo",
+      "14dpo"
+    ],
+    "Font Characteristics": {
+      "Main headline": {
+        "Font style": "Sans-serif and serif mix (for emphasis)",
+        "Emphasis": "GETTING PREGNANT is in all caps, bold, sans-serif. Other words in regular or italic serif.",
+        "Color": "Black text on white background boxes."
+      },
+      "Handwritten notebook text": "Handwritten, black ink"
+    },
+    "Text Placement": {
+      "Main headline": "Left side, large and centrally aligned in white boxes, taking about 1/3 of the image.",
+      "Notebook": "Occupies the majority of the central part of the frame.",
+      "Smaller label text": "Scattered in the notebook, upper and right sides."
+    },
+    "Use of Emotional/Trigger Words": [
+      "GETTING PREGNANT",
+      "quickly"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall Emotional Tone": "Supportive, informative, and hopeful. It aims to reassure and attract an audience seeking help.",
+    "Visual Metaphors or Symbols": [
+      "Pregnancy and ovulation tests symbolize fertility and conception.",
+      "Notebook and calculations reinforce planning and practical advice."
+    ],
+    "Clickbait Techniques Employed": [
+      "Numbered list (3 tips) promises actionable content.",
+      "Words like 'quickly' create urgency and appeal.",
+      "Visual of pregnancy test confirming pregnancy as a result."
+    ],
+    "Brand Elements Present": [
+      "Clearblue test (recognizable brand in fertility and pregnancy).",
+      "Consistent font use and visual identity if channel is known for educational content."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual Reinforcement": "The thumbnail visually supports the title with the clear presence of fertility tracking items and test results, directly illustrating the topic of 'getting pregnant.' The woman\u2019s cut-out, actively pointing or explaining, creates a tutor-like connection to 'tips.'",
+    "Contrasts or Mismatches": "No notable contrasts or mismatches. Both the thumbnail and title have a strong, coherent focus on fertility advice and practical tips for pregnancy."
+  }
+}

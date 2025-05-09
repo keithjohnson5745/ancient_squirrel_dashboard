@@ -1,0 +1,73 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White": "Approx. 70% (walls, floor, bags, general environment)",
+      "Black": "Approx. 15% (FBI agents' uniforms, hats, guns, 'FBI' label background)",
+      "Red": "Approx. 7% (speech bubble background for 'IQ 170')",
+      "Blue": "Approx. 5% (jeans on the central figure)",
+      "Beige/Brown": "Approx. 3% (shirt and shoes on central figure)"
+    },
+    "Composition type": "Wide shot capturing three people in a sparsely furnished, bright white room",
+    "Human presence": {
+      "Number of people": 3,
+      "Expressions": {
+        "Central figure": "Neutral, hands raised, compliance/defeat implied",
+        "Agents": "Focused, intense, aiming weapons"
+      },
+      "Demographics (apparent)": {
+        "Central figure": "Adult male, casual dress, likely 20s-40s",
+        "Agents": "Adult males, black uniforms, tactical gear"
+      }
+    },
+    "Main objects/props featured": [
+      "Guns (held by two FBI agents)",
+      "Speech/text bubbles ('IQ 170', 'FBI')",
+      "White bags (possibly forensics or evidence)",
+      "White trash can",
+      "White jug/vessel"
+    ],
+    "Background environment": "All-white industrial or warehouse setting with brick walls, bags on the floor, sparse furniture, high exposure/brightness"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "IQ 170",
+      "FBI"
+    ],
+    "Font characteristics": {
+      "IQ 170": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "Very strong (white text on bright red background, all caps)",
+        "Color": "White text, red background"
+      },
+      "FBI": {
+        "Style": "Bold, sans-serif, uppercase",
+        "Emphasis": "Strong (white text on black background, all caps)",
+        "Color": "White text, black background"
+      }
+    },
+    "Text placement within frame": {
+      "IQ 170": "Top left, above central figure's head in speech bubble style",
+      "FBI": "Top right, above agents in speech bubble style"
+    },
+    "Use of emotional/trigger words": [
+      "IQ 170"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Tense, dramatic, high-stakes (standoff between FBI and a highly intelligent suspect)",
+    "Visual metaphors or symbols": [
+      "IQ 170 bubble suggests exceptional intelligence",
+      "FBI label above armed agents signals lawful authority and pursuit"
+    ],
+    "Clickbait techniques employed": [
+      "Exaggerated IQ value",
+      "Direct, bold text",
+      "Dramatic standoff/confrontation scene"
+    ],
+    "Brand elements present": []
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail recreates a literal 'hunt' in progress, with the 'FBI' pointing guns at a man labeled 'IQ 170'. This directly illustrates the central promise of the video: a chase for a criminal of exceptional intelligence.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant mismatch; both present a dramatic and sensationalized high-stakes pursuit focused on intelligence and law enforcement."
+  }
+}

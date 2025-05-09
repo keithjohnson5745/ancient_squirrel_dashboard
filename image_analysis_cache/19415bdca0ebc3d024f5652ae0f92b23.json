@@ -1,0 +1,66 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "blue": "55% (background and clothing of left person)",
+      "yellow": "15% (highlighted text and light burst effect)",
+      "skin tones": "25% (two people featured)",
+      "white": "5% (text and shine effect)"
+    },
+    "Composition type": "Medium shot (shows upper bodies of both people)",
+    "Human presence": {
+      "number_of_people": 2,
+      "expressions": [
+        "Female: surprised/shocked, wide eyes, mouth open, hands clasped",
+        "Male: neutral/confident, standing with hands on hips"
+      ],
+      "demographics": [
+        "Female, adult, light brown skin and long blonde/light brown hair, blue medical shirt",
+        "Male, adult, light/medium skin tone, shirtless with muscular build and brown hair"
+      ]
+    },
+    "Main objects/props featured": [
+      "Person in blue medical uniform",
+      "Shirtless muscular man",
+      "Large glowing burst of yellow/white light at the groin area of the man"
+    ],
+    "Background environment": "Solid blue gradient background, studio-like with no additional context"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible": [
+      "STAY HARD THE ENTIRE TIME!"
+    ],
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "Significant, with yellow and white for added impact",
+      "color": {
+        "STAY HARD THE": "White",
+        "ENTIRE TIME!": "Yellow"
+      }
+    },
+    "Text placement within frame": "Right half of the frame, stacked vertically, each phrase on its own line",
+    "Use of emotional/trigger words": [
+      "STAY",
+      "HARD",
+      "ENTIRE TIME!"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Energetic, urgent, and slightly provocative; a mix of surprise and empowerment",
+    "Visual metaphors or symbols": [
+      "Yellow burst of light at the man's groin symbolizes virility/erection/sexual energy",
+      "Surprised/reverent medical professional for authority and amazement"
+    ],
+    "Clickbait techniques employed": [
+      "Bold and sensational text promises a solution",
+      "Exaggerated light burst for attention",
+      "Facial expression of shock for intrigue"
+    ],
+    "Brand elements present": [
+      "Doctor's outfit (suggests professional/medical expertise)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail tightly aligns with the title by directly referencing male erection and sexual performance: the visual burst of light at the man's groin, the confident male pose, and the accompanying text all reinforce the video's promise to 'stay hard the entire time.' The surprised medical professional adds credibility and intrigue.",
+    "Any contrasts or mismatches between thumbnail and title": "There is a clear match; the visual metaphor (burst of light) for erection and the urgent, bold text are directly tied to the video's topic. The only minor stretch is the use of exaggerated cartoonish effects versus the scientific tone implied by a medical expert."
+  }
+}

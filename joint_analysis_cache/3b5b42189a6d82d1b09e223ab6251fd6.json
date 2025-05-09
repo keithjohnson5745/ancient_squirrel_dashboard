@@ -1,0 +1,12 @@
+{
+  "title": "Psychologist Answers Couples Therapy Questions | Tech Support | WIRED",
+  "thumbnail_path": "thumbnails/1z7n0S8gi0M_max.jpg",
+  "title_length": 69,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.4
+}

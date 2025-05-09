@@ -1,0 +1,69 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Teal blue": "30%",
+      "Burgundy/dark red": "30%",
+      "Beige/cream (blazer)": "25%",
+      "Black (hair, shirt, background fade)": "10%",
+      "White (text)": "5%"
+    },
+    "Composition type": "Medium close-up shot; the subject is shown from the waist up, centrally framed.",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Serious, professional, slightly emphatic\u2014possibly explaining something.",
+      "Demographics": "Adult male, medium skin tone, full beard, dark hair."
+    },
+    "Main objects/props featured": [
+      "Microphone clipped to blazer",
+      "Beige blazer"
+    ],
+    "Background environment": "A smooth gradient background with teal on the left and burgundy/red on the right. Clean and non-distracting. No specific environment details."
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "Call Us at : +91-9891220152 To B",
+      "DrImraankhanpage",
+      "Dr.Imraankhan"
+    ],
+    "Font characteristics": {
+      "Style": [
+        "Sans-serif, bold (top banner and social links)"
+      ],
+      "Emphasis": [
+        "Top banner: capital letters, high contrast",
+        "Bottom text: logo-style, with background color blocks (blue for Facebook, pink for Instagram)"
+      ],
+      "Color": [
+        "Top banner: white text on dark teal background",
+        "Bottom text: white on blue/pink blocks"
+      ]
+    },
+    "Text placement within frame": {
+      "Top banner": "Upper edge, horizontally across",
+      "Bottom links": "Bottom edge, horizontally across"
+    },
+    "Use of emotional/trigger words": [
+      "None directly visible in thumbnail text; social handles and contact info only."
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Professional, trustworthy, slightly serious. The subject appears authoritative.",
+    "Visual metaphors or symbols": [
+      "Split blue-red background could imply duality or contrast (potentially benefits vs. drawbacks or before/after).",
+      "Pointing/gesturing hand may signal explanation or emphasis."
+    ],
+    "Clickbait techniques employed": [
+      "Authoritative figure (doctor/educator) in the center to attract trust.",
+      "Social media handles to encourage engagement.",
+      "Eye contact and hand gesture to create a sense of direct address/urgency."
+    ],
+    "Brand elements present": [
+      "Social media handles at the bottom.",
+      "Professional attire to reinforce doctor/expert image."
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The presence of an authoritative figure (presumably a doctor) aligns with the educational tone suggested by 'Lubricant benefits,' implying a professional and informative explanation.",
+    "Any contrasts or mismatches between thumbnail and title": "No explicit visual of lubricant or related imagery; the thumbnail is generic and could fit any general medical or health topic. The heart emoji from the title and any visual suggestion of intimacy/romance are absent. This could slightly reduce thematic cohesion for viewers seeking immediate relevance to the topic."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "White/light gray": "50% (background, text, speech bubbles)",
+      "Black/dark gray": "35% (shirt, hat, window frames)",
+      "Skin tone": "10% (person's face and hand)",
+      "Light pink/red": "5% (mouth, lips, highlights in face)"
+    },
+    "Composition type": "Close-up (framed on one person from chest up)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Big smile, welcoming and enthusiastic; hand raised (possibly waving or signaling five)",
+      "Demographics": "Adult male, light-to-medium skin tone, dark hair, age likely 20s-30s"
+    },
+    "Main objects/props featured": [
+      "Person wearing a black cap and black shirt",
+      "Four speech bubble icons with ellipses",
+      "Large, bold overlay text"
+    ],
+    "Background environment": "Indoors, modern and minimalist decor with white walls and black rectangular outlines (picture frames or wall art), neutral and uncluttered"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "5 THINGS TO ASK BEFORE SEX",
+    "Font characteristics": {
+      "Style": "Bold, sans-serif",
+      "Emphasis": "All uppercase; largest emphasis on the word \"SEX\" at the bottom",
+      "Color": "White with black outline (high contrast, stands out on background)"
+    },
+    "Text placement within frame": "Text aligns left and center, spanning almost the full height and left side of the image. The word 'SEX' is largest and positioned near the bottom left.",
+    "Use of emotional/trigger words": [
+      "ASK",
+      "SEX",
+      "BEFORE"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Positive, energetic, approachable, and somewhat playful; the smiling person and bright background create a welcoming impression despite the serious subject",
+    "Visual metaphors or symbols": [
+      "Speech bubbles symbolize communication and conversation",
+      "Raised hand may emphasize '5 things' and suggests engagement/interactivity"
+    ],
+    "Clickbait techniques employed": [
+      "Numbers in the text ('5 things') to suggest a listicle",
+      "Directly referencing a sensitive or curiosity-inducing topic ('SEX') in large, bold text",
+      "Use of personal, immediate questions ('to ask before') to provoke viewer involvement"
+    ],
+    "Brand elements present": [
+      "No overt logos, but potentially personal branding via consistent style/personality",
+      "Possible recurring host (person may be recognizable to regular viewers)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The number \"5\" and the word \"ASK\" directly summarize the core of the title's focus on questions to ask",
+      "Speech bubbles visually reinforce the idea of conversation and asking questions",
+      "The uplifting smile and open hand may suggest safety, openness, and trust, which aligns with the 'keep you safe' implication in the title"
+    ],
+    "Contrasts or mismatches": [
+      "The tone of the thumbnail is quite light and enthusiastic, which could be seen as downplaying the seriousness of the topic ('safety before sex'), but the visual clarity and engagement fit the informative and approachable angle suggested by the title"
+    ]
+  }
+}

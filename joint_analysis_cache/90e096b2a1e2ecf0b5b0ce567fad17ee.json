@@ -1,0 +1,13 @@
+{
+  "title": "IUI \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948? | All about Intrauterine insemination (IUI) | Dr. Supriya Puranik, Pune (Hindi)",
+  "thumbnail_path": "thumbnails/ieYf3DgXL2k_max.jpg",
+  "title_length": 97,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

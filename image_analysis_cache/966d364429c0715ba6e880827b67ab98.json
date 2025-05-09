@@ -1,0 +1,58 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Black": "Approx. 70% (background)",
+      "White": "Approx. 10% (text)",
+      "Yellow": "Approx. 10% (text)",
+      "Brown/Beige": "Approx. 10% (skin tone of person)"
+    },
+    "Composition type": "Close-up (upper torso and face of one person, with hand gesture prominently featured on right side)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to slightly serious, direct eye contact with camera",
+      "Demographics": "Adult female, likely Indian/South Asian based on appearance, style and bindi"
+    },
+    "Main objects/props featured": "Person\u2019s raised hand, index finger pointing upwards; person is accessorized with earrings, necklace, bindi",
+    "Background environment": "Plain solid black background with no distinguishable environment"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "pichhe se",
+      "\u0910\u0938\u0947 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0926\u0930\u094d\u0926",
+      "\u0928\u0939\u0940 \u0939\u094b\u0917\u093e",
+      "4 \u0924\u0930\u0940\u0915\u093e"
+    ],
+    "Font characteristics": {
+      "Style": "Sans-serif, bold for emphasis",
+      "Emphasis": "Combination of bold (for yellow Hindi text), all caps/strong weight (for key words)",
+      "Color": "White (upper left, large English text), yellow (Hindi key phrase, '4 \u0924\u0930\u0940\u0915\u093e'), white (remaining Hindi text)",
+      "Font size": "Large, with important elements larger for emphasis"
+    },
+    "Text placement within frame": {
+      "Top left": "\"pichhe se\" (white, English, large)",
+      "Center left": "\"\u0910\u0938\u0947 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0926\u0930\u094d\u0926\" (yellow, Hindi, very bold)",
+      "Below center left": "\"\u0928\u0939\u0940 \u0939\u094b\u0917\u093e\" (white, Hindi)",
+      "Bottom-center left": "\"4 \u0924\u0930\u0940\u0915\u093e\" (yellow, Hindi/English, bold)"
+    },
+    "Use of emotional/trigger words": [
+      "\u0926\u0930\u094d\u0926",
+      "\u092c\u093f\u0932\u094d\u0915\u0941\u0932",
+      "\u0928\u0939\u0940 \u0939\u094b\u0917\u093e",
+      "4 \u0924\u0930\u0940\u0915\u093e"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Serious, informative, and reassuring",
+    "Visual metaphors or symbols": "Person\u2019s raised, pointing finger signifies instruction or an important point; direct eye contact conveys authority and trustworthiness",
+    "Clickbait techniques employed": [
+      "Numbered list ('4 \u0924\u0930\u0940\u0915\u093e') implies easy-to-follow tips",
+      "Bold claims about relief ('\u0910\u0938\u0947 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0926\u0930\u094d\u0926 \u0928\u0939\u0940 \u0939\u094b\u0917\u093e' - 'There won\u2019t be any pain like this')",
+      "Direct address/'you' focused language"
+    ],
+    "Brand elements present": "Use of consistent color scheme (yellow/white on black), individual may be recognizable as a recurring personality for the channel, small subtle branding with '@healthbabycare' in the video title"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "Thumbnail explicitly quotes the main message of the title\u2014relief from 'pichhe se' (from behind) pain\u2014using the same phrasing, and adds emphasis by highlighting the pain-free claim and offering '4 \u0924\u0930\u0940\u0915\u093e' (4 methods). The pointing gesture underscores the step-by-step or instructional promise hinted at in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "No significant contrasts; the thumbnail directly complements the title by using the same language and focusing visually and textually on the key promise. Both emphasize a problem ('pain from behind') and a solution (four methods/tips)."
+  }
+}

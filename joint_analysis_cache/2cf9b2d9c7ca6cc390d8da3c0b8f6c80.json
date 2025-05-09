@@ -1,0 +1,13 @@
+{
+  "title": "Getting Pregnant: Everything you need to know (tips from a Fertility Doctor)",
+  "thumbnail_path": "thumbnails/RSYZpZs7Qos_max.jpg",
+  "title_length": 76,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

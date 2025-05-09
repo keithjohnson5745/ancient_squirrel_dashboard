@@ -1,0 +1,12 @@
+{
+  "title": "Mating Call: Improving Male Assisted Fertility Treatments Around the World",
+  "thumbnail_path": "thumbnails/0hDzuSsQQ7w_max.jpg",
+  "title_length": 74,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.4
+}

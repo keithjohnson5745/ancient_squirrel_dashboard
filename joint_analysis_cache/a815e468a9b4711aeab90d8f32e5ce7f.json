@@ -1,0 +1,11 @@
+{
+  "title": "Pijpen en beffen",
+  "thumbnail_path": "thumbnails/YVKUlCDmMBk_high.jpg",
+  "title_length": 16,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

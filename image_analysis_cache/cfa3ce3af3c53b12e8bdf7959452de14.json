@@ -1,0 +1,77 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "skin tone / light beige": "30%",
+      "blonde/yellow": "15%",
+      "dark green (pineapple leaves)": "15%",
+      "bright pink": "20%",
+      "white (background, clothing, text boxes)": "10%",
+      "black (text)": "10%"
+    },
+    "Composition type": "Close-up (tight on female subject holding pineapple, face and object prominent in frame)",
+    "Human presence": {
+      "number_of_people": 1,
+      "expressions": "Surprised or excited (wide open eyes, open mouth partly obscured by pineapple)",
+      "demographics": "Adult woman, blonde, light skin tone"
+    },
+    "Main objects/props featured": [
+      "Large pineapple (held up, covers mouth and part of nose)"
+    ],
+    "Background environment": "Indoor, likely a bedroom (visible bed frame, blurred background, neutral tones, framed photo/picture on wall)"
+  },
+  "TEXT ELEMENTS": {
+    "all_text_visible": [
+      "NATURAL",
+      "Fertility",
+      "fertility diet?",
+      "supplements?",
+      "best position?",
+      "how often?"
+    ],
+    "font_characteristics": {
+      "NATURAL": "Bold, sans-serif, all caps, white text on bright pink background",
+      "Fertility": "White, script/cursive font, italicized on bright pink background",
+      "fertility diet? supplements? best position? how often?": "Bold, sans-serif, lowercase, black font on white background"
+    },
+    "text_placement_within_frame": {
+      "NATURAL": "Top right, in rectangular pink box",
+      "Fertility": "Middle right, below 'NATURAL', on elongated pink box",
+      "FAQ text block": "Bottom left in stacked arrangement, white background"
+    },
+    "use_of_emotional_trigger_words": [
+      "NATURAL",
+      "fertility",
+      "diet",
+      "supplements",
+      "best",
+      "how often"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Encouraging, approachable, and inquisitive with a sense of hope and positivity",
+    "visual_metaphors_or_symbols": [
+      "Pineapple: often symbolizes fertility and health in wellness communities"
+    ],
+    "clickbait_techniques_employed": [
+      "Question format to spark curiosity (diet?, supplements?, best position?, how often?)",
+      "Large, expressive face for emotional engagement",
+      "Bright, contrasting colors to grab attention",
+      "Keywords like 'NATURAL' and 'best' to appeal to organic/holistic interests"
+    ],
+    "brand_elements_present": [
+      "Signature bright pink color block (possible recurring brand color)",
+      "Professional yet casual attire (doctor, but approachable look)"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visuals_reinforcing_title": [
+      "The bold words 'NATURAL Fertility' directly echo keywords from the title",
+      "Image shows a woman (possibly the fertility doctor) with a pineapple, reinforcing the natural, health-focused aspect of fertility",
+      "FAQs listed visually highlight the specific content that will be covered (diet, supplements, positions, timing)\u2014matching the guidance implied by the title"
+    ],
+    "contrasts_or_mismatches": [
+      "No strong mismatches; however, the pineapple is a subtle symbol and may not be understood by everyone as relating to fertility",
+      "The thumbnail prioritizes 'natural' visually, but the presence of a doctor is only implied (white coat), not explicitly communicated as a doctor"
+    ]
+  }
+}

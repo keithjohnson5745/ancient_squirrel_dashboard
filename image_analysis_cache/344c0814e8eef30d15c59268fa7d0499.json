@@ -1,0 +1,74 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/navy (background)": "Approx. 60%",
+      "White (text and clock elements)": "Approx. 15%",
+      "Pink/Red (S*X text, starburst, hourglass sand)": "Approx. 15%",
+      "Skin tone (person's face & hands)": "Approx. 7%",
+      "Gold (pocket watch)": "Approx. 3%"
+    },
+    "Composition type": "Medium shot (chest-up portrait of a person, hands and objects clearly visible)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Neutral to friendly/explanatory (slight smile, making eye contact, holding objects in open-handed gesture)",
+      "Demographics": "Adult male, middle-aged, South Asian, wearing glasses and scrubs suggesting a medical professional"
+    },
+    "Main objects/props featured": [
+      "Large gold pocket watch (open, clearly showing clock face)",
+      "Hourglass with pink sand",
+      "Bright pink 'S*X' text with starburst",
+      "Person in medical attire"
+    ],
+    "Background environment": "Solid dark blue color with no discernible environmental features, digitally created/edited"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": [
+      "How Long Does S*X Last",
+      "S*X",
+      "\u0938\u0947\u0915\u094d\u0938 \u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930"
+    ],
+    "Font characteristics": [
+      {
+        "Text": "How Long Does S*X Last",
+        "Style": "Bold, sans-serif, all uppercase, white color",
+        "Emphasis": "High; very large font",
+        "Placement": "Top edge, spanning almost the full width"
+      },
+      {
+        "Text": "S*X",
+        "Style": "Bold sans-serif, neon-pink color with glow effect",
+        "Emphasis": "Very high due to bright color and glow",
+        "Placement": "Left side, mid-upper quadrant, stacked vertically"
+      },
+      {
+        "Text": "\u0938\u0947\u0915\u094d\u0938 \u0915\u093f\u0924\u0928\u0940 \u0926\u0947\u0930",
+        "Style": "Bold Devanagari script, white color",
+        "Emphasis": "Moderate, medium-large font",
+        "Placement": "Bottom center overlaid on the person\u2019s hands and lower chest"
+      }
+    ],
+    "Use of emotional/trigger words": [
+      "S*X"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Intriguing, clinical yet accessible, slightly sensational due to use of bold text and time-related imagery",
+    "Visual metaphors or symbols": [
+      "Pocket watch and hourglass symbolize the concept of time/duration",
+      "'S*X' with an asterisk hints at sensitive subject while avoiding explicit content"
+    ],
+    "Clickbait techniques employed": [
+      "Direct/time-related question ('How Long Does S*X Last')",
+      "Use of censored spelling (S*X) to attract attention and avoid algorithmic suppression",
+      "Bright, high-contrast text",
+      "Symbols of urgency/measurement (hourglass, clock)"
+    ],
+    "Brand elements present": [
+      "The person is wearing medical scrubs with a logo indicating a hospital/medical institution (partially visible as 'HOSPITAL')"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The visual focus on time (pocket watch, hourglass) closely matches the video title\u2019s question about duration. Use of 'S*X' in both text and images directly alludes to the video's subject. The presence of a doctor in scrubs visually supports the medical/expertise angle promised in the title ('Dr. Sunil Jindal | Jindal Hospital Meerut').",
+    "Any contrasts or mismatches between thumbnail and title": "No major contrasts or mismatches. However, the use of the term 'truth revealed' in the title is not explicitly shown in the visuals, though the authoritative presence of a doctor and scientific props imply expertise and truthful information."
+  }
+}

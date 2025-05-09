@@ -1,0 +1,13 @@
+{
+  "title": "My Wife Divorced Me By Email While I Was Deployed Overseas & Emptied Our Joint Account; But I...",
+  "thumbnail_path": "thumbnails/DZ9WZbdf9vY_max.jpg",
+  "title_length": 96,
+  "patterns": [
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

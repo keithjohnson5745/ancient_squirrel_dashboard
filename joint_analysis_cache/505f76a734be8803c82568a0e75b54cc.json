@@ -1,0 +1,11 @@
+{
+  "title": "To Earn My Father's Love-Bryanna",
+  "thumbnail_path": "thumbnails/a9uBZQMXp4A_max.jpg",
+  "title_length": 32,
+  "patterns": [
+    "thumbnail_text",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.25
+}

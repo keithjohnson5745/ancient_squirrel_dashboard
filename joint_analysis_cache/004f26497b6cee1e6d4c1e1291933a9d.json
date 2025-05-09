@@ -1,0 +1,12 @@
+{
+  "title": "Seeing Cerebral Palsy Through Her Lens ft. Chelsea Bear",
+  "thumbnail_path": "thumbnails/e25YmXZTu9M_max.jpg",
+  "title_length": 55,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

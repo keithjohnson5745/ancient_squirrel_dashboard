@@ -1,0 +1,14 @@
+{
+  "title": "When Is It Too Soon to Spend the Night? (Matthew Hussey & Stephen Hussey)",
+  "thumbnail_path": "thumbnails/1h5287M_jtw_max.jpg",
+  "title_length": 73,
+  "patterns": [
+    "question",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.6,
+  "clickbait_score": 0.5
+}

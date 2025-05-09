@@ -1,0 +1,14 @@
+{
+  "title": "5 Things Your Gynecologist Wants You To Know: Getting Pregnant",
+  "thumbnail_path": "thumbnails/EkqVrsrIgAI_max.jpg",
+  "title_length": 62,
+  "patterns": [
+    "numbered_list",
+    "thumbnail_text",
+    "thumbnail_faces",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.7,
+  "clickbait_score": 0.5
+}

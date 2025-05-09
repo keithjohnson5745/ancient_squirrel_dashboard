@@ -1,0 +1,57 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Beige/tan (background & shirt)": "40%",
+      "Purple/lavender (text banners)": "20%",
+      "White (text, shirt, light background areas)": "20%",
+      "Skin tones": "10%",
+      "Muted browns/wood tones (background furniture)": "10%"
+    },
+    "Composition type": "Medium shot (upper body of a person shown from about the waist up, oriented towards the camera)",
+    "Human presence": {
+      "Number of people": 1,
+      "Expressions": "Smiling, direct eye contact, looks confident and reassuring",
+      "Demographics": "Adult female, light skin, dark hair, glasses"
+    },
+    "Main objects/props featured": [
+      "Person pointing upward with index finger",
+      "Eyeglasses (worn by the person)"
+    ],
+    "Background environment": "Indoor, home setting with a blurred background featuring bookshelves, books, and possibly a lamp"
+  },
+  "TEXT ELEMENTS": {
+    "All text visible in the thumbnail": "TTC but no SEX DRIVE?",
+    "Font characteristics": {
+      "TTC": "Bold, all caps, white, on a purple brush-stroke style background",
+      "but no": "Cursive, lowercase, white, flowing and less formal",
+      "SEX DRIVE?": "Bold, all caps, white, on a purple brush-stroke style background"
+    },
+    "Text placement within frame": {
+      "TTC": "Upper left, angled",
+      "but no": "Centered in the extended space between top and bottom text, in script style",
+      "SEX DRIVE?": "Lower left, angled, prominent and eye-catching"
+    },
+    "Use of emotional/trigger words": [
+      "SEX DRIVE",
+      "TTC",
+      "but no"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Supportive, informative, slightly playful (due to the smile and finger gesture), and reassuring. The bright and calm palette along with the person's expression suggests encouragement.",
+    "Visual metaphors or symbols": [
+      "Pointing finger - suggests 'pay attention' or 'here's an answer/important point'",
+      "Brush-stroke backgrounds for text - creates a sense of urgency or emphasis"
+    ],
+    "Clickbait techniques employed": [
+      "Large, bold text with a question ('but no SEX DRIVE?') to arouse curiosity and address a personal topic",
+      "Direct address of a sensitive issue (sex drive while TTC)",
+      "Facial expression that invites trust and feels personal"
+    ],
+    "Brand elements present": "No explicit branding elements (logos, channel names) visible; however, the human presence and personal tone may be part of the channel\u2019s ongoing brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "How the thumbnail visually reinforces the title": "The thumbnail text ('TTC but no SEX DRIVE?') directly mirrors the topic in the title ('What\u2019s killing your libido? How to fix a low sex drive while TTC.'). The pointing gesture of the woman visually emphasizes the question, inviting viewers to find the answer in the video, which aligns with the promise of solutions in the title.",
+    "Any contrasts or mismatches between thumbnail and title": "The thumbnail is slightly more focused on the emotional and personal struggle ('but no SEX DRIVE?'), whereas the title promises specific information about causes and solutions. There is no obvious mismatch, but the thumbnail is designed to evoke the challenge, while the title offers the solution."
+  }
+}

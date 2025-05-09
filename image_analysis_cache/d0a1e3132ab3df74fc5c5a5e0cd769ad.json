@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "beige (background)": "40%",
+      "dark brown (hair)": "20%",
+      "blue/teal (clothing)": "10%",
+      "black (text/banner/object/props)": "15%",
+      "white (object, text, and nail polish)": "10%",
+      "yellow (banner)": "5%"
+    },
+    "Composition type": "Close-up",
+    "Human presence": {
+      "number of people": 1,
+      "expressions": "Neutral, focused; the person looks directly at the camera, demonstrating the object",
+      "demographics": "Adult female, medium complexion, wearing glasses"
+    },
+    "Main objects/props featured": "Small black and white packaged item (most likely a condom packet), eyeglasses, jewelry",
+    "Background environment": "Plain indoor setting with a beige wall, uncluttered and neutral"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": [
+      "BOOK CONSULTATION",
+      "WWW.DRNEHAMEHTA.COM"
+    ],
+    "Font characteristics": {
+      "BOOK CONSULTATION": {
+        "style": "Bold, sans-serif",
+        "emphasis": "All caps, high contrast",
+        "color": "Black text on bright yellow background"
+      },
+      "WWW.DRNEHAMEHTA.COM": {
+        "style": "Clean, sans-serif",
+        "emphasis": "All caps, clear and readable",
+        "color": "White text on solid black background"
+      }
+    },
+    "Text placement within frame": {
+      "BOOK CONSULTATION": "Top center, within a yellow banner",
+      "WWW.DRNEHAMEHTA.COM": "Directly below in smaller black banner"
+    },
+    "Use of emotional/trigger words": [
+      "CONSULTATION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Educational and professional, with a sense of instruction and trustworthiness",
+    "Visual metaphors or symbols": "Showing the packet up close suggests hands-on demonstration and authority",
+    "Clickbait techniques employed": [
+      "Direct human eye contact to increase engagement",
+      "Demonstrative action shot to spark curiosity",
+      "Bold call-to-action (BOOK CONSULTATION) at the top"
+    ],
+    "Brand elements present": [
+      "Website URL in prominent position",
+      "Professional attire and setup convey expertise"
+    ]
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": "The person is clearly demonstrating how to open (and likely wear) an item, matching the tutorial nature implied by '\u0915\u0948\u0938\u0947 \u0916\u094b\u0932\u0947 \u0914\u0930 \u092a\u0939\u0928\u0947' (how to open and wear) in the title; the use of a #Shorts format further signals quick, practical guidance.",
+    "Contrasts or mismatches": "The title refers to '\u091b\u0924\u0930\u0940' (umbrella), but visually the thumbnail depicts opening a condom packet\u2014'\u091b\u0924\u0930\u0940' is common slang for condom in Hindi, so this matches thematically despite literal contrast. No major mismatch for a viewer familiar with regional usage."
+  }
+}

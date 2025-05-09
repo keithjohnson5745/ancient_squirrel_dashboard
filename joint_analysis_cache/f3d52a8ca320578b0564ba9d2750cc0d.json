@@ -1,0 +1,12 @@
+{
+  "title": "Doja Cat, The Weeknd - You Right (Lyrics)",
+  "thumbnail_path": "thumbnails/po17D_0-E6U_max.jpg",
+  "title_length": 41,
+  "patterns": [
+    "thumbnail_text",
+    "bright_colors",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.3,
+  "clickbait_score": 0.35
+}

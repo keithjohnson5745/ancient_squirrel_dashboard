@@ -1,0 +1,11 @@
+{
+  "title": "3 Hour Timer",
+  "thumbnail_path": "thumbnails/WCjLd7QAJq8_max.jpg",
+  "title_length": 12,
+  "patterns": [
+    "numbered_list",
+    "high_contrast"
+  ],
+  "text_visual_alignment": 0.0,
+  "clickbait_score": 0.1
+}

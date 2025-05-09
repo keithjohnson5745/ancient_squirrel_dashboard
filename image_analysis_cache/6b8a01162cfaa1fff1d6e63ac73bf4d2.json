@@ -1,0 +1,63 @@
+{
+  "VISUAL ELEMENTS": {
+    "Dominant colors": {
+      "Dark blue/gray (background cityscape)": "40%",
+      "Skin tones": "30%",
+      "Black (clothing, shadows)": "15%",
+      "Yellow (text)": "10%",
+      "Red/pink (lipstick, dress on right person)": "5%"
+    },
+    "Composition type": "Split-screen medium close-up; two people, one on each side",
+    "Human presence": {
+      "number": 2,
+      "expressions": [
+        "Left: Slightly surprised, questioning, direct eye contact, holding a microphone",
+        "Right: Speaking, mouth open mid-sentence, makeup applied, holding a microphone"
+      ],
+      "demographics": [
+        "Left: Adult male, medium/dark complexion",
+        "Right: Adult, light complexion, bald, presenting with traditionally feminine accessories and makeup"
+      ]
+    },
+    "Main objects/props featured": [
+      "Two handheld microphones (one per person)",
+      "Statement necklace and dress/top (on right person)"
+    ],
+    "Background environment": "Stylized city skyline at night, dark blue with window lights; typical of stand-up comedy backgrounds"
+  },
+  "TEXT ELEMENTS": {
+    "Visible text": "I'M A WOMAN",
+    "Font characteristics": {
+      "style": "Bold, sans-serif, all uppercase",
+      "emphasis": "High \u2013 large text, high contrast against background",
+      "color": "Bright yellow"
+    },
+    "Text placement within frame": "Bottom third, spanning almost the full width of the image",
+    "Use of emotional/trigger words": [
+      "'I'M A WOMAN' (identity, potential provocation or controversy especially in context of comedy/woke culture topics)"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "Overall emotional tone": "Confrontational, provocative, irreverent; humorous with an edge\u2014typical of controversial comedy segments",
+    "Visual metaphors or symbols": [
+      "Split-screen: Direct comparison or binary conflict between the two people/perspectives",
+      "Masculine-presenting person with feminine accessories: Used as a visual shorthand to spark conversation about gender identity, possibly to challenge or parody social/cultural debates"
+    ],
+    "Clickbait techniques employed": [
+      "Bold, sensationalist text ('I'M A WOMAN')",
+      "Facial expressions signaling drama or confrontation",
+      "Visual exaggeration (heavy makeup, sparkly necklace on person with masculine features)",
+      "Splitting the shot to suggest a debate or challenge"
+    ],
+    "Brand elements present": "No clear traditional branding (logos, channel names), but styling and subject matter align with well-known comedian's brand"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "Visual reinforcement": [
+      "The thumbnail directly references \u2018woke culture\u2019 and gender identity debates featured in the title, using visual juxtaposition and exaggerated style",
+      "'DESTROYS Woke Culture!' is reinforced by provocative text and imagery aimed at controversy or critique"
+    ],
+    "Contrasts or mismatches": [
+      "No apparent mismatch; both the thumbnail and the title employ sensationalism and directly engage with culture war topics through comedy"
+    ]
+  }
+}

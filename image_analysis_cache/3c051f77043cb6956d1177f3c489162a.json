@@ -1,0 +1,62 @@
+{
+  "VISUAL ELEMENTS": {
+    "dominant_colors": {
+      "black": "\u224850% (background)",
+      "white": "\u224815% (text, shirt)",
+      "red": "\u224810% (text highlight)",
+      "blue": "\u224810% (text highlight, suit jacket)",
+      "green": "\u22487% (text highlight)",
+      "skin tones": "\u22488% (face)"
+    },
+    "composition_type": "Medium close-up (one person, shoulders and head visible)",
+    "human_presence": {
+      "number_of_people": 1,
+      "expressions": "Neutral or serious expression",
+      "demographics": "Older adult male (light complexion, short hair)"
+    },
+    "main_objects_or_props": [
+      "Person (prominently featured, formal/casual attire)",
+      "Text overlay (large and bold)"
+    ],
+    "background_environment": "Solid black background, simple and uncluttered"
+  },
+  "TEXT ELEMENTS": {
+    "visible_text": "EXPOSE A NARCISSIST WITH JUST 1 QUESTION",
+    "font_characteristics": {
+      "style": "Heavy, bold, sans-serif",
+      "emphasis": [
+        "Color blocking (red for 'NARCISSIST', green for '1', blue for 'QUESTION')",
+        "All uppercase letters for impact"
+      ],
+      "color": [
+        "'EXPOSE A' (white)",
+        "'NARCISSIST' (red)",
+        "'WITH JUST' (blue)",
+        "'1 QUESTION' (green)"
+      ]
+    },
+    "text_placement_within_frame": "Right half of the thumbnail, stacked vertically in four distinct lines",
+    "emotional_or_trigger_words": [
+      "EXPOSE",
+      "NARCISSIST",
+      "QUESTION"
+    ]
+  },
+  "THEMATIC ELEMENTS": {
+    "overall_emotional_tone": "Confrontational, urgent, and authoritative",
+    "visual_metaphors_or_symbols": [
+      "Person\u2019s stern expression amplifies seriousness",
+      "Use of dramatic color contrasts for emphasis"
+    ],
+    "clickbait_techniques_employed": [
+      "Promise of a powerful life hack ('with just 1 question')",
+      "Sensational phrasing ('EXPOSE A NARCISSIST')",
+      "Use of bold/red text to invoke urgency and importance"
+    ],
+    "brand_elements_present": "No explicit logos; use of a notable public figure (possibly Anthony Hopkins) as visual reinforcement of authority"
+  },
+  "THUMBNAIL-TITLE RELATIONSHIP": {
+    "visual_reinforcement": "The serious-looking older man in the thumbnail lends authority and relates to the promise of insight in the title; bold text aligns with the directness of the title.",
+    "contrasts_or_mismatches": "Thumbnail closely matches the title in tone and message; no apparent mismatch. Both emphasize exposing a narcissist with a specific technique."
+  }
+}

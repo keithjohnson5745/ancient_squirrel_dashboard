@@ -10,11 +10,15 @@ import multiprocessing
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 from sklearn.cluster import KMeans, MiniBatchKMeans
+from collections import defaultdict  # Add this import
 
 from ..core.base_processor import BaseProcessor
 from ..utils.text_utils import preprocess_text
 from ..utils.data_utils import process_vector_column
 from ..core.config import AnalysisConfig
+from .thumbnail_processor import ThumbnailProcessor
+from .image_analyzer import ImageAnalyzer
+from .title_thumbnail_analyzer import TitleThumbnailAnalyzer
 
 class YouTubeDataProcessor(BaseProcessor):
     import json
@@ -55,6 +59,7 @@ class YouTubeDataProcessor(BaseProcessor):
             self.stop_words = {'a', 'an', 'the', 'and', 'or', 'but', 'if', 'then', 'else', 'when',
                             'at', 'from', 'by', 'for', 'with', 'about', 'to', 'in', 'on', 'video', 'youtube'}
     
+
     def process(self, data: pd.DataFrame = None, **kwargs) -> Tuple[pd.DataFrame, Dict[str, Any]]:
         """
         Process data and return results
@@ -102,6 +107,64 @@ class YouTubeDataProcessor(BaseProcessor):
         output_dir = kwargs.get("output_dir", self.config.get("output_dir", "output"))
         os.makedirs(output_dir, exist_ok=True)
         
+        # Download thumbnails if enabled
+        if self.config.get("download_thumbnails", False):
+            self.logger.info("Downloading video thumbnails")
+            
+            # Create thumbnail processor
+            thumbnail_processor = ThumbnailProcessor(self.config, self.num_workers, self.logger)
+            
+            # Process thumbnails
+            df, thumbnail_results = thumbnail_processor.process(
+                df,
+                video_id_col=kwargs.get("video_id_col", self.config.get("video_id_col", "video_id")),
+                thumbnail_col=kwargs.get("thumbnail_col", self.config.get("thumbnail_col", "thumbnail_path")),
+                force_download=kwargs.get("force_download", self.config.get("force_download", False))
+            )
+            
+            # Save interim data with thumbnail paths
+            interim_file = os.path.join(output_dir, "data_with_thumbnails.csv")
+            self.save_data(df, interim_file)
+        
+        # Analyze thumbnails if enabled
+        if self.config.get("analyze_thumbnails", False) and "thumbnail_path" in df.columns:
+            self.logger.info("Analyzing thumbnail images")
+            
+            # Create image analyzer
+            image_analyzer = ImageAnalyzer(self.config, self.num_workers, self.logger)
+            
+            # Process images
+            df, image_analysis_results = image_analyzer.process(
+                df,
+                thumbnail_col=kwargs.get("thumbnail_col", self.config.get("thumbnail_col", "thumbnail_path")),
+                title_col=kwargs.get("title_col", self.config.get("title_col", "title")),
+                use_llm=kwargs.get("use_llm", self.config.get("use_llm", False))
+            )
+            
+            # Save interim data with image analysis
+            interim_file = os.path.join(output_dir, "data_with_image_analysis.csv")
+            self.save_data(df, interim_file)
+        
+        # Perform joint title-thumbnail analysis if enabled
+        if self.config.get("analyze_title_thumbnail", False) and "thumbnail_path" in df.columns:
+            self.logger.info("Analyzing title-thumbnail pairs")
+            
+            # Create joint analyzer
+            joint_analyzer = TitleThumbnailAnalyzer(self.config, self.num_workers, self.logger)
+            
+            # Process pairs
+            df, joint_analysis_results = joint_analyzer.process(
+                df,
+                video_id_col=kwargs.get("video_id_col", self.config.get("video_id_col", "video_id")),
+                title_col=kwargs.get("title_col", self.config.get("title_col", "title")),
+                thumbnail_col=kwargs.get("thumbnail_col", self.config.get("thumbnail_col", "thumbnail_path")),
+                thumbnail_analysis_col=kwargs.get("thumbnail_analysis_col", "thumbnail_analysis"),
+                community_col=kwargs.get("community_col", self.config.get("community_col", "community")),
+                influence_col=kwargs.get("influence_col", self.config.get("influence_col", "influence")),
+                use_llm=kwargs.get("use_llm", self.config.get("use_llm", False)),
+                n_subclusters=kwargs.get("n_subclusters", self.config.get("n_subclusters", 3))
+            )
+        
         # Save processed data
         output_file = os.path.join(output_dir, "processed_data.csv")
         self.save_data(df, output_file)
@@ -128,6 +191,18 @@ class YouTubeDataProcessor(BaseProcessor):
             'cluster_stats': cluster_stats
         }
         
+        # Add thumbnail results if available
+        if self.config.get("download_thumbnails", False):
+            results['thumbnail_download'] = thumbnail_results.get("thumbnail_download", {})
+        
+        # Add image analysis results if available
+        if self.config.get("analyze_thumbnails", False):
+            results['thumbnail_analysis'] = image_analysis_results.get("thumbnail_analysis", {})
+        
+        # Add joint analysis results if available
+        if self.config.get("analyze_title_thumbnail", False):
+            results['title_thumbnail_analysis'] = joint_analysis_results.get("title_thumbnail_analysis", {})
+        
         # Add cluster insights if enabled
         if self.config.get("enable_cluster_insights", True):
             from .cluster_analyzer import ClusterInsightExtractor
@@ -146,77 +221,102 @@ class YouTubeDataProcessor(BaseProcessor):
             _, cluster_insights = cie.process(df)
             results['cluster_insights'] = cluster_insights.get("cluster_insights", {})
         
-        if self.config.get("enable_nlp", True):
-            from .nlp_analyzer import NLPAnalyzer
-            
-            nlp_config = {
-                "use_openai": self.config.get("use_openai", False),
-                "use_llm": self.config.get("use_llm", False),
-                "openai_api_key": self.config.get("openai_api_key"),
-                "num_topics": self.config.get("num_topics", 15),
-                "channel_col": "channel",
-                "cluster_col": cluster_col,
-                "community_col": self.config.get("community_col", "community"),
-                "influence_col": self.config.get("influence_col", "influence"),
-                "top_videos_per_community": self.config.get("top_videos_per_community", 30),
-                "community_topics_enabled": self.config.get("community_topics_enabled", True),
-                "community_topics_count": self.config.get("community_topics_count", 8),
-                "text_col": "title",
-                "clean_text_col": "clean_title"
-            }
-            
-            nlp = NLPAnalyzer(nlp_config, self.num_workers, self.logger)
-            
-            # Pass additional parameters for enhanced community analysis
-            nlp_df, nlp_results = nlp.process(
+        # Add subcluster insights if joint analysis was performed
+        if self.config.get("analyze_title_thumbnail", False) and f"{cluster_col}_subcluster" in df.columns:
+            # Extract insights for subclusters
+            subcluster_insights = self._extract_subcluster_insights(
                 df, 
-                community_col=self.config.get("community_col", "community"),
-                influence_col=self.config.get("influence_col", "influence"),
-                top_videos_per_community=self.config.get("top_videos_per_community", 30),
-                community_topics_enabled=self.config.get("community_topics_enabled", True),
-                community_topics_count=self.config.get("community_topics_count", 8)
+                f"{cluster_col}_subcluster",
+                kwargs.get("title_col", self.config.get("title_col", "title")),
+                "title_thumbnail_analysis"
             )
-            
-            # Update DataFrame with NLP features
-            df = nlp_df
-            
-            # Save NLP enhanced data
-            nlp_output_file = os.path.join(output_dir, "nlp_enhanced_data.csv")
-            self.save_data(df, nlp_output_file)
-            
-            # Add NLP results to main results
-            results['nlp_analysis'] = {
-                'summary': {
-                    'topics_extracted': len(nlp_results.get('topic_modeling', {}).get('nmf', {}).get('topic_terms', [])),
-                    'community_analysis_performed': 'community_analysis' in nlp_results,
-                    'communities_analyzed': len(nlp_results.get('community_analysis', {}).get('topics', {})),
-                    'linguistic_patterns_analyzed': 'linguistic_analysis' in nlp_results,
-                    'llm_insights_generated': 'llm_insights' in nlp_results,
-                    'results_file': "nlp_analysis_results.json"
-                }
-            }
-            
-            # Save detailed NLP results separately
-            nlp_results_file = os.path.join(output_dir, "nlp_analysis_results.json")
-            self.save_analysis(nlp_results, nlp_results_file)
-        
-        # Extract temporal analysis if enabled
-        if self.config.get("temporal_analysis", True) and 'publish_date' in df.columns:
-            self.logger.info("Analyzing temporal trends")
-            temporal_analysis = self.analyze_temporal_trends(df)
-            results['temporal_analysis'] = temporal_analysis
-        
-        # Extract influence analysis if enabled
-        if self.config.get("influence_analysis", True) and 'influence' in df.columns:
-            self.logger.info("Analyzing influence factors")
-            influence_analysis = self.analyze_influence_factors(df)
-            results['influence_analysis'] = influence_analysis
+            results['subcluster_insights'] = subcluster_insights
         
         # Save full results
         results_file = os.path.join(output_dir, "analysis_results.json")
         self.save_analysis(results, results_file)
         
         return df, results
+
+    def _extract_subcluster_insights(self, df: pd.DataFrame, subcluster_col: str,
+                                title_col: str, analysis_col: str) -> Dict[str, Any]:
+        """
+        Extract insights for subclusters
+        
+        Args:
+            df: DataFrame with subcluster assignments
+            subcluster_col: Column containing subcluster IDs
+            title_col: Column containing video titles
+            analysis_col: Column containing title-thumbnail analysis
+            
+        Returns:
+            Dictionary with subcluster insights
+        """
+        insights = {}
+        
+        try:
+            # Get unique subclusters
+            subclusters = df[subcluster_col].dropna().unique()
+            
+            for subcluster_id in subclusters:
+                # Filter for this subcluster
+                subcluster_df = df[df[subcluster_col] == subcluster_id]
+                
+                # Skip if too few videos
+                if len(subcluster_df) < 5:
+                    continue
+                
+                # Extract common patterns
+                patterns = defaultdict(int)
+                
+                for analysis_json in subcluster_df[analysis_col].dropna():
+                    try:
+                        analysis = json.loads(analysis_json)
+                        for pattern in analysis.get("patterns", []):
+                            patterns[pattern] += 1
+                    except:
+                        continue
+                
+                # Calculate pattern percentages
+                pattern_pct = {
+                    pattern: (count / len(subcluster_df) * 100)
+                    for pattern, count in patterns.items()
+                }
+                
+                # Get top video titles as examples
+                sample_titles = subcluster_df[title_col].head(5).tolist()
+                
+                # Calculate average scores
+                avg_scores = {}
+                
+                scores_to_extract = ["clickbait_score", "text_visual_alignment"]
+                for score_name in scores_to_extract:
+                    values = []
+                    
+                    for analysis_json in subcluster_df[analysis_col].dropna():
+                        try:
+                            analysis = json.loads(analysis_json)
+                            value = analysis.get(score_name, None)
+                            if value is not None:
+                                values.append(value)
+                        except:
+                            continue
+                    
+                    if values:
+                        avg_scores[score_name] = sum(values) / len(values)
+                
+                # Store insights
+                insights[subcluster_id] = {
+                    "size": len(subcluster_df),
+                    "top_patterns": {k: v for k, v in sorted(pattern_pct.items(), key=lambda x: x[1], reverse=True)[:5]},
+                    "avg_scores": avg_scores,
+                    "sample_titles": sample_titles
+                }
+        
+        except Exception as e:
+            self.logger.error(f"Error extracting subcluster insights: {e}")
+        
+        return insights
     
     def preprocess_titles(self, df: pd.DataFrame, title_col: str = 'title',
                          output_col: str = 'clean_title') -> pd.DataFrame:

@@ -10,6 +10,8 @@ def main():
     """Main entry point for analysis CLI"""
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="YouTube Video Analysis")
+    
+    # Existing arguments
     parser.add_argument("--input", type=str, help="Input CSV file with video data")
     parser.add_argument("--output", type=str, help="Output directory")
     parser.add_argument("--config", type=str, help="Path to config file")
@@ -25,6 +27,20 @@ def main():
                     help="Number of topics to extract per community")
     parser.add_argument("--no-community-topics", action="store_true",
                     help="Skip community topic extraction")
+    
+    # New arguments for thumbnail analysis
+    parser.add_argument("--thumbnails", action="store_true", 
+                    help="Download video thumbnails")
+    parser.add_argument("--force-thumbnails", action="store_true",
+                    help="Force re-download of thumbnails")
+    parser.add_argument("--analyze-thumbnails", action="store_true",
+                    help="Analyze thumbnail images")
+    parser.add_argument("--thumbnail-quality", type=str, choices=["max", "high", "medium", "standard", "default"],
+                    default="max", help="Thumbnail quality to download")
+    parser.add_argument("--joint-analysis", action="store_true",
+                    help="Perform joint title-thumbnail analysis")
+    parser.add_argument("--subclusters", type=int, default=3,
+                    help="Number of subclusters to identify within communities")
     
     args = parser.parse_args()
     
@@ -61,6 +77,20 @@ def main():
     if args.community_topics_count:
         config.community_topics_count = args.community_topics_count
     
+    # New config overrides for thumbnail analysis
+    if args.thumbnails:
+        config.download_thumbnails = True
+    if args.force_thumbnails:
+        config.force_download = True
+    if args.analyze_thumbnails:
+        config.analyze_thumbnails = True
+    if args.thumbnail_quality:
+        config.thumbnail_quality = args.thumbnail_quality
+    if args.joint_analysis:
+        config.analyze_title_thumbnail = True
+    if args.subclusters:
+        config.n_subclusters = args.subclusters
+    
     # Validate input file
     if not config.input_file:
         logger.error("No input file specified. Use --input or config file.")
@@ -91,8 +121,16 @@ def main():
         logger.info(f"Processed {results['metadata']['video_count']} videos")
         logger.info(f"Identified {results['metadata']['cluster_count']} clusters")
         
-        if config.enable_nlp and 'nlp_analysis' in results:
-            logger.info("NLP analysis successfully completed")
+        # Log thumbnail statistics if downloaded
+        if config.download_thumbnails and 'thumbnail_download' in results:
+            thumbnail_results = results['thumbnail_download']
+            logger.info(f"Downloaded {thumbnail_results.get('successful', 0)} thumbnails, "
+                      f"failed {thumbnail_results.get('failed', 0)}, "
+                      f"skipped {thumbnail_results.get('skipped', 0)}")
+        
+        # Log subcluster statistics if joint analysis performed
+        if config.analyze_title_thumbnail and 'subcluster_insights' in results:
+            logger.info(f"Identified {len(results['subcluster_insights'])} subclusters within communities")
         
         return 0
     

@@ -4,3 +4,10 @@
 /data
 /output
 /venv
+/..bfg-report
+/config
+/image_analysis_cache
+/joint_analysis_cache
+/thumbnails
+/results
+/temp

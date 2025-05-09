@@ -16,7 +16,7 @@ cluster_col: cluster
 enable_nlp: true
 use_openai: true
 use_llm: true
-openai_api_key: sk-proj-fC4tjczAAjdRCnIxG1bZT3BlbkFJpsR9gNd0zLhSbw363eUz
+openai_api_key: ${OPENAI_API_KEY}
 num_topics: 15
 text_col: title
 clean_text_col: clean_title

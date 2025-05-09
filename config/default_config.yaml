@@ -30,3 +30,4 @@ cluster_insight_use_llm: true
 extract_entities: true
 temporal_analysis: true
 influence_analysis: true
+

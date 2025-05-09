@@ -1,0 +1,48 @@
+Metadata-Version: 2.4
+Name: ancient_squirrel
+Version: 0.1.0
+Summary: YouTube Network Analysis and Dashboard
+Home-page: https://github.com/yourusername/ancient_squirrel_dashboard
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: nltk
+Requires-Dist: gensim
+Requires-Dist: tqdm
+Requires-Dist: spacy
+Requires-Dist: streamlit
+Requires-Dist: plotly
+Requires-Dist: matplotlib
+Requires-Dist: wordcloud
+Requires-Dist: pyyaml
+Provides-Extra: dashboard
+Requires-Dist: streamlit>=1.20.0; extra == "dashboard"
+Requires-Dist: wordcloud; extra == "dashboard"
+Requires-Dist: matplotlib; extra == "dashboard"
+Requires-Dist: plotly; extra == "dashboard"
+Provides-Extra: nlp
+Requires-Dist: spacy>=3.0.0; extra == "nlp"
+Requires-Dist: nltk>=3.6.0; extra == "nlp"
+Requires-Dist: gensim>=4.0.0; extra == "nlp"
+Provides-Extra: openai
+Requires-Dist: openai>=1.0.0; extra == "openai"
+Provides-Extra: full
+Requires-Dist: streamlit>=1.20.0; extra == "full"
+Requires-Dist: wordcloud; extra == "full"
+Requires-Dist: matplotlib; extra == "full"
+Requires-Dist: plotly; extra == "full"
+Requires-Dist: spacy>=3.0.0; extra == "full"
+Requires-Dist: nltk>=3.6.0; extra == "full"
+Requires-Dist: gensim>=4.0.0; extra == "full"
+Requires-Dist: openai>=1.0.0; extra == "full"
+Requires-Dist: sentence-transformers; extra == "full"
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
